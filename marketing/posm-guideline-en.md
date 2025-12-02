@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "POSM Guidelines"
+parent: Marketing
 ---
 
 # POSM Guidelines

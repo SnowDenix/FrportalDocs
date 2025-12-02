@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "CRM Loyalty Program and Campaign Management"
+parent: CRM
 ---
 
 # CRM Loyalty Program and Campaign Management

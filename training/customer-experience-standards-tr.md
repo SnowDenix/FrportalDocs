@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Müşteri Deneyimi Standartları"
+parent: Training
 ---
 
 # Müşteri Deneyimi Standartları

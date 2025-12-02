@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Depo Koordinasyon Kılavuzu – TR"
+parent: Supply Chain
 ---
 
 # Depo Koordinasyon Kılavuzu – TR

@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Warehouse Coordination Guide – EN"
+parent: Supply Chain
 ---
 
 # Warehouse Coordination Guide – EN

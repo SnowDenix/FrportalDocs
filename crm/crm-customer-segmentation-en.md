@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "CRM Customer Segmentation"
+parent: CRM
 ---
 
 # CRM Customer Segmentation

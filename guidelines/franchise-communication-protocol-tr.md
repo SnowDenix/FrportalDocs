@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Franchise İletişim Protokolü"
+parent: Guidelines
 ---
 
 # Franchise İletişim Protokolü

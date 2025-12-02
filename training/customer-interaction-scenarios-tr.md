@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Müşteri Etkileşim Senaryoları – TR"
+parent: Training
 ---
 
 # Müşteri Etkileşim Senaryoları – TR

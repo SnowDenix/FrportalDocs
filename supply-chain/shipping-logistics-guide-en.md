@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Shipping & Logistics Guide – EN"
+parent: Supply Chain
 ---
 
 # Shipping & Logistics Guide – EN

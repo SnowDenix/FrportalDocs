@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Customer Interaction Scenarios – EN"
+parent: Training
 ---
 
 # Customer Interaction Scenarios – EN

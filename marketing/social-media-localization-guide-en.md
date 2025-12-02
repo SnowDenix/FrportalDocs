@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Social Media Localization Guide"
+parent: Marketing
 ---
 
 # Social Media Localization Guide

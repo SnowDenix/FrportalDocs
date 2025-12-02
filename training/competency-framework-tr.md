@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Yetkinlik Çerçevesi"
+parent: Training
 ---
 
 # Yetkinlik Çerçevesi

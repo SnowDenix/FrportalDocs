@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Sezonluk VM Geçiş Kılavuzu – TR"
+parent: Visual Merchandising
 ---
 
 # Sezonluk VM Geçiş Kılavuzu – TR

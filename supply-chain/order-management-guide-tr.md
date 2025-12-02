@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Sipariş Yönetimi Kılavuzu – TR"
+parent: Supply Chain
 ---
 
 # Sipariş Yönetimi Kılavuzu – TR

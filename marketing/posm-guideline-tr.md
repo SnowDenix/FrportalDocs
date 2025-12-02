@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "POSM Kılavuzu"
+parent: Marketing
 ---
 
 # POSM Kılavuzu

@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Opening & Closing Procedures – EN"
+parent: Store Operations
 ---
 
 # Opening & Closing Procedures – EN

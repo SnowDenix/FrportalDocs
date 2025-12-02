@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Marketing Approval Process"
+parent: Marketing
 ---
 
 # Marketing Approval Process

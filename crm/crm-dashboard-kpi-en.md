@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "CRM Dashboard and KPI Guide"
+parent: CRM
 ---
 
 # CRM Dashboard and KPI Guide

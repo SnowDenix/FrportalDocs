@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Store Operations Guidelines"
+parent: Guidelines
 ---
 
 # Store Operations Guidelines

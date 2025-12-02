@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Competency Framework"
+parent: Training
 ---
 
 # Competency Framework

@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "CRM Data Quality Management"
+parent: CRM
 ---
 
 # CRM Data Quality Management

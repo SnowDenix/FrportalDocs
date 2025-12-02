@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Mağaza İçi İletişim Rehberi"
+parent: Marketing
 ---
 
 # Mağaza İçi İletişim Rehberi

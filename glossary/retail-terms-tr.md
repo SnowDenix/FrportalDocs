@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Perakende Terimleri Sözlüğü"
+parent: Glossary
 ---
 
 # Perakende Terimleri Sözlüğü

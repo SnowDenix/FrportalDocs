@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "CRM Do's and Don'ts"
+parent: CRM
 ---
 
 # CRM Do's and Don'ts

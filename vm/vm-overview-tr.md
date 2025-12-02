@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Görsel Mağazacılık Genel Bakış – TR"
+parent: Visual Merchandising
 ---
 
 # Görsel Mağazacılık Genel Bakış – TR

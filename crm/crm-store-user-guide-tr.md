@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Mağaza CRM Kullanım Kılavuzu"
+parent: CRM
 ---
 
 # Mağaza CRM Kullanım Kılavuzu

@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Vitrin Sergileme Kılavuzu – TR"
+parent: Visual Merchandising
 ---
 
 # Vitrin Sergileme Kılavuzu – TR

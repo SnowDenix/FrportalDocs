@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Manken Styling Kılavuzu – TR"
+parent: Visual Merchandising
 ---
 
 # Manken Styling Kılavuzu – TR

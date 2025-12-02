@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Stok Transfer Prosedürleri – TR"
+parent: Supply Chain
 ---
 
 # Stok Transfer Prosedürleri – TR

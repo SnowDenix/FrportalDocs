@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Mağaza Operasyonları Rehberi"
+parent: Guidelines
 ---
 
 # Mağaza Operasyonları Rehberi

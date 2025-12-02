@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Dijital Varlık Kullanım Rehberi"
+parent: Marketing
 ---
 
 # Dijital Varlık Kullanım Rehberi

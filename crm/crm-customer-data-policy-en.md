@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "CRM Customer Data Policy (GDPR Compliant)"
+parent: CRM
 ---
 
 # CRM Customer Data Policy (GDPR Compliant)

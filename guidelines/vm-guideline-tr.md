@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Visual Merchandising Rehberi"
+parent: Guidelines
 ---
 
 # Visual Merchandising Rehberi

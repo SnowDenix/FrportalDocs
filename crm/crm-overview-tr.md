@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "CRM Genel Bakış"
+parent: CRM
 ---
 
 # CRM Genel Bakış

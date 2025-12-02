@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Cash Management Guide – EN"
+parent: Store Operations
 ---
 
 # Cash Management Guide – EN

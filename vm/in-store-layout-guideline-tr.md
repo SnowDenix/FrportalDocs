@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Mağaza İçi Yerleşim Kılavuzu – TR"
+parent: Visual Merchandising
 ---
 
 # Mağaza İçi Yerleşim Kılavuzu – TR

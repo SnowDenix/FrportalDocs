@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Kayıp Önleme Kılavuzu – TR"
+parent: Store Operations
 ---
 
 # Kayıp Önleme Kılavuzu – TR

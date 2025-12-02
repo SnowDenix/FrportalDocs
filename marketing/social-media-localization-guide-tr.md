@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Sosyal Medya Lokalizasyon Rehberi"
+parent: Marketing
 ---
 
 # Sosyal Medya Lokalizasyon Rehberi

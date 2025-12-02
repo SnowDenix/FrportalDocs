@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "CRM Yapılması ve Yapılmaması Gerekenler"
+parent: CRM
 ---
 
 # CRM Yapılması ve Yapılmaması Gerekenler

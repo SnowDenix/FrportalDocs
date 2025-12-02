@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Pazarlama Genel Bakış"
+parent: Marketing
 ---
 
 # Pazarlama Genel Bakış

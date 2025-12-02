@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Loss Prevention Guide – EN"
+parent: Store Operations
 ---
 
 # Loss Prevention Guide – EN

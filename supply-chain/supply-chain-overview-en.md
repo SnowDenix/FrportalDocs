@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Supply Chain & Logistics Overview – EN"
+parent: Supply Chain
 ---
 
 # Supply Chain & Logistics Overview – EN

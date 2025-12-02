@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Envanter Kontrol Kılavuzu – TR"
+parent: Store Operations
 ---
 
 # Envanter Kontrol Kılavuzu – TR

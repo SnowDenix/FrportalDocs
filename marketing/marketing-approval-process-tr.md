@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Pazarlama Onay Süreci"
+parent: Marketing
 ---
 
 # Pazarlama Onay Süreci

@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Order Management Guide – EN"
+parent: Supply Chain
 ---
 
 # Order Management Guide – EN

@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Inventory Control Guide – EN"
+parent: Store Operations
 ---
 
 # Inventory Control Guide – EN

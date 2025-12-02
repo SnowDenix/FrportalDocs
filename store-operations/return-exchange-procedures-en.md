@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Return & Exchange Procedures – EN"
+parent: Store Operations
 ---
 
 # Return & Exchange Procedures – EN

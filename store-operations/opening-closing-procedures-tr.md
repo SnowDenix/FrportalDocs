@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Açılış ve Kapanış Prosedürleri – TR"
+parent: Store Operations
 ---
 
 # Açılış ve Kapanış Prosedürleri – TR

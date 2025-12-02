@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Teslimat ve Kabul Prosedürleri – TR"
+parent: Supply Chain
 ---
 
 # Teslimat ve Kabul Prosedürleri – TR

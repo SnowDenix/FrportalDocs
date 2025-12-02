@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Campaign Execution Guide"
+parent: Marketing
 ---
 
 # Campaign Execution Guide

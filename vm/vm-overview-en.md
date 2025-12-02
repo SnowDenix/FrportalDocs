@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Visual Merchandising Overview – EN"
+parent: Visual Merchandising
 ---
 
 # Visual Merchandising Overview – EN

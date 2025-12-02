@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Franchise Communication Protocol"
+parent: Guidelines
 ---
 
 # Franchise Communication Protocol

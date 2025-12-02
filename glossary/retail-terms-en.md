@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Retail Terms Glossary"
+parent: Glossary
 ---
 
 # Retail Terms Glossary

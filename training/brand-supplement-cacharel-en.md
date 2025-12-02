@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Cacharel Brand Training Guide – EN"
+parent: Training
 ---
 
 # Cacharel Brand Training Guide – EN

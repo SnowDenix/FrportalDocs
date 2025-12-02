@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "In-Store Layout Guideline – EN"
+parent: Visual Merchandising
 ---
 
 # In-Store Layout Guideline – EN

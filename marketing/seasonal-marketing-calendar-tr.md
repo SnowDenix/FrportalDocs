@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Sezonluk Pazarlama Takvimi"
+parent: Marketing
 ---
 
 # Sezonluk Pazarlama Takvimi

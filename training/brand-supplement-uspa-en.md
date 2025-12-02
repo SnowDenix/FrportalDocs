@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "U.S. Polo Assn. Brand Training Guide – EN"
+parent: Training
 ---
 
 # U.S. Polo Assn. Brand Training Guide – EN

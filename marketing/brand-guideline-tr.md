@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Marka Kılavuzu"
+parent: Marketing
 ---
 
 # Marka Kılavuzu

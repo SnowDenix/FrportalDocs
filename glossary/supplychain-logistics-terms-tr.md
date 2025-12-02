@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Tedarik Zinciri ve Lojistik Terimleri Sözlüğü"
+parent: Glossary
 ---
 
 # Tedarik Zinciri ve Lojistik Terimleri Sözlüğü

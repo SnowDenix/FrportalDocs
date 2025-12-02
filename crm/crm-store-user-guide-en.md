@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Store CRM User Guide"
+parent: CRM
 ---
 
 # Store CRM User Guide

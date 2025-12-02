@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Stock Transfer Procedures – EN"
+parent: Supply Chain
 ---
 
 # Stock Transfer Procedures – EN

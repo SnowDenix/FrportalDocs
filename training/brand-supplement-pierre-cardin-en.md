@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Pierre Cardin Brand Training Guide – EN"
+parent: Training
 ---
 
 # Pierre Cardin Brand Training Guide – EN

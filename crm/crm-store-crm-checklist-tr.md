@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Mağaza CRM Kontrol Listesi"
+parent: CRM
 ---
 
 # Mağaza CRM Kontrol Listesi

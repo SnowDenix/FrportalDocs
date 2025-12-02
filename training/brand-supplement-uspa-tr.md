@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "U.S. Polo Assn. Marka Eğitim Rehberi – TR"
+parent: Training
 ---
 
 # U.S. Polo Assn. Marka Eğitim Rehberi – TR

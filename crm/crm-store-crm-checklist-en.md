@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Store CRM Checklist"
+parent: CRM
 ---
 
 # Store CRM Checklist

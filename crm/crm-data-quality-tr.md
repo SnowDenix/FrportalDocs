@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "CRM Veri Kalitesi Yönetimi"
+parent: CRM
 ---
 
 # CRM Veri Kalitesi Yönetimi

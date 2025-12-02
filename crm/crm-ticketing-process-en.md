@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "CRM Ticketing and Customer Complaint Management"
+parent: CRM
 ---
 
 # CRM Ticketing and Customer Complaint Management

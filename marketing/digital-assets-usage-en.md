@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Digital Assets Usage Guide"
+parent: Marketing
 ---
 
 # Digital Assets Usage Guide

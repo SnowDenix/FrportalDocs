@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Seasonal Marketing Calendar"
+parent: Marketing
 ---
 
 # Seasonal Marketing Calendar

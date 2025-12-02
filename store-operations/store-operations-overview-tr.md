@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "Mağaza Operasyonları Genel Bakış – TR"
+parent: Store Operations
 ---
 
 # Mağaza Operasyonları Genel Bakış – TR
