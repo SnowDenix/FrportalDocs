@@ -10,7 +10,7 @@ baseurl: "/FrportalDocs"
 url: "https://snowdenix.github.io"
 
 # Theme Configuration
-remote_theme: just-the-docs/just-the-docs@v0.10.0
+remote_theme: just-the-docs/just-the-docs@v0.8.2
 color_scheme: dark
 
 # Logo and Branding
@@ -116,6 +116,7 @@ exclude:
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
