@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Sezonluk VM Geçiş Kılavuzu – TR"
+parent: Visual Merchandising
+nav_order: 6
+---
+
 # Sezonluk VM Geçiş Kılavuzu – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -544,4 +551,5 @@ GEÇİŞ PUANI: 85/100
 
 *Bu doküman Aydınlı Grup Görsel Mağazacılık Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

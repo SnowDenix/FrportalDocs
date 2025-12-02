@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Do's and Don'ts"
+parent: CRM
+nav_order: 9
+---
+
 # CRM Do's and Don'ts
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -333,4 +340,5 @@ When violation detected:
 *This document was prepared by Aydınlı Grup.*  
 *All store staff are required to comply with the rules in this document.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

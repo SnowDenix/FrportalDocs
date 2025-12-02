@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Mağaza İçi İletişim Rehberi"
+parent: Marketing
+nav_order: 8
+---
+
 # Mağaza İçi İletişim Rehberi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -592,4 +599,5 @@ Kapanış Rutini:
 
 *Bu belge Aydınlı Grup Perakende Pazarlama Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

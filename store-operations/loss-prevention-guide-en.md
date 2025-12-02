@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Loss Prevention Guide – EN"
+parent: Store Operations
+nav_order: 7
+---
+
 # Loss Prevention Guide – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -486,4 +493,5 @@ IMPORTANT: Handle confidentially
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

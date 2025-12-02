@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Mağaza Operasyonları Rehberi"
+parent: Guidelines
+nav_order: 4
+---
+
 # Mağaza Operasyonları Rehberi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -583,4 +590,5 @@ Bölge Müdürü: ___________
 
 *Bu doküman Aydınlı Grup Franchise Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

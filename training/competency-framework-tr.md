@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Yetkinlik Çerçevesi"
+parent: Training
+nav_order: 8
+---
+
 # Yetkinlik Çerçevesi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -715,4 +722,5 @@ SEVİYE 5 İÇİN:
 
 *Bu doküman Aydınlı Grup Franchise Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

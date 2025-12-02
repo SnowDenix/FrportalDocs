@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Marketing Approval Process"
+parent: Marketing
+nav_order: 9
+---
+
 # Marketing Approval Process
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -617,4 +624,5 @@ Step 10: Execute (if approved)
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

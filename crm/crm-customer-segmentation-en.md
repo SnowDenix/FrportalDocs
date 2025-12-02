@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Customer Segmentation"
+parent: CRM
+nav_order: 3
+---
+
 # CRM Customer Segmentation
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -485,4 +492,5 @@ Winback Rate = (150 / 2,000) × 100 = 7.5%
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

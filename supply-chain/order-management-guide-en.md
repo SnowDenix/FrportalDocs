@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Order Management Guide – EN"
+parent: Supply Chain
+nav_order: 3
+---
+
 # Order Management Guide – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -529,4 +536,5 @@ CREATING A NEW ORDER
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

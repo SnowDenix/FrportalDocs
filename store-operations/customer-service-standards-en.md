@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Customer Service Standards – EN"
+parent: Store Operations
+nav_order: 3
+---
+
 # Customer Service Standards – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -499,4 +506,5 @@ TOTAL: ___/25
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

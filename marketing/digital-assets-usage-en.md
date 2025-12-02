@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Digital Assets Usage Guide"
+parent: Marketing
+nav_order: 5
+---
+
 # Digital Assets Usage Guide
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -670,4 +677,5 @@ Step 10: Use Asset per Guidelines
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

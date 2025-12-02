@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Dijital Varlık Kullanım Rehberi"
+parent: Marketing
+nav_order: 6
+---
+
 # Dijital Varlık Kullanım Rehberi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -670,4 +677,5 @@ Adım 10: Varlığı Kılavuzlara Göre Kullan
 
 *Bu belge Aydınlı Grup Dijital Pazarlama Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Stock Transfer Procedures – EN"
+parent: Supply Chain
+nav_order: 7
+---
+
 # Stock Transfer Procedures – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -574,4 +581,5 @@ Day 2 - Morning:
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

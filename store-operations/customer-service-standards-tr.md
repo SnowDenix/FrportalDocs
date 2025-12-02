@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Müşteri Hizmetleri Standartları – TR"
+parent: Store Operations
+nav_order: 4
+---
+
 # Müşteri Hizmetleri Standartları – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -480,4 +487,5 @@ TOPLAM: ___/25
 
 *Bu doküman Aydınlı Grup Mağaza Operasyonları Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

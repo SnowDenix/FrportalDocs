@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Data Quality Management"
+parent: CRM
+nav_order: 7
+---
+
 # CRM Data Quality Management
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -502,4 +509,5 @@ Duplicate Rate = (150 / 10,000) × 100 = 1.5%
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

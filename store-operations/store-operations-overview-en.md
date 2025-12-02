@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Store Operations Overview – EN"
+parent: Store Operations
+nav_order: 13
+---
+
 # Store Operations Overview – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -437,4 +444,5 @@ Step 4: RECOVER
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

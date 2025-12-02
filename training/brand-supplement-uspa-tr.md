@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "U.S. Polo Assn. Marka Eğitim Rehberi – TR"
+parent: Training
+nav_order: 6
+---
+
 # U.S. Polo Assn. Marka Eğitim Rehberi – TR
 
 ## Purpose
@@ -444,4 +451,5 @@ Bugün size nasıl yardımcı olabilirim?"
 | Tarih | Versiyon | Editör | Değişiklik |
 |-------|----------|--------|------------|
 | 01.12.2025 | 1.0 | Aydınlı Grup Training HQ | İlk sürüm oluşturuldu |
+
 

@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Competency Framework"
+parent: Training
+nav_order: 7
+---
+
 # Competency Framework
 
 > **Last Updated:** 01 December 2025 | **Version:** 1.0  
@@ -715,4 +722,5 @@ FOR LEVEL 5:
 
 *This document was prepared by Aydınlı Group Franchise Operations.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

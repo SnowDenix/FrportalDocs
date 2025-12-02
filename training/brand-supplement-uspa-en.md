@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "U.S. Polo Assn. Brand Training Guide – EN"
+parent: Training
+nav_order: 5
+---
+
 # U.S. Polo Assn. Brand Training Guide – EN
 
 ## Purpose
@@ -444,4 +451,5 @@ How can I help you today?"
 | Date | Version | Editor | Change |
 |------|---------|--------|--------|
 | 01.12.2025 | 1.0 | Aydınlı Grup Training HQ | Initial version created |
+
 

@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Görsel Mağazacılık Genel Bakış – TR"
+parent: Visual Merchandising
+nav_order: 10
+---
+
 # Görsel Mağazacılık Genel Bakış – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -607,4 +614,5 @@ Seçenek C: Yeniden Mağazacılık
 
 *Bu doküman Aydınlı Grup Görsel Mağazacılık Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

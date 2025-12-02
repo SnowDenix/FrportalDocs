@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Finans KPI Formülleri ve Hesaplamaları"
+parent: Glossary
+nav_order: 2
+---
+
 # Finans KPI Formülleri ve Hesaplamaları
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -501,4 +508,5 @@ NPS = Promoter % - Detractor %
 
 *Bu doküman Aydınlı Grup Franchise Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

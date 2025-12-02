@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Loyalty Program and Campaign Management"
+parent: CRM
+nav_order: 11
+---
+
 # CRM Loyalty Program and Campaign Management
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -557,4 +564,5 @@ Redemption Rate = (500,000 / 1,500,000) × 100 = 33%
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

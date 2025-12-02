@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Window Display Guideline – EN"
+parent: Visual Merchandising
+nav_order: 11
+---
+
 # Window Display Guideline – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -776,4 +783,5 @@ EVENING CHECK (Before Closing)
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

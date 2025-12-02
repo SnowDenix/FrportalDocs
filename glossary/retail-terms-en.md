@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Retail Terms Glossary"
+parent: Glossary
+nav_order: 3
+---
+
 # Retail Terms Glossary
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -424,3 +431,4 @@ Stock-to-Sales Ratio = Current Stock / Period Sales
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+

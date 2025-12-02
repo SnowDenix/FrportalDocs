@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Store CRM Checklist"
+parent: CRM
+nav_order: 15
+---
+
 # Store CRM Checklist
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -300,4 +307,5 @@ This document contains checklists to be used for complete and accurate execution
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

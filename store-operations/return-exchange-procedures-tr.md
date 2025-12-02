@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "İade ve Değişim Prosedürleri – TR"
+parent: Store Operations
+nav_order: 12
+---
+
 # İade ve Değişim Prosedürleri – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -439,4 +446,5 @@ Müdür imzası: _____________
 
 *Bu doküman Aydınlı Grup Mağaza Operasyonları Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

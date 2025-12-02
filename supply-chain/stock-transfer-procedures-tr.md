@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Stok Transfer Prosedürleri – TR"
+parent: Supply Chain
+nav_order: 8
+---
+
 # Stok Transfer Prosedürleri – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -560,4 +567,5 @@ Gün 2 - Sabah:
 
 *Bu doküman Aydınlı Grup Tedarik Zinciri Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Visual Merchandising Guidelines"
+parent: Guidelines
+nav_order: 5
+---
+
 # Visual Merchandising Guidelines
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -421,4 +428,5 @@ Use maximum 3-4 color combinations per fixture:
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

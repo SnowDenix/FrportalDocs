@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Cacharel Marka Eğitim Rehberi – TR"
+parent: Training
+nav_order: 2
+---
+
 # Cacharel Marka Eğitim Rehberi – TR
 
 ## Purpose
@@ -469,3 +476,4 @@ Size nasıl yardımcı olabilirim?"
 | Tarih | Versiyon | Editör | Değişiklik |
 |-------|----------|--------|------------|
 | 01.12.2025 | 1.0 | Aydınlı Grup Training HQ | İlk sürüm oluşturuldu - Erkek giyim markası olarak |
+

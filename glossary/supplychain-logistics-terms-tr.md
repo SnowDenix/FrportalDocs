@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Tedarik Zinciri ve Lojistik Terimleri Sözlüğü"
+parent: Glossary
+nav_order: 6
+---
+
 # Tedarik Zinciri ve Lojistik Terimleri Sözlüğü
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -470,4 +477,5 @@ Reorder Point = (Ort. Günlük Satış × Lead Time) + Emniyet Stoğu
 
 *Bu doküman Aydınlı Grup Franchise Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

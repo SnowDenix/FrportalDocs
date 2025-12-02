@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Pierre Cardin Marka Eğitim Rehberi – TR"
+parent: Training
+nav_order: 4
+---
+
 # Pierre Cardin Marka Eğitim Rehberi – TR
 
 ## Purpose
@@ -508,4 +515,5 @@ Omuz dikişi tam omuz ucuna gelmeli. Size bu konuda yardımcı olayım."
 | Tarih | Versiyon | Editör | Değişiklik |
 |-------|----------|--------|------------|
 | 01.12.2025 | 1.0 | Aydınlı Grup Training HQ | İlk sürüm oluşturuldu |
+
 

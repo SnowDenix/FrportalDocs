@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Customer Data Policy (GDPR Compliant)"
+parent: CRM
+nav_order: 1
+---
+
 # CRM Customer Data Policy (GDPR Compliant)
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -484,4 +491,5 @@ The following data **must never be collected**:
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

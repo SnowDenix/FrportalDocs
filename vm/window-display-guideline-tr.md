@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Vitrin Sergileme Kılavuzu – TR"
+parent: Visual Merchandising
+nav_order: 12
+---
+
 # Vitrin Sergileme Kılavuzu – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -603,4 +610,5 @@ TEMİZLİK
 
 *Bu doküman Aydınlı Grup Görsel Mağazacılık Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

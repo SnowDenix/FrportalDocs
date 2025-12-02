@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "In-Store Layout Guideline – EN"
+parent: Visual Merchandising
+nav_order: 1
+---
+
 # In-Store Layout Guideline – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -449,4 +456,5 @@ POST-RESET VERIFICATION
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

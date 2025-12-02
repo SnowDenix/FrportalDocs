@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "POSM Kılavuzu"
+parent: Marketing
+nav_order: 14
+---
+
 # POSM Kılavuzu
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -603,4 +610,5 @@ Lansman Günü:
 
 *Bu belge Aydınlı Grup Ticari Pazarlama Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

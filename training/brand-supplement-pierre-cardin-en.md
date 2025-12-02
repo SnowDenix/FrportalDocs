@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Pierre Cardin Brand Training Guide – EN"
+parent: Training
+nav_order: 3
+---
+
 # Pierre Cardin Brand Training Guide – EN
 
 ## Purpose
@@ -508,4 +515,5 @@ The shoulder seam should fall exactly at the shoulder tip. Let me help you with 
 | Date | Version | Editor | Change |
 |------|---------|--------|--------|
 | 01.12.2025 | 1.0 | Aydınlı Grup Training HQ | Initial version created |
+
 

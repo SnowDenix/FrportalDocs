@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Return & Exchange Procedures – EN"
+parent: Store Operations
+nav_order: 11
+---
+
 # Return & Exchange Procedures – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -462,4 +469,5 @@ Manager signature: _____________
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Sipariş Yönetimi Kılavuzu – TR"
+parent: Supply Chain
+nav_order: 4
+---
+
 # Sipariş Yönetimi Kılavuzu – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -516,4 +523,5 @@ YENİ SİPARİŞ OLUŞTURMA
 
 *Bu doküman Aydınlı Grup Tedarik Zinciri Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Sevkiyat ve Lojistik Kılavuzu – TR"
+parent: Supply Chain
+nav_order: 6
+---
+
 # Sevkiyat ve Lojistik Kılavuzu – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -553,4 +560,5 @@ ULUSLARARASI
 
 *Bu doküman Aydınlı Grup Tedarik Zinciri Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Mağaza Operasyonları Genel Bakış – TR"
+parent: Store Operations
+nav_order: 14
+---
+
 # Mağaza Operasyonları Genel Bakış – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -419,4 +426,5 @@ Adım 4: KAZAN
 
 *Bu doküman Aydınlı Grup Mağaza Operasyonları Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

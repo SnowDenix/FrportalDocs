@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Cacharel Brand Training Guide – EN"
+parent: Training
+nav_order: 1
+---
+
 # Cacharel Brand Training Guide – EN
 
 ## Purpose
@@ -470,3 +477,4 @@ How may I assist you?"
 | Date | Version | Editor | Change |
 |------|---------|--------|--------|
 | 01.12.2025 | 1.0 | Aydınlı Grup Training HQ | Initial version created - As men's fashion brand |
+

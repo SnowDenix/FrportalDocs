@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Opening & Closing Procedures – EN"
+parent: Store Operations
+nav_order: 9
+---
+
 # Opening & Closing Procedures – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -517,4 +524,5 @@ Signature: _____________
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

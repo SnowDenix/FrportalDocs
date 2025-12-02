@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Franchise Communication Protocol"
+parent: Guidelines
+nav_order: 1
+---
+
 # Franchise Communication Protocol
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -531,4 +538,5 @@ Thank you.
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

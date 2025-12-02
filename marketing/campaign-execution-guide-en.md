@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Campaign Execution Guide"
+parent: Marketing
+nav_order: 3
+---
+
 # Campaign Execution Guide
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -888,4 +895,5 @@ POST-CAMPAIGN:
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

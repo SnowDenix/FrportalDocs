@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Shipping & Logistics Guide – EN"
+parent: Supply Chain
+nav_order: 5
+---
+
 # Shipping & Logistics Guide – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -565,4 +572,5 @@ INTERNATIONAL
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

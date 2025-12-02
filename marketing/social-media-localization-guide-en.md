@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Social Media Localization Guide"
+parent: Marketing
+nav_order: 17
+---
+
 # Social Media Localization Guide
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -584,4 +591,5 @@ Step 10: Report Performance
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

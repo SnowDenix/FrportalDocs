@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Pazarlama Genel Bakış"
+parent: Marketing
+nav_order: 12
+---
+
 # Pazarlama Genel Bakış
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -692,4 +699,5 @@ Kampanya ROI = ((Kampanya Geliri - Kampanya Maliyeti) / Kampanya Maliyeti) × 10
 
 *Bu belge Aydınlı Grup Franchise Pazarlama Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

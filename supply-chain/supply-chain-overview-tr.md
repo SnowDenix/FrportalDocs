@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Tedarik Zinciri ve Lojistik Genel Bakış – TR"
+parent: Supply Chain
+nav_order: 10
+---
+
 # Tedarik Zinciri ve Lojistik Genel Bakış – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -428,4 +435,5 @@ Müdür: _____________
 
 *Bu doküman Aydınlı Grup Tedarik Zinciri Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

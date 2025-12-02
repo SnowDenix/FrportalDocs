@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Açılış ve Kapanış Prosedürleri – TR"
+parent: Store Operations
+nav_order: 10
+---
+
 # Açılış ve Kapanış Prosedürleri – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -475,4 +482,5 @@ Sonraki gün için sorunlar: _________________________________
 
 *Bu doküman Aydınlı Grup Mağaza Operasyonları Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

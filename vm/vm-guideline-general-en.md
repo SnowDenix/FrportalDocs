@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Visual Merchandising General Guidelines"
+parent: Visual Merchandising
+nav_order: 7
+---
+
 # Visual Merchandising General Guidelines
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -644,4 +651,5 @@ Week +1: Refinement
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Supply Chain and Logistics Terms Glossary"
+parent: Glossary
+nav_order: 5
+---
+
 # Supply Chain and Logistics Terms Glossary
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -470,4 +477,5 @@ Reorder Point = (Avg Daily Sales × Lead Time) + Safety Stock
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

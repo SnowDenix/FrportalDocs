@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Ticketing ve Müşteri Şikayet Yönetimi"
+parent: CRM
+nav_order: 20
+---
+
 # CRM Ticketing ve Müşteri Şikayet Yönetimi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -476,4 +483,5 @@ SLA Compliance = (190 / 200) × 100 = %95
 
 *Bu doküman Aydınlı Grup CRM Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

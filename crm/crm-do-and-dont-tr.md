@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Yapılması ve Yapılmaması Gerekenler"
+parent: CRM
+nav_order: 10
+---
+
 # CRM Yapılması ve Yapılmaması Gerekenler
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -333,4 +340,5 @@ Aşağıdaki eylemler **kesinlikle yasaktır** ve ciddi yaptırımlara tabidir:
 *Bu doküman Aydınlı Grup CRM Operasyonları tarafından hazırlanmıştır.*  
 *Tüm mağaza personeli bu dokümandaki kurallara uymakla yükümlüdür.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

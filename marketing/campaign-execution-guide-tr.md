@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Kampanya Uygulama Rehberi"
+parent: Marketing
+nav_order: 4
+---
+
 # Kampanya Uygulama Rehberi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -888,4 +895,5 @@ KAMPANYA SONRASI:
 
 *Bu belge Aydınlı Grup Franchise Pazarlama Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

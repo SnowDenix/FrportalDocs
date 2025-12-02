@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Store CRM User Guide"
+parent: CRM
+nav_order: 17
+---
+
 # Store CRM User Guide
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -452,4 +459,5 @@ Standard points multiplier: Every 1 currency unit = 1 Point
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Mannequin Styling Guideline – EN"
+parent: Visual Merchandising
+nav_order: 3
+---
+
 # Mannequin Styling Guideline – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -527,4 +534,5 @@ OVERALL IMPRESSION
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

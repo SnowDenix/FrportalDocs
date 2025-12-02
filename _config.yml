@@ -7,12 +7,45 @@ url: "https://snowdenix.github.io"
 baseurl: "/FrportalDocs"
 version: "2.0"
 
-# Theme Configuration
-theme: minima
+# Theme Configuration - Using Just the Docs for documentation
+remote_theme: just-the-docs/just-the-docs
+
+# Plugins
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# Just the Docs Configuration
+color_scheme: light
+
+# Enable search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Aux links (top right)
+aux_links:
+  "View on GitHub":
+    - "https://github.com/SnowDenix/FrportalDocs"
+
+aux_links_new_tab: true
+
+# Footer
+footer_content: "&copy; 2025 Aydınlı Grup - All rights reserved."
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Enable heading anchors
+heading_anchors: true
 
 # Markdown Settings
 markdown: kramdown
@@ -40,159 +73,53 @@ exclude:
   - "*.docx"
   - .git
   - .gitignore
+  - fix-github-pages-setup.plan.md
+  - "*.plan.md"
 
-# Navigation Structure
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "Glossary"
-    url: "/glossary/"
-    children:
-      - title: "Retail Terms"
-        url: "/glossary/retail-terms-en.html"
-      - title: "Finance KPI Formulas"
-        url: "/glossary/finance-kpi-formulas-en.html"
-      - title: "Supply Chain & Logistics Terms"
-        url: "/glossary/supplychain-logistics-terms-en.html"
-  - title: "Guidelines"
-    url: "/guidelines/"
-    children:
-      - title: "VM Guidelines"
-        url: "/guidelines/vm-guideline-en.html"
-      - title: "Store Operations Guidelines"
-        url: "/guidelines/store-operations-guideline-en.html"
-      - title: "Franchise Communication Protocol"
-        url: "/guidelines/franchise-communication-protocol-en.html"
-  - title: "CRM"
-    url: "/crm/"
-    children:
-      - title: "CRM Overview"
-        url: "/crm/crm-overview-en.html"
-      - title: "Store User Guide"
-        url: "/crm/crm-store-user-guide-en.html"
-      - title: "Dashboard KPIs"
-        url: "/crm/crm-dashboard-kpi-en.html"
-      - title: "Customer Segmentation"
-        url: "/crm/crm-customer-segmentation-en.html"
-      - title: "Loyalty Campaigns"
-        url: "/crm/crm-loyalty-campaigns-en.html"
-      - title: "Ticketing Process"
-        url: "/crm/crm-ticketing-process-en.html"
-      - title: "Data Quality"
-        url: "/crm/crm-data-quality-en.html"
-      - title: "Customer Data Policy"
-        url: "/crm/crm-customer-data-policy-en.html"
-      - title: "Do's and Don'ts"
-        url: "/crm/crm-do-and-dont-en.html"
-      - title: "Store CRM Checklist"
-        url: "/crm/crm-store-crm-checklist-en.html"
-  - title: "Marketing"
-    url: "/marketing/"
-    children:
-      - title: "Marketing Overview"
-        url: "/marketing/marketing-overview-en.html"
-      - title: "Brand Guidelines"
-        url: "/marketing/brand-guideline-en.html"
-      - title: "Campaign Execution"
-        url: "/marketing/campaign-execution-guide-en.html"
-      - title: "Seasonal Calendar"
-        url: "/marketing/seasonal-marketing-calendar-en.html"
-      - title: "Digital Assets"
-        url: "/marketing/digital-assets-usage-en.html"
-      - title: "Social Media"
-        url: "/marketing/social-media-localization-guide-en.html"
-      - title: "POSM Guidelines"
-        url: "/marketing/posm-guideline-en.html"
-      - title: "In-Store Communication"
-        url: "/marketing/in-store-communication-guide-en.html"
-      - title: "Approval Process"
-        url: "/marketing/marketing-approval-process-en.html"
-  - title: "Visual Merchandising"
-    url: "/vm/"
-    children:
-      - title: "VM Overview"
-        url: "/vm/vm-overview-en.html"
-      - title: "VM General Guidelines"
-        url: "/vm/vm-guideline-general-en.html"
-      - title: "Window Display"
-        url: "/vm/window-display-guideline-en.html"
-      - title: "In-Store Layout"
-        url: "/vm/in-store-layout-guideline-en.html"
-      - title: "Mannequin Styling"
-        url: "/vm/mannequin-styling-guideline-en.html"
-      - title: "Seasonal Changeover"
-        url: "/vm/seasonal-vm-changeover-en.html"
-  - title: "Store Operations"
-    url: "/store-operations/"
-    children:
-      - title: "Store Operations Overview"
-        url: "/store-operations/store-operations-overview-en.html"
-      - title: "Opening/Closing Procedures"
-        url: "/store-operations/opening-closing-procedures-en.html"
-      - title: "Cash Management"
-        url: "/store-operations/cash-management-guide-en.html"
-      - title: "Customer Service Standards"
-        url: "/store-operations/customer-service-standards-en.html"
-      - title: "Return & Exchange"
-        url: "/store-operations/return-exchange-procedures-en.html"
-      - title: "Inventory Control"
-        url: "/store-operations/inventory-control-guide-en.html"
-      - title: "Loss Prevention"
-        url: "/store-operations/loss-prevention-guide-en.html"
-  - title: "Supply Chain"
-    url: "/supply-chain/"
-    children:
-      - title: "Supply Chain Overview"
-        url: "/supply-chain/supply-chain-overview-en.html"
-      - title: "Order Management"
-        url: "/supply-chain/order-management-guide-en.html"
-      - title: "Delivery & Receiving"
-        url: "/supply-chain/delivery-receiving-procedures-en.html"
-      - title: "Stock Transfer"
-        url: "/supply-chain/stock-transfer-procedures-en.html"
-      - title: "Warehouse Coordination"
-        url: "/supply-chain/warehouse-coordination-guide-en.html"
-      - title: "Shipping & Logistics"
-        url: "/supply-chain/shipping-logistics-guide-en.html"
-  - title: "Training"
-    url: "/training/"
-    children:
-      - title: "Training Overview"
-        url: "/training/training-overview-en.html"
-      - title: "Onboarding Guide"
-        url: "/training/onboarding-guide-en.html"
-      - title: "Product Knowledge"
-        url: "/training/product-knowledge-basics-en.html"
-      - title: "Sales Techniques"
-        url: "/training/sales-techniques-en.html"
-      - title: "Customer Experience"
-        url: "/training/customer-experience-standards-en.html"
-      - title: "Customer Interaction Scenarios"
-        url: "/training/customer-interaction-scenarios-en.html"
-      - title: "Competency Framework"
-        url: "/training/competency-framework-en.html"
-      - title: "Seasonal Training Pack"
-        url: "/training/seasonal-training-pack-en.html"
-      - title: "Training Assessment"
-        url: "/training/training-assessment-en.html"
-      - title: "Brand Supplements"
-        url: "/training/brand-supplement-uspa-en.html"
-
-# Collections
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:name
-
-# Defaults
+# Defaults - Apply layout and front matter defaults
 defaults:
   - scope:
       path: ""
-      type: "docs"
     values:
       layout: "default"
   - scope:
-      path: ""
+      path: "glossary"
     values:
       layout: "default"
-
+      parent: "Glossary"
+      grand_parent: null
+  - scope:
+      path: "guidelines"
+    values:
+      layout: "default"
+      parent: "Guidelines"
+  - scope:
+      path: "crm"
+    values:
+      layout: "default"
+      parent: "CRM"
+  - scope:
+      path: "marketing"
+    values:
+      layout: "default"
+      parent: "Marketing"
+  - scope:
+      path: "vm"
+    values:
+      layout: "default"
+      parent: "Visual Merchandising"
+  - scope:
+      path: "store-operations"
+    values:
+      layout: "default"
+      parent: "Store Operations"
+  - scope:
+      path: "supply-chain"
+    values:
+      layout: "default"
+      parent: "Supply Chain"
+  - scope:
+      path: "training"
+    values:
+      layout: "default"
+      parent: "Training"

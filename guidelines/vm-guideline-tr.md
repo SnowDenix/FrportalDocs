@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Visual Merchandising Rehberi"
+parent: Guidelines
+nav_order: 6
+---
+
 # Visual Merchandising Rehberi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -421,4 +428,5 @@ Her fixture'da maksimum 3-4 renk kombinasyonu kullanın:
 
 *Bu doküman Aydınlı Grup Franchise Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

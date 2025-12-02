@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Franchise İletişim Protokolü"
+parent: Guidelines
+nav_order: 2
+---
+
 # Franchise İletişim Protokolü
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -534,4 +541,5 @@ Teşekkürler.
 
 *Bu doküman Aydınlı Grup Franchise Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

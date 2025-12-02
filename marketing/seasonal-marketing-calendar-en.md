@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Seasonal Marketing Calendar"
+parent: Marketing
+nav_order: 15
+---
+
 # Seasonal Marketing Calendar
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -718,4 +725,5 @@ Step 10: Monthly Review and Adjustment
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

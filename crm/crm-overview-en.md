@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Overview"
+parent: CRM
+nav_order: 13
+---
+
 # CRM Overview
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -355,4 +362,5 @@ This document defines the overall structure, objectives, and operation of the CR
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

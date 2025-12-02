@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Loyalty Programı ve Kampanya Yönetimi"
+parent: CRM
+nav_order: 12
+---
+
 # CRM Loyalty Programı ve Kampanya Yönetimi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -557,4 +564,5 @@ Redemption Rate = (500.000 / 1.500.000) × 100 = %33
 
 *Bu doküman Aydınlı Grup CRM Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

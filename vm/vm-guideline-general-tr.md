@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Görsel Mağazacılık Genel Kılavuzu"
+parent: Visual Merchandising
+nav_order: 8
+---
+
 # Görsel Mağazacılık Genel Kılavuzu
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -644,4 +651,5 @@ Hafta +1: İyileştirme
 
 *Bu belge Aydınlı Grup Görsel Mağazacılık Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

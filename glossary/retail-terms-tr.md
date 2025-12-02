@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Perakende Terimleri Sözlüğü"
+parent: Glossary
+nav_order: 4
+---
+
 # Perakende Terimleri Sözlüğü
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -424,3 +431,4 @@ Stok Satış Oranı = Anlık Stok / Dönem Satışı
 
 *Bu doküman Aydınlı Grup Franchise Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+

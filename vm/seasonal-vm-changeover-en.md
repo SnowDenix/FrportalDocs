@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Seasonal VM Changeover Guide – EN"
+parent: Visual Merchandising
+nav_order: 5
+---
+
 # Seasonal VM Changeover Guide – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -587,4 +594,5 @@ WEEK 1 PERFORMANCE REVIEW
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

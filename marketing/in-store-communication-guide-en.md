@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "In-Store Communication Guide"
+parent: Marketing
+nav_order: 7
+---
+
 # In-Store Communication Guide
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -592,4 +599,5 @@ Closing Routine:
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

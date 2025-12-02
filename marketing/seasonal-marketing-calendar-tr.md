@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Sezonluk Pazarlama Takvimi"
+parent: Marketing
+nav_order: 16
+---
+
 # Sezonluk Pazarlama Takvimi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -718,4 +725,5 @@ Adım 10: Aylık İnceleme ve Ayarlama
 
 *Bu belge Aydınlı Grup Franchise Pazarlama Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

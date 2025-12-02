@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Teslimat ve Kabul Prosedürleri – TR"
+parent: Supply Chain
+nav_order: 2
+---
+
 # Teslimat ve Kabul Prosedürleri – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -578,4 +585,5 @@ Kredi/Değiştirme: _____________
 
 *Bu doküman Aydınlı Grup Tedarik Zinciri Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

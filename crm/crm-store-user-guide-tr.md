@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Mağaza CRM Kullanım Kılavuzu"
+parent: CRM
+nav_order: 18
+---
+
 # Mağaza CRM Kullanım Kılavuzu
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -451,4 +458,5 @@ Standart puan çarpanı: Her 1 TL = 1 Puan
 
 *Bu doküman Aydınlı Grup CRM Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

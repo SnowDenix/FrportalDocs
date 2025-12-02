@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Pazarlama Onay Süreci"
+parent: Marketing
+nav_order: 10
+---
+
 # Pazarlama Onay Süreci
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -617,4 +624,5 @@ Adım 10: Uygula (onaylandıysa)
 
 *Bu belge Aydınlı Grup Pazarlama Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

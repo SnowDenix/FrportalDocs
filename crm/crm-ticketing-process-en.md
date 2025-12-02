@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Ticketing and Customer Complaint Management"
+parent: CRM
+nav_order: 19
+---
+
 # CRM Ticketing and Customer Complaint Management
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -476,4 +483,5 @@ SLA Compliance = (190 / 200) × 100 = 95%
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

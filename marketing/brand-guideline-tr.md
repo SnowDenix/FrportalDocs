@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Marka Kılavuzu"
+parent: Marketing
+nav_order: 2
+---
+
 # Marka Kılavuzu
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -900,4 +907,5 @@ Uygulama
 
 *Bu belge Aydınlı Grup tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

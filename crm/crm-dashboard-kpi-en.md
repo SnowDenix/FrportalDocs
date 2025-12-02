@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Dashboard and KPI Guide"
+parent: CRM
+nav_order: 5
+---
+
 # CRM Dashboard and KPI Guide
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -569,4 +576,5 @@ FCR % = (Resolved on First Contact / Total Tickets) × 100
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

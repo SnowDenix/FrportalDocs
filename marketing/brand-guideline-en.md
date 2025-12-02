@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Brand Guidelines"
+parent: Marketing
+nav_order: 1
+---
+
 # Brand Guidelines
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -900,4 +907,5 @@ Implementation
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

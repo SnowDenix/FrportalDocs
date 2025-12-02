@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Customer Experience Standards"
+parent: Training
+nav_order: 9
+---
+
 # Customer Experience Standards
 
 > **Last Updated:** 01 December 2025 | **Version:** 1.0  
@@ -803,4 +810,5 @@ INSTANT FEEDBACK:
 
 *This document was prepared by Aydınlı Group Franchise Operations.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Müşteri Deneyimi Standartları"
+parent: Training
+nav_order: 10
+---
+
 # Müşteri Deneyimi Standartları
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -802,4 +809,5 @@ ANLIK FEEDBACK:
 
 *Bu doküman Aydınlı Grup Franchise Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

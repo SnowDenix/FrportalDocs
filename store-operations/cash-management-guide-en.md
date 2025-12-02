@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Cash Management Guide – EN"
+parent: Store Operations
+nav_order: 1
+---
+
 # Cash Management Guide – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -510,4 +517,5 @@ Time completed: _____________
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

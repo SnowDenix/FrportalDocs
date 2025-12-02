@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Supply Chain & Logistics Overview – EN"
+parent: Supply Chain
+nav_order: 9
+---
+
 # Supply Chain & Logistics Overview – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -461,4 +468,5 @@ Manager: _____________
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

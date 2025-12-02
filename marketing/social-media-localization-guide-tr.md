@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Sosyal Medya Lokalizasyon Rehberi"
+parent: Marketing
+nav_order: 18
+---
+
 # Sosyal Medya Lokalizasyon Rehberi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -584,4 +591,5 @@ Adım 10: Performansı Raporla
 
 *Bu belge Aydınlı Grup Dijital Pazarlama Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

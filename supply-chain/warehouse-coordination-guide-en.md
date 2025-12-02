@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Warehouse Coordination Guide – EN"
+parent: Supply Chain
+nav_order: 11
+---
+
 # Warehouse Coordination Guide – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -523,4 +530,5 @@ Outcome: _____________
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

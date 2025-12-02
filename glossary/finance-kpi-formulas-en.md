@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Finance KPI Formulas and Calculations"
+parent: Glossary
+nav_order: 1
+---
+
 # Finance KPI Formulas and Calculations
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -507,4 +514,5 @@ NPS = Promoter % - Detractor %
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

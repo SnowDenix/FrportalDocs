@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Depo Koordinasyon Kılavuzu – TR"
+parent: Supply Chain
+nav_order: 12
+---
+
 # Depo Koordinasyon Kılavuzu – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -519,4 +526,5 @@ Sonuç: _____________
 
 *Bu doküman Aydınlı Grup Tedarik Zinciri Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

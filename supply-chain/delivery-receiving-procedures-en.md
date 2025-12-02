@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Delivery & Receiving Procedures – EN"
+parent: Supply Chain
+nav_order: 1
+---
+
 # Delivery & Receiving Procedures – EN
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -592,4 +599,5 @@ Credit/Replacement: _____________
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

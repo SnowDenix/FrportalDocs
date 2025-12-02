@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Müşteri Etkileşim Senaryoları – TR"
+parent: Training
+nav_order: 12
+---
+
 # Müşteri Etkileşim Senaryoları – TR
 
 ## Purpose
@@ -691,3 +698,4 @@ Kumaşı çok özel – premium kalite ve uzun ömürlü."
 | Tarih | Versiyon | Editör | Değişiklik |
 |-------|----------|--------|------------|
 | 01.12.2025 | 1.0 | Aydınlı Grup Training HQ | İlk sürüm oluşturuldu |
+

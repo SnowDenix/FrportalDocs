@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Marketing Overview"
+parent: Marketing
+nav_order: 11
+---
+
 # Marketing Overview
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
@@ -692,4 +699,5 @@ Example:
 
 *This document was prepared by Aydınlı Grup.*  
 *© 2025 Aydınlı Group - All rights reserved.*
+
 

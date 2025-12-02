@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Kayıp Önleme Kılavuzu – TR"
+parent: Store Operations
+nav_order: 8
+---
+
 # Kayıp Önleme Kılavuzu – TR
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -475,4 +482,5 @@ MÜŞTERİ ÇIKARSA:
 
 *Bu doküman Aydınlı Grup Mağaza Operasyonları Ekibi tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

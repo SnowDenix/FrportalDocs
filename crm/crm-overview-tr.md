@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Genel Bakış"
+parent: CRM
+nav_order: 14
+---
+
 # CRM Genel Bakış
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -354,4 +361,5 @@ Bu doküman, Aydınlı Grup bünyesindeki U.S. Polo Assn., Pierre Cardin ve Cach
 
 *Bu doküman Aydınlı Grup CRM Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

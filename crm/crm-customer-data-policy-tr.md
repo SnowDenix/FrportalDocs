@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Müşteri Verileri Politikası (KVKK Uyumlu)"
+parent: CRM
+nav_order: 2
+---
+
 # CRM Müşteri Verileri Politikası (KVKK Uyumlu)
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -483,4 +490,5 @@ Aşağıdaki veriler **kesinlikle toplanamaz**:
 
 *Bu doküman Aydınlı Grup CRM Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

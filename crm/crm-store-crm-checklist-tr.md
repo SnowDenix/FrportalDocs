@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "Mağaza CRM Kontrol Listesi"
+parent: CRM
+nav_order: 16
+---
+
 # Mağaza CRM Kontrol Listesi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -300,4 +307,5 @@ Bu doküman, Aydınlı Grup franchise mağazalarında (U.S. Polo Assn., Pierre C
 
 *Bu doküman Aydınlı Grup CRM Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 

@@ -1,3 +1,10 @@
+﻿---
+layout: default
+title: "CRM Dashboard ve KPI Rehberi"
+parent: CRM
+nav_order: 6
+---
+
 # CRM Dashboard ve KPI Rehberi
 
 > **Son Güncelleme:** 01 Aralık 2025 | **Versiyon:** 1.0  
@@ -569,4 +576,5 @@ FCR % = (İlk Temasta Çözülen / Toplam Ticket) × 100
 
 *Bu doküman Aydınlı Grup CRM Operasyonları tarafından hazırlanmıştır.*  
 *© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
 
