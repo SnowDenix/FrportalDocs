@@ -1,16 +1,59 @@
 <style>
-/* Sidebar Title Positioning Fix */
-.site-title {
+/* ========================================
+   Sidebar Title Positioning Fix
+   ======================================== */
+.side-bar .site-title {
+  padding-top: 2rem !important;
+  margin-top: 1rem !important;
+}
+
+.side-bar .site-header {
   padding-top: 1.5rem !important;
-  margin-top: 0.5rem !important;
+  min-height: 80px !important;
 }
 
-.site-header {
-  padding-top: 1rem !important;
+/* Also target the navigation container */
+.side-bar .site-nav {
+  padding-top: 0.5rem;
 }
 
-/* Better spacing for main content */
-.main-content {
+/* ========================================
+   Table of Contents (On This Page) Styling
+   ======================================== */
+.toc-heading {
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #5c5962;
+  margin-bottom: 0.5rem;
+}
+
+#toc-list {
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+#toc-list li {
+  margin-bottom: 0.25rem;
+}
+
+#toc-list a {
+  color: #5c5962;
+  text-decoration: none;
+}
+
+#toc-list a:hover {
+  color: #7253ed;
+  text-decoration: underline;
+}
+
+/* ========================================
+   General Improvements
+   ======================================== */
+
+/* Better spacing for main content area */
+.main-content-wrap {
   padding-top: 1.5rem;
 }
 
@@ -18,11 +61,13 @@
 table {
   width: 100%;
   margin-bottom: 1.5rem;
+  border-collapse: collapse;
 }
 
 table th {
   background-color: #f6f8fa;
   font-weight: 600;
+  text-align: left;
 }
 
 table td, table th {
@@ -30,11 +75,11 @@ table td, table th {
   border: 1px solid #e1e4e8;
 }
 
-table tr:hover {
+table tbody tr:hover {
   background-color: #f9f9f9;
 }
 
-/* Navigation cards hover effect */
+/* Navigation cards hover effect on homepage */
 .nav-cards > div {
   transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
@@ -44,4 +89,3 @@ table tr:hover {
   transform: translateY(-2px);
 }
 </style>
-
