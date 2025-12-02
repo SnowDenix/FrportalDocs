@@ -35,23 +35,23 @@ All documents are provided in **bilingual format (Turkish/English)** to support 
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [retail-terms-tr.md](docs/glossary/retail-terms-tr.md) | Stok yönetimi, satış, VM, POS terimleri | Türkçe |
-| [retail-terms-en.md](docs/glossary/retail-terms-en.md) | Inventory, sales, VM, POS terms | English |
-| [finance-kpi-formulas-tr.md](docs/glossary/finance-kpi-formulas-tr.md) | EBIT, GMROI, Markup, Margin formülleri | Türkçe |
-| [finance-kpi-formulas-en.md](docs/glossary/finance-kpi-formulas-en.md) | EBIT, GMROI, Markup, Margin formulas | English |
-| [supplychain-logistics-terms-tr.md](docs/glossary/supplychain-logistics-terms-tr.md) | Incoterms, SAP, lojistik terimleri | Türkçe |
-| [supplychain-logistics-terms-en.md](docs/glossary/supplychain-logistics-terms-en.md) | Incoterms, SAP, logistics terms | English |
+| [retail-terms-tr.md](glossary/retail-terms-tr.md) | Stok yönetimi, satış, VM, POS terimleri | Türkçe |
+| [retail-terms-en.md](glossary/retail-terms-en.md) | Inventory, sales, VM, POS terms | English |
+| [finance-kpi-formulas-tr.md](glossary/finance-kpi-formulas-tr.md) | EBIT, GMROI, Markup, Margin formülleri | Türkçe |
+| [finance-kpi-formulas-en.md](glossary/finance-kpi-formulas-en.md) | EBIT, GMROI, Markup, Margin formulas | English |
+| [supplychain-logistics-terms-tr.md](glossary/supplychain-logistics-terms-tr.md) | Incoterms, SAP, lojistik terimleri | Türkçe |
+| [supplychain-logistics-terms-en.md](glossary/supplychain-logistics-terms-en.md) | Incoterms, SAP, logistics terms | English |
 
 ### Guidelines (Rehberler)
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [vm-guideline-tr.md](docs/guidelines/vm-guideline-tr.md) | Vitrin, fixture, marka standartları | Türkçe |
-| [vm-guideline-en.md](docs/guidelines/vm-guideline-en.md) | Window, fixture, brand standards | English |
-| [store-operations-guideline-tr.md](docs/guidelines/store-operations-guideline-tr.md) | Açılış/kapanış, iade, hasar prosedürleri | Türkçe |
-| [store-operations-guideline-en.md](docs/guidelines/store-operations-guideline-en.md) | Opening/closing, returns, damage procedures | English |
-| [franchise-communication-protocol-tr.md](docs/guidelines/franchise-communication-protocol-tr.md) | Raporlama, escalation, bölge standartları | Türkçe |
-| [franchise-communication-protocol-en.md](docs/guidelines/franchise-communication-protocol-en.md) | Reporting, escalation, regional standards | English |
+| [vm-guideline-tr.md](guidelines/vm-guideline-tr.md) | Vitrin, fixture, marka standartları | Türkçe |
+| [vm-guideline-en.md](guidelines/vm-guideline-en.md) | Window, fixture, brand standards | English |
+| [store-operations-guideline-tr.md](guidelines/store-operations-guideline-tr.md) | Açılış/kapanış, iade, hasar prosedürleri | Türkçe |
+| [store-operations-guideline-en.md](guidelines/store-operations-guideline-en.md) | Opening/closing, returns, damage procedures | English |
+| [franchise-communication-protocol-tr.md](guidelines/franchise-communication-protocol-tr.md) | Raporlama, escalation, bölge standartları | Türkçe |
+| [franchise-communication-protocol-en.md](guidelines/franchise-communication-protocol-en.md) | Reporting, escalation, regional standards | English |
 
 ---
 
@@ -59,26 +59,26 @@ All documents are provided in **bilingual format (Turkish/English)** to support 
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [crm-overview-en.md](docs/crm/crm-overview-en.md) | CRM operations overview | English |
-| [crm-overview-tr.md](docs/crm/crm-overview-tr.md) | CRM operasyonları genel bakış | Türkçe |
-| [crm-store-user-guide-en.md](docs/crm/crm-store-user-guide-en.md) | CRM system user guide for stores | English |
-| [crm-store-user-guide-tr.md](docs/crm/crm-store-user-guide-tr.md) | Mağazalar için CRM sistem kullanıcı rehberi | Türkçe |
-| [crm-dashboard-kpi-en.md](docs/crm/crm-dashboard-kpi-en.md) | CRM dashboard key performance indicators | English |
-| [crm-dashboard-kpi-tr.md](docs/crm/crm-dashboard-kpi-tr.md) | CRM dashboard temel performans göstergeleri | Türkçe |
-| [crm-customer-segmentation-en.md](docs/crm/crm-customer-segmentation-en.md) | Customer segmentation strategies | English |
-| [crm-customer-segmentation-tr.md](docs/crm/crm-customer-segmentation-tr.md) | Müşteri segmentasyon stratejileri | Türkçe |
-| [crm-loyalty-campaigns-en.md](docs/crm/crm-loyalty-campaigns-en.md) | Loyalty program and campaign management | English |
-| [crm-loyalty-campaigns-tr.md](docs/crm/crm-loyalty-campaigns-tr.md) | Sadakat programı ve kampanya yönetimi | Türkçe |
-| [crm-ticketing-process-en.md](docs/crm/crm-ticketing-process-en.md) | Customer service ticketing procedures | English |
-| [crm-ticketing-process-tr.md](docs/crm/crm-ticketing-process-tr.md) | Müşteri hizmetleri biletleme prosedürleri | Türkçe |
-| [crm-data-quality-en.md](docs/crm/crm-data-quality-en.md) | CRM data quality standards | English |
-| [crm-data-quality-tr.md](docs/crm/crm-data-quality-tr.md) | CRM veri kalitesi standartları | Türkçe |
-| [crm-customer-data-policy-en.md](docs/crm/crm-customer-data-policy-en.md) | Customer data privacy and policy | English |
-| [crm-customer-data-policy-tr.md](docs/crm/crm-customer-data-policy-tr.md) | Müşteri veri gizliliği ve politikası | Türkçe |
-| [crm-do-and-dont-en.md](docs/crm/crm-do-and-dont-en.md) | CRM best practices and common mistakes | English |
-| [crm-do-and-dont-tr.md](docs/crm/crm-do-and-dont-tr.md) | CRM en iyi uygulamaları ve yaygın hatalar | Türkçe |
-| [crm-store-crm-checklist-en.md](docs/crm/crm-store-crm-checklist-en.md) | Store-level CRM compliance checklist | English |
-| [crm-store-crm-checklist-tr.md](docs/crm/crm-store-crm-checklist-tr.md) | Mağaza seviyesi CRM uyumluluk kontrol listesi | Türkçe |
+| [crm-overview-en.md](crm/crm-overview-en.md) | CRM operations overview | English |
+| [crm-overview-tr.md](crm/crm-overview-tr.md) | CRM operasyonları genel bakış | Türkçe |
+| [crm-store-user-guide-en.md](crm/crm-store-user-guide-en.md) | CRM system user guide for stores | English |
+| [crm-store-user-guide-tr.md](crm/crm-store-user-guide-tr.md) | Mağazalar için CRM sistem kullanıcı rehberi | Türkçe |
+| [crm-dashboard-kpi-en.md](crm/crm-dashboard-kpi-en.md) | CRM dashboard key performance indicators | English |
+| [crm-dashboard-kpi-tr.md](crm/crm-dashboard-kpi-tr.md) | CRM dashboard temel performans göstergeleri | Türkçe |
+| [crm-customer-segmentation-en.md](crm/crm-customer-segmentation-en.md) | Customer segmentation strategies | English |
+| [crm-customer-segmentation-tr.md](crm/crm-customer-segmentation-tr.md) | Müşteri segmentasyon stratejileri | Türkçe |
+| [crm-loyalty-campaigns-en.md](crm/crm-loyalty-campaigns-en.md) | Loyalty program and campaign management | English |
+| [crm-loyalty-campaigns-tr.md](crm/crm-loyalty-campaigns-tr.md) | Sadakat programı ve kampanya yönetimi | Türkçe |
+| [crm-ticketing-process-en.md](crm/crm-ticketing-process-en.md) | Customer service ticketing procedures | English |
+| [crm-ticketing-process-tr.md](crm/crm-ticketing-process-tr.md) | Müşteri hizmetleri biletleme prosedürleri | Türkçe |
+| [crm-data-quality-en.md](crm/crm-data-quality-en.md) | CRM data quality standards | English |
+| [crm-data-quality-tr.md](crm/crm-data-quality-tr.md) | CRM veri kalitesi standartları | Türkçe |
+| [crm-customer-data-policy-en.md](crm/crm-customer-data-policy-en.md) | Customer data privacy and policy | English |
+| [crm-customer-data-policy-tr.md](crm/crm-customer-data-policy-tr.md) | Müşteri veri gizliliği ve politikası | Türkçe |
+| [crm-do-and-dont-en.md](crm/crm-do-and-dont-en.md) | CRM best practices and common mistakes | English |
+| [crm-do-and-dont-tr.md](crm/crm-do-and-dont-tr.md) | CRM en iyi uygulamaları ve yaygın hatalar | Türkçe |
+| [crm-store-crm-checklist-en.md](crm/crm-store-crm-checklist-en.md) | Store-level CRM compliance checklist | English |
+| [crm-store-crm-checklist-tr.md](crm/crm-store-crm-checklist-tr.md) | Mağaza seviyesi CRM uyumluluk kontrol listesi | Türkçe |
 
 ---
 
@@ -88,44 +88,44 @@ All documents are provided in **bilingual format (Turkish/English)** to support 
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [marketing-overview-en.md](docs/marketing/marketing-overview-en.md) | Marketing operations overview | English |
-| [marketing-overview-tr.md](docs/marketing/marketing-overview-tr.md) | Pazarlama operasyonları genel bakış | Türkçe |
-| [brand-guideline-en.md](docs/marketing/brand-guideline-en.md) | Brand identity and usage guidelines | English |
-| [brand-guideline-tr.md](docs/marketing/brand-guideline-tr.md) | Marka kimliği ve kullanım rehberi | Türkçe |
+| [marketing-overview-en.md](marketing/marketing-overview-en.md) | Marketing operations overview | English |
+| [marketing-overview-tr.md](marketing/marketing-overview-tr.md) | Pazarlama operasyonları genel bakış | Türkçe |
+| [brand-guideline-en.md](marketing/brand-guideline-en.md) | Brand identity and usage guidelines | English |
+| [brand-guideline-tr.md](marketing/brand-guideline-tr.md) | Marka kimliği ve kullanım rehberi | Türkçe |
 
 ### Campaigns & Calendar
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [seasonal-marketing-calendar-en.md](docs/marketing/seasonal-marketing-calendar-en.md) | Annual marketing calendar | English |
-| [seasonal-marketing-calendar-tr.md](docs/marketing/seasonal-marketing-calendar-tr.md) | Yıllık pazarlama takvimi | Türkçe |
-| [campaign-execution-guide-en.md](docs/marketing/campaign-execution-guide-en.md) | Campaign implementation procedures | English |
-| [campaign-execution-guide-tr.md](docs/marketing/campaign-execution-guide-tr.md) | Kampanya uygulama prosedürleri | Türkçe |
+| [seasonal-marketing-calendar-en.md](marketing/seasonal-marketing-calendar-en.md) | Annual marketing calendar | English |
+| [seasonal-marketing-calendar-tr.md](marketing/seasonal-marketing-calendar-tr.md) | Yıllık pazarlama takvimi | Türkçe |
+| [campaign-execution-guide-en.md](marketing/campaign-execution-guide-en.md) | Campaign implementation procedures | English |
+| [campaign-execution-guide-tr.md](marketing/campaign-execution-guide-tr.md) | Kampanya uygulama prosedürleri | Türkçe |
 
 ### Digital & Social
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [digital-assets-usage-en.md](docs/marketing/digital-assets-usage-en.md) | Digital assets management guide | English |
-| [digital-assets-usage-tr.md](docs/marketing/digital-assets-usage-tr.md) | Dijital varlık yönetimi rehberi | Türkçe |
-| [social-media-localization-guide-en.md](docs/marketing/social-media-localization-guide-en.md) | Social media localization standards | English |
-| [social-media-localization-guide-tr.md](docs/marketing/social-media-localization-guide-tr.md) | Sosyal medya lokalizasyon standartları | Türkçe |
+| [digital-assets-usage-en.md](marketing/digital-assets-usage-en.md) | Digital assets management guide | English |
+| [digital-assets-usage-tr.md](marketing/digital-assets-usage-tr.md) | Dijital varlık yönetimi rehberi | Türkçe |
+| [social-media-localization-guide-en.md](marketing/social-media-localization-guide-en.md) | Social media localization standards | English |
+| [social-media-localization-guide-tr.md](marketing/social-media-localization-guide-tr.md) | Sosyal medya lokalizasyon standartları | Türkçe |
 
 ### In-Store Marketing
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [posm-guideline-en.md](docs/marketing/posm-guideline-en.md) | POS materials guidelines | English |
-| [posm-guideline-tr.md](docs/marketing/posm-guideline-tr.md) | Satış noktası malzemeleri rehberi | Türkçe |
-| [in-store-communication-guide-en.md](docs/marketing/in-store-communication-guide-en.md) | In-store communication standards | English |
-| [in-store-communication-guide-tr.md](docs/marketing/in-store-communication-guide-tr.md) | Mağaza içi iletişim standartları | Türkçe |
+| [posm-guideline-en.md](marketing/posm-guideline-en.md) | POS materials guidelines | English |
+| [posm-guideline-tr.md](marketing/posm-guideline-tr.md) | Satış noktası malzemeleri rehberi | Türkçe |
+| [in-store-communication-guide-en.md](marketing/in-store-communication-guide-en.md) | In-store communication standards | English |
+| [in-store-communication-guide-tr.md](marketing/in-store-communication-guide-tr.md) | Mağaza içi iletişim standartları | Türkçe |
 
 ### Approval Process
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [marketing-approval-process-en.md](docs/marketing/marketing-approval-process-en.md) | Marketing approval workflow | English |
-| [marketing-approval-process-tr.md](docs/marketing/marketing-approval-process-tr.md) | Pazarlama onay iş akışı | Türkçe |
+| [marketing-approval-process-en.md](marketing/marketing-approval-process-en.md) | Marketing approval workflow | English |
+| [marketing-approval-process-tr.md](marketing/marketing-approval-process-tr.md) | Pazarlama onay iş akışı | Türkçe |
 
 ---
 
@@ -133,18 +133,18 @@ All documents are provided in **bilingual format (Turkish/English)** to support 
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [vm-overview-en.md](docs/vm/vm-overview-en.md) | VM operations overview | English |
-| [vm-overview-tr.md](docs/vm/vm-overview-tr.md) | VM operasyonları genel bakış | Türkçe |
-| [vm-guideline-general-en.md](docs/vm/vm-guideline-general-en.md) | General visual merchandising standards | English |
-| [vm-guideline-general-tr.md](docs/vm/vm-guideline-general-tr.md) | Genel görsel mağazacılık standartları | Türkçe |
-| [window-display-guideline-en.md](docs/vm/window-display-guideline-en.md) | Window display standards | English |
-| [window-display-guideline-tr.md](docs/vm/window-display-guideline-tr.md) | Vitrin standartları | Türkçe |
-| [in-store-layout-guideline-en.md](docs/vm/in-store-layout-guideline-en.md) | Store layout principles | English |
-| [in-store-layout-guideline-tr.md](docs/vm/in-store-layout-guideline-tr.md) | Mağaza yerleşim prensipleri | Türkçe |
-| [mannequin-styling-guideline-en.md](docs/vm/mannequin-styling-guideline-en.md) | Mannequin styling standards | English |
-| [mannequin-styling-guideline-tr.md](docs/vm/mannequin-styling-guideline-tr.md) | Manken stillendirme standartları | Türkçe |
-| [seasonal-vm-changeover-en.md](docs/vm/seasonal-vm-changeover-en.md) | Seasonal VM transition guide | English |
-| [seasonal-vm-changeover-tr.md](docs/vm/seasonal-vm-changeover-tr.md) | Sezonluk VM geçiş rehberi | Türkçe |
+| [vm-overview-en.md](vm/vm-overview-en.md) | VM operations overview | English |
+| [vm-overview-tr.md](vm/vm-overview-tr.md) | VM operasyonları genel bakış | Türkçe |
+| [vm-guideline-general-en.md](vm/vm-guideline-general-en.md) | General visual merchandising standards | English |
+| [vm-guideline-general-tr.md](vm/vm-guideline-general-tr.md) | Genel görsel mağazacılık standartları | Türkçe |
+| [window-display-guideline-en.md](vm/window-display-guideline-en.md) | Window display standards | English |
+| [window-display-guideline-tr.md](vm/window-display-guideline-tr.md) | Vitrin standartları | Türkçe |
+| [in-store-layout-guideline-en.md](vm/in-store-layout-guideline-en.md) | Store layout principles | English |
+| [in-store-layout-guideline-tr.md](vm/in-store-layout-guideline-tr.md) | Mağaza yerleşim prensipleri | Türkçe |
+| [mannequin-styling-guideline-en.md](vm/mannequin-styling-guideline-en.md) | Mannequin styling standards | English |
+| [mannequin-styling-guideline-tr.md](vm/mannequin-styling-guideline-tr.md) | Manken stillendirme standartları | Türkçe |
+| [seasonal-vm-changeover-en.md](vm/seasonal-vm-changeover-en.md) | Seasonal VM transition guide | English |
+| [seasonal-vm-changeover-tr.md](vm/seasonal-vm-changeover-tr.md) | Sezonluk VM geçiş rehberi | Türkçe |
 
 ---
 
@@ -154,37 +154,37 @@ All documents are provided in **bilingual format (Turkish/English)** to support 
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [store-operations-overview-en.md](docs/store-operations/store-operations-overview-en.md) | Store operations overview | English |
-| [store-operations-overview-tr.md](docs/store-operations/store-operations-overview-tr.md) | Mağaza operasyonları genel bakış | Türkçe |
-| [opening-closing-procedures-en.md](docs/store-operations/opening-closing-procedures-en.md) | Store opening/closing procedures | English |
-| [opening-closing-procedures-tr.md](docs/store-operations/opening-closing-procedures-tr.md) | Mağaza açılış/kapanış prosedürleri | Türkçe |
+| [store-operations-overview-en.md](store-operations/store-operations-overview-en.md) | Store operations overview | English |
+| [store-operations-overview-tr.md](store-operations/store-operations-overview-tr.md) | Mağaza operasyonları genel bakış | Türkçe |
+| [opening-closing-procedures-en.md](store-operations/opening-closing-procedures-en.md) | Store opening/closing procedures | English |
+| [opening-closing-procedures-tr.md](store-operations/opening-closing-procedures-tr.md) | Mağaza açılış/kapanış prosedürleri | Türkçe |
 
 ### Cash & Customer Service
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [cash-management-guide-en.md](docs/store-operations/cash-management-guide-en.md) | Cash handling procedures | English |
-| [cash-management-guide-tr.md](docs/store-operations/cash-management-guide-tr.md) | Nakit işlem prosedürleri | Türkçe |
-| [customer-service-standards-en.md](docs/store-operations/customer-service-standards-en.md) | Customer service excellence | English |
-| [customer-service-standards-tr.md](docs/store-operations/customer-service-standards-tr.md) | Müşteri hizmetleri standartları | Türkçe |
+| [cash-management-guide-en.md](store-operations/cash-management-guide-en.md) | Cash handling procedures | English |
+| [cash-management-guide-tr.md](store-operations/cash-management-guide-tr.md) | Nakit işlem prosedürleri | Türkçe |
+| [customer-service-standards-en.md](store-operations/customer-service-standards-en.md) | Customer service excellence | English |
+| [customer-service-standards-tr.md](store-operations/customer-service-standards-tr.md) | Müşteri hizmetleri standartları | Türkçe |
 
 ### Returns & Inventory
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [return-exchange-procedures-en.md](docs/store-operations/return-exchange-procedures-en.md) | Return and exchange policies | English |
-| [return-exchange-procedures-tr.md](docs/store-operations/return-exchange-procedures-tr.md) | İade ve değişim politikaları | Türkçe |
-| [inventory-control-guide-en.md](docs/store-operations/inventory-control-guide-en.md) | Inventory management procedures | English |
-| [inventory-control-guide-tr.md](docs/store-operations/inventory-control-guide-tr.md) | Envanter yönetimi prosedürleri | Türkçe |
+| [return-exchange-procedures-en.md](store-operations/return-exchange-procedures-en.md) | Return and exchange policies | English |
+| [return-exchange-procedures-tr.md](store-operations/return-exchange-procedures-tr.md) | İade ve değişim politikaları | Türkçe |
+| [inventory-control-guide-en.md](store-operations/inventory-control-guide-en.md) | Inventory management procedures | English |
+| [inventory-control-guide-tr.md](store-operations/inventory-control-guide-tr.md) | Envanter yönetimi prosedürleri | Türkçe |
 
 ### Loss Prevention & Safety
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [loss-prevention-guide-en.md](docs/store-operations/loss-prevention-guide-en.md) | Loss prevention procedures | English |
-| [loss-prevention-guide-tr.md](docs/store-operations/loss-prevention-guide-tr.md) | Kayıp önleme prosedürleri | Türkçe |
-| [health-safety-standards-en.md](docs/store-operations/health-safety-standards-en.md) | Health and safety guidelines | English |
-| [health-safety-standards-tr.md](docs/store-operations/health-safety-standards-tr.md) | Sağlık ve güvenlik rehberi | Türkçe |
+| [loss-prevention-guide-en.md](store-operations/loss-prevention-guide-en.md) | Loss prevention procedures | English |
+| [loss-prevention-guide-tr.md](store-operations/loss-prevention-guide-tr.md) | Kayıp önleme prosedürleri | Türkçe |
+| [health-safety-standards-en.md](store-operations/health-safety-standards-en.md) | Health and safety guidelines | English |
+| [health-safety-standards-tr.md](store-operations/health-safety-standards-tr.md) | Sağlık ve güvenlik rehberi | Türkçe |
 
 ---
 
@@ -194,28 +194,28 @@ All documents are provided in **bilingual format (Turkish/English)** to support 
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [supply-chain-overview-en.md](docs/supply-chain/supply-chain-overview-en.md) | Supply chain operations overview | English |
-| [supply-chain-overview-tr.md](docs/supply-chain/supply-chain-overview-tr.md) | Tedarik zinciri genel bakış | Türkçe |
-| [order-management-guide-en.md](docs/supply-chain/order-management-guide-en.md) | Order management procedures | English |
-| [order-management-guide-tr.md](docs/supply-chain/order-management-guide-tr.md) | Sipariş yönetimi prosedürleri | Türkçe |
+| [supply-chain-overview-en.md](supply-chain/supply-chain-overview-en.md) | Supply chain operations overview | English |
+| [supply-chain-overview-tr.md](supply-chain/supply-chain-overview-tr.md) | Tedarik zinciri genel bakış | Türkçe |
+| [order-management-guide-en.md](supply-chain/order-management-guide-en.md) | Order management procedures | English |
+| [order-management-guide-tr.md](supply-chain/order-management-guide-tr.md) | Sipariş yönetimi prosedürleri | Türkçe |
 
 ### Delivery & Receiving
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [delivery-receiving-procedures-en.md](docs/supply-chain/delivery-receiving-procedures-en.md) | Delivery receiving standards | English |
-| [delivery-receiving-procedures-tr.md](docs/supply-chain/delivery-receiving-procedures-tr.md) | Teslimat kabul standartları | Türkçe |
-| [stock-transfer-procedures-en.md](docs/supply-chain/stock-transfer-procedures-en.md) | Stock transfer processes | English |
-| [stock-transfer-procedures-tr.md](docs/supply-chain/stock-transfer-procedures-tr.md) | Stok transfer süreçleri | Türkçe |
+| [delivery-receiving-procedures-en.md](supply-chain/delivery-receiving-procedures-en.md) | Delivery receiving standards | English |
+| [delivery-receiving-procedures-tr.md](supply-chain/delivery-receiving-procedures-tr.md) | Teslimat kabul standartları | Türkçe |
+| [stock-transfer-procedures-en.md](supply-chain/stock-transfer-procedures-en.md) | Stock transfer processes | English |
+| [stock-transfer-procedures-tr.md](supply-chain/stock-transfer-procedures-tr.md) | Stok transfer süreçleri | Türkçe |
 
 ### Warehouse & Shipping
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [warehouse-coordination-guide-en.md](docs/supply-chain/warehouse-coordination-guide-en.md) | Warehouse coordination procedures | English |
-| [warehouse-coordination-guide-tr.md](docs/supply-chain/warehouse-coordination-guide-tr.md) | Depo koordinasyon prosedürleri | Türkçe |
-| [shipping-logistics-guide-en.md](docs/supply-chain/shipping-logistics-guide-en.md) | Shipping and logistics guide | English |
-| [shipping-logistics-guide-tr.md](docs/supply-chain/shipping-logistics-guide-tr.md) | Sevkiyat ve lojistik rehberi | Türkçe |
+| [warehouse-coordination-guide-en.md](supply-chain/warehouse-coordination-guide-en.md) | Warehouse coordination procedures | English |
+| [warehouse-coordination-guide-tr.md](supply-chain/warehouse-coordination-guide-tr.md) | Depo koordinasyon prosedürleri | Türkçe |
+| [shipping-logistics-guide-en.md](supply-chain/shipping-logistics-guide-en.md) | Shipping and logistics guide | English |
+| [shipping-logistics-guide-tr.md](supply-chain/shipping-logistics-guide-tr.md) | Sevkiyat ve lojistik rehberi | Türkçe |
 
 ---
 
@@ -223,30 +223,30 @@ All documents are provided in **bilingual format (Turkish/English)** to support 
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [training-overview-en.md](docs/training/training-overview-en.md) | Training program overview | English |
-| [training-overview-tr.md](docs/training/training-overview-tr.md) | Eğitim programı genel bakış | Türkçe |
-| [onboarding-guide-en.md](docs/training/onboarding-guide-en.md) | New employee onboarding procedures | English |
-| [onboarding-guide-tr.md](docs/training/onboarding-guide-tr.md) | Yeni çalışan işe alım prosedürleri | Türkçe |
-| [product-knowledge-basics-en.md](docs/training/product-knowledge-basics-en.md) | Fundamental product knowledge | English |
-| [product-knowledge-basics-tr.md](docs/training/product-knowledge-basics-tr.md) | Temel ürün bilgisi | Türkçe |
-| [sales-techniques-en.md](docs/training/sales-techniques-en.md) | Sales techniques and best practices | English |
-| [sales-techniques-tr.md](docs/training/sales-techniques-tr.md) | Satış teknikleri ve en iyi uygulamalar | Türkçe |
-| [customer-experience-standards-en.md](docs/training/customer-experience-standards-en.md) | Customer experience excellence standards | English |
-| [customer-experience-standards-tr.md](docs/training/customer-experience-standards-tr.md) | Müşteri deneyimi mükemmellik standartları | Türkçe |
-| [customer-interaction-scenarios-en.md](docs/training/customer-interaction-scenarios-en.md) | Common customer interaction scenarios | English |
-| [customer-interaction-scenarios-tr.md](docs/training/customer-interaction-scenarios-tr.md) | Yaygın müşteri etkileşim senaryoları | Türkçe |
-| [competency-framework-en.md](docs/training/competency-framework-en.md) | Employee competency framework | English |
-| [competency-framework-tr.md](docs/training/competency-framework-tr.md) | Çalışan yeterlilik çerçevesi | Türkçe |
-| [seasonal-training-pack-en.md](docs/training/seasonal-training-pack-en.md) | Seasonal training materials | English |
-| [seasonal-training-pack-tr.md](docs/training/seasonal-training-pack-tr.md) | Sezonluk eğitim materyalleri | Türkçe |
-| [training-assessment-en.md](docs/training/training-assessment-en.md) | Training evaluation and assessment | English |
-| [training-assessment-tr.md](docs/training/training-assessment-tr.md) | Eğitim değerlendirme ve ölçümü | Türkçe |
-| [brand-supplement-uspa-en.md](docs/training/brand-supplement-uspa-en.md) | U.S. Polo Assn. brand training | English |
-| [brand-supplement-uspa-tr.md](docs/training/brand-supplement-uspa-tr.md) | U.S. Polo Assn. marka eğitimi | Türkçe |
-| [brand-supplement-pierre-cardin-en.md](docs/training/brand-supplement-pierre-cardin-en.md) | Pierre Cardin brand training | English |
-| [brand-supplement-pierre-cardin-tr.md](docs/training/brand-supplement-pierre-cardin-tr.md) | Pierre Cardin marka eğitimi | Türkçe |
-| [brand-supplement-cacharel-en.md](docs/training/brand-supplement-cacharel-en.md) | Cacharel brand training | English |
-| [brand-supplement-cacharel-tr.md](docs/training/brand-supplement-cacharel-tr.md) | Cacharel marka eğitimi | Türkçe |
+| [training-overview-en.md](training/training-overview-en.md) | Training program overview | English |
+| [training-overview-tr.md](training/training-overview-tr.md) | Eğitim programı genel bakış | Türkçe |
+| [onboarding-guide-en.md](training/onboarding-guide-en.md) | New employee onboarding procedures | English |
+| [onboarding-guide-tr.md](training/onboarding-guide-tr.md) | Yeni çalışan işe alım prosedürleri | Türkçe |
+| [product-knowledge-basics-en.md](training/product-knowledge-basics-en.md) | Fundamental product knowledge | English |
+| [product-knowledge-basics-tr.md](training/product-knowledge-basics-tr.md) | Temel ürün bilgisi | Türkçe |
+| [sales-techniques-en.md](training/sales-techniques-en.md) | Sales techniques and best practices | English |
+| [sales-techniques-tr.md](training/sales-techniques-tr.md) | Satış teknikleri ve en iyi uygulamalar | Türkçe |
+| [customer-experience-standards-en.md](training/customer-experience-standards-en.md) | Customer experience excellence standards | English |
+| [customer-experience-standards-tr.md](training/customer-experience-standards-tr.md) | Müşteri deneyimi mükemmellik standartları | Türkçe |
+| [customer-interaction-scenarios-en.md](training/customer-interaction-scenarios-en.md) | Common customer interaction scenarios | English |
+| [customer-interaction-scenarios-tr.md](training/customer-interaction-scenarios-tr.md) | Yaygın müşteri etkileşim senaryoları | Türkçe |
+| [competency-framework-en.md](training/competency-framework-en.md) | Employee competency framework | English |
+| [competency-framework-tr.md](training/competency-framework-tr.md) | Çalışan yeterlilik çerçevesi | Türkçe |
+| [seasonal-training-pack-en.md](training/seasonal-training-pack-en.md) | Seasonal training materials | English |
+| [seasonal-training-pack-tr.md](training/seasonal-training-pack-tr.md) | Sezonluk eğitim materyalleri | Türkçe |
+| [training-assessment-en.md](training/training-assessment-en.md) | Training evaluation and assessment | English |
+| [training-assessment-tr.md](training/training-assessment-tr.md) | Eğitim değerlendirme ve ölçümü | Türkçe |
+| [brand-supplement-uspa-en.md](training/brand-supplement-uspa-en.md) | U.S. Polo Assn. brand training | English |
+| [brand-supplement-uspa-tr.md](training/brand-supplement-uspa-tr.md) | U.S. Polo Assn. marka eğitimi | Türkçe |
+| [brand-supplement-pierre-cardin-en.md](training/brand-supplement-pierre-cardin-en.md) | Pierre Cardin brand training | English |
+| [brand-supplement-pierre-cardin-tr.md](training/brand-supplement-pierre-cardin-tr.md) | Pierre Cardin marka eğitimi | Türkçe |
+| [brand-supplement-cacharel-en.md](training/brand-supplement-cacharel-en.md) | Cacharel brand training | English |
+| [brand-supplement-cacharel-tr.md](training/brand-supplement-cacharel-tr.md) | Cacharel marka eğitimi | Türkçe |
 
 ---
 
@@ -301,42 +301,42 @@ All documents are provided in **bilingual format (Turkish/English)** to support 
 ## 📖 How to Use
 
 ### For Store Managers
-1. Start with [Store Operations Overview](docs/store-operations/store-operations-overview-en.md)
-2. Reference [Opening/Closing Procedures](docs/store-operations/opening-closing-procedures-en.md) for daily routines
-3. Follow [VM Overview](docs/vm/vm-overview-en.md) for display standards
-4. Review [Customer Service Standards](docs/store-operations/customer-service-standards-en.md) for service excellence
+1. Start with [Store Operations Overview](store-operations/store-operations-overview-en.md)
+2. Reference [Opening/Closing Procedures](store-operations/opening-closing-procedures-en.md) for daily routines
+3. Follow [VM Overview](vm/vm-overview-en.md) for display standards
+4. Review [Customer Service Standards](store-operations/customer-service-standards-en.md) for service excellence
 
 ### For Operations Teams
-1. Review [Supply Chain Overview](docs/supply-chain/supply-chain-overview-en.md) for logistics
-2. Use [Finance KPI Formulas](docs/glossary/finance-kpi-formulas-en.md) for performance metrics
-3. Follow [Inventory Control Guide](docs/store-operations/inventory-control-guide-en.md) for stock management
+1. Review [Supply Chain Overview](supply-chain/supply-chain-overview-en.md) for logistics
+2. Use [Finance KPI Formulas](glossary/finance-kpi-formulas-en.md) for performance metrics
+3. Follow [Inventory Control Guide](store-operations/inventory-control-guide-en.md) for stock management
 
 ### For Marketing Teams
-1. Start with [Marketing Overview](docs/marketing/marketing-overview-en.md)
-2. Follow [Brand Guidelines](docs/marketing/brand-guideline-en.md) for brand consistency
-3. Review [Campaign Execution Guide](docs/marketing/campaign-execution-guide-en.md) for campaigns
-4. Use [Seasonal Marketing Calendar](docs/marketing/seasonal-marketing-calendar-en.md) for planning
+1. Start with [Marketing Overview](marketing/marketing-overview-en.md)
+2. Follow [Brand Guidelines](marketing/brand-guideline-en.md) for brand consistency
+3. Review [Campaign Execution Guide](marketing/campaign-execution-guide-en.md) for campaigns
+4. Use [Seasonal Marketing Calendar](marketing/seasonal-marketing-calendar-en.md) for planning
 
 ### For CRM Teams
-1. Start with [CRM Overview](docs/crm/crm-overview-en.md)
-2. Review [Store User Guide](docs/crm/crm-store-user-guide-en.md) for system usage
-3. Follow [Dashboard KPIs](docs/crm/crm-dashboard-kpi-en.md) for performance tracking
-4. Implement [Customer Segmentation](docs/crm/crm-customer-segmentation-en.md) strategies
-5. Review [Data Quality](docs/crm/crm-data-quality-en.md) standards
+1. Start with [CRM Overview](crm/crm-overview-en.md)
+2. Review [Store User Guide](crm/crm-store-user-guide-en.md) for system usage
+3. Follow [Dashboard KPIs](crm/crm-dashboard-kpi-en.md) for performance tracking
+4. Implement [Customer Segmentation](crm/crm-customer-segmentation-en.md) strategies
+5. Review [Data Quality](crm/crm-data-quality-en.md) standards
 
 ### For Training Teams
-1. Start with [Training Overview](docs/training/training-overview-en.md)
-2. Use [Onboarding Guide](docs/training/onboarding-guide-en.md) for new employees
-3. Follow [Product Knowledge Basics](docs/training/product-knowledge-basics-en.md) for product training
-4. Review [Sales Techniques](docs/training/sales-techniques-en.md) for sales training
-5. Use [Competency Framework](docs/training/competency-framework-en.md) for skill assessment
+1. Start with [Training Overview](training/training-overview-en.md)
+2. Use [Onboarding Guide](training/onboarding-guide-en.md) for new employees
+3. Follow [Product Knowledge Basics](training/product-knowledge-basics-en.md) for product training
+4. Review [Sales Techniques](training/sales-techniques-en.md) for sales training
+5. Use [Competency Framework](training/competency-framework-en.md) for skill assessment
 
 ### For Franchise Owners
-1. Understand all KPIs in [Finance Formulas](docs/glossary/finance-kpi-formulas-en.md)
-2. Review [Communication Protocol](docs/guidelines/franchise-communication-protocol-en.md)
+1. Understand all KPIs in [Finance Formulas](glossary/finance-kpi-formulas-en.md)
+2. Review [Communication Protocol](guidelines/franchise-communication-protocol-en.md)
 3. Ensure teams follow all operational guidelines
 4. Monitor performance with documented KPIs
-5. Review [CRM Dashboard KPIs](docs/crm/crm-dashboard-kpi-en.md) for customer insights
+5. Review [CRM Dashboard KPIs](crm/crm-dashboard-kpi-en.md) for customer insights
 
 ---
 
