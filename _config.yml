@@ -77,7 +77,49 @@ exclude:
 
 # Defaults
 defaults:
+  # All pages use the default layout unless overridden
   - scope:
       path: ""
     values:
       layout: "default"
+
+  # Ensure child pages in each section get stable, directory-style URLs
+  - scope:
+      path: "glossary"
+    values:
+      permalink: /glossary/:name/
+
+  - scope:
+      path: "guidelines"
+    values:
+      permalink: /guidelines/:name/
+
+  - scope:
+      path: "crm"
+    values:
+      permalink: /crm/:name/
+
+  - scope:
+      path: "marketing"
+    values:
+      permalink: /marketing/:name/
+
+  - scope:
+      path: "vm"
+    values:
+      permalink: /vm/:name/
+
+  - scope:
+      path: "store-operations"
+    values:
+      permalink: /store-operations/:name/
+
+  - scope:
+      path: "supply-chain"
+    values:
+      permalink: /supply-chain/:name/
+
+  - scope:
+      path: "training"
+    values:
+      permalink: /training/:name/
