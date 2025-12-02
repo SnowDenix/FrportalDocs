@@ -7,7 +7,7 @@ parent: CRM
 # CRM Customer Segmentation
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup
+> **Prepared by:** Aydınlı Group
 
 ---
 
@@ -30,7 +30,7 @@ parent: CRM
 
 ## Purpose
 
-This document defines the customer segmentation methodology and segment-based marketing strategies at Aydınlı Grup franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel).
+This document defines the customer segmentation methodology and segment-based marketing strategies at Aydınlı Group franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel).
 
 ### Purpose of Segmentation
 
@@ -485,11 +485,11 @@ Winback Rate = (150 / 2,000) × 100 = 7.5%
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

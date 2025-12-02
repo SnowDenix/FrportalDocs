@@ -475,5 +475,5 @@ How may I assist you?"
 
 | Date | Version | Editor | Change |
 |------|---------|--------|--------|
-| 01.12.2025 | 1.0 | Aydınlı Grup Training HQ | Initial version created - As men's fashion brand |
+| 01.12.2025 | 1.0 | Aydınlı Group Training HQ | Initial version created - As men's fashion brand |
 

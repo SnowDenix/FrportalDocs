@@ -7,7 +7,7 @@ parent: Marketing
 # POSM Guidelines
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup  
+> **Prepared by:** Aydınlı Group  
 > **Brands:** U.S. Polo Assn., Pierre Cardin, Cacharel
 
 ---
@@ -33,7 +33,7 @@ parent: Marketing
 
 ## Purpose
 
-This document provides comprehensive guidelines for Point of Sale Materials (POSM) management across all Aydınlı Grup franchise locations. It ensures consistent, high-quality visual communication at the point of purchase, supporting brand image and driving sales.
+This document provides comprehensive guidelines for Point of Sale Materials (POSM) management across all Aydınlı Group franchise locations. It ensures consistent, high-quality visual communication at the point of purchase, supporting brand image and driving sales.
 
 ### POSM Objectives
 
@@ -638,7 +638,7 @@ Launch Day:
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

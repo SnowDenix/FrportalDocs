@@ -8,7 +8,7 @@ permalink: /guidelines/store-operations-guideline-en/
 # Store Operations Guidelines
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup  
+> **Prepared by:** Aydınlı Group  
 > **Scope:** Daily operations, returns/exchanges, damage, price management, inventory procedures
 
 ---
@@ -584,11 +584,11 @@ Regional Manager: ___________
 
 | Version | Date | Change | Prepared By |
 |---------|------|--------|-------------|
-| 1.0 | 2025-12-01 | Initial version created | Aydınlı Grup |
+| 1.0 | 2025-12-01 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

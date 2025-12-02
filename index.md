@@ -104,7 +104,7 @@ Erkek modası segmentinde şık ve modern koleksiyonlar sunan Fransız markası.
 ## Yardım & Destek
 
 {: .important }
-> Sorularınız veya geri bildirimleriniz için Franchise Operations ekibi ile iletişime geçiniz.
+> Sorularınız veya geri bildirimleriniz için Franchise Operations ekibi ile iletişime geçiniz: **franchise@aydinli.com.tr**
 
 ---
 

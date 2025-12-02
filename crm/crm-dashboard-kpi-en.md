@@ -7,7 +7,7 @@ parent: CRM
 # CRM Dashboard and KPI Guide
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup
+> **Prepared by:** Aydınlı Group
 
 ---
 
@@ -29,7 +29,7 @@ parent: CRM
 
 ## Purpose
 
-This document explains the KPIs used to track CRM performance and dashboard usage at Aydınlı Grup franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel).
+This document explains the KPIs used to track CRM performance and dashboard usage at Aydınlı Group franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel).
 
 ### Dashboard Purpose
 
@@ -569,11 +569,11 @@ FCR % = (Resolved on First Contact / Total Tickets) × 100
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

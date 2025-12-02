@@ -151,5 +151,6 @@ This documentation is proprietary and confidential. Distribution is limited to a
 
 ---
 
-*Prepared by Aydınlı Grup Franchise Operations Team*
+*Prepared by Aydınlı Grup Franchise Operations Team*  
+📧 **Contact:** franchise@aydinli.com.tr
 

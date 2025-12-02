@@ -8,7 +8,7 @@ permalink: /guidelines/vm-guideline-en/
 # Visual Merchandising Guidelines
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup  
+> **Prepared by:** Aydınlı Group  
 > **Brands:** U.S. Polo Assn., Pierre Cardin, Cacharel
 
 ---
@@ -422,11 +422,11 @@ Use maximum 3-4 color combinations per fixture:
 
 | Version | Date | Change | Prepared By |
 |---------|------|--------|-------------|
-| 1.0 | 2025-12-01 | Initial version created | Aydınlı Grup |
+| 1.0 | 2025-12-01 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

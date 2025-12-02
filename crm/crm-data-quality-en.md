@@ -7,7 +7,7 @@ parent: CRM
 # CRM Data Quality Management
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup
+> **Prepared by:** Aydınlı Group
 
 ---
 
@@ -32,7 +32,7 @@ parent: CRM
 
 ## Purpose
 
-This document defines the standards and processes required to ensure and maintain the quality of customer data in the CRM system at Aydınlı Grup franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel).
+This document defines the standards and processes required to ensure and maintain the quality of customer data in the CRM system at Aydınlı Group franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel).
 
 ### Importance of Data Quality
 
@@ -502,11 +502,11 @@ Duplicate Rate = (150 / 10,000) × 100 = 1.5%
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

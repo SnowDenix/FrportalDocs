@@ -7,7 +7,7 @@ parent: CRM
 # CRM Customer Data Policy (GDPR Compliant)
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup
+> **Prepared by:** Aydınlı Group
 
 ---
 
@@ -32,7 +32,7 @@ parent: CRM
 
 ## Purpose
 
-This policy defines the rules for collecting, processing, storing, and protecting customer personal data at Aydınlı Grup franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel) within the framework of GDPR (General Data Protection Regulation) and applicable local data protection laws.
+This policy defines the rules for collecting, processing, storing, and protecting customer personal data at Aydınlı Group franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel) within the framework of GDPR (General Data Protection Regulation) and applicable local data protection laws.
 
 ### Policy Objectives
 
@@ -77,7 +77,7 @@ This policy defines the rules for collecting, processing, storing, and protectin
 |------|------------|
 | **Personal Data** | Any information relating to an identified or identifiable natural person |
 | **Special Category Data** | Race, health, biometric data, and other sensitive data |
-| **Data Controller** | Entity determining the purposes and means of data processing (Aydınlı Grup) |
+| **Data Controller** | Entity determining the purposes and means of data processing (Aydınlı Group) |
 | **Data Processor** | Entity processing data on behalf of the controller |
 | **Explicit Consent** | Freely given, specific, informed, and unambiguous indication of agreement |
 | **Privacy Notice** | Information explaining to customers how their data will be processed |
@@ -233,7 +233,7 @@ The following data **must never be collected**:
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │  I would like to receive marketing communications about         │
-│  campaigns, promotions, and information from Aydınlı Grup       │
+│  campaigns, promotions, and information from Aydınlı Group       │
 │  brands (U.S. Polo Assn., Pierre Cardin, Cacharel):            │
 │                                                                 │
 │  [ ] Via SMS                                                    │
@@ -484,11 +484,11 @@ The following data **must never be collected**:
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

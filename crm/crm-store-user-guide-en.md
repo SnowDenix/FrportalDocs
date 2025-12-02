@@ -7,7 +7,7 @@ parent: CRM
 # Store CRM User Guide
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup
+> **Prepared by:** Aydınlı Group
 
 ---
 
@@ -27,7 +27,7 @@ parent: CRM
 
 ## Purpose
 
-This guide is prepared to enable sales staff working at Aydınlı Grup franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel) to use the CRM system effectively.
+This guide is prepared to enable sales staff working at Aydınlı Group franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel) to use the CRM system effectively.
 
 ### Guide Objectives
 
@@ -452,11 +452,11 @@ Standard points multiplier: Every 1 currency unit = 1 Point
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

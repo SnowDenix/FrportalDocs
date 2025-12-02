@@ -7,7 +7,7 @@ parent: Marketing
 # Brand Guidelines
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup  
+> **Prepared by:** Aydınlı Group  
 > **Brands:** U.S. Polo Assn., Pierre Cardin, Cacharel
 
 ---
@@ -37,7 +37,7 @@ parent: Marketing
 
 ## Purpose
 
-This document establishes the official brand guidelines for U.S. Polo Assn., Pierre Cardin, and Cacharel brands within the Aydınlı Grup franchise network. It ensures consistent brand representation across all touchpoints, protecting brand equity and delivering a unified customer experience worldwide.
+This document establishes the official brand guidelines for U.S. Polo Assn., Pierre Cardin, and Cacharel brands within the Aydınlı Group franchise network. It ensures consistent brand representation across all touchpoints, protecting brand equity and delivering a unified customer experience worldwide.
 
 ### Brand Management Objectives
 
@@ -900,11 +900,11 @@ Implementation
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | December 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

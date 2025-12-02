@@ -7,7 +7,7 @@ parent: CRM
 # CRM Loyalty Program and Campaign Management
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup
+> **Prepared by:** Aydınlı Group
 
 ---
 
@@ -32,7 +32,7 @@ parent: CRM
 
 ## Purpose
 
-This document defines the Loyalty Program and campaign management processes implemented at Aydınlı Grup franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel).
+This document defines the Loyalty Program and campaign management processes implemented at Aydınlı Group franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel).
 
 ### Loyalty Program Objectives
 
@@ -131,7 +131,7 @@ This document defines the Loyalty Program and campaign management processes impl
 
 ### Program Features
 
-The Aydınlı Grup Loyalty Program has a single-tier (flat) structure:
+The Aydınlı Group Loyalty Program has a single-tier (flat) structure:
 
 | Feature | Detail |
 |---------|--------|
@@ -557,11 +557,11 @@ Redemption Rate = (500,000 / 1,500,000) × 100 = 33%
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

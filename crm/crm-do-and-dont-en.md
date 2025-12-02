@@ -7,7 +7,7 @@ parent: CRM
 # CRM Do's and Don'ts
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup
+> **Prepared by:** Aydınlı Group
 
 ---
 
@@ -30,7 +30,7 @@ parent: CRM
 
 ## Purpose
 
-This document defines the mandatory rules and absolutely prohibited actions for CRM usage at Aydınlı Grup franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel).
+This document defines the mandatory rules and absolutely prohibited actions for CRM usage at Aydınlı Group franchise stores (U.S. Polo Assn., Pierre Cardin, Cacharel).
 
 **This document is mandatory for all store staff.**
 
@@ -332,11 +332,11 @@ When violation detected:
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *All store staff are required to comply with the rules in this document.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 

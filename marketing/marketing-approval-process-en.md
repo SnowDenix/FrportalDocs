@@ -7,7 +7,7 @@ parent: Marketing
 # Marketing Approval Process
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup  
+> **Prepared by:** Aydınlı Group  
 > **Brands:** U.S. Polo Assn., Pierre Cardin, Cacharel
 
 ---
@@ -32,7 +32,7 @@ parent: Marketing
 
 ## Purpose
 
-This document establishes the standardized approval process for all marketing activities within the Aydınlı Grup franchise network. It ensures brand compliance, maintains quality standards, and provides clear guidelines for timely approval of marketing initiatives.
+This document establishes the standardized approval process for all marketing activities within the Aydınlı Group franchise network. It ensures brand compliance, maintains quality standards, and provides clear guidelines for timely approval of marketing initiatives.
 
 ### Approval Process Objectives
 
@@ -617,11 +617,11 @@ Step 10: Execute (if approved)
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | December 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

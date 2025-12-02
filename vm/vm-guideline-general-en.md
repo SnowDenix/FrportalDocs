@@ -7,7 +7,7 @@ parent: Visual Merchandising
 # Visual Merchandising General Guidelines
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup  
+> **Prepared by:** Aydınlı Group  
 > **Brands:** U.S. Polo Assn., Pierre Cardin, Cacharel
 
 ---
@@ -36,7 +36,7 @@ parent: Visual Merchandising
 
 ## Purpose
 
-This document provides comprehensive visual merchandising guidelines for all Aydınlı Grup franchise locations. It ensures consistent brand presentation, optimized product visibility, and enhanced customer shopping experience across all stores.
+This document provides comprehensive visual merchandising guidelines for all Aydınlı Group franchise locations. It ensures consistent brand presentation, optimized product visibility, and enhanced customer shopping experience across all stores.
 
 ### VM Objectives
 
@@ -644,11 +644,11 @@ Week +1: Refinement
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | December 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

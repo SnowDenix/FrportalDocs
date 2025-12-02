@@ -513,6 +513,6 @@ The shoulder seam should fall exactly at the shoulder tip. Let me help you with 
 
 | Date | Version | Editor | Change |
 |------|---------|--------|--------|
-| 01.12.2025 | 1.0 | Aydınlı Grup Training HQ | Initial version created |
+| 01.12.2025 | 1.0 | Aydınlı Group Training HQ | Initial version created |
 
 

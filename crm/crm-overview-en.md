@@ -8,7 +8,7 @@ permalink: /crm/crm-overview-en/
 # CRM Overview
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup
+> **Prepared by:** Aydınlı Group
 
 ---
 
@@ -29,7 +29,7 @@ permalink: /crm/crm-overview-en/
 
 ## Purpose
 
-This document defines the overall structure, objectives, and operation of the CRM (Customer Relationship Management) system for U.S. Polo Assn., Pierre Cardin, and Cacharel franchise stores under the Aydınlı Grup umbrella.
+This document defines the overall structure, objectives, and operation of the CRM (Customer Relationship Management) system for U.S. Polo Assn., Pierre Cardin, and Cacharel franchise stores under the Aydınlı Group umbrella.
 
 ### CRM Vision
 
@@ -356,11 +356,11 @@ This document defines the overall structure, objectives, and operation of the CR
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

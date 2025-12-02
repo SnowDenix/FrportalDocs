@@ -7,7 +7,7 @@ parent: Marketing
 # In-Store Communication Guide
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup  
+> **Prepared by:** Aydınlı Group  
 > **Brands:** U.S. Polo Assn., Pierre Cardin, Cacharel
 
 ---
@@ -33,7 +33,7 @@ parent: Marketing
 
 ## Purpose
 
-This document provides comprehensive guidelines for all in-store communication elements across Aydınlı Grup franchise locations. It ensures consistent, clear, and brand-compliant messaging that enhances the customer experience and supports sales objectives.
+This document provides comprehensive guidelines for all in-store communication elements across Aydınlı Group franchise locations. It ensures consistent, clear, and brand-compliant messaging that enhances the customer experience and supports sales objectives.
 
 ### Communication Objectives
 
@@ -596,7 +596,7 @@ Closing Routine:
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

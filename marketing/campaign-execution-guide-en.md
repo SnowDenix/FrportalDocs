@@ -7,7 +7,7 @@ parent: Marketing
 # Campaign Execution Guide
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup  
+> **Prepared by:** Aydınlı Group  
 > **Brands:** U.S. Polo Assn., Pierre Cardin, Cacharel
 
 ---
@@ -36,7 +36,7 @@ parent: Marketing
 
 ## Purpose
 
-This document provides a comprehensive guide for executing marketing campaigns across all Aydınlı Grup franchise locations. It ensures consistent campaign implementation, maximizes impact, and provides a framework for measuring campaign success.
+This document provides a comprehensive guide for executing marketing campaigns across all Aydınlı Group franchise locations. It ensures consistent campaign implementation, maximizes impact, and provides a framework for measuring campaign success.
 
 ### Campaign Execution Objectives
 
@@ -888,11 +888,11 @@ POST-CAMPAIGN:
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | December 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

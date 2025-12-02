@@ -7,7 +7,7 @@ parent: Marketing
 # Digital Assets Usage Guide
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup  
+> **Prepared by:** Aydınlı Group  
 > **Brands:** U.S. Polo Assn., Pierre Cardin, Cacharel
 
 ---
@@ -34,7 +34,7 @@ parent: Marketing
 
 ## Purpose
 
-This document provides comprehensive guidelines for accessing, using, and managing digital marketing assets for U.S. Polo Assn., Pierre Cardin, and Cacharel brands within the Aydınlı Grup franchise network. Proper usage of digital assets ensures brand consistency across all digital touchpoints.
+This document provides comprehensive guidelines for accessing, using, and managing digital marketing assets for U.S. Polo Assn., Pierre Cardin, and Cacharel brands within the Aydınlı Group franchise network. Proper usage of digital assets ensures brand consistency across all digital touchpoints.
 
 ### Digital Asset Management Objectives
 
@@ -674,7 +674,7 @@ Step 10: Use Asset per Guidelines
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 

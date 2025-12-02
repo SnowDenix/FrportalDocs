@@ -7,7 +7,7 @@ parent: Marketing
 # Seasonal Marketing Calendar
 
 > **Last Updated:** December 01, 2025 | **Version:** 1.0  
-> **Prepared by:** Aydınlı Grup  
+> **Prepared by:** Aydınlı Group  
 > **Brands:** U.S. Polo Assn., Pierre Cardin, Cacharel
 
 ---
@@ -35,7 +35,7 @@ parent: Marketing
 
 ## Purpose
 
-This document provides the annual marketing calendar framework for all Aydınlı Grup franchise operations. It ensures coordinated marketing activities across all brands and regions, maximizing commercial opportunities while maintaining brand consistency.
+This document provides the annual marketing calendar framework for all Aydınlı Group franchise operations. It ensures coordinated marketing activities across all brands and regions, maximizing commercial opportunities while maintaining brand consistency.
 
 ### Calendar Objectives
 
@@ -718,11 +718,11 @@ Step 10: Monthly Review and Adjustment
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | December 01, 2025 | Initial version created | Aydınlı Grup |
+| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group |
 
 ---
 
-*This document was prepared by Aydınlı Grup.*  
+*This document was prepared by Aydınlı Group.*  
 *© 2025 Aydınlı Group - All rights reserved.*
 
 
