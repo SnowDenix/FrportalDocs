@@ -1,0 +1,197 @@
+# Site Configuration
+title: "Aydınlı Grup Franchise Retail Documentation"
+description: "Retail Terms, Guidelines & KPI Formulas for Global Franchise Operations"
+author: "Aydınlı Grup Franchise Operations"
+email: "franchise@aydinli-franchise.com"
+url: "https://snowdenix.github.io"
+baseurl: "/FrportalDocs"
+version: "2.0"
+
+# Theme Configuration
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown Settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Build Settings
+sass:
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - package-lock.json
+  - README.md
+  - "*.docx"
+  - .git
+  - .gitignore
+
+# Navigation Structure
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Glossary"
+    url: "/docs/glossary/"
+    children:
+      - title: "Retail Terms"
+        url: "/docs/glossary/retail-terms-en.html"
+      - title: "Finance KPI Formulas"
+        url: "/docs/glossary/finance-kpi-formulas-en.html"
+      - title: "Supply Chain & Logistics Terms"
+        url: "/docs/glossary/supplychain-logistics-terms-en.html"
+  - title: "Guidelines"
+    url: "/docs/guidelines/"
+    children:
+      - title: "VM Guidelines"
+        url: "/docs/guidelines/vm-guideline-en.html"
+      - title: "Store Operations Guidelines"
+        url: "/docs/guidelines/store-operations-guideline-en.html"
+      - title: "Franchise Communication Protocol"
+        url: "/docs/guidelines/franchise-communication-protocol-en.html"
+  - title: "CRM"
+    url: "/docs/crm/"
+    children:
+      - title: "CRM Overview"
+        url: "/docs/crm/crm-overview-en.html"
+      - title: "Store User Guide"
+        url: "/docs/crm/crm-store-user-guide-en.html"
+      - title: "Dashboard KPIs"
+        url: "/docs/crm/crm-dashboard-kpi-en.html"
+      - title: "Customer Segmentation"
+        url: "/docs/crm/crm-customer-segmentation-en.html"
+      - title: "Loyalty Campaigns"
+        url: "/docs/crm/crm-loyalty-campaigns-en.html"
+      - title: "Ticketing Process"
+        url: "/docs/crm/crm-ticketing-process-en.html"
+      - title: "Data Quality"
+        url: "/docs/crm/crm-data-quality-en.html"
+      - title: "Customer Data Policy"
+        url: "/docs/crm/crm-customer-data-policy-en.html"
+      - title: "Do's and Don'ts"
+        url: "/docs/crm/crm-do-and-dont-en.html"
+      - title: "Store CRM Checklist"
+        url: "/docs/crm/crm-store-crm-checklist-en.html"
+  - title: "Marketing"
+    url: "/docs/marketing/"
+    children:
+      - title: "Marketing Overview"
+        url: "/docs/marketing/marketing-overview-en.html"
+      - title: "Brand Guidelines"
+        url: "/docs/marketing/brand-guideline-en.html"
+      - title: "Campaign Execution"
+        url: "/docs/marketing/campaign-execution-guide-en.html"
+      - title: "Seasonal Calendar"
+        url: "/docs/marketing/seasonal-marketing-calendar-en.html"
+      - title: "Digital Assets"
+        url: "/docs/marketing/digital-assets-usage-en.html"
+      - title: "Social Media"
+        url: "/docs/marketing/social-media-localization-guide-en.html"
+      - title: "POSM Guidelines"
+        url: "/docs/marketing/posm-guideline-en.html"
+      - title: "In-Store Communication"
+        url: "/docs/marketing/in-store-communication-guide-en.html"
+      - title: "Approval Process"
+        url: "/docs/marketing/marketing-approval-process-en.html"
+  - title: "Visual Merchandising"
+    url: "/docs/vm/"
+    children:
+      - title: "VM Overview"
+        url: "/docs/vm/vm-overview-en.html"
+      - title: "VM General Guidelines"
+        url: "/docs/vm/vm-guideline-general-en.html"
+      - title: "Window Display"
+        url: "/docs/vm/window-display-guideline-en.html"
+      - title: "In-Store Layout"
+        url: "/docs/vm/in-store-layout-guideline-en.html"
+      - title: "Mannequin Styling"
+        url: "/docs/vm/mannequin-styling-guideline-en.html"
+      - title: "Seasonal Changeover"
+        url: "/docs/vm/seasonal-vm-changeover-en.html"
+  - title: "Store Operations"
+    url: "/docs/store-operations/"
+    children:
+      - title: "Store Operations Overview"
+        url: "/docs/store-operations/store-operations-overview-en.html"
+      - title: "Opening/Closing Procedures"
+        url: "/docs/store-operations/opening-closing-procedures-en.html"
+      - title: "Cash Management"
+        url: "/docs/store-operations/cash-management-guide-en.html"
+      - title: "Customer Service Standards"
+        url: "/docs/store-operations/customer-service-standards-en.html"
+      - title: "Return & Exchange"
+        url: "/docs/store-operations/return-exchange-procedures-en.html"
+      - title: "Inventory Control"
+        url: "/docs/store-operations/inventory-control-guide-en.html"
+      - title: "Loss Prevention"
+        url: "/docs/store-operations/loss-prevention-guide-en.html"
+  - title: "Supply Chain"
+    url: "/docs/supply-chain/"
+    children:
+      - title: "Supply Chain Overview"
+        url: "/docs/supply-chain/supply-chain-overview-en.html"
+      - title: "Order Management"
+        url: "/docs/supply-chain/order-management-guide-en.html"
+      - title: "Delivery & Receiving"
+        url: "/docs/supply-chain/delivery-receiving-procedures-en.html"
+      - title: "Stock Transfer"
+        url: "/docs/supply-chain/stock-transfer-procedures-en.html"
+      - title: "Warehouse Coordination"
+        url: "/docs/supply-chain/warehouse-coordination-guide-en.html"
+      - title: "Shipping & Logistics"
+        url: "/docs/supply-chain/shipping-logistics-guide-en.html"
+  - title: "Training"
+    url: "/docs/training/"
+    children:
+      - title: "Training Overview"
+        url: "/docs/training/training-overview-en.html"
+      - title: "Onboarding Guide"
+        url: "/docs/training/onboarding-guide-en.html"
+      - title: "Product Knowledge"
+        url: "/docs/training/product-knowledge-basics-en.html"
+      - title: "Sales Techniques"
+        url: "/docs/training/sales-techniques-en.html"
+      - title: "Customer Experience"
+        url: "/docs/training/customer-experience-standards-en.html"
+      - title: "Customer Interaction Scenarios"
+        url: "/docs/training/customer-interaction-scenarios-en.html"
+      - title: "Competency Framework"
+        url: "/docs/training/competency-framework-en.html"
+      - title: "Seasonal Training Pack"
+        url: "/docs/training/seasonal-training-pack-en.html"
+      - title: "Training Assessment"
+        url: "/docs/training/training-assessment-en.html"
+      - title: "Brand Supplements"
+        url: "/docs/training/brand-supplement-uspa-en.html"
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
