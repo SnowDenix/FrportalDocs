@@ -1,21 +1,25 @@
-# Site Configuration
 title: "Aydınlı Grup Franchise Retail Documentation"
 description: "Retail Terms, Guidelines & KPI Formulas for Global Franchise Operations"
 author: "Aydınlı Grup Franchise Operations"
 email: "franchise@aydinli-franchise.com"
+
+# Site URL settings for GitHub Pages
+# When using a project site like https://snowdenix.github.io/FrportalDocs/ :
+#   - url     should be the main domain
+#   - baseurl should be the repository name, starting with a slash
 url: "https://snowdenix.github.io"
 baseurl: "/FrportalDocs"
+
 version: "2.0"
 
 # Theme Configuration
 remote_theme: just-the-docs/just-the-docs@v0.8.2
 
-# Plugins
+# Plugins (must be compatible with GitHub Pages)
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-include-cache
 
 # Just the Docs Configuration
 color_scheme: light

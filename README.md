@@ -79,6 +79,52 @@ bundle exec jekyll serve
 
 ---
 
+## Adding New Documentation
+
+### 1. New Section (top-level folder)
+
+1. Create a new folder at the project root, for example `new-section/`.
+2. Inside it, create an `index.md` with front matter similar to:
+
+```markdown
+---
+layout: default
+title: New Section
+nav_order: 10
+has_children: true
+permalink: /new-section/
+---
+
+# New Section
+
+Short description of what this module covers.
+```
+
+3. Add a `## Documents` table in that `index.md` that links to child pages using relative links like `child-doc-en` (no `.md` extension).
+
+### 2. New Child Document within a Section
+
+1. In the relevant section folder (for example `crm/`), add a new file such as `crm-new-topic-en.md`.
+2. Use front matter like:
+
+```markdown
+---
+layout: default
+title: "CRM New Topic – EN"
+parent: CRM
+---
+```
+
+3. Link this new document from the section’s `index.md` table using a relative link (for example `[CRM New Topic](crm-new-topic-en)`).
+
+### 3. Navigation Rules
+
+- Section navigation is driven primarily by each section’s `index.md` page and its documents table.
+- The `parent:` metadata on child pages (for example `parent: CRM`) is used to group items in the Just the Docs sidebar, but the site will still be usable even if the sidebar nesting is imperfect.
+- Do **not** add arbitrary `parent:` values like `parent: info`; always match the section `title` (for example `CRM`, `Glossary`, `Marketing`, `Visual Merchandising`, etc.) or omit `parent:` entirely if you don’t need sidebar nesting.
+
+---
+
 ## License
 
 © 2025 Aydınlı Grup - All rights reserved.
