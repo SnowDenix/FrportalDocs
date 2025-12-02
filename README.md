@@ -79,15 +79,6 @@ bundle exec jekyll serve
 
 ---
 
-## Contact
-
-**Aydınlı Grup Franchise Operations**
-
-- Email: franchise@aydinli-franchise.com
-- Support: support@aydinli-franchise.com
-
----
-
 ## License
 
 © 2025 Aydınlı Grup - All rights reserved.
