@@ -60,6 +60,9 @@ kramdown:
 sass:
   style: compressed
 
+# Use directory-style URLs so child pages work without .html
+permalink: pretty
+
 # Exclude from processing
 exclude:
   - Gemfile
