@@ -2,6 +2,7 @@
 layout: default
 title: "Mağaza Operasyonları Rehberi"
 parent: Guidelines
+permalink: /guidelines/store-operations-guideline-tr/
 ---
 
 # Mağaza Operasyonları Rehberi

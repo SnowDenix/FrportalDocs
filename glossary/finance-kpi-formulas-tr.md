@@ -2,6 +2,7 @@
 layout: default
 title: "Finans KPI Formülleri ve Hesaplamaları"
 parent: Glossary
+permalink: /glossary/finance-kpi-formulas-tr/
 ---
 
 # Finans KPI Formülleri ve Hesaplamaları

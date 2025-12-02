@@ -2,6 +2,7 @@
 layout: default
 title: "Retail Terms Glossary"
 parent: Glossary
+permalink: /glossary/retail-terms-en/
 ---
 
 # Retail Terms Glossary

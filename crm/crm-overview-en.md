@@ -2,6 +2,7 @@
 layout: default
 title: "CRM Overview"
 parent: CRM
+permalink: /crm/crm-overview-en/
 ---
 
 # CRM Overview

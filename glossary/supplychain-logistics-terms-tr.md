@@ -2,6 +2,7 @@
 layout: default
 title: "Tedarik Zinciri ve Lojistik Terimleri Sözlüğü"
 parent: Glossary
+permalink: /glossary/supplychain-logistics-terms-tr/
 ---
 
 # Tedarik Zinciri ve Lojistik Terimleri Sözlüğü

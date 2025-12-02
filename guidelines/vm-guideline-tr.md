@@ -2,6 +2,7 @@
 layout: default
 title: "Visual Merchandising Rehberi"
 parent: Guidelines
+permalink: /guidelines/vm-guideline-tr/
 ---
 
 # Visual Merchandising Rehberi

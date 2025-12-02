@@ -2,6 +2,7 @@
 layout: default
 title: "Finance KPI Formulas and Calculations"
 parent: Glossary
+permalink: /glossary/finance-kpi-formulas-en/
 ---
 
 # Finance KPI Formulas and Calculations

@@ -2,6 +2,7 @@
 layout: default
 title: "Perakende Terimleri Sözlüğü"
 parent: Glossary
+permalink: /glossary/retail-terms-tr/
 ---
 
 # Perakende Terimleri Sözlüğü

@@ -2,6 +2,7 @@
 layout: default
 title: "Store Operations Guidelines"
 parent: Guidelines
+permalink: /guidelines/store-operations-guideline-en/
 ---
 
 # Store Operations Guidelines
