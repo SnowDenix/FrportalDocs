@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Genel Bakış"
-parent: CRM
-nav_order: 14
 ---
 
 # CRM Genel Bakış

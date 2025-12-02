@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "POSM Kılavuzu"
-parent: Marketing
-nav_order: 14
 ---
 
 # POSM Kılavuzu

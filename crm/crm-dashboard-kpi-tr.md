@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Dashboard ve KPI Rehberi"
-parent: CRM
-nav_order: 6
 ---
 
 # CRM Dashboard ve KPI Rehberi

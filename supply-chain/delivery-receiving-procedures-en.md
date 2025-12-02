@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Delivery & Receiving Procedures – EN"
-parent: Supply Chain
-nav_order: 1
 ---
 
 # Delivery & Receiving Procedures – EN

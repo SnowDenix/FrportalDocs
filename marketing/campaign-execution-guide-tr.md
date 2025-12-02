@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Kampanya Uygulama Rehberi"
-parent: Marketing
-nav_order: 4
 ---
 
 # Kampanya Uygulama Rehberi

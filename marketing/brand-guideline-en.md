@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Brand Guidelines"
-parent: Marketing
-nav_order: 1
 ---
 
 # Brand Guidelines

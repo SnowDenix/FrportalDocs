@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Customer Service Standards – EN"
-parent: Store Operations
-nav_order: 3
 ---
 
 # Customer Service Standards – EN

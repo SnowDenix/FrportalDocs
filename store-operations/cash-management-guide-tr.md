@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Nakit Yönetimi Kılavuzu – TR"
-parent: Store Operations
-nav_order: 2
 ---
 
 # Nakit Yönetimi Kılavuzu – TR

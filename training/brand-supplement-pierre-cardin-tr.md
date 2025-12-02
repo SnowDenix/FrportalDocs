@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Pierre Cardin Marka Eğitim Rehberi – TR"
-parent: Training
-nav_order: 4
 ---
 
 # Pierre Cardin Marka Eğitim Rehberi – TR

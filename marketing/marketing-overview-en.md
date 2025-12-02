@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Marketing Overview"
-parent: Marketing
-nav_order: 11
 ---
 
 # Marketing Overview

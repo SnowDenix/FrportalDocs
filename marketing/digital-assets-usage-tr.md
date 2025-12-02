@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Dijital Varlık Kullanım Rehberi"
-parent: Marketing
-nav_order: 6
 ---
 
 # Dijital Varlık Kullanım Rehberi

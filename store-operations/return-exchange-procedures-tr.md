@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "İade ve Değişim Prosedürleri – TR"
-parent: Store Operations
-nav_order: 12
 ---
 
 # İade ve Değişim Prosedürleri – TR

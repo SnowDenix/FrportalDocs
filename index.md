@@ -23,57 +23,16 @@ All documents are provided in **bilingual format (Turkish/English)** to support 
 
 ## Quick Navigation
 
-<div class="nav-cards" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
-
-<div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 20px;">
-<h3>📚 Glossary</h3>
-<p>Retail terms, finance formulas, and logistics terminology</p>
-<a href="{{ site.baseurl }}/glossary/">View Documents →</a>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 20px;">
-<h3>📋 Guidelines</h3>
-<p>Core operational guidelines and protocols</p>
-<a href="{{ site.baseurl }}/guidelines/">View Documents →</a>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 20px;">
-<h3>💼 CRM</h3>
-<p>Customer relationship management documentation</p>
-<a href="{{ site.baseurl }}/crm/">View Documents →</a>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 20px;">
-<h3>📢 Marketing</h3>
-<p>Marketing operations and brand guidelines</p>
-<a href="{{ site.baseurl }}/marketing/">View Documents →</a>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 20px;">
-<h3>🎨 Visual Merchandising</h3>
-<p>VM standards and display guidelines</p>
-<a href="{{ site.baseurl }}/vm/">View Documents →</a>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 20px;">
-<h3>🏪 Store Operations</h3>
-<p>Daily store operations and procedures</p>
-<a href="{{ site.baseurl }}/store-operations/">View Documents →</a>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 20px;">
-<h3>📦 Supply Chain</h3>
-<p>Logistics and procurement procedures</p>
-<a href="{{ site.baseurl }}/supply-chain/">View Documents →</a>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 20px;">
-<h3>🎓 Training</h3>
-<p>Training materials and guides</p>
-<a href="{{ site.baseurl }}/training/">View Documents →</a>
-</div>
-
-</div>
+| Section | Description |
+|---------|-------------|
+| [📚 Glossary](glossary/) | Retail terms, finance formulas, and logistics terminology |
+| [📋 Guidelines](guidelines/) | Core operational guidelines and protocols |
+| [💼 CRM](crm/) | Customer relationship management documentation |
+| [📢 Marketing](marketing/) | Marketing operations and brand guidelines |
+| [🎨 Visual Merchandising](vm/) | VM standards and display guidelines |
+| [🏪 Store Operations](store-operations/) | Daily store operations and procedures |
+| [📦 Supply Chain](supply-chain/) | Logistics and procurement procedures |
+| [🎓 Training](training/) | Training materials and guides |
 
 ---
 
@@ -108,27 +67,25 @@ All documents are provided in **bilingual format (Turkish/English)** to support 
 ## How to Use This Documentation
 
 ### For Store Managers
-1. Start with [Store Operations Overview]({{ site.baseurl }}/store-operations/store-operations-overview-en)
-2. Reference [Opening/Closing Procedures]({{ site.baseurl }}/store-operations/opening-closing-procedures-en) for daily routines
-3. Follow [VM Overview]({{ site.baseurl }}/vm/vm-overview-en) for display standards
-4. Review [Customer Service Standards]({{ site.baseurl }}/store-operations/customer-service-standards-en) for service excellence
+1. Start with [Store Operations Overview](store-operations/store-operations-overview-en)
+2. Reference [Opening/Closing Procedures](store-operations/opening-closing-procedures-en) for daily routines
+3. Follow [VM Overview](vm/vm-overview-en) for display standards
+4. Review [Customer Service Standards](store-operations/customer-service-standards-en) for service excellence
 
 ### For Operations Teams
-1. Review [Supply Chain Overview]({{ site.baseurl }}/supply-chain/supply-chain-overview-en) for logistics
-2. Use [Finance KPI Formulas]({{ site.baseurl }}/glossary/finance-kpi-formulas-en) for performance metrics
-3. Follow [Inventory Control Guide]({{ site.baseurl }}/store-operations/inventory-control-guide-en) for stock management
+1. Review [Supply Chain Overview](supply-chain/supply-chain-overview-en) for logistics
+2. Use [Finance KPI Formulas](glossary/finance-kpi-formulas-en) for performance metrics
+3. Follow [Inventory Control Guide](store-operations/inventory-control-guide-en) for stock management
 
 ### For Marketing Teams
-1. Start with [Marketing Overview]({{ site.baseurl }}/marketing/marketing-overview-en)
-2. Follow [Brand Guidelines]({{ site.baseurl }}/marketing/brand-guideline-en) for brand consistency
-3. Review [Campaign Execution Guide]({{ site.baseurl }}/marketing/campaign-execution-guide-en) for campaigns
-4. Use [Seasonal Marketing Calendar]({{ site.baseurl }}/marketing/seasonal-marketing-calendar-en) for planning
+1. Start with [Marketing Overview](marketing/marketing-overview-en)
+2. Follow [Brand Guidelines](marketing/brand-guideline-en) for brand consistency
+3. Review [Campaign Execution Guide](marketing/campaign-execution-guide-en) for campaigns
 
 ### For Franchise Owners
-1. Understand all KPIs in [Finance Formulas]({{ site.baseurl }}/glossary/finance-kpi-formulas-en)
-2. Review [Communication Protocol]({{ site.baseurl }}/guidelines/franchise-communication-protocol-en)
+1. Understand all KPIs in [Finance Formulas](glossary/finance-kpi-formulas-en)
+2. Review [Communication Protocol](guidelines/franchise-communication-protocol-en)
 3. Ensure teams follow all operational guidelines
-4. Monitor performance with documented KPIs
 
 ---
 
@@ -158,5 +115,3 @@ All documents are provided in **bilingual format (Turkish/English)** to support 
 ---
 
 *© 2025 Aydınlı Grup - All rights reserved. This documentation is proprietary and confidential.*
-
-*Prepared by Aydınlı Grup Franchise Operations Team*

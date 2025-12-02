@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Seasonal Marketing Calendar"
-parent: Marketing
-nav_order: 15
 ---
 
 # Seasonal Marketing Calendar

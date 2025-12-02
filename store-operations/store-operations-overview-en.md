@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Store Operations Overview – EN"
-parent: Store Operations
-nav_order: 13
 ---
 
 # Store Operations Overview – EN

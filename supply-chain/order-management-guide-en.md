@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Order Management Guide – EN"
-parent: Supply Chain
-nav_order: 3
 ---
 
 # Order Management Guide – EN

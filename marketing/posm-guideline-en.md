@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "POSM Guidelines"
-parent: Marketing
-nav_order: 13
 ---
 
 # POSM Guidelines

@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Seasonal VM Changeover Guide – EN"
-parent: Visual Merchandising
-nav_order: 5
 ---
 
 # Seasonal VM Changeover Guide – EN

@@ -7,20 +7,18 @@ url: "https://snowdenix.github.io"
 baseurl: "/FrportalDocs"
 version: "2.0"
 
-# Theme Configuration - Using Just the Docs for documentation
-remote_theme: just-the-docs/just-the-docs
+# Theme Configuration
+remote_theme: just-the-docs/just-the-docs@v0.8.2
 
 # Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 
 # Just the Docs Configuration
 color_scheme: light
-
-# Table of Contents (right side outline for each page)
-# Enabled via has_toc: true in defaults below
 
 # Enable search
 search_enabled: true
@@ -29,9 +27,6 @@ search:
   previews: 3
   preview_words_before: 5
   preview_words_after: 10
-  tokenizer_separator: /[\s/]+/
-  rel_url: true
-  button: false
 
 # Aux links (top right)
 aux_links:
@@ -56,9 +51,6 @@ kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
 
 # Build Settings
 sass:
@@ -69,68 +61,16 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - package.json
-  - package-lock.json
+  - vendor
   - README.md
-  - readme.md
   - "*.docx"
   - .git
   - .gitignore
-  - fix-github-pages-setup.plan.md
   - "*.plan.md"
 
-# Defaults - Apply layout and front matter defaults
+# Defaults
 defaults:
   - scope:
       path: ""
     values:
       layout: "default"
-      has_toc: true
-  - scope:
-      path: "glossary"
-    values:
-      layout: "default"
-      parent: "Glossary"
-      has_toc: true
-  - scope:
-      path: "guidelines"
-    values:
-      layout: "default"
-      parent: "Guidelines"
-      has_toc: true
-  - scope:
-      path: "crm"
-    values:
-      layout: "default"
-      parent: "CRM"
-      has_toc: true
-  - scope:
-      path: "marketing"
-    values:
-      layout: "default"
-      parent: "Marketing"
-      has_toc: true
-  - scope:
-      path: "vm"
-    values:
-      layout: "default"
-      parent: "Visual Merchandising"
-      has_toc: true
-  - scope:
-      path: "store-operations"
-    values:
-      layout: "default"
-      parent: "Store Operations"
-      has_toc: true
-  - scope:
-      path: "supply-chain"
-    values:
-      layout: "default"
-      parent: "Supply Chain"
-      has_toc: true
-  - scope:
-      path: "training"
-    values:
-      layout: "default"
-      parent: "Training"
-      has_toc: true

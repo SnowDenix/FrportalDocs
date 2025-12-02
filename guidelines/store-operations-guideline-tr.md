@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Mağaza Operasyonları Rehberi"
-parent: Guidelines
-nav_order: 4
 ---
 
 # Mağaza Operasyonları Rehberi

@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Mağaza CRM Kullanım Kılavuzu"
-parent: CRM
-nav_order: 18
 ---
 
 # Mağaza CRM Kullanım Kılavuzu

@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Mağaza İçi İletişim Rehberi"
-parent: Marketing
-nav_order: 8
 ---
 
 # Mağaza İçi İletişim Rehberi

@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Müşteri Etkileşim Senaryoları – TR"
-parent: Training
-nav_order: 12
 ---
 
 # Müşteri Etkileşim Senaryoları – TR

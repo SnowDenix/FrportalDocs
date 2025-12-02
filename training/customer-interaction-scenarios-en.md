@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Customer Interaction Scenarios – EN"
-parent: Training
-nav_order: 11
 ---
 
 # Customer Interaction Scenarios – EN

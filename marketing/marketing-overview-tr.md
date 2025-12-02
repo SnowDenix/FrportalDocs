@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Pazarlama Genel Bakış"
-parent: Marketing
-nav_order: 12
 ---
 
 # Pazarlama Genel Bakış

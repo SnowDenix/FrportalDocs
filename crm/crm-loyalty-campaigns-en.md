@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Loyalty Program and Campaign Management"
-parent: CRM
-nav_order: 11
 ---
 
 # CRM Loyalty Program and Campaign Management

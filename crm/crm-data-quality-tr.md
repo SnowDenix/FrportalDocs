@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Veri Kalitesi Yönetimi"
-parent: CRM
-nav_order: 8
 ---
 
 # CRM Veri Kalitesi Yönetimi

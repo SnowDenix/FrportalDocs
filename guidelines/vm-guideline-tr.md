@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Visual Merchandising Rehberi"
-parent: Guidelines
-nav_order: 6
 ---
 
 # Visual Merchandising Rehberi

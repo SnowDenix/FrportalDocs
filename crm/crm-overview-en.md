@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Overview"
-parent: CRM
-nav_order: 13
 ---
 
 # CRM Overview

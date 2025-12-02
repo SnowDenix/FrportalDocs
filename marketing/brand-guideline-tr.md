@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Marka Kılavuzu"
-parent: Marketing
-nav_order: 2
 ---
 
 # Marka Kılavuzu

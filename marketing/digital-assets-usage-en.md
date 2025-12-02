@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Digital Assets Usage Guide"
-parent: Marketing
-nav_order: 5
 ---
 
 # Digital Assets Usage Guide

@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Marketing Approval Process"
-parent: Marketing
-nav_order: 9
 ---
 
 # Marketing Approval Process

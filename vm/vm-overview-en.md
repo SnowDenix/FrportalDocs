@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Visual Merchandising Overview – EN"
-parent: Visual Merchandising
-nav_order: 9
 ---
 
 # Visual Merchandising Overview – EN

@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Mağaza CRM Kontrol Listesi"
-parent: CRM
-nav_order: 16
 ---
 
 # Mağaza CRM Kontrol Listesi

@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Do's and Don'ts"
-parent: CRM
-nav_order: 9
 ---
 
 # CRM Do's and Don'ts

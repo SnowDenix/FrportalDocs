@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "In-Store Communication Guide"
-parent: Marketing
-nav_order: 7
 ---
 
 # In-Store Communication Guide

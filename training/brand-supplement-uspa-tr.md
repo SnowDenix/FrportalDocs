@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "U.S. Polo Assn. Marka Eğitim Rehberi – TR"
-parent: Training
-nav_order: 6
 ---
 
 # U.S. Polo Assn. Marka Eğitim Rehberi – TR

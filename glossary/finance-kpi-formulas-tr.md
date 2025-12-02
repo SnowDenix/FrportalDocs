@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Finans KPI Formülleri ve Hesaplamaları"
-parent: Glossary
-nav_order: 2
 ---
 
 # Finans KPI Formülleri ve Hesaplamaları

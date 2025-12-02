@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Supply Chain & Logistics Overview – EN"
-parent: Supply Chain
-nav_order: 9
 ---
 
 # Supply Chain & Logistics Overview – EN

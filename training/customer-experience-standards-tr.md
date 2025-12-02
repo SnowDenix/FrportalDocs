@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Müşteri Deneyimi Standartları"
-parent: Training
-nav_order: 10
 ---
 
 # Müşteri Deneyimi Standartları

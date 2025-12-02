@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Tedarik Zinciri ve Lojistik Genel Bakış – TR"
-parent: Supply Chain
-nav_order: 10
 ---
 
 # Tedarik Zinciri ve Lojistik Genel Bakış – TR

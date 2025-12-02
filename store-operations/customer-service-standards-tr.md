@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Müşteri Hizmetleri Standartları – TR"
-parent: Store Operations
-nav_order: 4
 ---
 
 # Müşteri Hizmetleri Standartları – TR

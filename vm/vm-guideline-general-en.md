@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Visual Merchandising General Guidelines"
-parent: Visual Merchandising
-nav_order: 7
 ---
 
 # Visual Merchandising General Guidelines

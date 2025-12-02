@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Customer Experience Standards"
-parent: Training
-nav_order: 9
 ---
 
 # Customer Experience Standards

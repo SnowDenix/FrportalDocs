@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Sevkiyat ve Lojistik Kılavuzu – TR"
-parent: Supply Chain
-nav_order: 6
 ---
 
 # Sevkiyat ve Lojistik Kılavuzu – TR

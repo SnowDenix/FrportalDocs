@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Competency Framework"
-parent: Training
-nav_order: 7
 ---
 
 # Competency Framework

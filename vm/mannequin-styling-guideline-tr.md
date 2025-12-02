@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Manken Styling Kılavuzu – TR"
-parent: Visual Merchandising
-nav_order: 4
 ---
 
 # Manken Styling Kılavuzu – TR

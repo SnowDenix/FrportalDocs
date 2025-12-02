@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Stok Transfer Prosedürleri – TR"
-parent: Supply Chain
-nav_order: 8
 ---
 
 # Stok Transfer Prosedürleri – TR

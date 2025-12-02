@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Finance KPI Formulas and Calculations"
-parent: Glossary
-nav_order: 1
 ---
 
 # Finance KPI Formulas and Calculations

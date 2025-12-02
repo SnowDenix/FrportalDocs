@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Supply Chain and Logistics Terms Glossary"
-parent: Glossary
-nav_order: 5
 ---
 
 # Supply Chain and Logistics Terms Glossary

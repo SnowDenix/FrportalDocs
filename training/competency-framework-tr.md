@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Yetkinlik Çerçevesi"
-parent: Training
-nav_order: 8
 ---
 
 # Yetkinlik Çerçevesi

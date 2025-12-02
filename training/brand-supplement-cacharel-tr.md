@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Cacharel Marka Eğitim Rehberi – TR"
-parent: Training
-nav_order: 2
 ---
 
 # Cacharel Marka Eğitim Rehberi – TR

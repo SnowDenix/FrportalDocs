@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Pazarlama Onay Süreci"
-parent: Marketing
-nav_order: 10
 ---
 
 # Pazarlama Onay Süreci

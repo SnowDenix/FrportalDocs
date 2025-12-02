@@ -10,24 +10,21 @@ permalink: /vm/
 
 Visual merchandising standards and display guidelines for stores.
 
-Mağazalar için görsel mağazacılık standartları ve vitrin rehberleri.
-
 ---
 
-## Documents / Belgeler
+## Documents
 
 | Document | Description | Language |
 |----------|-------------|----------|
-| [VM Overview]({{ site.baseurl }}/vm/vm-overview-en) | VM operations overview | English |
-| [VM Genel Bakış]({{ site.baseurl }}/vm/vm-overview-tr) | VM operasyonları genel bakış | Türkçe |
-| [VM General Guidelines]({{ site.baseurl }}/vm/vm-guideline-general-en) | General visual merchandising standards | English |
-| [VM Genel Rehberi]({{ site.baseurl }}/vm/vm-guideline-general-tr) | Genel görsel mağazacılık standartları | Türkçe |
-| [Window Display Guidelines]({{ site.baseurl }}/vm/window-display-guideline-en) | Window display standards | English |
-| [Vitrin Standartları]({{ site.baseurl }}/vm/window-display-guideline-tr) | Vitrin standartları | Türkçe |
-| [In-Store Layout Guidelines]({{ site.baseurl }}/vm/in-store-layout-guideline-en) | Store layout principles | English |
-| [Mağaza Yerleşim Rehberi]({{ site.baseurl }}/vm/in-store-layout-guideline-tr) | Mağaza yerleşim prensipleri | Türkçe |
-| [Mannequin Styling Guidelines]({{ site.baseurl }}/vm/mannequin-styling-guideline-en) | Mannequin styling standards | English |
-| [Manken Stillendirme Rehberi]({{ site.baseurl }}/vm/mannequin-styling-guideline-tr) | Manken stillendirme standartları | Türkçe |
-| [Seasonal VM Changeover]({{ site.baseurl }}/vm/seasonal-vm-changeover-en) | Seasonal VM transition guide | English |
-| [Sezonluk VM Geçişi]({{ site.baseurl }}/vm/seasonal-vm-changeover-tr) | Sezonluk VM geçiş rehberi | Türkçe |
-
+| [VM Overview](vm-overview-en) | VM operations overview | English |
+| [VM Genel Bakış](vm-overview-tr) | VM operasyonları genel bakış | Türkçe |
+| [VM General Guidelines](vm-guideline-general-en) | General visual merchandising standards | English |
+| [VM Genel Rehberi](vm-guideline-general-tr) | Genel görsel mağazacılık standartları | Türkçe |
+| [Window Display Guidelines](window-display-guideline-en) | Window display standards | English |
+| [Vitrin Standartları](window-display-guideline-tr) | Vitrin standartları | Türkçe |
+| [In-Store Layout Guidelines](in-store-layout-guideline-en) | Store layout principles | English |
+| [Mağaza Yerleşim Rehberi](in-store-layout-guideline-tr) | Mağaza yerleşim prensipleri | Türkçe |
+| [Mannequin Styling Guidelines](mannequin-styling-guideline-en) | Mannequin styling standards | English |
+| [Manken Stillendirme Rehberi](mannequin-styling-guideline-tr) | Manken stillendirme standartları | Türkçe |
+| [Seasonal VM Changeover](seasonal-vm-changeover-en) | Seasonal VM transition guide | English |
+| [Sezonluk VM Geçişi](seasonal-vm-changeover-tr) | Sezonluk VM geçiş rehberi | Türkçe |

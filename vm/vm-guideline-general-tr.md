@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Görsel Mağazacılık Genel Kılavuzu"
-parent: Visual Merchandising
-nav_order: 8
 ---
 
 # Görsel Mağazacılık Genel Kılavuzu

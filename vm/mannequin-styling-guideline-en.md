@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Mannequin Styling Guideline – EN"
-parent: Visual Merchandising
-nav_order: 3
 ---
 
 # Mannequin Styling Guideline – EN

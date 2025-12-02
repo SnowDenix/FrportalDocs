@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Customer Data Policy (GDPR Compliant)"
-parent: CRM
-nav_order: 1
 ---
 
 # CRM Customer Data Policy (GDPR Compliant)

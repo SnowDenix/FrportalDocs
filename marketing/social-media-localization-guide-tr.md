@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Sosyal Medya Lokalizasyon Rehberi"
-parent: Marketing
-nav_order: 18
 ---
 
 # Sosyal Medya Lokalizasyon Rehberi

@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Customer Segmentation"
-parent: CRM
-nav_order: 3
 ---
 
 # CRM Customer Segmentation

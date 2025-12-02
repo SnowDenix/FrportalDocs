@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Mağaza Operasyonları Genel Bakış – TR"
-parent: Store Operations
-nav_order: 14
 ---
 
 # Mağaza Operasyonları Genel Bakış – TR

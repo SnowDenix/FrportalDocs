@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Loyalty Programı ve Kampanya Yönetimi"
-parent: CRM
-nav_order: 12
 ---
 
 # CRM Loyalty Programı ve Kampanya Yönetimi

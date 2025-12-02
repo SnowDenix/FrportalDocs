@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Window Display Guideline – EN"
-parent: Visual Merchandising
-nav_order: 11
 ---
 
 # Window Display Guideline – EN

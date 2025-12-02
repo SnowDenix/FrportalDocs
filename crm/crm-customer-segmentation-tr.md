@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Müşteri Segmentasyonu"
-parent: CRM
-nav_order: 4
 ---
 
 # CRM Müşteri Segmentasyonu

@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Social Media Localization Guide"
-parent: Marketing
-nav_order: 17
 ---
 
 # Social Media Localization Guide

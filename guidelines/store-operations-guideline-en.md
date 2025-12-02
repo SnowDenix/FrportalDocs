@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "Store Operations Guidelines"
-parent: Guidelines
-nav_order: 3
 ---
 
 # Store Operations Guidelines

@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Ticketing ve Müşteri Şikayet Yönetimi"
-parent: CRM
-nav_order: 20
 ---
 
 # CRM Ticketing ve Müşteri Şikayet Yönetimi

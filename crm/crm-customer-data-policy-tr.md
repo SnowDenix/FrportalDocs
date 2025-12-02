@@ -1,8 +1,6 @@
 ﻿---
 layout: default
 title: "CRM Müşteri Verileri Politikası (KVKK Uyumlu)"
-parent: CRM
-nav_order: 2
 ---
 
 # CRM Müşteri Verileri Politikası (KVKK Uyumlu)
