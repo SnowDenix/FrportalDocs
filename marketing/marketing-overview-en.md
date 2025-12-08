@@ -42,36 +42,37 @@ parent: Marketing
 <div class="lang-section" data-group="marketing-overview" data-lang="en">
 
 **What this page is for**
-- Framework for franchise marketing: consistent brand execution, measurable performance, and aligned HQ/regional/store actions.
+- Framework for franchise marketing across HQ, regional, and store levels
+- Keeps brand execution consistent and performance measurable
 
 **Scope & coverage**
-- Regions: KSA, Morocco, Balkans.
-- Roles: Store staff, Store Managers, Regional Managers, Franchise Owners, HQ Marketing.
+- Regions: KSA, Morocco, Balkans
+- Roles: Store staff, Store Managers, Regional Managers, Franchise Owners, HQ Marketing
 
 **What good looks like**
-- Brand consistency across ATL/BTL/POSM; campaigns launched on time with approved assets.
-- Targets: +15% awareness YoY, +10% acquisition YoY, retention 35%+, ROMI 3:1, +25% digital engagement.
+- Consistent ATL/BTL/POSM with approved assets, launched on time
+- Targets: +15% awareness YoY; +10% acquisition YoY; retention 35%+; ROMI 3:1; +25% digital engagement
 
 **Per-campaign must-haves**
-- Hero products, channel mix, budget split, KPI targets, reporting cadence, and local adaptations documented.
+- Hero products, channel mix, budget split, KPI targets, reporting cadence, and local adaptations documented
 
 </div>
 
 <div class="lang-section is-hidden" data-group="marketing-overview" data-lang="tr">
 
 **Bu sayfanın amacı**
-- Franchise pazarlamasına çerçeve sağlar: tutarlı marka uygulaması, ölçülebilir performans ve merkez/bölge/mağaza uyumu.
+- Franchise pazarlamasına çerçeve sağlar: tutarlı marka uygulaması ve ölçülebilir performans
 
 **Kapsam ve kapsananlar**
-- Bölgeler: KSA, Fas, Balkanlar.
-- Roller: Mağaza personeli, Mağaza Müdürleri, Bölge Müdürleri, Franchise Sahipleri, Merkez Pazarlama.
+- Bölgeler: KSA, Fas, Balkanlar
+- Roller: Mağaza personeli, Mağaza Müdürleri, Bölge Müdürleri, Franchise Sahipleri, Merkez Pazarlama
 
 **Başarı tanımı**
-- ATL/BTL/POSM için marka tutarlılığı; kampanyalar onaylı varlıklarla zamanında başlar.
-- Hedefler: Yıllık +%15 farkındalık, yıllık +%10 kazanım, %35+ elde tutma, ROMI 3:1, %25 dijital etkileşim artışı.
+- ATL/BTL/POSM için marka tutarlılığı; kampanyalar onaylı varlıklarla zamanında başlar
+- Hedefler: Yıllık +%15 farkındalık; yıllık +%10 kazanım; %35+ elde tutma; ROMI 3:1; %25 dijital etkileşim artışı
 
 **Kampanya başına olmazsa olmazlar**
-- Hero ürünler, kanal karması, bütçe dağılımı, KPI hedefleri, raporlama sıklığı ve yerel adaptasyonlar.
+- Hero ürünler, kanal karması, bütçe dağılımı, KPI hedefleri, raporlama sıklığı ve yerel adaptasyonlar
 
 </div>
 

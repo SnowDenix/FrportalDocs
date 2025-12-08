@@ -14,20 +14,58 @@ parent: Supply Chain
 
 ## Table of Contents
 
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Definitions](#definitions)
-4. [Responsibilities](#responsibilities)
-5. [Process Steps](#process-steps)
-6. [Standards & Rules](#standards--rules)
-7. [Checklists](#checklists)
-8. [Examples / Scenarios](#examples--scenarios)
-9. [KPIs](#kpis)
-10. [Common Issues & Solutions](#common-issues--solutions)
-11. [Revision History](#revision-history)
+1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
+2. [Purpose](#purpose)
+3. [Scope](#scope)
+4. [Definitions](#definitions)
+5. [Responsibilities](#responsibilities)
+6. [Process Steps](#process-steps)
+7. [Standards & Rules](#standards--rules)
+8. [Checklists](#checklists)
+9. [Examples / Scenarios](#examples--scenarios)
+10. [KPIs](#kpis)
+11. [Common Issues & Solutions](#common-issues--solutions)
+12. [Revision History](#revision-history)
 
 ---
 
+## Quick Reference (EN/TR Toggle)
+
+{% include lang-toggle.html group="supply-chain-overview" default="en" %}
+
+<div class="lang-section" data-group="supply-chain-overview" data-lang="en">
+
+**Purpose**
+- End-to-end supply chain view: sourcing, warehousing, distribution, stores
+
+**Scope & roles**
+- Roles: Store Team, Regional Manager, HQ Supply Chain
+- Coverage: orders, receiving, transfers, replenishment, logistics
+
+**Service targets**
+- Stock accuracy ≥98%; on-time delivery; damage reports <24h; balanced allocations
+
+**Per-cycle must-haves**
+- Orders on schedule; ASN/BOL captured; receiving checks done; transfers tracked
+</div>
+
+<div class="lang-section is-hidden" data-group="supply-chain-overview" data-lang="tr">
+
+**Amaç**
+- Uçtan uca tedarik zinciri görünümü: tedarik, depolama, dağıtım, mağazalar
+
+**Kapsam ve roller**
+- Roller: Mağaza Ekibi, Bölge Müdürü, Merkez Tedarik Zinciri
+- Kapsam: sipariş, teslim alma, transfer, yenileme, lojistik
+
+**Hizmet hedefleri**
+- Stok doğruluğu ≥%98; zamanında teslimat; hasar raporu <24s; dengeli tahsis
+
+**Döngü bazlı olmazsa olmazlar**
+- Siparişler zamanında; ASN/BOL kaydı; kabul kontrolleri; transfer takibi
+</div>
+
+---
 ## Purpose
 
 This document provides a comprehensive overview of supply chain and logistics operations for Aydınlı Group franchise partners. Efficient supply chain management ensures product availability, inventory optimization, and customer satisfaction across all retail locations.

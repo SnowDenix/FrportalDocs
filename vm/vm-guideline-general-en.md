@@ -14,26 +14,64 @@ parent: Visual Merchandising
 
 ## Table of Contents
 
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Definitions](#definitions)
-4. [Responsibilities](#responsibilities)
-5. [VM Principles](#vm-principles)
-6. [Store Zoning](#store-zoning)
-7. [Product Presentation](#product-presentation)
-8. [Mannequin & Form Standards](#mannequin--form-standards)
-9. [Fixture Guidelines](#fixture-guidelines)
-10. [Color & Theme Management](#color--theme-management)
-11. [Lighting Standards](#lighting-standards)
-12. [Seasonal VM Calendar](#seasonal-vm-calendar)
-13. [Process Steps](#process-steps)
-14. [Standards & Rules](#standards--rules)
-15. [KPIs](#kpis)
-16. [Common Issues & Solutions](#common-issues--solutions)
-17. [Revision History](#revision-history)
+1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
+2. [Purpose](#purpose)
+3. [Scope](#scope)
+4. [Definitions](#definitions)
+5. [Responsibilities](#responsibilities)
+6. [VM Principles](#vm-principles)
+7. [Store Zoning](#store-zoning)
+8. [Product Presentation](#product-presentation)
+9. [Mannequin & Form Standards](#mannequin--form-standards)
+10. [Fixture Guidelines](#fixture-guidelines)
+11. [Color & Theme Management](#color--theme-management)
+12. [Lighting Standards](#lighting-standards)
+13. [Seasonal VM Calendar](#seasonal-vm-calendar)
+14. [Process Steps](#process-steps)
+15. [Standards & Rules](#standards--rules)
+16. [KPIs](#kpis)
+17. [Common Issues & Solutions](#common-issues--solutions)
+18. [Revision History](#revision-history)
 
 ---
 
+## Quick Reference (EN/TR Toggle)
+
+{% include lang-toggle.html group="vm-guideline-general" default="en" %}
+
+<div class="lang-section" data-group="vm-guideline-general" data-lang="en">
+
+**Purpose**
+- Ensure consistent, high-impact visual merchandising across all stores
+
+**Scope & roles**
+- Roles: Store Staff, Store Manager, VM Specialist, Regional Manager, HQ VM
+- Coverage: windows, floor sets, fixtures, lighting, signage, seasonal displays
+
+**Success targets**
+- Brand expression is consistent; focal points clear; capacity and sightlines optimized
+
+**Daily/seasonal must-haves**
+- Daily recovery and compliance checks; seasonal floor sets executed on time; window updates per calendar
+</div>
+
+<div class="lang-section is-hidden" data-group="vm-guideline-general" data-lang="tr">
+
+**Amaç**
+- Tüm mağazalarda tutarlı ve etkili görsel mağazacılık sağlamak
+
+**Kapsam ve roller**
+- Roller: Mağaza Personeli, Mağaza Müdürü, VM Uzmanı, Bölge Müdürü, Merkez VM
+- Kapsam: vitrinler, kat setleri, fikstürler, aydınlatma, tabelalar, sezonluk displaylar
+
+**Başarı hedefleri**
+- Marka ifadesi tutarlı; odak noktaları net; kapasite ve görüş hatları optimize
+
+**Günlük/sezonluk olmazsa olmazlar**
+- Günlük toparlama ve uyum kontrolleri; sezonluk kat setleri zamanında; vitrin güncellemeleri takvime göre
+</div>
+
+---
 ## Purpose
 
 This document provides comprehensive visual merchandising guidelines for all Aydınlı Group franchise locations. It ensures consistent brand presentation, optimized product visibility, and enhanced customer shopping experience across all stores.

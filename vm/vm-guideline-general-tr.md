@@ -14,26 +14,64 @@ parent: Visual Merchandising
 
 ## İçindekiler
 
-1. [Amaç](#amaç)
-2. [Kapsam](#kapsam)
-3. [Tanımlar](#tanımlar)
-4. [Sorumluluklar](#sorumluluklar)
-5. [VM İlkeleri](#vm-ilkeleri)
-6. [Mağaza Bölgeleme](#mağaza-bölgeleme)
-7. [Ürün Sunumu](#ürün-sunumu)
-8. [Manken ve Form Standartları](#manken-ve-form-standartları)
-9. [Fikstür Kılavuzları](#fikstür-kılavuzları)
-10. [Renk ve Tema Yönetimi](#renk-ve-tema-yönetimi)
-11. [Aydınlatma Standartları](#aydınlatma-standartları)
-12. [Sezonluk VM Takvimi](#sezonluk-vm-takvimi)
-13. [Süreç Adımları](#süreç-adımları)
-14. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-15. [KPI'lar](#kpilar)
-16. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-17. [Revizyon Geçmişi](#revizyon-geçmişi)
+1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
+2. [Amaç](#amaç)
+3. [Kapsam](#kapsam)
+4. [Tanımlar](#tanımlar)
+5. [Sorumluluklar](#sorumluluklar)
+6. [VM İlkeleri](#vm-ilkeleri)
+7. [Mağaza Bölgeleme](#mağaza-bölgeleme)
+8. [Ürün Sunumu](#ürün-sunumu)
+9. [Manken ve Form Standartları](#manken-ve-form-standartları)
+10. [Fikstür Kılavuzları](#fikstür-kılavuzları)
+11. [Renk ve Tema Yönetimi](#renk-ve-tema-yönetimi)
+12. [Aydınlatma Standartları](#aydınlatma-standartları)
+13. [Sezonluk VM Takvimi](#sezonluk-vm-takvimi)
+14. [Süreç Adımları](#süreç-adımları)
+15. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
+16. [KPI'lar](#kpilar)
+17. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+18. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 ---
 
+## Hızlı Bakış (EN/TR Toggle)
+
+{% include lang-toggle.html group="vm-guideline-general" default="tr" %}
+
+<div class="lang-section" data-group="vm-guideline-general" data-lang="tr">
+
+**Amaç**
+- Tüm mağazalarda tutarlı ve etkili görsel mağazacılık sağlamak
+
+**Kapsam ve roller**
+- Roller: Mağaza Personeli, Mağaza Müdürü, VM Uzmanı, Bölge Müdürü, Merkez VM
+- Kapsam: vitrinler, kat setleri, fikstürler, aydınlatma, tabelalar, sezonluk displaylar
+
+**Başarı hedefleri**
+- Marka ifadesi tutarlı; odak noktaları net; kapasite ve görüş hatları optimize
+
+**Günlük/sezonluk olmazsa olmazlar**
+- Günlük toparlama ve uyum kontrolleri; sezonluk kat setleri zamanında; vitrin güncellemeleri takvime göre
+</div>
+
+<div class="lang-section is-hidden" data-group="vm-guideline-general" data-lang="en">
+
+**Purpose**
+- Ensure consistent, high-impact visual merchandising across all stores
+
+**Scope & roles**
+- Roles: Store Staff, Store Manager, VM Specialist, Regional Manager, HQ VM
+- Coverage: windows, floor sets, fixtures, lighting, signage, seasonal displays
+
+**Success targets**
+- Brand expression is consistent; focal points clear; capacity and sightlines optimized
+
+**Daily/seasonal must-haves**
+- Daily recovery and compliance checks; seasonal floor sets executed on time; window updates per calendar
+</div>
+
+---
 ## Amaç
 
 Bu belge, tüm Aydınlı Grup franchise lokasyonları için kapsamlı görsel mağazacılık kılavuzlarını sunar. Tüm mağazalarda tutarlı marka sunumu, optimize edilmiş ürün görünürlüğü ve geliştirilmiş müşteri alışveriş deneyimi sağlar.

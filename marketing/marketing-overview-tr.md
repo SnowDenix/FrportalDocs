@@ -14,22 +14,64 @@ parent: Marketing
 
 ## İçindekiler
 
-1. [Amaç](#amaç)
-2. [Kapsam](#kapsam)
-3. [Tanımlar](#tanımlar)
-4. [Sorumluluklar](#sorumluluklar)
-5. [Pazarlama Yapısı](#pazarlama-yapısı)
-6. [Marka Pazarlama Sütunları](#marka-pazarlama-sütunları)
-7. [Pazarlama Takvimi Çerçevesi](#pazarlama-takvimi-çerçevesi)
-8. [Kampanya Türleri](#kampanya-türleri)
-9. [Pazarlama Kanalları](#pazarlama-kanalları)
-10. [Bütçe Planlaması](#bütçe-planlaması)
-11. [Performans Ölçümü](#performans-ölçümü)
-12. [Süreç Adımları](#süreç-adımları)
-13. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-14. [KPI'lar](#kpilar)
-15. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-16. [Revizyon Geçmişi](#revizyon-geçmişi)
+1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
+2. [Amaç](#amaç)
+3. [Kapsam](#kapsam)
+4. [Tanımlar](#tanımlar)
+5. [Sorumluluklar](#sorumluluklar)
+6. [Pazarlama Yapısı](#pazarlama-yapısı)
+7. [Marka Pazarlama Sütunları](#marka-pazarlama-sütunları)
+8. [Pazarlama Takvimi Çerçevesi](#pazarlama-takvimi-çerçevesi)
+9. [Kampanya Türleri](#kampanya-türleri)
+10. [Pazarlama Kanalları](#pazarlama-kanalları)
+11. [Bütçe Planlaması](#bütçe-planlaması)
+12. [Performans Ölçümü](#performans-ölçümü)
+13. [Süreç Adımları](#süreç-adımları)
+14. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
+15. [KPI'lar](#kpilar)
+16. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+17. [Revizyon Geçmişi](#revizyon-geçmişi)
+
+---
+
+## Hızlı Bakış (EN/TR Toggle)
+
+{% include lang-toggle.html group="marketing-overview" default="tr" %}
+
+<div class="lang-section" data-group="marketing-overview" data-lang="tr">
+
+**Bu sayfanın amacı**
+- Franchise pazarlamasına çerçeve sağlar: tutarlı marka uygulaması ve ölçülebilir performans
+
+**Kapsam ve roller**
+- Bölgeler: KSA, Fas, Balkanlar
+- Roller: Mağaza personeli, Mağaza Müdürleri, Bölge Müdürleri, Franchise Sahipleri, Merkez Pazarlama
+
+**Başarı tanımı**
+- ATL/BTL/POSM için marka tutarlılığı; kampanyalar onaylı varlıklarla zamanında başlar
+- Hedefler: Yıllık +%15 farkındalık; yıllık +%10 kazanım; %35+ elde tutma; ROMI 3:1; %25 dijital etkileşim artışı
+
+**Kampanya başına olmazsa olmazlar**
+- Hero ürünler, kanal karması, bütçe dağılımı, KPI hedefleri, raporlama sıklığı ve yerel adaptasyonlar
+</div>
+
+<div class="lang-section is-hidden" data-group="marketing-overview" data-lang="en">
+
+**What this page is for**
+- Framework for franchise marketing across HQ, regional, and store levels
+- Keeps brand execution consistent and performance measurable
+
+**Scope & coverage**
+- Regions: KSA, Morocco, Balkans
+- Roles: Store staff, Store Managers, Regional Managers, Franchise Owners, HQ Marketing
+
+**What good looks like**
+- Consistent ATL/BTL/POSM with approved assets, launched on time
+- Targets: +15% awareness YoY; +10% acquisition YoY; retention 35%+; ROMI 3:1; +25% digital engagement
+
+**Per-campaign must-haves**
+- Hero products, channel mix, budget split, KPI targets, reporting cadence, and local adaptations documented
+</div>
 
 ---
 

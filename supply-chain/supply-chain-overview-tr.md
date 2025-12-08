@@ -14,20 +14,58 @@ parent: Supply Chain
 
 ## İçindekiler
 
-1. [Amaç](#amaç)
-2. [Kapsam](#kapsam)
-3. [Tanımlar](#tanımlar)
-4. [Sorumluluklar](#sorumluluklar)
-5. [Süreç Adımları](#süreç-adımları)
-6. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-7. [Kontrol Listeleri](#kontrol-listeleri)
-8. [Örnekler / Senaryolar](#örnekler--senaryolar)
-9. [KPI'lar](#kpilar)
-10. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-11. [Revizyon Geçmişi](#revizyon-geçmişi)
+1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
+2. [Amaç](#amaç)
+3. [Kapsam](#kapsam)
+4. [Tanımlar](#tanımlar)
+5. [Sorumluluklar](#sorumluluklar)
+6. [Süreç Adımları](#süreç-adımları)
+7. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
+8. [Kontrol Listeleri](#kontrol-listeleri)
+9. [Örnekler / Senaryolar](#örnekler--senaryolar)
+10. [KPI'lar](#kpilar)
+11. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+12. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 ---
 
+## Hızlı Bakış (EN/TR Toggle)
+
+{% include lang-toggle.html group="supply-chain-overview" default="tr" %}
+
+<div class="lang-section" data-group="supply-chain-overview" data-lang="tr">
+
+**Amaç**
+- Uçtan uca tedarik zinciri görünümü: tedarik, depolama, dağıtım, mağazalar
+
+**Kapsam ve roller**
+- Roller: Mağaza Ekibi, Bölge Müdürü, Merkez Tedarik Zinciri
+- Kapsam: sipariş, teslim alma, transfer, yenileme, lojistik
+
+**Hizmet hedefleri**
+- Stok doğruluğu ≥%98; zamanında teslimat; hasar raporu <24s; dengeli tahsis
+
+**Döngü bazlı olmazsa olmazlar**
+- Siparişler zamanında; ASN/BOL kaydı; kabul kontrolleri; transfer takibi
+</div>
+
+<div class="lang-section is-hidden" data-group="supply-chain-overview" data-lang="en">
+
+**Purpose**
+- End-to-end supply chain view: sourcing, warehousing, distribution, stores
+
+**Scope & roles**
+- Roles: Store Team, Regional Manager, HQ Supply Chain
+- Coverage: orders, receiving, transfers, replenishment, logistics
+
+**Service targets**
+- Stock accuracy ≥98%; on-time delivery; damage reports <24h; balanced allocations
+
+**Per-cycle must-haves**
+- Orders on schedule; ASN/BOL captured; receiving checks done; transfers tracked
+</div>
+
+---
 ## Amaç
 
 Bu doküman, Aydınlı Grup franchise ortakları için tedarik zinciri ve lojistik operasyonlarına kapsamlı bir genel bakış sunmaktadır. Verimli tedarik zinciri yönetimi, tüm perakende lokasyonlarında ürün bulunabilirliği, envanter optimizasyonu ve müşteri memnuniyetini sağlar.

@@ -14,17 +14,58 @@ parent: Store Operations
 
 ## Table of Contents
 
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Definitions](#definitions)
-4. [Responsibilities](#responsibilities)
-5. [Process Steps](#process-steps)
-6. [Standards & Rules](#standards--rules)
-7. [Checklists](#checklists)
-8. [Examples / Scenarios](#examples--scenarios)
-9. [KPIs](#kpis)
-10. [Common Issues & Solutions](#common-issues--solutions)
-11. [Revision History](#revision-history)
+1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
+2. [Purpose](#purpose)
+3. [Scope](#scope)
+4. [Definitions](#definitions)
+5. [Responsibilities](#responsibilities)
+6. [Process Steps](#process-steps)
+7. [Standards & Rules](#standards--rules)
+8. [Checklists](#checklists)
+9. [Examples / Scenarios](#examples--scenarios)
+10. [KPIs](#kpis)
+11. [Common Issues & Solutions](#common-issues--solutions)
+12. [Revision History](#revision-history)
+
+---
+
+## Quick Reference (EN/TR Toggle)
+
+{% include lang-toggle.html group="store-ops-overview" default="en" %}
+
+<div class="lang-section" data-group="store-ops-overview" data-lang="en">
+
+**Purpose**
+- One-stop view of store operations standards and daily cadence
+
+**Scope & roles**
+- Applies to all formats (Flagship, Standard, Compact, Shop-in-Shop, Outlet)
+- Roles: Store Staff, Shift Supervisor, Store Manager, Regional Manager
+
+**Daily must-haves**
+- Opening/closing checklists completed; cash controls intact; VM maintained
+- Safety, compliance, and customer service standards met every shift
+
+**KPIs to watch**
+- Conversion, UPT, ATV, shrinkage, customer issue resolution time
+</div>
+
+<div class="lang-section is-hidden" data-group="store-ops-overview" data-lang="tr">
+
+**Amaç**
+- Mağaza operasyonu standartları ve günlük akışın tek noktadan özeti
+
+**Kapsam ve roller**
+- Tüm formatlar: Flagship, Standart, Kompakt, Shop-in-Shop, Outlet
+- Roller: Mağaza Personeli, Vardiya Sorumlusu, Mağaza Müdürü, Bölge Müdürü
+
+**Günlük olmazsa olmazlar**
+- Açılış/kapanış kontrol listeleri; kasa kontrolleri; VM düzeni
+- Güvenlik, uyum ve müşteri hizmeti standartları her vardiyada sağlanır
+
+**İzlenecek KPI’lar**
+- Dönüşüm, UPT, ATV, fire, müşteri sorun çözüm süresi
+</div>
 
 ---
 

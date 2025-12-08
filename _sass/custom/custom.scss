@@ -432,28 +432,30 @@ tr:last-child td {
 // -----------------------------------------------------------------------------
 .lang-toggle {
   display: inline-flex;
-  gap: 0.5rem;
-  margin: 0.75rem 0 1rem;
-  padding: 0.35rem;
+  gap: 0.25rem;
+  margin: 0.5rem 0 0.75rem;
+  padding: 0.35rem 0.4rem;
   background: $dark-bg-secondary;
   border: 1px solid $dark-border;
   border-radius: 8px;
+  align-items: center;
 }
 
 .lang-toggle-btn {
   background: transparent;
   border: 1px solid $dark-border;
   color: $dark-text-secondary;
-  padding: 0.35rem 0.9rem;
+  padding: 0.35rem 0.8rem;
   border-radius: 6px;
   cursor: pointer;
   transition: all 0.15s ease;
+  font-size: 0.95rem;
 
   &.is-active {
     background: $brand-primary;
     color: #fff;
     border-color: $brand-primary;
-    box-shadow: 0 4px 12px rgba($brand-primary, 0.35);
+    box-shadow: 0 2px 8px rgba($brand-primary, 0.3);
   }
 
   &:hover {
@@ -464,5 +466,18 @@ tr:last-child td {
 
 .lang-section.is-hidden {
   display: none;
+}
+
+.lang-section {
+  margin-top: 0.35rem;
+
+  p,
+  ul {
+    margin-bottom: 0.6rem;
+  }
+
+  ul {
+    padding-left: 1.1rem;
+  }
 }
 

@@ -14,17 +14,58 @@ parent: Store Operations
 
 ## İçindekiler
 
-1. [Amaç](#amaç)
-2. [Kapsam](#kapsam)
-3. [Tanımlar](#tanımlar)
-4. [Sorumluluklar](#sorumluluklar)
-5. [Süreç Adımları](#süreç-adımları)
-6. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-7. [Kontrol Listeleri](#kontrol-listeleri)
-8. [Örnekler / Senaryolar](#örnekler--senaryolar)
-9. [KPI'lar](#kpilar)
-10. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-11. [Revizyon Geçmişi](#revizyon-geçmişi)
+1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
+2. [Amaç](#amaç)
+3. [Kapsam](#kapsam)
+4. [Tanımlar](#tanımlar)
+5. [Sorumluluklar](#sorumluluklar)
+6. [Süreç Adımları](#süreç-adımları)
+7. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
+8. [Kontrol Listeleri](#kontrol-listeleri)
+9. [Örnekler / Senaryolar](#örnekler--senaryolar)
+10. [KPI'lar](#kpilar)
+11. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+12. [Revizyon Geçmişi](#revizyon-geçmişi)
+
+---
+
+## Hızlı Bakış (EN/TR Toggle)
+
+{% include lang-toggle.html group="store-ops-overview" default="tr" %}
+
+<div class="lang-section" data-group="store-ops-overview" data-lang="tr">
+
+**Amaç**
+- Mağaza operasyonu standartları ve günlük akışın tek noktadan özeti
+
+**Kapsam ve roller**
+- Formatlar: Flagship, Standart, Kompakt, Shop-in-Shop, Outlet
+- Roller: Mağaza Personeli, Vardiya Sorumlusu, Mağaza Müdürü, Bölge Müdürü
+
+**Günlük olmazsa olmazlar**
+- Açılış/kapanış kontrol listeleri; kasa kontrolleri; VM düzeni
+- Güvenlik, uyum ve müşteri hizmeti standartları her vardiyada sağlanır
+
+**İzlenecek KPI’lar**
+- Dönüşüm, UPT, ATV, fire, müşteri sorun çözüm süresi
+</div>
+
+<div class="lang-section is-hidden" data-group="store-ops-overview" data-lang="en">
+
+**Purpose**
+- Single view of store operations standards and daily cadence
+
+**Scope & roles**
+- Formats: Flagship, Standard, Compact, Shop-in-Shop, Outlet
+- Roles: Store Staff, Shift Supervisor, Store Manager, Regional Manager
+
+**Daily must-haves**
+- Opening/closing checklists; cash controls; VM upkeep
+- Safety, compliance, and customer service standards met per shift
+
+**KPIs to watch**
+- Conversion, UPT, ATV, shrinkage, customer issue resolution time
+</div>
 
 ---
 

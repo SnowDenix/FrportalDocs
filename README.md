@@ -141,6 +141,15 @@ permalink: /crm/crm-new-topic-en/
 - For bilingual pages, use the `{% include lang-toggle.html %}` pattern (see the style guide) and wrap English/Turkish blocks in `lang-section` containers with matching `data-group`.
 - Example implementation: `marketing/marketing-overview-en.md` includes a bilingual quick view using this pattern.
 
+### Converting Existing Modules to the Bilingual Pattern
+
+When converting a section pair (EN/TR):
+- Keep front matter aligned (layout/title/parent/permalink).
+- Add a “Quick Reference (EN/TR Toggle)” section near the top with `{% include lang-toggle.html group="unique-name" %}` and paired `lang-section` blocks.
+- Update the table of contents to include the quick reference entry.
+- Keep English and Turkish content scoped to the same page to avoid duplicate nav entries.
+- Re-run a quick visual check: toggle buttons active state, spacing, and lists render correctly.
+
 ---
 
 ## Deployment

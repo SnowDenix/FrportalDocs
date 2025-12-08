@@ -13,16 +13,55 @@ parent: CRM
 
 ## İçindekiler
 
-1. [Amaç](#amaç)
-2. [Kapsam](#kapsam)
-3. [Tanımlar](#tanımlar)
-4. [Sorumluluklar](#sorumluluklar)
-5. [CRM Sistem Mimarisi](#crm-sistem-mimarisi)
-6. [Veri Akışı](#veri-akışı)
-7. [Ekran Görüntüleri](#ekran-görüntüleri)
-8. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-9. [Mağaza İpuçları](#mağaza-ipuçları)
-10. [Revizyon Geçmişi](#revizyon-geçmişi)
+1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
+2. [Amaç](#amaç)
+3. [Kapsam](#kapsam)
+4. [Tanımlar](#tanımlar)
+5. [Sorumluluklar](#sorumluluklar)
+6. [CRM Sistem Mimarisi](#crm-sistem-mimarisi)
+7. [Veri Akışı](#veri-akışı)
+8. [Ekran Görüntüleri](#ekran-görüntüleri)
+9. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+10. [Mağaza İpuçları](#mağaza-ipuçları)
+11. [Revizyon Geçmişi](#revizyon-geçmişi)
+
+---
+
+## Hızlı Bakış (EN/TR Toggle)
+
+{% include lang-toggle.html group="crm-overview" default="tr" %}
+
+<div class="lang-section" data-group="crm-overview" data-lang="tr">
+
+**Bu sayfanın amacı**
+- CRM için çerçeve: veri kalitesi, izin toplama, loyalty ve ticket yönetimi
+
+**Kapsam ve roller**
+- Mağaza personeli, Mağaza Müdürleri, Bölge Müdürleri, Franchise Sahipleri
+- Süreçler: kayıt, eşleştirme, loyalty, kampanya, ticket, raporlama
+
+**Başarı hedefleri**
+- Temiz veri (mükerrer < %1), izinlerin toplanması, loyalty kullanımı artışı, ticket SLA’ları
+
+**Mağaza olmazsa olmazları**
+- Günlük KPI kontrolü, mükerrer temizlik, ödeme noktasında izin toplama, ticket takibi
+</div>
+
+<div class="lang-section is-hidden" data-group="crm-overview" data-lang="en">
+
+**What this page is for**
+- CRM guardrails: data quality, permissions, loyalty, ticketing
+
+**Scope & roles**
+- Store Staff, Store Managers, Regional Managers, Franchise Owners
+- Processes: registration, matching, loyalty, campaigns, ticketing, reporting
+
+**Success targets**
+- Clean data (duplicates <1%), permissions captured, loyalty usage up, ticket SLAs met
+
+**Store essentials**
+- Daily KPI check, duplicate cleanup, permissions at checkout, ticket follow-up
+</div>
 
 ---
 

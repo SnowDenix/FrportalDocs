@@ -14,16 +14,55 @@ permalink: /crm/crm-overview-en/
 
 ## Table of Contents
 
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Definitions](#definitions)
-4. [Responsibilities](#responsibilities)
-5. [CRM System Architecture](#crm-system-architecture)
-6. [Data Flow](#data-flow)
-7. [Screenshots](#screenshots)
-8. [Common Issues & Solutions](#common-issues--solutions)
-9. [Store Tips](#store-tips)
-10. [Revision History](#revision-history)
+1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
+2. [Purpose](#purpose)
+3. [Scope](#scope)
+4. [Definitions](#definitions)
+5. [Responsibilities](#responsibilities)
+6. [CRM System Architecture](#crm-system-architecture)
+7. [Data Flow](#data-flow)
+8. [Screenshots](#screenshots)
+9. [Common Issues & Solutions](#common-issues--solutions)
+10. [Store Tips](#store-tips)
+11. [Revision History](#revision-history)
+
+---
+
+## Quick Reference (EN/TR Toggle)
+
+{% include lang-toggle.html group="crm-overview" default="en" %}
+
+<div class="lang-section" data-group="crm-overview" data-lang="en">
+
+**What this page is for**
+- CRM guardrails for franchise stores: data quality, permissions, loyalty, and ticketing
+
+**Scope & roles**
+- Covers Store Staff, Store Managers, Regional Managers, Franchise Owners
+- Processes: registration, matching, loyalty, campaigns, ticketing, reporting
+
+**Success targets**
+- Clean data (duplicates <1%), permissions captured, loyalty usage ↑, ticket SLAs met
+
+**Per-store essentials**
+- Daily KPI check, duplicate cleanup, permissions capture at checkout, ticket follow-up
+</div>
+
+<div class="lang-section is-hidden" data-group="crm-overview" data-lang="tr">
+
+**Bu sayfanın amacı**
+- Franchise mağazaları için CRM çerçevesi: veri kalitesi, izinler, loyalty ve ticket yönetimi
+
+**Kapsam ve roller**
+- Mağaza personeli, Mağaza Müdürleri, Bölge Müdürleri, Franchise Sahipleri
+- Süreçler: kayıt, eşleştirme, loyalty, kampanya, ticket, raporlama
+
+**Başarı hedefleri**
+- Temiz veri (mükerrer < %1), izinlerin toplanması, loyalty kullanım artışı, ticket SLA’ları
+
+**Mağaza bazlı olmazsa olmazlar**
+- Günlük KPI kontrolü, mükerrer temizlik, ödeme noktasında izin toplama, ticket takibi
+</div>
 
 ---
 
