@@ -30,16 +30,17 @@ Tüm dokümanlar **Türkçe** ve **İngilizce** olarak iki dilde sunulmaktadır.
 
 ## Modüller
 
-| Modül | Açıklama | Doküman Sayısı |
-|:------|:---------|:---------------|
-| [CRM](crm/) | Müşteri ilişkileri yönetimi, sadakat programları, veri kalitesi | 20 |
-| [Marketing](marketing/) | Marka rehberleri, kampanya yönetimi, dijital varlıklar | 18 |
-| [Visual Merchandising](vm/) | Görsel mağazacılık standartları, vitrin ve yerleşim | 12 |
-| [Store Operations](store-operations/) | Günlük mağaza operasyonları, nakit yönetimi, iade süreçleri | 16 |
-| [Supply Chain](supply-chain/) | Tedarik zinciri, sipariş yönetimi, lojistik | 12 |
-| [Training](training/) | Eğitim materyalleri, satış teknikleri, marka bilgisi | 24 |
-| [Guidelines](guidelines/) | Operasyonel rehberler ve protokoller | 6 |
-| [Glossary](glossary/) | Perakende terimleri, finans KPI'ları, lojistik kavramları | 6 |
+{: .new }
+> **Yeni Format:** Dokümantasyon artık konsolide formatta! Her modül için kapsamlı, LLM-uyumlu tek dosyalar.
+
+| Modül | Açıklama | Format |
+|:------|:---------|:-------|
+| [Customer Management](consolidated-docs/) | Müşteri ilişkileri yönetimi (CRM), sadakat, veri kalitesi | 🔄 Konsolide |
+| [Operations](consolidated-docs/) | Mağaza operasyonları + Tedarik zinciri | 🔄 Konsolide |
+| [Marketing](consolidated-docs/) | Marka rehberleri, kampanya yönetimi, dijital varlıklar | 🔄 Konsolide |
+| [Visual Merchandising](consolidated-docs/) | Görsel mağazacılık standartları, vitrin ve yerleşim | 🔄 Konsolide |
+| [Guidelines & Training](consolidated-docs/) | Rehberler, protokoller ve eğitim materyalleri | 🔄 Konsolide |
+| [Glossary](consolidated-docs/) | Perakende terimleri, finans KPI'ları, lojistik kavramları | 🔄 Konsolide |
 
 ---
 
@@ -66,38 +67,42 @@ Erkek modası segmentinde şık ve modern koleksiyonlar sunan Fransız markası.
 ## Hızlı Erişim
 
 ### Mağaza Personeli İçin
-- [Mağaza Açılış/Kapanış Prosedürleri](store-operations/opening-closing-procedures-tr)
-- [Müşteri Hizmetleri Standartları](store-operations/customer-service-standards-tr)
-- [CRM Mağaza Kullanıcı Rehberi](crm/crm-store-user-guide-tr)
-- [İade & Değişim Prosedürleri](store-operations/return-exchange-procedures-tr)
+- [📚 Operations - Tüm Mağaza Operasyonları](consolidated-docs/operations-tr) (Konsolide)
+- [📚 Customer Management - CRM Rehberi](consolidated-docs/customer-management-tr) (Konsolide)
+- [🔍 Eski Formatı Görüntüle](archive/) (Arşiv)
 
 ### Mağaza Yöneticileri İçin
-- [CRM Dashboard KPI](crm/crm-dashboard-kpi-tr)
-- [Envanter Kontrol Rehberi](store-operations/inventory-control-guide-tr)
-- [Kayıp Önleme Rehberi](store-operations/loss-prevention-guide-tr)
-- [Nakit Yönetimi Rehberi](store-operations/cash-management-guide-tr)
+- [📚 Customer Management - KPI & Dashboard](consolidated-docs/customer-management-tr) (Konsolide)
+- [📚 Operations - Envanter & Nakit Yönetimi](consolidated-docs/operations-tr) (Konsolide)
+- [🔍 Eski Formatı Görüntüle](archive/) (Arşiv)
 
 ### Pazarlama Ekibi İçin
-- [Marka Rehberi](marketing/brand-guideline-tr)
-- [Kampanya Uygulama Rehberi](marketing/campaign-execution-guide-tr)
-- [POSM Rehberi](marketing/posm-guideline-tr)
-- [Sezonluk Pazarlama Takvimi](marketing/seasonal-marketing-calendar-tr)
+- [📚 Marketing - Tüm Pazarlama Dökümanları](consolidated-docs/marketing-tr) (Konsolide)
+- [📚 Visual Merchandising - VM Rehberleri](consolidated-docs/visual-merchandising-tr) (Konsolide)
+- [🔍 Eski Formatı Görüntüle](archive/) (Arşiv)
 
 ---
 
 ## Doküman Özeti
 
-| Kategori | Doküman Çifti | Diller | Toplam Dosya |
-|:---------|:--------------|:-------|:-------------|
-| Glossary | 3 | TR/EN | 6 |
-| Guidelines | 3 | TR/EN | 6 |
-| CRM | 10 | TR/EN | 20 |
-| Marketing | 9 | TR/EN | 18 |
-| Visual Merchandising | 6 | TR/EN | 12 |
-| Store Operations | 8 | TR/EN | 16 |
-| Supply Chain | 6 | TR/EN | 12 |
-| Training | 12 | TR/EN | 24 |
-| **Toplam** | **57** | **TR/EN** | **114** |
+{: .tip }
+> Dokümantasyon artık **konsolide formatta**! 111+ dosya → 12 kapsamlı dosya
+
+| Kategori | Önceki | Yeni Format | Diller |
+|:---------|:-------|:------------|:-------|
+| Customer Management | 20 dosya | 2 konsolide dosya | TR/EN |
+| Operations | 28 dosya | 2 konsolide dosya | TR/EN |
+| Marketing | 18 dosya | 2 konsolide dosya | TR/EN |
+| Visual Merchandising | 12 dosya | 2 konsolide dosya | TR/EN |
+| Guidelines & Training | 18 dosya | 2 konsolide dosya | TR/EN |
+| Glossary | 6 dosya | 2 konsolide dosya | TR/EN |
+| **Toplam** | **102 dosya** | **12 dosya** | **TR/EN** |
+
+**Avantajlar:**
+- 🚀 Daha hızlı erişim
+- 🤖 LLM/AI uyumlu
+- 📚 Tam kontext
+- 🔍 Daha iyi arama
 
 ---
 

@@ -113,6 +113,9 @@ exclude:
   - README.md
   - LICENSE
   - "*.plan.md"
+  - archive/
+  - consolidate_script.py
+  - CONSOLIDATION-SUMMARY.md
 
 # Plugins
 plugins:
