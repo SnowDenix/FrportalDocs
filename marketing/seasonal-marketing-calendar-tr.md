@@ -51,14 +51,6 @@ Bu belge, tüm Aydınlı Grup franchise operasyonları için yıllık pazarlama 
 
 ## Kapsam
 
-### Coğrafi Kapsam
-
-| Bölge | Ülkeler | Takvim Adaptasyonları |
-|-------|---------|----------------------|
-| **KSA** | Suudi Arabistan | İslami takvim etkinlikleri, yerel tatiller |
-| **Fas** | Fas | İslami takvim, Fransız etkileri |
-| **Balkanlar** | Sırbistan, Kosova, K. Makedonya, Arnavutluk, Bosna | Ortodoks/Katolik tatiller, bölgesel etkinlikler |
-
 ### Kapsanan Markalar
 
 Üç marka da markaya özgü adaptasyonlarla temel takvimi takip eder:

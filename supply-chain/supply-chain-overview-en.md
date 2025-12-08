@@ -50,17 +50,6 @@ This document provides a comprehensive overview of supply chain and logistics op
 
 ## Scope
 
-### Geographic Coverage
-
-| Region | Distribution Center | Lead Time |
-|--------|---------------------|-----------|
-| **Turkey** | Istanbul (Main DC) | 2-5 days |
-| **Europe** | Istanbul → Local partners | 5-10 days |
-| **Middle East** | Istanbul → UAE Hub | 7-14 days |
-| **CIS** | Istanbul → Moscow Hub | 10-15 days |
-| **Americas** | Partner DC | 14-21 days |
-| **Asia Pacific** | Partner DC | 14-21 days |
-
 ### Supply Chain Components
 
 ```

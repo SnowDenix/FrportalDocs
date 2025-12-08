@@ -50,14 +50,6 @@ Bu belge, marka tutarlılığını korurken farklı pazarlarda sosyal medya içe
 
 ## Kapsam
 
-### Coğrafi Kapsam
-
-| Bölge | Diller | Birincil Platformlar |
-|-------|--------|---------------------|
-| **KSA** | Arapça, İngilizce | Instagram, Snapchat, TikTok, X (Twitter) |
-| **Fas** | Arapça, Fransızca | Instagram, Facebook, TikTok |
-| **Balkanlar** | Yerel diller, İngilizce | Instagram, Facebook, TikTok |
-
 ### Kapsanan Markalar
 
 - U.S. Polo Assn.

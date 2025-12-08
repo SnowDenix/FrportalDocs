@@ -50,14 +50,6 @@ This document provides comprehensive guidelines for localizing social media cont
 
 ## Scope
 
-### Geographic Coverage
-
-| Region | Languages | Primary Platforms |
-|--------|-----------|-------------------|
-| **KSA** | Arabic, English | Instagram, Snapchat, TikTok, X (Twitter) |
-| **Morocco** | Arabic, French | Instagram, Facebook, TikTok |
-| **Balkans** | Local languages, English | Instagram, Facebook, TikTok |
-
 ### Brands Covered
 
 - U.S. Polo Assn.

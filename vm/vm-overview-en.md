@@ -63,17 +63,6 @@ Visual Merchandising transforms retail spaces into immersive brand experiences t
 
 ## Scope
 
-### Geographic Coverage
-
-| Region | Markets | VM Adaptation Level |
-|--------|---------|---------------------|
-| **Turkey** | All cities | Standard HQ guidelines |
-| **Europe** | Germany, France, UK, Spain | Regional adaptations allowed |
-| **Middle East** | UAE, KSA, Kuwait, Qatar | Cultural considerations required |
-| **CIS** | Russia, Kazakhstan, Ukraine | Climate adaptations |
-| **Americas** | USA, Mexico, Brazil | Market-specific themes |
-| **Asia Pacific** | China, Japan, Korea | Local market adaptations |
-
 ### Store Format Coverage
 
 | Format | Size Range | VM Complexity |

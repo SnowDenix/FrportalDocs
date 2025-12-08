@@ -63,17 +63,6 @@ Görsel Mağazacılık, perakende alanlarını şu amaçlarla sürükleyici mark
 
 ## Kapsam
 
-### Coğrafi Kapsam
-
-| Bölge | Pazarlar | VM Adaptasyon Seviyesi |
-|-------|----------|------------------------|
-| **Türkiye** | Tüm şehirler | Standart HQ kılavuzları |
-| **Avrupa** | Almanya, Fransa, İngiltere, İspanya | Bölgesel adaptasyonlar |
-| **Orta Doğu** | BAE, KSA, Kuveyt, Katar | Kültürel düzenlemeler gerekli |
-| **BDT** | Rusya, Kazakistan, Ukrayna | İklim adaptasyonları |
-| **Amerika** | ABD, Meksika, Brezilya | Pazara özel temalar |
-| **Asya Pasifik** | Çin, Japonya, Kore | Yerel pazar adaptasyonları |
-
 ### Mağaza Formatı Kapsamı
 
 | Format | Boyut Aralığı | VM Karmaşıklığı |

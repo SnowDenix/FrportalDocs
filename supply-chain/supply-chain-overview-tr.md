@@ -50,17 +50,6 @@ Bu doküman, Aydınlı Grup franchise ortakları için tedarik zinciri ve lojist
 
 ## Kapsam
 
-### Coğrafi Kapsam
-
-| Bölge | Dağıtım Merkezi | Tedarik Süresi |
-|-------|-----------------|----------------|
-| **Türkiye** | İstanbul (Ana DC) | 2-5 gün |
-| **Avrupa** | İstanbul → Yerel ortaklar | 5-10 gün |
-| **Orta Doğu** | İstanbul → BAE Hub | 7-14 gün |
-| **BDT** | İstanbul → Moskova Hub | 10-15 gün |
-| **Amerika** | Partner DC | 14-21 gün |
-| **Asya Pasifik** | Partner DC | 14-21 gün |
-
 ### Tedarik Zinciri Bileşenleri
 
 ```

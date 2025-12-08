@@ -51,14 +51,6 @@ This document provides the annual marketing calendar framework for all Aydınlı
 
 ## Scope
 
-### Geographic Coverage
-
-| Region | Countries | Calendar Adaptations |
-|--------|-----------|---------------------|
-| **KSA** | Saudi Arabia | Islamic calendar events, local holidays |
-| **Morocco** | Morocco | Islamic calendar, French influences |
-| **Balkans** | Serbia, Kosovo, N. Macedonia, Albania, Bosnia | Orthodox/Catholic holidays, regional events |
-
 ### Brands Covered
 
 All three brands follow the core calendar with brand-specific adaptations:

@@ -44,16 +44,6 @@ Deliver exceptional customer experiences through:
 
 ## Scope
 
-### Geographic Coverage
-
-All Aydınlı Group franchise stores globally:
-- Turkey (All regions)
-- Europe (Germany, France, UK, Spain, Italy)
-- Middle East (UAE, KSA, Kuwait, Qatar)
-- CIS (Russia, Kazakhstan, Ukraine)
-- Americas (USA, Mexico, Brazil)
-- Asia Pacific (China, Japan, Korea)
-
 ### Store Formats
 
 | Format | Size | Staffing | Complexity |

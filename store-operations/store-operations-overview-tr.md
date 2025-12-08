@@ -44,16 +44,6 @@ Bu doküman, tüm Aydınlı Grup franchise mağazaları için mağaza operasyonl
 
 ## Kapsam
 
-### Coğrafi Kapsam
-
-Küresel ölçekte tüm Aydınlı Grup franchise mağazaları:
-- Türkiye (Tüm bölgeler)
-- Avrupa (Almanya, Fransa, İngiltere, İspanya, İtalya)
-- Orta Doğu (BAE, KSA, Kuveyt, Katar)
-- BDT (Rusya, Kazakistan, Ukrayna)
-- Amerika (ABD, Meksika, Brezilya)
-- Asya Pasifik (Çin, Japonya, Kore)
-
 ### Mağaza Formatları
 
 | Format | Boyut | Personel | Karmaşıklık |

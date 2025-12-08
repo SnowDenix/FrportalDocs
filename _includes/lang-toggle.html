@@ -1,0 +1,49 @@
+{% assign group = include.group | default: 'lang' %}
+{% assign default_lang = include.default | default: 'en' %}
+
+<div class="lang-toggle" data-group="{{ group }}" data-default="{{ default_lang }}">
+  <button type="button" class="lang-toggle-btn" data-group="{{ group }}" data-lang="en">
+    English
+  </button>
+  <button type="button" class="lang-toggle-btn" data-group="{{ group }}" data-lang="tr">
+    Türkçe
+  </button>
+</div>
+
+<script>
+  (function () {
+    if (window.__langToggleInitialized) return;
+    window.__langToggleInitialized = true;
+
+    function setActive(group, lang) {
+      document.querySelectorAll('.lang-section[data-group="' + group + '"]').forEach(function (el) {
+        if (el.dataset.lang === lang) {
+          el.classList.remove('is-hidden');
+        } else {
+          el.classList.add('is-hidden');
+        }
+      });
+
+      document.querySelectorAll('.lang-toggle-btn[data-group="' + group + '"]').forEach(function (btn) {
+        btn.classList.toggle('is-active', btn.dataset.lang === lang);
+      });
+    }
+
+    document.addEventListener('click', function (event) {
+      var btn = event.target.closest('.lang-toggle-btn');
+      if (!btn) return;
+      var group = btn.dataset.group || 'lang';
+      var lang = btn.dataset.lang || 'en';
+      setActive(group, lang);
+    });
+
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.lang-toggle').forEach(function (toggle) {
+        var group = toggle.dataset.group || 'lang';
+        var defaultLang = toggle.dataset.default || '{{ default_lang }}';
+        setActive(group, defaultLang || 'en');
+      });
+    });
+  })();
+</script>
+

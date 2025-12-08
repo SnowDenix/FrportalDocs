@@ -33,6 +33,7 @@ Bu modül, franchise operasyonlarının standart prosedürlerini ve iletişim pr
 | [VM Rehberi](vm-guideline-tr) | Görsel mağazacılık standartları | Türkçe |
 | [Franchise Communication Protocol](franchise-communication-protocol-en) | Communication protocols | English |
 | [Franchise İletişim Protokolü](franchise-communication-protocol-tr) | İletişim protokolleri | Türkçe |
+| [Documentation Style Guide](documentation-style-guide) | Authoring templates, bilingual pattern | English |
 
 ---
 

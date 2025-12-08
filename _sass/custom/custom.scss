@@ -427,3 +427,42 @@ tr:last-child td {
   color: #fff;
 }
 
+// -----------------------------------------------------------------------------
+// Language Toggle
+// -----------------------------------------------------------------------------
+.lang-toggle {
+  display: inline-flex;
+  gap: 0.5rem;
+  margin: 0.75rem 0 1rem;
+  padding: 0.35rem;
+  background: $dark-bg-secondary;
+  border: 1px solid $dark-border;
+  border-radius: 8px;
+}
+
+.lang-toggle-btn {
+  background: transparent;
+  border: 1px solid $dark-border;
+  color: $dark-text-secondary;
+  padding: 0.35rem 0.9rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+
+  &.is-active {
+    background: $brand-primary;
+    color: #fff;
+    border-color: $brand-primary;
+    box-shadow: 0 4px 12px rgba($brand-primary, 0.35);
+  }
+
+  &:hover {
+    color: $dark-text-primary;
+    border-color: $brand-primary;
+  }
+}
+
+.lang-section.is-hidden {
+  display: none;
+}
+

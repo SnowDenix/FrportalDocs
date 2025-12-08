@@ -56,17 +56,6 @@ This document provides comprehensive guidance on shipping and logistics operatio
 | **Sea Freight** | Ocean container | 2-6 weeks | Lowest |
 | **Courier** | Door-to-door express | Same-Next day | Highest |
 
-### Geographic Coverage
-
-| Region | Primary Method | Typical Lead Time |
-|--------|----------------|-------------------|
-| **Turkey (Domestic)** | Ground | 2-5 days |
-| **Europe** | Ground/Air | 5-10 days |
-| **Middle East** | Air/Sea | 7-14 days |
-| **CIS Countries** | Ground/Air | 10-15 days |
-| **Americas** | Air/Sea | 14-21 days |
-| **Asia Pacific** | Air/Sea | 14-21 days |
-
 ---
 
 ## Definitions

@@ -56,17 +56,6 @@ Bu doküman, franchise mağazaları için sevkiyat ve lojistik operasyonları ha
 | **Deniz Taşımacılığı** | Okyanus konteyneri | 2-6 hafta | En Düşük |
 | **Kurye** | Kapıdan kapıya ekspres | Aynı-Ertesi gün | En Yüksek |
 
-### Coğrafi Kapsam
-
-| Bölge | Birincil Yöntem | Tipik Tedarik Süresi |
-|-------|-----------------|----------------------|
-| **Türkiye (Yurt İçi)** | Kara | 2-5 gün |
-| **Avrupa** | Kara/Hava | 5-10 gün |
-| **Orta Doğu** | Hava/Deniz | 7-14 gün |
-| **BDT Ülkeleri** | Kara/Hava | 10-15 gün |
-| **Amerika** | Hava/Deniz | 14-21 gün |
-| **Asya Pasifik** | Hava/Deniz | 14-21 gün |
-
 ---
 
 ## Tanımlar

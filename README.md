@@ -135,6 +135,14 @@ permalink: /crm/crm-new-topic-en/
 
 ---
 
+## Authoring Standards
+
+- Follow the shared structure and checklist in `[Documentation Style Guide](guidelines/documentation-style-guide)`.
+- For bilingual pages, use the `{% include lang-toggle.html %}` pattern (see the style guide) and wrap English/Turkish blocks in `lang-section` containers with matching `data-group`.
+- Example implementation: `marketing/marketing-overview-en.md` includes a bilingual quick view using this pattern.
+
+---
+
 ## Deployment
 
 The site automatically deploys to GitHub Pages when changes are pushed to the `main` branch via GitHub Actions.

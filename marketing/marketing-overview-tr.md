@@ -59,14 +59,6 @@ Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Ayd�
 
 ## Kapsam
 
-### Coğrafi Kapsam
-
-| Bölge | Ülkeler | Pazarlama Sorumlusu |
-|-------|---------|---------------------|
-| **KSA** | Suudi Arabistan | Bölge Pazarlama Müdürü |
-| **Fas** | Fas | Bölge Pazarlama Müdürü |
-| **Balkanlar** | Sırbistan, Kosova, Kuzey Makedonya, Arnavutluk, Bosna | Bölge Pazarlama Müdürü |
-
 ### Bu Belge Kimleri Kapsar
 
 - **Mağaza Personeli:** Pazarlama kampanyaları ve müşteri iletişimi anlayışı

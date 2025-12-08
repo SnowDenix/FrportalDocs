@@ -14,22 +14,79 @@ parent: Marketing
 
 ## Table of Contents
 
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Definitions](#definitions)
-4. [Responsibilities](#responsibilities)
-5. [Marketing Structure](#marketing-structure)
-6. [Brand Marketing Pillars](#brand-marketing-pillars)
-7. [Marketing Calendar Framework](#marketing-calendar-framework)
-8. [Campaign Types](#campaign-types)
-9. [Marketing Channels](#marketing-channels)
-10. [Budget Planning](#budget-planning)
-11. [Performance Measurement](#performance-measurement)
-12. [Process Steps](#process-steps)
-13. [Standards & Rules](#standards--rules)
-14. [KPIs](#kpis)
-15. [Common Issues & Solutions](#common-issues--solutions)
-16. [Revision History](#revision-history)
+1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
+2. [Document Snapshot](#document-snapshot)
+3. [Purpose](#purpose)
+4. [Scope](#scope)
+5. [Definitions](#definitions)
+6. [Responsibilities](#responsibilities)
+7. [Marketing Structure](#marketing-structure)
+8. [Brand Marketing Pillars](#brand-marketing-pillars)
+9. [Marketing Calendar Framework](#marketing-calendar-framework)
+10. [Campaign Types](#campaign-types)
+11. [Marketing Channels](#marketing-channels)
+12. [Budget Planning](#budget-planning)
+13. [Performance Measurement](#performance-measurement)
+14. [Process Steps](#process-steps)
+15. [Standards & Rules](#standards--rules)
+16. [KPIs](#kpis)
+17. [Common Issues & Solutions](#common-issues--solutions)
+18. [Revision History](#revision-history)
+
+---
+
+## Quick Reference (EN/TR Toggle)
+
+{% include lang-toggle.html group="marketing-overview" default="en" %}
+
+<div class="lang-section" data-group="marketing-overview" data-lang="en">
+
+**What this page is for**
+- Framework for franchise marketing: consistent brand execution, measurable performance, and aligned HQ/regional/store actions.
+
+**Scope & coverage**
+- Regions: KSA, Morocco, Balkans.
+- Roles: Store staff, Store Managers, Regional Managers, Franchise Owners, HQ Marketing.
+
+**What good looks like**
+- Brand consistency across ATL/BTL/POSM; campaigns launched on time with approved assets.
+- Targets: +15% awareness YoY, +10% acquisition YoY, retention 35%+, ROMI 3:1, +25% digital engagement.
+
+**Per-campaign must-haves**
+- Hero products, channel mix, budget split, KPI targets, reporting cadence, and local adaptations documented.
+
+</div>
+
+<div class="lang-section is-hidden" data-group="marketing-overview" data-lang="tr">
+
+**Bu sayfanın amacı**
+- Franchise pazarlamasına çerçeve sağlar: tutarlı marka uygulaması, ölçülebilir performans ve merkez/bölge/mağaza uyumu.
+
+**Kapsam ve kapsananlar**
+- Bölgeler: KSA, Fas, Balkanlar.
+- Roller: Mağaza personeli, Mağaza Müdürleri, Bölge Müdürleri, Franchise Sahipleri, Merkez Pazarlama.
+
+**Başarı tanımı**
+- ATL/BTL/POSM için marka tutarlılığı; kampanyalar onaylı varlıklarla zamanında başlar.
+- Hedefler: Yıllık +%15 farkındalık, yıllık +%10 kazanım, %35+ elde tutma, ROMI 3:1, %25 dijital etkileşim artışı.
+
+**Kampanya başına olmazsa olmazlar**
+- Hero ürünler, kanal karması, bütçe dağılımı, KPI hedefleri, raporlama sıklığı ve yerel adaptasyonlar.
+
+</div>
+
+---
+
+## Document Snapshot
+
+| Field | Details |
+|-------|---------|
+| Purpose | End-to-end marketing framework for franchise markets (brand consistency, ROI, execution discipline). |
+| Scope | Regions: KSA, Morocco, Balkans. Roles: Store Staff, Store Managers, Regional Managers, Franchise Owners, HQ Marketing. |
+| Owners | HQ Marketing (strategy & assets), Regional Marketing (adaptation), Store Managers (execution). |
+| Outputs | Seasonal/promo campaign packs, POSM kits, channel plans, weekly performance reports. |
+| KPI Targets | Awareness +15% YoY; Acquisition +10% YoY; Retention 35%+; Campaign ROI 3:1; Digital Engagement +25%. |
+| Next Review | Quarterly or when brand guidelines change. |
 
 ---
 
@@ -58,14 +115,6 @@ This document provides a comprehensive overview of marketing operations for Ayd�
 ---
 
 ## Scope
-
-### Geographic Coverage
-
-| Region | Countries | Marketing Lead |
-|--------|-----------|----------------|
-| **KSA** | Saudi Arabia | Regional Marketing Manager |
-| **Morocco** | Morocco | Regional Marketing Manager |
-| **Balkans** | Serbia, Kosovo, North Macedonia, Albania, Bosnia | Regional Marketing Manager |
 
 ### Who This Document Covers
 
