@@ -15,6 +15,18 @@ nav_order: 12
 
 ---
 
+## Doküman Genel Bakış
+
+Bu kapsamlı sözlük, Aydınlı Grup franchise operasyonlarında kullanılan temel terimler için tanımlar, formüller ve açıklamalar sağlamaktadır. Doküman 3 ana bölümden oluşmaktadır:
+
+**Bölüm 1: Finans KPI Formülleri** - Satış hesaplamaları, karlılık ölçümleri, envanter oranları, nakit akışı metrikleri ve finansal analiz ve raporlama için örnekler ve hedef aralıklarla birlikte performans kıstasları dahil detaylı finansal metrikler ve temel performans göstergesi formüllerini içerir.
+
+**Bölüm 2: Perakende Terimleri** - Merchandising kavramları, müşteri hizmetleri terimleri, satış metrikleri, mağaza operasyonları kelime dağarcığı ve organizasyon genelinde net iletişim için endüstri standardı perakende ifadeleri dahil günlük operasyonlarda kullanılan yaygın perakende terminolojisini tanımlar.
+
+**Bölüm 3: Tedarik Zinciri ve Lojistik Terimleri** - Depo operasyonları, envanter yönetim kavramları, lojistik süreçleri, sevkiyat terimleri, dağıtım kelime dağarcığı ve etkili tedarik zinciri iletişimi için koordinasyon terminolojisini kapsayan tedarik zinciri yönetimi terminolojisini açıklar.
+
+---
+
 ## SECTION 1: FINANCE-KPI-FORMULAS-TR
 
 ﻿---

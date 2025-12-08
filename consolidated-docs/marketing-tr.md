@@ -15,6 +15,30 @@ nav_order: 6
 
 ---
 
+## Doküman Genel Bakış
+
+Bu kapsamlı pazarlama dokümantasyonu, Aydınlı Grup franchise mağazaları için marka yönetimi, kampanya yürütme ve pazarlama iletişiminin tüm yönlerini kapsamaktadır. Doküman 9 ana bölümden oluşmaktadır:
+
+**Bölüm 1: Marka Kılavuzu** - U.S. Polo Assn., Pierre Cardin ve Cacharel markaları için logo kullanımı, renk spesifikasyonları, tipografi kuralları, görsel stil yönergeleri ve marka sesi ilkeleri dahil kapsamlı marka kimliği standartlarını belirler.
+
+**Bölüm 2: Kampanya Yürütme Kılavuzu** - Kampanya brief oluşturma, zaman çizelgesi yönetimi, materyal dağıtımı, mağaza içi uygulama ve kampanya sonrası değerlendirme prosedürleri dahil planlamadan yürütmeye kadar tam kampanya yaşam döngüsünü detaylandırır.
+
+**Bölüm 3: Dijital Varlık Kullanımı** - Dosya formatları, çözünürlük gereksinimleri, indirme prosedürleri, depolama yönergeleri ve dijital içerik için kalite kontrol standartları dahil dijital pazarlama materyallerinin uygun kullanımını ve işlenmesini kapsar.
+
+**Bölüm 4: Mağaza İçi İletişim Kılavuzu** - Tabela yerleştirme, promosyon materyali gösterimi, vitrin iletişimi, satış noktası mesajlaşması ve mevsimsel dekorasyon yönergeleri dahil görsel merchandising iletişim standartlarını açıklar.
+
+**Bölüm 5: Pazarlama Onay Süreci** - Gönderim prosedürleri, inceleme zaman çizelgeleri, onay yetkilileri, revizyon süreçleri ve uyumluluk doğrulama gereksinimleri dahil tüm pazarlama materyalleri için onay iş akışını özetler.
+
+**Bölüm 6: Pazarlama Genel Bakış** - Organizasyon yapısı, marka konumlandırması, hedef kitle tanımları, pazarlama kanalları ve merkez ile franchise mağazaları arasındaki koordinasyon dahil pazarlama ekosisteminin kapsamlı görünümünü sağlar.
+
+**Bölüm 7: POSM Kılavuzu** - POSM türleri, sipariş prosedürleri, kurulum yönergeleri, bakım gereksinimleri ve eski materyallerin uygun şekilde imhası dahil satış noktası materyalleri standartlarını detaylandırır.
+
+**Bölüm 8: Mevsimsel Pazarlama Takvimi** - Anahtar tarihler, mevsimsel kampanyalar, promosyon dönemleri, ürün lansmanları ve mevsimsel pazarlama aktivitelerini planlamak ve yürütmek için koordinasyon zaman çizelgeleri ile yıllık pazarlama takvimini sunar.
+
+**Bölüm 9: Sosyal Medya Yerelleştirme Kılavuzu** - İçerik oluşturma kuralları, yayınlama programları, marka sesi adaptasyonu, etkileşim protokolleri ve franchise mağaza sosyal medya varlığı için onay gereksinimleri dahil yerel sosyal medya aktiviteleri için yönergeleri açıklar.
+
+---
+
 ## SECTION 1: BRAND-GUIDELINE-TR
 
 ﻿---

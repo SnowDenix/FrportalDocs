@@ -15,6 +15,30 @@ nav_order: 10
 
 ---
 
+## Doküman Genel Bakış
+
+Bu kapsamlı yönergeler ve eğitim dokümantasyonu, Aydınlı Grup franchise mağazaları için operasyonel standartları, iletişim protokollerini, markaya özel yönergeleri ve personel gelişim çerçevelerini kapsamaktadır. Doküman 9 ana bölümden oluşmaktadır:
+
+**Bölüm 1: Franchise İletişim Protokolü** - Franchise mağazaları, bölge yönetimi ve merkez arasında tüm operasyonel alanlarda iletişim kanallarını, yükseltme prosedürlerini, raporlama standartlarını, toplantı protokollerini ve koordinasyon süreçlerini detaylandırır.
+
+**Bölüm 2: Mağaza Operasyonları Yönergesi** - Franchise ağı genelinde tutarlı mağaza operasyonları için günlük prosedürleri, yönetim sorumluluklarını, personel protokollerini, kalite standartlarını ve performans beklentilerini kapsayan kapsamlı operasyonel standartlar sağlar.
+
+**Bölüm 3: VM Yönergesi** - Sergileme teknikleri, mevsimsel güncellemeler, marka sunum gereksinimleri ve franchise mağaza uygulamasına özel kalite kontrol süreçleri dahil görsel merchandising ilkelerini ve standartlarını açıklar.
+
+**Bölüm 4: Marka Eki - Cacharel** - Marka konumlandırması, hedef müşteri profili, ürün sunum standartları, görsel kimlik gereksinimleri ve uygun temsil için benzersiz marka özellikleri dahil Cacharel'e özel yönergeleri içerir.
+
+**Bölüm 5: Marka Eki - Pierre Cardin** - Miras konumlandırması, müşteri hizmetleri yaklaşımı, görsel merchandising standartları ve marka bütünlüğünü korumak için marka sesi yönergeleri dahil Pierre Cardin markasına özel gereksinimleri detaylandırır.
+
+**Bölüm 6: Marka Eki - U.S. Polo Assn.** - Sportif yaşam tarzı konumlandırması, görsel sunum standartları, müşteri katılım yaklaşımı ve markaya özel operasyonel gereksinimler dahil U.S. Polo Assn. marka yönergelerini kapsar.
+
+**Bölüm 7: Yetkinlik Çerçevesi** - Satış görevlilerinden mağaza müdürlerine kadar tüm franchise mağaza pozisyonları için role dayalı yetkinlik gereksinimlerini, beceri seviyelerini, performans standartlarını, kariyer ilerleme yollarını ve değerlendirme kriterlerini tanımlar.
+
+**Bölüm 8: Müşteri Deneyimi Standartları** - Karşılama protokolleri, katılım standartları, sorun çözme prosedürleri ve tutarlı premium müşteri deneyimleri sunmak için kalite metrikleri dahil hizmet mükemmelliği kıstaslarını belirler.
+
+**Bölüm 9: Müşteri Etkileşim Senaryoları** - Satış etkileşimleri, şikayet yönetimi, özel talepler ve önerilen yanıtlar ve yaklaşımlarla zorlayıcı senaryolar dahil yaygın müşteri durumları için pratik örnekler ve senaryolar sağlar.
+
+---
+
 ## SECTION 1: FRANCHISE-COMMUNICATION-PROTOCOL-TR
 
 ﻿---

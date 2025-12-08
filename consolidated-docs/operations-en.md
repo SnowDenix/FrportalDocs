@@ -15,6 +15,38 @@ nav_order: 3
 
 ---
 
+## Document Overview
+
+This comprehensive operations documentation covers all aspects of store operations and supply chain management for Aydınlı Group franchise stores. The document is organized into 13 major sections:
+
+**Section 1: Cash Management Guide** - Details all cash handling procedures including register operations, safe management, bank deposits, change ordering, variance handling, and fraud prevention protocols. Sets standards for float amounts and daily reconciliation procedures.
+
+**Section 2: Customer Service Standards** - Establishes service excellence standards including greeting protocols, complaint handling, service recovery procedures, and customer interaction guidelines. Defines service level expectations and escalation procedures.
+
+**Section 3: Inventory Control Guide** - Covers inventory management processes including stock counting methods, shrinkage control, cycle counting procedures, stock accuracy targets, and inventory reporting requirements for maintaining optimal stock levels.
+
+**Section 4: Loss Prevention Guide** - Outlines security measures, theft prevention strategies, employee awareness protocols, surveillance systems usage, and incident reporting procedures to minimize shrinkage and protect store assets.
+
+**Section 5: Opening and Closing Procedures** - Provides step-by-step checklists for daily store opening and closing operations including system checks, cash drawer setup, security protocols, and end-of-day reconciliation processes.
+
+**Section 6: Return and Exchange Procedures** - Details policies and processes for handling customer returns, exchanges, and refunds including approval requirements, documentation needs, and quality control checks for returned merchandise.
+
+**Section 7: Store Operations Overview** - Presents the complete operational framework, organizational structure, key responsibilities, and daily workflow processes that govern store management and staff coordination.
+
+**Section 8: Delivery and Receiving Procedures** - Explains incoming shipment handling including delivery acceptance, quality inspection, documentation requirements, discrepancy resolution, and proper storage of received goods.
+
+**Section 9: Order Management Guide** - Covers the complete order lifecycle from creation to fulfillment including order placement procedures, tracking systems, communication protocols, and order issue resolution.
+
+**Section 10: Shipping and Logistics Guide** - Details outbound shipping processes including packaging standards, carrier selection, shipping documentation, tracking procedures, and logistics coordination with distribution centers.
+
+**Section 11: Stock Transfer Procedures** - Describes inter-store and warehouse transfer processes including transfer request procedures, approval workflows, documentation requirements, and inventory reconciliation for transferred goods.
+
+**Section 12: Supply Chain Overview** - Provides comprehensive view of the supply chain ecosystem including vendor relationships, distribution network, inventory flow, and coordination between stores, warehouses, and headquarters.
+
+**Section 13: Warehouse Coordination Guide** - Explains communication and coordination protocols with central warehouses including stock request procedures, delivery scheduling, emergency stock processes, and warehouse system usage.
+
+---
+
 ## SECTION 1: CASH-MANAGEMENT-GUIDE-EN
 
 ﻿---

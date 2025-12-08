@@ -15,6 +15,24 @@ nav_order: 8
 
 ---
 
+## Doküman Genel Bakış
+
+Bu kapsamlı görsel merchandising dokümantasyonu, Aydınlı Grup franchise mağazaları için mağaza sunumu, sergileme teknikleri ve görsel standartların tüm yönlerini kapsamaktadır. Doküman 6 ana bölümden oluşmaktadır:
+
+**Bölüm 1: Mağaza İçi Düzen Yönergeleri** - Trafik akışı optimizasyonu, bölge tanımları, fikstür yerleştirme, ürün kategorisi konumlandırma ve müşteri deneyimi ve satışları maksimize etmek için alan kullanım ilkeleri dahil mağaza kat planı standartlarını belirler.
+
+**Bölüm 2: Manken Styling Yönergeleri** - Kıyafet koordinasyonu, styling teknikleri, aksesuar yerleştirme, mevsimsel styling yaklaşımları ve etkileyici ürün sergilemeler oluşturmak için markaya uygun sunum metodları dahil manken sunum standartlarını detaylandırır.
+
+**Bölüm 3: Mevsimsel VM Değişimi** - Değişim zaman çizelgeleri, planlama prosedürleri, uygulama kontrol listeleri, ekip koordinasyonu ve sorunsuz mevsimsel güncellemeler için kalite kontrol standartları dahil tam mevsimsel geçiş sürecini açıklar.
+
+**Bölüm 4: VM Genel Yönergeleri** - Renk koordinasyonu, ürün gruplama, görsel hiyerarşi, aydınlatma standartları, temizlik gereksinimleri ve tüm sergileme türlerinde uygulanabilir genel estetik standartları kapsayan kapsamlı görsel merchandising ilkeleri sağlar.
+
+**Bölüm 5: VM Genel Bakış** - Görsel merchandising felsefesini, organizasyon yapısını, rol ve sorumlulukları, iletişim kanallarını ve merkez VM ekibi ile franchise mağaza uygulaması arasındaki koordinasyonu sunar.
+
+**Bölüm 6: Vitrin Sergileme Yönergeleri** - Tema geliştirme, odak noktası oluşturma, aksesuar kullanımı, aydınlatma teknikleri, mevsimsel adaptasyonlar ve etkileyici mağaza cephesi sergilemeler oluşturmak için bakım gereksinimleri dahil vitrin sunum standartlarını kapsar.
+
+---
+
 ## SECTION 1: IN-STORE-LAYOUT-GUIDELINE-TR
 
 ﻿---

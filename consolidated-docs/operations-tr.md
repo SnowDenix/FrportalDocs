@@ -15,6 +15,38 @@ nav_order: 4
 
 ---
 
+## Doküman Genel Bakış
+
+Bu kapsamlı operasyon dokümantasyonu, Aydınlı Grup franchise mağazaları için mağaza operasyonları ve tedarik zinciri yönetiminin tüm yönlerini kapsamaktadır. Doküman 13 ana bölümden oluşmaktadır:
+
+**Bölüm 1: Nakit Yönetimi Kılavuzu** - Kasa operasyonları, kasa yönetimi, banka yatırmaları, bozuk para sipariş etme, fark yönetimi ve dolandırıcılık önleme protokolleri dahil tüm nakit kullanım prosedürlerini detaylandırır. Float tutarları ve günlük mutabakat prosedürleri için standartları belirler.
+
+**Bölüm 2: Müşteri Hizmetleri Standartları** - Karşılama protokolleri, şikayet yönetimi, hizmet telafisi prosedürleri ve müşteri etkileşim yönergeleri dahil hizmet mükemmelliği standartlarını belirler. Hizmet seviyesi beklentilerini ve yükseltme prosedürlerini tanımlar.
+
+**Bölüm 3: Envanter Kontrol Kılavuzu** - Stok sayım metodları, fire kontrolü, döngüsel sayım prosedürleri, stok doğruluk hedefleri ve optimal stok seviyelerini korumak için envanter raporlama gerekliliklerini içeren envanter yönetim süreçlerini kapsar.
+
+**Bölüm 4: Zayi Önleme Kılavuzu** - Güvenlik önlemlerini, hırsızlık önleme stratejilerini, çalışan farkındalık protokollerini, gözetim sistemi kullanımını ve fireyi minimize etmek ve mağaza varlıklarını korumak için olay raporlama prosedürlerini özetler.
+
+**Bölüm 5: Açılış ve Kapanış Prosedürleri** - Sistem kontrolleri, kasa kurulumu, güvenlik protokolleri ve gün sonu mutabakat süreçleri dahil günlük mağaza açılış ve kapanış operasyonları için adım adım kontrol listeleri sağlar.
+
+**Bölüm 6: İade ve Değişim Prosedürleri** - Onay gereksinimleri, dokümantasyon ihtiyaçları ve iade edilen ürünler için kalite kontrol kontrolleri dahil müşteri iadelerini, değişimlerini ve geri ödemelerini yönetmek için politika ve süreçleri detaylandırır.
+
+**Bölüm 7: Mağaza Operasyonları Genel Bakış** - Mağaza yönetimi ve personel koordinasyonunu yöneten tam operasyonel çerçeveyi, organizasyon yapısını, temel sorumlulukları ve günlük iş akışı süreçlerini sunar.
+
+**Bölüm 8: Teslimat ve Kabul Prosedürleri** - Teslimat kabulü, kalite denetimi, dokümantasyon gereksinimleri, tutarsızlık çözümü ve teslim alınan malların uygun depolanması dahil gelen sevkiyat işlemlerini açıklar.
+
+**Bölüm 9: Sipariş Yönetim Kılavuzu** - Sipariş oluşturma prosedürleri, takip sistemleri, iletişim protokolleri ve sipariş sorun çözümü dahil oluşturmadan karşılamaya kadar tam sipariş yaşam döngüsünü kapsar.
+
+**Bölüm 10: Sevkiyat ve Lojistik Kılavuzu** - Paketleme standartları, taşıyıcı seçimi, sevkiyat dokümantasyonu, takip prosedürleri ve dağıtım merkezleri ile lojistik koordinasyon dahil giden sevkiyat süreçlerini detaylandırır.
+
+**Bölüm 11: Stok Transfer Prosedürleri** - Transfer talep prosedürleri, onay iş akışları, dokümantasyon gereksinimleri ve transfer edilen mallar için envanter mutabakatı dahil mağazalar arası ve depo transfer süreçlerini tanımlar.
+
+**Bölüm 12: Tedarik Zinciri Genel Bakış** - Tedarikçi ilişkileri, dağıtım ağı, envanter akışı ve mağazalar, depolar ve merkez arasındaki koordinasyon dahil tedarik zinciri ekosisteminin kapsamlı görünümünü sağlar.
+
+**Bölüm 13: Depo Koordinasyon Kılavuzu** - Stok talep prosedürleri, teslimat planlaması, acil stok süreçleri ve depo sistemi kullanımı dahil merkezi depolar ile iletişim ve koordinasyon protokollerini açıklar.
+
+---
+
 ## SECTION 1: CASH-MANAGEMENT-GUIDE-TR
 
 ﻿---

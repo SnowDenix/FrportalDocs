@@ -15,6 +15,32 @@ nav_order: 2
 
 ---
 
+## Doküman Genel Bakış
+
+Bu kapsamlı CRM dokümantasyonu, Aydınlı Grup franchise mağazaları için müşteri ilişkileri yönetiminin tüm yönlerini kapsamaktadır. Doküman 10 ana bölümden oluşmaktadır:
+
+**Bölüm 1: CRM Müşteri Verileri Politikası** - KVKK uyumlu veri koruma politikalarını belirler, müşteri bilgilerinin nasıl toplanması, saklanması ve yönetilmesi gerektiğini tanımlar. Yasal gereklilikleri, izin yönetimini, veri saklama sürelerini ve silme talepleri dahil müşteri haklarını kapsar.
+
+**Bölüm 2: Müşteri Segmentasyonu** - RFM (Yenilik, Sıklık, Parasal) segmentasyon metodolojisini ve müşteri yaşam döngüsü aşamalarını açıklar. Yeni müşterilerden VIP üyelere, riskli ve kayıp müşteri geri kazanım yaklaşımları dahil farklı müşteri segmentlerini hedefleme stratejileri sunar.
+
+**Bölüm 3: Dashboard ve KPI Kılavuzu** - Sadakat penetrasyonu, müşteri eşleştirme oranı, ortalama işlem değeri ve müşteri yaşam boyu değeri dahil tüm CRM temel performans göstergelerini detaylandırır. Mağaza performansını takip etmek için formüller, hedefler ve dashboard kullanım talimatlarını içerir.
+
+**Bölüm 4: Veri Kalitesi Yönetimi** - Telefon numaraları, e-postalar, isimler ve tarihler için doğrulama kuralları ile yüksek kaliteli müşteri verilerini koruma standartlarını belirler. Düzeltme süreçlerini, duplicate yönetimini ve veri kalitesi KPI'larını kapsar.
+
+**Bölüm 5: Yapılması ve Yapılmaması Gerekenler** - Kayıt, veri güvenliği, müşteri iletişimi, sadakat operasyonları ve sistem kullanımını kapsayan izin verilen ve yasaklanan CRM uygulamaları hakkında net yönergeler sunar. İhlal sonuçlarını ve uyum gerekliliklerini içerir.
+
+**Bölüm 6: Sadakat Programı ve Kampanyalar** - Puan sistemi yapısını, kazanma ve kullanma kurallarını, kupon yönetimini ve kampanya yürütmesini açıklar. Müşteri katılımı için üyelik kademelerini, puan geçerlilik sürelerini ve çeşitli kampanya türlerini detaylandırır.
+
+**Bölüm 7: CRM Genel Bakış** - Sistem mimarisini, entegrasyon noktalarını ve genel CRM vizyonunu sunar. Temel terminolojiyi, iletişim izin türlerini ve POS sistemleri ile merkezi CRM platformu arasındaki veri akışını tanımlar.
+
+**Bölüm 8: Mağaza CRM Kontrol Listesi** - Mağaza personeli ve müdürleri için günlük, haftalık ve aylık kontrol listeleri sunar. Uyum ve tutarlılığı sağlamak için satış süreçleri, müşteri kaydı ve ticket yönetimi için sistematik görev listeleri sağlar.
+
+**Bölüm 9: Mağaza Kullanıcı Kılavuzu** - Giriş, müşteri arama, yeni kayıt, bilgi güncellemeleri, kupon uygulama ve puan işlemleri dahil CRM sistemini kullanmak için adım adım operasyonel talimatlar. Satış görevlileri ve kasiyerler için tasarlanmıştır.
+
+**Bölüm 10: Ticketing Süreci** - Kategorizasyon, öncelik seviyeleri, SLA süreleri, yükseltme prosedürleri ve çözüm takibi dahil tam müşteri şikayeti ve ticketing iş akışını açıklar. Ticket performans KPI'larını ve yanıt süresi gerekliliklerini içerir.
+
+---
+
 ## SECTION 1: CRM-CUSTOMER-DATA-POLICY-TR
 
 ﻿---
@@ -34,10 +60,9 @@ parent: CRM
 8. [Veri Saklama ve İmha](#veri-saklama-ve-imha)
 9. [Müşteri Hakları](#müşteri-hakları)
 10. [Süreç Adımları](#süreç-adımları)
-11. [Ekran Görüntüleri](#ekran-görüntüleri)
-12. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-13. [Mağaza İpuçları](#mağaza-ipuçları)
-14. [Revizyon Geçmişi](#revizyon-geçmişi)
+11. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+12. [Mağaza İpuçları](#mağaza-ipuçları)
+13. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
 ## Kapsam
@@ -191,21 +216,6 @@ Aşağıdaki veriler **kesinlikle toplanamaz**:
 > ⚠️ **Dikkat:** Bazı veriler yasal zorunluluk nedeniyle silinemez (örn: fatura bilgileri 10 yıl saklanmalı).
 
 
-## Ekran Görüntüleri
-
-### İzin Yönetimi Ekranı
-
-![İzin Yönetimi - Placeholder](screenshots/crm-consent-management.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-### KVKK Talep Formu
-
-![KVKK Talep - Placeholder](screenshots/crm-kvkk-request.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-
 ### Sorun 2: Müşteri Verilerini Sorgulamak İstiyor
 
 **Çözüm:**
@@ -250,11 +260,10 @@ parent: CRM
 5. [RFM Segmentasyonu](#rfm-segmentasyonu)
 6. [Müşteri Yaşam Döngüsü](#müşteri-yaşam-döngüsü)
 7. [Segment Bazlı Stratejiler](#segment-bazlı-stratejiler)
-8. [Ekran Görüntüleri](#ekran-görüntüleri)
-9. [KPI'lar](#kpılar)
-10. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-11. [Mağaza İpuçları](#mağaza-ipuçları)
-12. [Revizyon Geçmişi](#revizyon-geçmişi)
+8. [KPI'lar](#kpılar)
+9. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+10. [Mağaza İpuçları](#mağaza-ipuçları)
+11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
 ## Kapsam
@@ -395,21 +404,6 @@ parent: CRM
 - Büyük kampanya duyurusu
 
 
-## Ekran Görüntüleri
-
-### Segment Dashboard
-
-![Segment Dashboard - Placeholder](screenshots/crm-segment-dashboard.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-### Müşteri Profili Segment Görünümü
-
-![Müşteri Segment - Placeholder](screenshots/crm-customer-segment.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-
 ## Sık Karşılaşılan Sorunlar ve Çözümler
 
 ### Sorun 1: At Risk Oranı Yükseliyor
@@ -455,10 +449,9 @@ parent: CRM
 5. [CRM KPI'ları](#crm-kpıları)
 6. [Dashboard Kullanımı](#dashboard-kullanımı)
 7. [Raporlama Periyotları](#raporlama-periyotları)
-8. [Ekran Görüntüleri](#ekran-görüntüleri)
-9. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-10. [Mağaza İpuçları](#mağaza-ipuçları)
-11. [Revizyon Geçmişi](#revizyon-geçmişi)
+8. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+9. [Mağaza İpuçları](#mağaza-ipuçları)
+10. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
 ## Kapsam
@@ -668,21 +661,6 @@ FCR % = (İlk Temasta Çözülen / Toplam Ticket) × 100
 - → Yatay ok: Stabil
 
 
-## Ekran Görüntüleri
-
-### Mağaza Dashboard
-
-![Mağaza Dashboard - Placeholder](screenshots/crm-store-dashboard.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-### KPI Detay Ekranı
-
-![KPI Detay - Placeholder](screenshots/crm-kpi-detail.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-
 ### Sorun 2: Loyalty Penetration Düşük
 
 **Durum:** Hedefin altında penetration oranı.
@@ -750,11 +728,10 @@ parent: CRM
 7. [Yaygın Veri Hataları](#yaygın-veri-hataları)
 8. [Düzeltme Süreçleri](#düzeltme-süreçleri)
 9. [Duplicate Yönetimi](#duplicate-yönetimi)
-10. [Ekran Görüntüleri](#ekran-görüntüleri)
-11. [KPI'lar](#kpılar)
-12. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-13. [Mağaza İpuçları](#mağaza-ipuçları)
-14. [Revizyon Geçmişi](#revizyon-geçmişi)
+10. [KPI'lar](#kpılar)
+11. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+12. [Mağaza İpuçları](#mağaza-ipuçları)
+13. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
 ## Kapsam
@@ -915,21 +892,6 @@ Belirli paternler için toplu düzeltme yapılabilir:
 **Adım 3:** CRM Merkez inceler ve düzeltir
 
 **Adım 4:** Düzeltme bilgisi mağazaya iletilir
-
-
-## Ekran Görüntüleri
-
-### Veri Kalitesi Dashboard
-
-![Veri Kalitesi Dashboard - Placeholder](screenshots/crm-data-quality-dashboard.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-### Duplicate Yönetimi
-
-![Duplicate Yönetimi - Placeholder](screenshots/crm-duplicate-management.png)
-
-*Ekran görüntüsü eklenecektir.*
 
 
 ## Sık Karşılaşılan Sorunlar ve Çözümler
@@ -1170,11 +1132,10 @@ parent: CRM
 7. [Kampanya Türleri](#kampanya-türleri)
 8. [Kupon Yönetimi](#kupon-yönetimi)
 9. [Süreç Adımları](#süreç-adımları)
-10. [Ekran Görüntüleri](#ekran-görüntüleri)
-11. [KPI'lar](#kpılar)
-12. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-13. [Mağaza İpuçları](#mağaza-ipuçları)
-14. [Revizyon Geçmişi](#revizyon-geçmişi)
+10. [KPI'lar](#kpılar)
+11. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+12. [Mağaza İpuçları](#mağaza-ipuçları)
+13. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
 ## Kapsam
@@ -1362,25 +1323,6 @@ parent: CRM
 **Adım 8:** Ödemeyi alın
 
 
-## Ekran Görüntüleri
-
-### Loyalty Dashboard
-
-![Loyalty Dashboard - Placeholder](screenshots/crm-loyalty-dashboard.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-### Puan İşlem Ekranı
-
-![Puan İşlem - Placeholder](screenshots/crm-loyalty-points.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-### Kupon Listesi
-
-![Kupon Listesi - Placeholder](screenshots/crm-loyalty-coupons.png)
-
-*Ekran görüntüsü eklenecektir.*
 
 
 ## Sık Karşılaşılan Sorunlar ve Çözümler
@@ -1467,10 +1409,9 @@ parent: CRM
 5. [Sorumluluklar](#sorumluluklar)
 6. [CRM Sistem Mimarisi](#crm-sistem-mimarisi)
 7. [Veri Akışı](#veri-akışı)
-8. [Ekran Görüntüleri](#ekran-görüntüleri)
-9. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-10. [Mağaza İpuçları](#mağaza-ipuçları)
-11. [Revizyon Geçmişi](#revizyon-geçmişi)
+8. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+9. [Mağaza İpuçları](#mağaza-ipuçları)
+10. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
 ## Amaç
@@ -1563,25 +1504,6 @@ Bu doküman, Aydınlı Grup bünyesindeki U.S. Polo Assn., Pierre Cardin ve Cach
 | Stok Yönetimi | Tek yönlü | Stok → CRM (ürün bilgisi) |
 
 
-## Ekran Görüntüleri
-
-### Ana CRM Ekranı
-
-![CRM Ana Ekran Görüntüsü - Placeholder](screenshots/crm-main-screen.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-### Müşteri Arama Ekranı
-
-![Müşteri Arama Ekran Görüntüsü - Placeholder](screenshots/crm-customer-search.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-### Müşteri Profil Ekranı
-
-![Müşteri Profil Ekran Görüntüsü - Placeholder](screenshots/crm-customer-profile.png)
-
-*Ekran görüntüsü eklenecektir.*
 
 
 ### Sorun 2: Mükerrer Müşteri Kaydı
@@ -1796,10 +1718,9 @@ parent: CRM
 3. [Tanımlar](#tanımlar)
 4. [Sorumluluklar](#sorumluluklar)
 5. [Süreç Adımları](#süreç-adımları)
-6. [Ekran Görüntüleri](#ekran-görüntüleri)
-7. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-8. [Mağaza İpuçları](#mağaza-ipuçları)
-9. [Revizyon Geçmişi](#revizyon-geçmişi)
+6. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+7. [Mağaza İpuçları](#mağaza-ipuçları)
+8. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
 ## Kapsam
@@ -1958,31 +1879,6 @@ Standart puan çarpanı: Her 1 TL = 1 Puan
 > ⚠️ **Dikkat:** İade işlemlerinde kazanılan puanlar otomatik olarak düşürülür.
 
 
-## Ekran Görüntüleri
-
-### Ana Ekran
-
-![CRM Ana Ekran - Placeholder](screenshots/crm-user-main.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-### Müşteri Arama
-
-![Müşteri Arama - Placeholder](screenshots/crm-user-search.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-### Yeni Müşteri Formu
-
-![Yeni Müşteri - Placeholder](screenshots/crm-user-new-customer.png)
-
-*Ekran görüntüsü eklenecektir.*
-
-### Müşteri Profili
-
-![Müşteri Profili - Placeholder](screenshots/crm-user-profile.png)
-
-*Ekran görüntüsü eklenecektir.*
 
 
 ### Sorun 2: Müşteri Kaydı Başarısız
@@ -2030,11 +1926,10 @@ parent: CRM
 4. [Sorumluluklar](#sorumluluklar)
 5. [Süreç Adımları](#süreç-adımları)
 6. [SLA Süreleri](#sla-süreleri)
-7. [Ekran Görüntüleri](#ekran-görüntüleri)
-8. [KPI'lar](#kpılar)
-9. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-10. [Mağaza İpuçları](#mağaza-ipuçları)
-11. [Revizyon Geçmişi](#revizyon-geçmişi)
+7. [KPI'lar](#kpılar)
+8. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+9. [Mağaza İpuçları](#mağaza-ipuçları)
+10. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
 ## Kapsam

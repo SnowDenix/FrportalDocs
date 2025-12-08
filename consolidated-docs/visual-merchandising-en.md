@@ -15,6 +15,24 @@ nav_order: 7
 
 ---
 
+## Document Overview
+
+This comprehensive visual merchandising documentation covers all aspects of store presentation, display techniques, and visual standards for Aydınlı Group franchise stores. The document is organized into 6 major sections:
+
+**Section 1: In-Store Layout Guidelines** - Establishes store floor plan standards including traffic flow optimization, zone definitions, fixture placement, product category positioning, and space utilization principles to maximize customer experience and sales.
+
+**Section 2: Mannequin Styling Guidelines** - Details mannequin presentation standards including outfit coordination, styling techniques, accessory placement, seasonal styling approaches, and brand-appropriate presentation methods for creating compelling product displays.
+
+**Section 3: Seasonal VM Changeover** - Explains the complete seasonal transition process including changeover timelines, planning procedures, execution checklists, team coordination, and quality control standards for seamless seasonal updates.
+
+**Section 4: VM General Guidelines** - Provides comprehensive visual merchandising principles covering color coordination, product grouping, visual hierarchy, lighting standards, cleanliness requirements, and overall aesthetic standards applicable across all display types.
+
+**Section 5: VM Overview** - Presents the visual merchandising philosophy, organizational structure, roles and responsibilities, communication channels, and coordination between headquarters VM team and franchise store execution.
+
+**Section 6: Window Display Guidelines** - Covers window presentation standards including theme development, focal point creation, prop usage, lighting techniques, seasonal adaptations, and maintenance requirements for creating impactful storefront displays.
+
+---
+
 ## SECTION 1: IN-STORE-LAYOUT-GUIDELINE-EN
 
 ﻿---

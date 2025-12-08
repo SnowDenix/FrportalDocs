@@ -15,6 +15,32 @@ nav_order: 9
 
 ---
 
+## Document Overview
+
+This comprehensive guidelines and training documentation covers operational standards, communication protocols, brand-specific guidelines, and staff development frameworks for Aydınlı Group franchise stores. The document is organized into 10 major sections:
+
+**Section 1: Documentation Style Guide** - Establishes standards for creating and maintaining documentation including page structure, formatting conventions, bilingual content management, revision tracking, and consistency requirements across all FR Portal documents.
+
+**Section 2: Franchise Communication Protocol** - Details communication channels, escalation procedures, reporting standards, meeting protocols, and coordination processes between franchise stores, regional management, and headquarters across all operational areas.
+
+**Section 3: Store Operations Guidelines** - Provides comprehensive operational standards covering daily procedures, management responsibilities, staff protocols, quality standards, and performance expectations for consistent store operations across the franchise network.
+
+**Section 4: VM Guidelines** - Explains visual merchandising principles and standards including display techniques, seasonal updates, brand presentation requirements, and quality control processes specific to franchise store implementation.
+
+**Section 5: Brand Supplement - Cacharel** - Contains Cacharel-specific guidelines including brand positioning, target customer profile, product presentation standards, visual identity requirements, and unique brand characteristics for proper representation.
+
+**Section 6: Brand Supplement - Pierre Cardin** - Details Pierre Cardin brand-specific requirements including heritage positioning, customer service approach, visual merchandising standards, and brand voice guidelines for maintaining brand integrity.
+
+**Section 7: Brand Supplement - U.S. Polo Assn.** - Covers U.S. Polo Assn. brand guidelines including sporty lifestyle positioning, visual presentation standards, customer engagement approach, and brand-specific operational requirements.
+
+**Section 8: Competency Framework** - Defines role-based competency requirements, skill levels, performance standards, career progression paths, and evaluation criteria for all franchise store positions from sales associates to store managers.
+
+**Section 9: Customer Experience Standards** - Establishes service excellence benchmarks including greeting protocols, engagement standards, problem resolution procedures, and quality metrics for delivering consistent premium customer experiences.
+
+**Section 10: Customer Interaction Scenarios** - Provides practical examples and scripts for common customer situations including sales interactions, complaint handling, special requests, and challenging scenarios with recommended responses and approaches.
+
+---
+
 ## SECTION 1: DOCUMENTATION-STYLE-GUIDE-EN
 
 

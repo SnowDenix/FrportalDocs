@@ -15,6 +15,30 @@ nav_order: 5
 
 ---
 
+## Document Overview
+
+This comprehensive marketing documentation covers all aspects of brand management, campaign execution, and marketing communications for Aydınlı Group franchise stores. The document is organized into 9 major sections:
+
+**Section 1: Brand Guidelines** - Establishes comprehensive brand identity standards including logo usage, color specifications, typography rules, visual style guidelines, and brand voice principles for U.S. Polo Assn., Pierre Cardin, and Cacharel brands.
+
+**Section 2: Campaign Execution Guide** - Details the complete campaign lifecycle from planning to execution including campaign brief creation, timeline management, asset distribution, in-store implementation, and post-campaign evaluation procedures.
+
+**Section 3: Digital Assets Usage** - Covers proper handling and usage of digital marketing materials including file formats, resolution requirements, download procedures, storage guidelines, and quality control standards for digital content.
+
+**Section 4: In-Store Communication Guide** - Explains visual merchandising communication standards including signage placement, promotional material display, window communication, point-of-sale messaging, and seasonal decoration guidelines.
+
+**Section 5: Marketing Approval Process** - Outlines the approval workflow for all marketing materials including submission procedures, review timelines, approval authorities, revision processes, and compliance verification requirements.
+
+**Section 6: Marketing Overview** - Provides comprehensive view of the marketing ecosystem including organizational structure, brand positioning, target audience definitions, marketing channels, and coordination between headquarters and franchise stores.
+
+**Section 7: POSM Guidelines** - Details point-of-sale materials standards including types of POSM, ordering procedures, installation guidelines, maintenance requirements, and proper disposal of outdated materials.
+
+**Section 8: Seasonal Marketing Calendar** - Presents the annual marketing calendar with key dates, seasonal campaigns, promotional periods, product launches, and coordination timelines for planning and executing seasonal marketing activities.
+
+**Section 9: Social Media Localization Guide** - Explains guidelines for local social media activities including content creation rules, posting schedules, brand voice adaptation, engagement protocols, and approval requirements for franchise store social media presence.
+
+---
+
 ## SECTION 1: BRAND-GUIDELINE-EN
 
 ﻿---

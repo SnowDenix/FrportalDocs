@@ -15,6 +15,32 @@ nav_order: 1
 
 ---
 
+## Document Overview
+
+This comprehensive CRM documentation covers all aspects of customer relationship management for Aydınlı Group franchise stores. The document is organized into 10 major sections:
+
+**Section 1: CRM Customer Data Policy** - Establishes GDPR-compliant data protection policies, defining how customer information should be collected, stored, and managed. Covers legal requirements, consent management, data retention periods, and customer rights including erasure requests.
+
+**Section 2: Customer Segmentation** - Explains RFM (Recency, Frequency, Monetary) segmentation methodology and customer lifecycle stages. Provides strategies for targeting different customer segments from new customers to VIP members, including at-risk and lost customer win-back approaches.
+
+**Section 3: Dashboard and KPI Guide** - Details all CRM key performance indicators including loyalty penetration, customer match rate, average transaction value, and customer lifetime value. Includes formulas, targets, and dashboard usage instructions for tracking store performance.
+
+**Section 4: Data Quality Management** - Sets standards for maintaining high-quality customer data with validation rules for phone numbers, emails, names, and dates. Covers correction processes, duplicate management, and data quality KPIs.
+
+**Section 5: Do's and Don'ts** - Provides clear guidelines on permitted and prohibited CRM practices covering registration, data security, customer communication, loyalty operations, and system usage. Includes violation consequences and compliance requirements.
+
+**Section 6: Loyalty Program and Campaigns** - Explains the points system structure, earning and redemption rules, coupon management, and campaign execution. Details membership tiers, points validity periods, and various campaign types for customer engagement.
+
+**Section 7: CRM Overview** - Presents the system architecture, integration points, and overall CRM vision. Defines core terminology, communication permission types, and data flow between POS systems and central CRM platform.
+
+**Section 8: Store CRM Checklist** - Offers daily, weekly, and monthly checklists for store staff and managers. Provides systematic task lists for sales processes, customer registration, and ticket management to ensure compliance and consistency.
+
+**Section 9: Store User Guide** - Step-by-step operational instructions for using the CRM system including login, customer search, new registration, information updates, coupon application, and points operations. Designed for sales associates and cashiers.
+
+**Section 10: Ticketing Process** - Describes the complete customer complaint and ticketing workflow including categorization, priority levels, SLA times, escalation procedures, and resolution tracking. Includes ticket performance KPIs and response time requirements.
+
+---
+
 ## SECTION 1: CRM-CUSTOMER-DATA-POLICY-EN
 
 ﻿---
@@ -34,10 +60,9 @@ parent: CRM
 8. [Data Retention and Disposal](#data-retention-and-disposal)
 9. [Customer Rights](#customer-rights)
 10. [Process Steps](#process-steps)
-11. [Screenshots](#screenshots)
-12. [Common Issues & Solutions](#common-issues--solutions)
-13. [Store Tips](#store-tips)
-14. [Revision History](#revision-history)
+11. [Common Issues & Solutions](#common-issues--solutions)
+12. [Store Tips](#store-tips)
+13. [Revision History](#revision-history)
 
 
 ## Scope
@@ -193,21 +218,6 @@ The following data **must never be collected**:
 > ⚠️ **Note:** Some data cannot be deleted due to legal obligations (e.g., invoice data must be kept for 10 years).
 
 
-## Screenshots
-
-### Consent Management Screen
-
-![Consent Management - Placeholder](screenshots/crm-consent-management.png)
-
-*Screenshot to be added.*
-
-### GDPR Request Form
-
-![GDPR Request - Placeholder](screenshots/crm-gdpr-request.png)
-
-*Screenshot to be added.*
-
-
 ### Issue 2: Customer Wants to Query Their Data
 
 **Solution:**
@@ -252,11 +262,10 @@ parent: CRM
 5. [RFM Segmentation](#rfm-segmentation)
 6. [Customer Lifecycle](#customer-lifecycle)
 7. [Segment-Based Strategies](#segment-based-strategies)
-8. [Screenshots](#screenshots)
-9. [KPIs](#kpis)
-10. [Common Issues & Solutions](#common-issues--solutions)
-11. [Store Tips](#store-tips)
-12. [Revision History](#revision-history)
+8. [KPIs](#kpis)
+9. [Common Issues & Solutions](#common-issues--solutions)
+10. [Store Tips](#store-tips)
+11. [Revision History](#revision-history)
 
 
 ## Scope
@@ -397,21 +406,6 @@ parent: CRM
 - Major campaign announcement
 
 
-## Screenshots
-
-### Segment Dashboard
-
-![Segment Dashboard - Placeholder](screenshots/crm-segment-dashboard.png)
-
-*Screenshot to be added.*
-
-### Customer Profile Segment View
-
-![Customer Segment - Placeholder](screenshots/crm-customer-segment.png)
-
-*Screenshot to be added.*
-
-
 ## Common Issues & Solutions
 
 ### Issue 1: At Risk Rate Increasing
@@ -457,10 +451,9 @@ parent: CRM
 5. [CRM KPIs](#crm-kpis)
 6. [Dashboard Usage](#dashboard-usage)
 7. [Reporting Periods](#reporting-periods)
-8. [Screenshots](#screenshots)
-9. [Common Issues & Solutions](#common-issues--solutions)
-10. [Store Tips](#store-tips)
-11. [Revision History](#revision-history)
+8. [Common Issues & Solutions](#common-issues--solutions)
+9. [Store Tips](#store-tips)
+10. [Revision History](#revision-history)
 
 
 ## Scope
@@ -670,21 +663,6 @@ FCR % = (Resolved on First Contact / Total Tickets) × 100
 - → Horizontal arrow: Stable
 
 
-## Screenshots
-
-### Store Dashboard
-
-![Store Dashboard - Placeholder](screenshots/crm-store-dashboard.png)
-
-*Screenshot to be added.*
-
-### KPI Detail Screen
-
-![KPI Detail - Placeholder](screenshots/crm-kpi-detail.png)
-
-*Screenshot to be added.*
-
-
 ### Issue 2: Low Loyalty Penetration
 
 **Situation:** Penetration rate below target.
@@ -752,11 +730,10 @@ parent: CRM
 7. [Common Data Errors](#common-data-errors)
 8. [Correction Processes](#correction-processes)
 9. [Duplicate Management](#duplicate-management)
-10. [Screenshots](#screenshots)
-11. [KPIs](#kpis)
-12. [Common Issues & Solutions](#common-issues--solutions)
-13. [Store Tips](#store-tips)
-14. [Revision History](#revision-history)
+10. [KPIs](#kpis)
+11. [Common Issues & Solutions](#common-issues--solutions)
+12. [Store Tips](#store-tips)
+13. [Revision History](#revision-history)
 
 
 ## Scope
@@ -917,21 +894,6 @@ Bulk correction can be done for certain patterns:
 **Step 3:** CRM Headquarters reviews and corrects
 
 **Step 4:** Correction information sent to store
-
-
-## Screenshots
-
-### Data Quality Dashboard
-
-![Data Quality Dashboard - Placeholder](screenshots/crm-data-quality-dashboard.png)
-
-*Screenshot to be added.*
-
-### Duplicate Management
-
-![Duplicate Management - Placeholder](screenshots/crm-duplicate-management.png)
-
-*Screenshot to be added.*
 
 
 ## Common Issues & Solutions
@@ -1172,11 +1134,10 @@ parent: CRM
 7. [Campaign Types](#campaign-types)
 8. [Coupon Management](#coupon-management)
 9. [Process Steps](#process-steps)
-10. [Screenshots](#screenshots)
-11. [KPIs](#kpis)
-12. [Common Issues & Solutions](#common-issues--solutions)
-13. [Store Tips](#store-tips)
-14. [Revision History](#revision-history)
+10. [KPIs](#kpis)
+11. [Common Issues & Solutions](#common-issues--solutions)
+12. [Store Tips](#store-tips)
+13. [Revision History](#revision-history)
 
 
 ## Scope
@@ -1364,27 +1325,6 @@ parent: CRM
 **Step 8:** Take payment
 
 
-## Screenshots
-
-### Loyalty Dashboard
-
-![Loyalty Dashboard - Placeholder](screenshots/crm-loyalty-dashboard.png)
-
-*Screenshot to be added.*
-
-### Points Transaction Screen
-
-![Points Transaction - Placeholder](screenshots/crm-loyalty-points.png)
-
-*Screenshot to be added.*
-
-### Coupon List
-
-![Coupon List - Placeholder](screenshots/crm-loyalty-coupons.png)
-
-*Screenshot to be added.*
-
-
 ## Common Issues & Solutions
 
 ### Issue 1: Coupon Not Working
@@ -1470,10 +1410,9 @@ permalink: /crm/crm-overview-en/
 5. [Responsibilities](#responsibilities)
 6. [CRM System Architecture](#crm-system-architecture)
 7. [Data Flow](#data-flow)
-8. [Screenshots](#screenshots)
-9. [Common Issues & Solutions](#common-issues--solutions)
-10. [Store Tips](#store-tips)
-11. [Revision History](#revision-history)
+8. [Common Issues & Solutions](#common-issues--solutions)
+9. [Store Tips](#store-tips)
+10. [Revision History](#revision-history)
 
 
 ## Purpose
@@ -1564,27 +1503,6 @@ This document defines the overall structure, objectives, and operation of the CR
 | SMS Gateway | Unidirectional | CRM → SMS |
 | Email Service | Unidirectional | CRM → Email |
 | Inventory Management | Unidirectional | Stock → CRM (product info) |
-
-
-## Screenshots
-
-### Main CRM Screen
-
-![CRM Main Screen - Placeholder](screenshots/crm-main-screen.png)
-
-*Screenshot to be added.*
-
-### Customer Search Screen
-
-![Customer Search Screen - Placeholder](screenshots/crm-customer-search.png)
-
-*Screenshot to be added.*
-
-### Customer Profile Screen
-
-![Customer Profile Screen - Placeholder](screenshots/crm-customer-profile.png)
-
-*Screenshot to be added.*
 
 
 ### Issue 2: Duplicate Customer Record
@@ -1799,10 +1717,9 @@ parent: CRM
 3. [Definitions](#definitions)
 4. [Responsibilities](#responsibilities)
 5. [Process Steps](#process-steps)
-6. [Screenshots](#screenshots)
-7. [Common Issues & Solutions](#common-issues--solutions)
-8. [Store Tips](#store-tips)
-9. [Revision History](#revision-history)
+6. [Common Issues & Solutions](#common-issues--solutions)
+7. [Store Tips](#store-tips)
+8. [Revision History](#revision-history)
 
 
 ## Scope
@@ -1961,33 +1878,6 @@ Standard points multiplier: Every 1 currency unit = 1 Point
 > ⚠️ **Warning:** Points earned are automatically deducted in return transactions.
 
 
-## Screenshots
-
-### Main Screen
-
-![CRM Main Screen - Placeholder](screenshots/crm-user-main.png)
-
-*Screenshot to be added.*
-
-### Customer Search
-
-![Customer Search - Placeholder](screenshots/crm-user-search.png)
-
-*Screenshot to be added.*
-
-### New Customer Form
-
-![New Customer - Placeholder](screenshots/crm-user-new-customer.png)
-
-*Screenshot to be added.*
-
-### Customer Profile
-
-![Customer Profile - Placeholder](screenshots/crm-user-profile.png)
-
-*Screenshot to be added.*
-
-
 ### Issue 2: Customer Registration Failed
 
 **Possible Causes and Solutions:**
@@ -2033,11 +1923,10 @@ parent: CRM
 4. [Responsibilities](#responsibilities)
 5. [Process Steps](#process-steps)
 6. [SLA Times](#sla-times)
-7. [Screenshots](#screenshots)
-8. [KPIs](#kpis)
-9. [Common Issues & Solutions](#common-issues--solutions)
-10. [Store Tips](#store-tips)
-11. [Revision History](#revision-history)
+7. [KPIs](#kpis)
+8. [Common Issues & Solutions](#common-issues--solutions)
+9. [Store Tips](#store-tips)
+10. [Revision History](#revision-history)
 
 
 ## Scope

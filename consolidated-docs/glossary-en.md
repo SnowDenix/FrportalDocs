@@ -15,6 +15,18 @@ nav_order: 11
 
 ---
 
+## Document Overview
+
+This comprehensive glossary provides definitions, formulas, and explanations for key terms used across Aydınlı Group franchise operations. The document is organized into 3 major sections:
+
+**Section 1: Finance KPI Formulas** - Contains detailed financial metrics and key performance indicator formulas including sales calculations, profitability measures, inventory ratios, cash flow metrics, and performance benchmarks with examples and target ranges for financial analysis and reporting.
+
+**Section 2: Retail Terms** - Defines common retail terminology used in daily operations including merchandising concepts, customer service terms, sales metrics, store operations vocabulary, and industry-standard retail expressions for clear communication across the organization.
+
+**Section 3: Supply Chain and Logistics Terms** - Explains supply chain management terminology covering warehouse operations, inventory management concepts, logistics processes, shipping terms, distribution vocabulary, and coordination terminology for effective supply chain communication.
+
+---
+
 ## SECTION 1: FINANCE-KPI-FORMULAS-EN
 
 ﻿---
