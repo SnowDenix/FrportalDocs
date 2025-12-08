@@ -31,7 +31,7 @@ Tüm dokümanlar **Türkçe** ve **İngilizce** olarak iki dilde sunulmaktadır.
 ## Modüller
 
 {: .new }
-> **Yeni Format:** Dokümantasyon artık konsolide formatta! Her modül için kapsamlı, LLM-uyumlu tek dosyalar.
+> **Yeni Format:** Dokümantasyon artık konsolide formatta! Her modül için kapsamlı, modern standartlara uygun tek dosyalar.
 
 | Modül | Açıklama | Format |
 |:------|:---------|:-------|
@@ -100,7 +100,7 @@ Erkek modası segmentinde şık ve modern koleksiyonlar sunan Fransız markası.
 
 **Avantajlar:**
 - 🚀 Daha hızlı erişim
-- 🤖 LLM/AI uyumlu
+- 📋 Modern standartlara uygun
 - 📚 Tam kontext
 - 🔍 Daha iyi arama
 

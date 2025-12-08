@@ -9,7 +9,7 @@ permalink: /consolidated-docs/
 # Consolidated Documentation
 {: .fs-8 }
 
-Comprehensive, LLM-Optimized Documentation Format
+Comprehensive, Modern Documentation Format
 {: .fs-5 .fw-300 }
 
 ---
@@ -18,7 +18,7 @@ Comprehensive, LLM-Optimized Documentation Format
 
 Welcome to the new **consolidated documentation format**! All documentation has been reorganized into comprehensive, single-file resources that are:
 
-- ✅ **LLM-friendly** - Perfect for AI/ChatGPT processing
+- ✅ **Modern and accessible** - Perfect for efficient reference and processing
 - ✅ **Complete context** - All related information in one place
 - ✅ **Faster access** - No more switching between multiple files
 - ✅ **Bilingual** - Both English and Turkish versions
@@ -115,10 +115,10 @@ Complete glossary of retail terms, finance KPI formulas, and supply chain/logist
 2. Use your browser's search function (Ctrl+F / Cmd+F)
 3. Navigate using the comprehensive table of contents
 
-### For LLM/AI Processing
+### For Digital Tools Integration
 1. Download or copy the entire file content
-2. Feed it to your LLM (ChatGPT, Claude, etc.)
-3. Ask questions with complete context
+2. Use with digital reference tools and systems
+3. Access complete context for comprehensive analysis
 
 ### For Training
 1. Share the relevant consolidated file with trainees
@@ -155,7 +155,7 @@ For more information about the consolidated documentation format, see [README.md
 
 ---
 
-*This consolidated documentation was created to improve accessibility, LLM compatibility, and operational efficiency.*
+*This consolidated documentation was created to improve accessibility, modern standards compatibility, and operational efficiency.*
 
 **© 2025 Aydınlı Grup - All rights reserved.**
 

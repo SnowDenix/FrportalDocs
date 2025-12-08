@@ -7,12 +7,12 @@ nav_order: 13
 
 # Consolidated Documentation
 
-This directory contains consolidated documentation files optimized for LLM (Large Language Model) processing and easier reference.
+This directory contains consolidated documentation files optimized for modern documentation standards and easier reference.
 
 ## Purpose
 
 The original documentation was spread across 111+ individual files in multiple directories. This made it difficult to:
-- Feed complete context to LLMs for analysis and querying
+- Enable comprehensive analysis and reference
 - Quickly reference related information
 - Maintain consistency across topics
 - Search semantically across a functional area
@@ -61,7 +61,7 @@ These consolidated files solve these problems by combining all related documents
 
 ## Format Changes
 
-The consolidated files have been optimized for LLM processing:
+The consolidated files have been optimized for modern documentation standards:
 
 ### Removed
 - Jekyll frontmatter (YAML headers)
@@ -94,10 +94,10 @@ The consolidated files have been optimized for LLM processing:
 
 ## Usage
 
-### For LLM Processing
+### For Digital Tools
 1. Select the relevant consolidated file(s) for your use case
-2. Feed the entire file or specific sections to your LLM
-3. The LLM will have complete context for that functional area
+2. Use with digital reference tools and systems
+3. Digital tools will have complete context for that functional area
 
 ### For Human Reference
 1. Use your text editor's search function (Ctrl+F / Cmd+F)
@@ -143,9 +143,9 @@ When updating documentation:
 - **Better training:** Trainers can reference complete materials
 - **Improved consistency:** Easier to see how processes relate
 
-### For LLMs/AI Tools
+### For Digital Tools Integration
 - **Complete context:** Entire functional area in one file
-- **Better answers:** More context leads to more accurate responses
+- **Better reference:** More context leads to more accurate information retrieval
 - **Efficient processing:** Single file load vs. 10+ files
 
 ### For Management
@@ -172,5 +172,5 @@ For questions about these consolidated documents, contact:
 
 **© 2025 Aydınlı Group - All rights reserved.**
 
-This consolidated documentation structure was created to improve accessibility, LLM compatibility, and operational efficiency across the franchise network.
+This consolidated documentation structure was created to improve accessibility, modern standards compatibility, and operational efficiency across the franchise network.
 
