@@ -37,13 +37,8 @@ Bu kapsamlı yönergeler ve eğitim dokümantasyonu, Aydınlı Grup franchise ma
 
 ## SECTION 1: FRANCHISE-COMMUNICATION-PROTOCOL-TR
 
-﻿---
-layout: default
-title: "Franchise İletişim Protokolü"
-parent: Guidelines
-permalink: /guidelines/franchise-communication-protocol-tr/
 
-## İçindekiler
+### İçindekiler
 
 1. [Giriş ve Amaç](#giriş-ve-amaç)
 2. [Organizasyon Yapısı](#organizasyon-yapısı)
@@ -56,9 +51,9 @@ permalink: /guidelines/franchise-communication-protocol-tr/
 9. [İletişim Şablonları](#iletişim-şablonları)
 
 
-## Organizasyon Yapısı
+#### Organizasyon Yapısı
 
-### Aydınlı Grup Merkez Yapısı
+#### Aydınlı Grup Merkez Yapısı
 
 ```
 ┌─────────────────────────────────────┐
@@ -79,7 +74,7 @@ permalink: /guidelines/franchise-communication-protocol-tr/
 └───────┘  └────────┘  └────────┘
 ```
 
-### Franchise Bayi Yapısı
+#### Franchise Bayi Yapısı
 
 ```
 ┌─────────────────────────────────────┐
@@ -100,7 +95,7 @@ permalink: /guidelines/franchise-communication-protocol-tr/
 └───────┘
 ```
 
-### İletişim Matrisi
+#### İletişim Matrisi
 
 | Konu | Franchise Temsilcisi | Merkez Muhatabı |
 |------|---------------------|-----------------|
@@ -112,9 +107,9 @@ permalink: /guidelines/franchise-communication-protocol-tr/
 | Stratejik | Franchise Sahibi | Genel Müdür |
 
 
-## Raporlama Standartları
+#### Raporlama Standartları
 
-### Günlük Raporlar
+#### Günlük Raporlar
 
 **Satış Raporu (Her gün 22:00'ye kadar)**
 
@@ -144,7 +139,7 @@ Conversion:      _____    _____    ___%
 Notlar: ________________________
 ```
 
-### Haftalık Raporlar
+#### Haftalık Raporlar
 
 **Stok Durumu Raporu (Her Pazartesi 12:00'ye kadar)**
 - Mevcut stok değeri
@@ -158,7 +153,7 @@ Notlar: ________________________
 - En çok satan ürünler (Top 10)
 - En az satan ürünler (Bottom 10)
 
-### Aylık Raporlar
+#### Aylık Raporlar
 
 **Kapsamlı Performans Raporu (Her ayın 5'ine kadar)**
 - Aylık satış performansı
@@ -168,9 +163,9 @@ Notlar: ________________________
 - Sonraki ay hedefleri
 
 
-## Escalation Prosedürleri
+#### Escalation Prosedürleri
 
-### Escalation Seviyeleri
+#### Escalation Seviyeleri
 
 | Seviye | Tanım | Süre | Yetkili |
 |--------|-------|------|---------|
@@ -179,7 +174,7 @@ Notlar: ________________________
 | **L3** | Kritik konular | 72 saat | Direktör |
 | **L4** | Kriz durumları | Anında | Genel Müdür |
 
-### Escalation Matrisi
+#### Escalation Matrisi
 
 | Konu | L1 | L2 | L3 | L4 |
 |------|-----|-----|-----|-----|
@@ -189,7 +184,7 @@ Notlar: ________________________
 | Ödeme sorunu | Muhasebe | Finans Müdürü | Finans Dir. | GM |
 | Sözleşme konusu | Hukuk | Hukuk Müdürü | Genel Sekreter | GM |
 
-### Escalation İletişim Şablonu
+#### Escalation İletişim Şablonu
 
 ```
 Konu: [ACİL] - Escalation L[X] - [Konu Özeti]
@@ -221,9 +216,9 @@ BEKLENEN ÇÖZÜM SÜRESİ: [X saat/gün]
 ```
 
 
-## Kriz İletişimi
+#### Kriz İletişimi
 
-### Kriz Türleri
+#### Kriz Türleri
 
 | Tür | Tanım | Öncelik |
 |-----|-------|---------|
@@ -232,7 +227,7 @@ BEKLENEN ÇÖZÜM SÜRESİ: [X saat/gün]
 | **İtibar Krizi** | Medya, sosyal medya sorunları | Çok Yüksek |
 | **Doğal Afet** | Deprem, sel, pandemi | Kritik |
 
-### Kriz İletişim Protokolü
+#### Kriz İletişim Protokolü
 
 ```
 1. Krizi Tespit Et ve Değerlendir
@@ -250,7 +245,7 @@ BEKLENEN ÇÖZÜM SÜRESİ: [X saat/gün]
 7. Kriz Sonrası: Değerlendirme ve Raporlama
 ```
 
-### Acil İletişim Listesi
+#### Acil İletişim Listesi
 
 ```
 KRİZ İLETİŞİM LİSTESİ
@@ -262,7 +257,7 @@ WhatsApp: +90 XXX XXX XX XX
 ```
 
 
-## Revision History
+#### Revision History
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|
@@ -273,12 +268,8 @@ WhatsApp: +90 XXX XXX XX XX
 
 ## SECTION 2: CUSTOMER-EXPERIENCE-STANDARDS-TR
 
-﻿---
-layout: default
-title: "Müşteri Deneyimi Standartları"
-parent: Training
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -297,9 +288,9 @@ parent: Training
 15. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Hedef Kitle
+#### Hedef Kitle
 
 | Rol | Eğitim İçeriği |
 |-----|----------------|
@@ -308,7 +299,7 @@ parent: Training
 | **Mağaza Müdürü** | Şikayet yönetimi, CRM, ekip koçluğu |
 | **Bölge Müdürü** | Deneyim denetimi, best practice paylaşımı |
 
-### Müşteri Yolculuğu Haritası
+#### Müşteri Yolculuğu Haritası
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -337,9 +328,9 @@ parent: Training
 ```
 
 
-## Temel Kavramlar
+#### Temel Kavramlar
 
-### Müşteri Deneyimi Terminolojisi
+#### Müşteri Deneyimi Terminolojisi
 
 | Terim | Tanım | Önemi |
 |-------|-------|-------|
@@ -350,7 +341,7 @@ parent: Training
 | **Customer Journey** | Müşteri yolculuğu | Baştan sona deneyim |
 | **Service Recovery** | Hizmet kurtarma | Şikayeti fırsata çevirme |
 
-### Müşteri Beklentileri
+#### Müşteri Beklentileri
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -375,9 +366,9 @@ parent: Training
 ```
 
 
-## Karşılama Standartları
+#### Karşılama Standartları
 
-### İlk 10 Saniye Kuralı
+#### İlk 10 Saniye Kuralı
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -402,7 +393,7 @@ parent: Training
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Karşılama Cümleleri
+#### Karşılama Cümleleri
 
 **Standart Karşılama:**
 ```
@@ -420,7 +411,7 @@ Yoğun gün: "Hoş geldiniz, biraz yoğunuz ama hemen ilgileneceğim."
 Tanıdık müşteri: "Hoş geldiniz Beyefendi/Hanımefendi, sizi görmek güzel!"
 ```
 
-### Beden Dili Standartları
+#### Beden Dili Standartları
 
 | Doğru | Yanlış |
 |-------|--------|
@@ -432,9 +423,9 @@ Tanıdık müşteri: "Hoş geldiniz Beyefendi/Hanımefendi, sizi görmek güzel!
 | Müşteriye dönük | Sırt dönme |
 
 
-## Problem Çözme ve Şikayet Yönetimi
+#### Problem Çözme ve Şikayet Yönetimi
 
-### LEARN Modeli
+#### LEARN Modeli
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -468,7 +459,7 @@ Tanıdık müşteri: "Hoş geldiniz Beyefendi/Hanımefendi, sizi görmek güzel!
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Yaygın Şikayetler ve Çözümleri
+#### Yaygın Şikayetler ve Çözümleri
 
 | Şikayet | İlk Tepki | Çözüm |
 |---------|-----------|-------|
@@ -478,7 +469,7 @@ Tanıdık müşteri: "Hoş geldiniz Beyefendi/Hanımefendi, sizi görmek güzel!
 | **Bekleme** | "Beklettiğim için özür dilerim" | Öncelikli hizmet |
 | **Personel davranışı** | "Çok üzgünüm, bu kabul edilemez" | Özür + Yönetici devri |
 
-### Şikayet Yönetimi Diyaloğu
+#### Şikayet Yönetimi Diyaloğu
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -514,7 +505,7 @@ Tanıdık müşteri: "Hoş geldiniz Beyefendi/Hanımefendi, sizi görmek güzel!
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Eskalasyon Prosedürü
+#### Eskalasyon Prosedürü
 
 ```
 SEVİYE 1: SATIŞ DANIŞMANI
@@ -543,9 +534,9 @@ SEVİYE 3: BÖLGE MÜDÜRÜ / HQ
 ```
 
 
-## Rol Sorumlulukları
+#### Rol Sorumlulukları
 
-### Satış Danışmanı
+#### Satış Danışmanı
 
 | Sorumluluk | Detay |
 |------------|-------|
@@ -555,7 +546,7 @@ SEVİYE 3: BÖLGE MÜDÜRÜ / HQ
 | CRM | Müşteri bilgisi toplama |
 | Veda | Standart ve sıcak uğurlama |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Sorumluluk | Detay |
 |------------|-------|
@@ -565,7 +556,7 @@ SEVİYE 3: BÖLGE MÜDÜRÜ / HQ
 | Koçluk | Ekip performans koçluğu |
 | Raporlama | Haftalık CX raporu |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Sorumluluk | Detay |
 |------------|-------|
@@ -575,9 +566,9 @@ SEVİYE 3: BÖLGE MÜDÜRÜ / HQ
 | Analiz | Bölge CX analizi |
 
 
-## Senaryolar
+#### Senaryolar
 
-### Senaryo 1: WOW Anı Yaratma
+#### Senaryo 1: WOW Anı Yaratma
 
 ```
 DURUM: Düzenli müşteri doğum günü yakınında mağazaya geliyor.
@@ -593,7 +584,7 @@ ADIMLAR:
 SONUÇ: Müşteri memnuniyeti, sadakat artışı, sosyal medya paylaşımı
 ```
 
-### Senaryo 2: Zor Müşteri Yönetimi
+#### Senaryo 2: Zor Müşteri Yönetimi
 
 ```
 DURUM: Müşteri yüksek sesle 1 aylık ürünün defolu olduğunu iddia ediyor.
@@ -614,7 +605,7 @@ ADIMLAR:
 SONUÇ: Öfkeli müşteri sadık müşteriye dönüşür
 ```
 
-### Senaryo 3: Proaktif Hizmet
+#### Senaryo 3: Proaktif Hizmet
 
 ```
 DURUM: Müşteri uzun süredir mağazada dolaşıyor, 
@@ -632,9 +623,9 @@ SONUÇ: Kayıp satış kurtarılır, müşteri memnun ayrılır
 ```
 
 
-## Değerlendirme Yöntemleri
+#### Değerlendirme Yöntemleri
 
-### Mystery Shopping Formu
+#### Mystery Shopping Formu
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -672,7 +663,7 @@ SONUÇ: Kayıp satış kurtarılır, müşteri memnun ayrılır
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### NPS Anketi
+#### NPS Anketi
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -706,12 +697,8 @@ SONUÇ: Kayıp satış kurtarılır, müşteri memnun ayrılır
 
 ## SECTION 3: COMPETENCY-FRAMEWORK-TR
 
-﻿---
-layout: default
-title: "Yetkinlik Çerçevesi"
-parent: Training
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -728,9 +715,9 @@ parent: Training
 13. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Hedef Kitle
+#### Hedef Kitle
 
 | Rol | Başlangıç Seviyesi | Hedef Seviye |
 |-----|-------------------|--------------|
@@ -738,7 +725,7 @@ parent: Training
 | **Mağaza Müdür Yardımcısı** | Seviye 3 | Seviye 4-5 |
 | **Mağaza Müdürü** | Seviye 4 | Seviye 5 |
 
-### Yetkinlik Sistemi Genel Bakış
+#### Yetkinlik Sistemi Genel Bakış
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -769,9 +756,9 @@ parent: Training
 ```
 
 
-## Yetkinlik Seviyeleri
+#### Yetkinlik Seviyeleri
 
-### Seviye 1: Stajyer (Trainee)
+#### Seviye 1: Stajyer (Trainee)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -804,7 +791,7 @@ parent: Training
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Seviye 2: Junior
+#### Seviye 2: Junior
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -838,7 +825,7 @@ parent: Training
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Seviye 3: Yetkin (Proficient)
+#### Seviye 3: Yetkin (Proficient)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -874,7 +861,7 @@ parent: Training
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Seviye 4: Kıdemli (Senior)
+#### Seviye 4: Kıdemli (Senior)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -910,7 +897,7 @@ parent: Training
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Seviye 5: Uzman (Expert)
+#### Seviye 5: Uzman (Expert)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -947,9 +934,9 @@ parent: Training
 ```
 
 
-## Beceri Matrisi
+#### Beceri Matrisi
 
-### Satış Becerileri Matrisi
+#### Satış Becerileri Matrisi
 
 | Beceri | Seviye 1 | Seviye 2 | Seviye 3 | Seviye 4 | Seviye 5 |
 |--------|----------|----------|----------|----------|----------|
@@ -960,7 +947,7 @@ parent: Training
 | **Kapanış** | - | Temel | İleri | Mükemmel | Eğitebilir |
 | **Ek Satış** | - | Öğreniyor | Yapabiliyor | Ustalaşmış | Eğitebilir |
 
-### Müşteri Hizmeti Matrisi
+#### Müşteri Hizmeti Matrisi
 
 | Beceri | Seviye 1 | Seviye 2 | Seviye 3 | Seviye 4 | Seviye 5 |
 |--------|----------|----------|----------|----------|----------|
@@ -969,7 +956,7 @@ parent: Training
 | **CRM** | Öğreniyor | Temel | Tam kullanım | Analiz | Strateji |
 | **Problem Çözme** | - | Temel | Orta | İleri | Uzman |
 
-### Operasyonel Beceriler Matrisi
+#### Operasyonel Beceriler Matrisi
 
 | Beceri | Seviye 1 | Seviye 2 | Seviye 3 | Seviye 4 | Seviye 5 |
 |--------|----------|----------|----------|----------|----------|
@@ -980,9 +967,9 @@ parent: Training
 | **VM** | Gözlemliyor | Destek | Uygulama | Yönetim | Eğitebilir |
 
 
-## Değerlendirme Süreci
+#### Değerlendirme Süreci
 
-### Değerlendirme Takvimi
+#### Değerlendirme Takvimi
 
 | Değerlendirme | Sıklık | Sorumlu | Amaç |
 |---------------|--------|---------|------|
@@ -992,7 +979,7 @@ parent: Training
 | **Çeyreklik 360°** | 3 ayda bir | Bölge Müdürü | Kapsamlı değerlendirme |
 | **Seviye Değerlendirme** | İhtiyaç | İlgili yönetici | Seviye geçişi |
 
-### Yetkinlik Değerlendirme Formu
+#### Yetkinlik Değerlendirme Formu
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1052,9 +1039,9 @@ parent: Training
 ```
 
 
-## Rol Sorumlulukları
+#### Rol Sorumlulukları
 
-### Personel
+#### Personel
 
 | Sorumluluk | Detay |
 |------------|-------|
@@ -1063,7 +1050,7 @@ parent: Training
 | Eğitime katılım | Gerekli eğitimleri tamamlama |
 | Performans | Hedefleri tutturma |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Sorumluluk | Detay |
 |------------|-------|
@@ -1072,7 +1059,7 @@ parent: Training
 | Öneri | Seviye geçişi önerisi |
 | Takip | İlerlemeyi izleme |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Sorumluluk | Detay |
 |------------|-------|
@@ -1081,9 +1068,9 @@ parent: Training
 | Standart | Bölge genelinde tutarlılık |
 
 
-## Sık Yapılan Hatalar ve Koçluk Notları
+#### Sık Yapılan Hatalar ve Koçluk Notları
 
-### Yetkinlik Gelişiminde Sık Yapılan Hatalar
+#### Yetkinlik Gelişiminde Sık Yapılan Hatalar
 
 | Hata | Sonuç | Düzeltme |
 |------|-------|----------|
@@ -1092,7 +1079,7 @@ parent: Training
 | Sadece satışa odaklanmak | Tek boyutlu | Tüm yetkinlikleri geliştirme |
 | Mentorluk reddetmek | Fırsat kaçırma | Öğrenmeye açık olma |
 
-### Koçluk İpuçları
+#### Koçluk İpuçları
 
 ```
 SEVİYE 1-2 İÇİN:
@@ -1125,14 +1112,10 @@ SEVİYE 5 İÇİN:
 
 ## SECTION 4: BRAND-SUPPLEMENT-USPA-TR
 
-﻿---
-layout: default
-title: "U.S. Polo Assn. Marka Eğitim Rehberi – TR"
-parent: Training
 
-## Training Content
+#### Training Content
 
-### BÖLÜM 1: MARKA HİKAYESİ
+#### BÖLÜM 1: MARKA HİKAYESİ
 
 #### 1.1 Tarihçe
 
@@ -1167,7 +1150,7 @@ Bu marka, polo sporunun şıklığını ve Amerikan yaşam tarzını günlük ha
 ```
 
 
-### BÖLÜM 3: ÜRÜN KATEGORİLERİ
+#### BÖLÜM 3: ÜRÜN KATEGORİLERİ
 
 #### 3.1 Erkek Koleksiyonu
 
@@ -1220,7 +1203,7 @@ Bu marka, polo sporunun şıklığını ve Amerikan yaşam tarzını günlük ha
 - Her kombine uyum
 
 
-### BÖLÜM 5: SATIŞ TEKNİKLERİ
+#### BÖLÜM 5: SATIŞ TEKNİKLERİ
 
 #### 5.1 Marka Hikayesi Satışı
 
@@ -1263,7 +1246,7 @@ bu logoyu taşıyor. Kumaşı pique pamuk, nefes alıyor ve formunu koruyor."
 | Kış | Mont, Triko, Atkı | "Sıcak ve şık" |
 
 
-### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARı
+#### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARı
 
 #### 7.1 Kumaş Türleri
 
@@ -1307,7 +1290,7 @@ bu logoyu taşıyor. Kumaşı pique pamuk, nefes alıyor ve formunu koruyor."
 | Triko | Elde veya 30°C | Yatay kurutma | Buharla |
 
 
-### BÖLÜM 9: SIKÇA SORULAN SORULAR
+#### BÖLÜM 9: SIKÇA SORULAN SORULAR
 
 | Soru | Cevap |
 |------|-------|
@@ -1317,7 +1300,7 @@ bu logoyu taşıyor. Kumaşı pique pamuk, nefes alıyor ve formunu koruyor."
 | "İndirime giriyor mu?" | "Sezon sonu indirimleri ve özel kampanyalarımız oluyor. CRM üyeliğiyle kampanyalardan ilk siz haberdar olursunuz." |
 
 
-## Tools & Resources
+#### Tools & Resources
 
 | Kaynak | Kullanım |
 |--------|----------|
@@ -1328,19 +1311,19 @@ bu logoyu taşıyor. Kumaşı pique pamuk, nefes alıyor ve formunu koruyor."
 | Kumaş Örnekleri | Dokunmatik eğitim seti |
 
 
-## Assessment Methods
+#### Assessment Methods
 
-### Marka Bilgisi Quiz'i
+#### Marka Bilgisi Quiz'i
 - 20 soru, çoktan seçmeli
 - Marka hikayesi, değerler, ürün bilgisi
 - Geçer not: %80
 
-### Ürün Tanıma Testi
+#### Ürün Tanıma Testi
 - 10 ürün görseli
 - Kumaş, fit, özellik tanımlama
 - Pratik değerlendirme
 
-### Rol-Play
+#### Rol-Play
 - Müşteri senaryosu
 - Marka hikayesi anlatımı
 - Cross-sell/Upsell uygulaması
@@ -1350,14 +1333,10 @@ bu logoyu taşıyor. Kumaşı pique pamuk, nefes alıyor ve formunu koruyor."
 
 ## SECTION 5: BRAND-SUPPLEMENT-PIERRE-CARDIN-TR
 
-﻿---
-layout: default
-title: "Pierre Cardin Marka Eğitim Rehberi – TR"
-parent: Training
 
-## Training Content
+#### Training Content
 
-### BÖLÜM 1: MARKA HİKAYESİ
+#### BÖLÜM 1: MARKA HİKAYESİ
 
 #### 1.1 Tarihçe
 
@@ -1394,7 +1373,7 @@ her parça, Fransız şıklığını modern yaşamla buluşturuyor."
 ```
 
 
-### BÖLÜM 3: ÜRÜN KATEGORİLERİ
+#### BÖLÜM 3: ÜRÜN KATEGORİLERİ
 
 #### 3.1 Erkek Koleksiyonu - Business
 
@@ -1456,7 +1435,7 @@ her parça, Fransız şıklığını modern yaşamla buluşturuyor."
 - Zamansız desenler
 
 
-### BÖLÜM 5: SATIŞ TEKNİKLERİ
+#### BÖLÜM 5: SATIŞ TEKNİKLERİ
 
 #### 5.1 Danışmanlık Odaklı Satış
 
@@ -1512,7 +1491,7 @@ aslında çok makul bir yatırım."
 ```
 
 
-### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARI
+#### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARI
 
 #### 7.1 Kumaş Türleri - Takım Elbise
 
@@ -1562,7 +1541,7 @@ aslında çok makul bir yatırım."
 | Non-iron Gömlek | 40°C yıkama | Askıda |
 
 
-### BÖLÜM 9: SIKÇA SORULAN SORULAR
+#### BÖLÜM 9: SIKÇA SORULAN SORULAR
 
 | Soru | Cevap |
 |------|-------|
@@ -1572,7 +1551,7 @@ aslında çok makul bir yatırım."
 | "Takım elbise beden nasıl seçilir?" | "Ceket bedeni göğüs ölçünüze göre, pantolon bel ölçünüze göre belirlenir. Size profesyonel ölçü almamızı öneriyorum." |
 
 
-## Tools & Resources
+#### Tools & Resources
 
 | Kaynak | Kullanım |
 |--------|----------|
@@ -1583,19 +1562,19 @@ aslında çok makul bir yatırım."
 | Bakım Kartları | Müşteriye verilecek bilgi kartları |
 
 
-## Assessment Methods
+#### Assessment Methods
 
-### Premium Satış Quiz'i
+#### Premium Satış Quiz'i
 - 20 soru
 - Kumaş bilgisi, fit, stil önerileri
 - Geçer not: %85
 
-### Stil Danışmanlığı Değerlendirmesi
+#### Stil Danışmanlığı Değerlendirmesi
 - Müşteri profili analizi
 - Kombin önerisi senaryosu
 - Gardrop danışmanlığı rol-play
 
-### Ürün Bilgisi Testi
+#### Ürün Bilgisi Testi
 - Kumaş tanıma (dokunarak)
 - Fit tipi belirleme
 - Bakım talimatı bilgisi
@@ -1605,14 +1584,10 @@ aslında çok makul bir yatırım."
 
 ## SECTION 6: BRAND-SUPPLEMENT-CACHAREL-TR
 
-﻿---
-layout: default
-title: "Cacharel Marka Eğitim Rehberi – TR"
-parent: Training
 
-## Training Content
+#### Training Content
 
-### BÖLÜM 1: MARKA HİKAYESİ
+#### BÖLÜM 1: MARKA HİKAYESİ
 
 #### 1.1 Tarihçe
 
@@ -1650,7 +1625,7 @@ modern erkeğin tercihi."
 ```
 
 
-### BÖLÜM 3: ÜRÜN KATEGORİLERİ
+#### BÖLÜM 3: ÜRÜN KATEGORİLERİ
 
 #### 3.1 Erkek Koleksiyonu - Business
 
@@ -1703,7 +1678,7 @@ modern erkeğin tercihi."
 - Günlük kullanım
 
 
-### BÖLÜM 5: SATIŞ TEKNİKLERİ
+#### BÖLÜM 5: SATIŞ TEKNİKLERİ
 
 #### 5.1 Profesyonel Satış Yaklaşımı
 
@@ -1757,7 +1732,7 @@ Kumaş kalitesi daha üst seviye, yıllarca giyilebilir."
 ```
 
 
-### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARI
+#### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARI
 
 #### 7.1 Kumaş Türleri
 
@@ -1800,7 +1775,7 @@ Kumaş kalitesi daha üst seviye, yıllarca giyilebilir."
 | Denim | 30°C ters | Serin asarak | Buharla |
 
 
-### BÖLÜM 9: SIKÇA SORULAN SORULAR
+#### BÖLÜM 9: SIKÇA SORULAN SORULAR
 
 | Soru | Cevap |
 |------|-------|
@@ -1810,7 +1785,7 @@ Kumaş kalitesi daha üst seviye, yıllarca giyilebilir."
 | "Fransız kesim ne demek?" | "Fransız kesim, daha dar ve vücuda oturan, modern bir kesimdir. Klasik kesimden daha şık ve güncel görünür." |
 
 
-## Tools & Resources
+#### Tools & Resources
 
 | Kaynak | Kullanım |
 |--------|----------|
@@ -1821,19 +1796,19 @@ Kumaş kalitesi daha üst seviye, yıllarca giyilebilir."
 | Bakım Kartları | Müşteriye verilecek bilgi kartları |
 
 
-## Assessment Methods
+#### Assessment Methods
 
-### Marka Bilgisi Quiz'i
+#### Marka Bilgisi Quiz'i
 - 20 soru
 - Marka hikayesi, değerler, ürün bilgisi
 - Geçer not: %80
 
-### Stil Danışmanlığı Değerlendirmesi
+#### Stil Danışmanlığı Değerlendirmesi
 - Müşteri profili analizi
 - Kombin önerisi senaryosu
 - Business/Casual yönlendirme
 
-### Ürün Bilgisi Testi
+#### Ürün Bilgisi Testi
 - Kumaş tanıma
 - Fit tipi belirleme
 - Bakım talimatı bilgisi
@@ -1843,14 +1818,10 @@ Kumaş kalitesi daha üst seviye, yıllarca giyilebilir."
 
 ## SECTION 7: CUSTOMER-INTERACTION-SCENARIOS-TR
 
-﻿---
-layout: default
-title: "Müşteri Etkileşim Senaryoları – TR"
-parent: Training
 
-## Training Content
+#### Training Content
 
-### BÖLÜM 1: KARŞILAMA SENARYOLARI
+#### BÖLÜM 1: KARŞILAMA SENARYOLARI
 
 
 #### Senaryo 1.2: Acele Eden Müşteri
@@ -1874,7 +1845,7 @@ Denemek ister misiniz? Kabini hazırlayabilirim."
 - Kabin ve ödeme sürecini hızlandır
 
 
-### BÖLÜM 2: İHTİYAÇ BELİRLEME SENARYOLARI
+#### BÖLÜM 2: İHTİYAÇ BELİRLEME SENARYOLARI
 
 
 #### Senaryo 2.2: Hediye Arayan Müşteri
@@ -1901,7 +1872,7 @@ Bilmiyorsanız bile hediye paketi yapıyoruz ve 30 gün içinde değişim imkan�
 - Hediye paketi öner
 
 
-### BÖLÜM 3: SATIŞ TEKNİKLERİ SENARYOLARI
+#### BÖLÜM 3: SATIŞ TEKNİKLERİ SENARYOLARI
 
 
 #### Senaryo 3.2: Üst Satış (Upsell)
@@ -1927,7 +1898,7 @@ bu ürün çok daha uzun süre giyilebilir."
 - Uzun vadeli fayda vurgula
 
 
-### BÖLÜM 4: İTİRAZ YÖNETİMİ SENARYOLARI
+#### BÖLÜM 4: İTİRAZ YÖNETİMİ SENARYOLARI
 
 
 #### Senaryo 4.2: "Başka Yerde Daha Ucuz" İtirazı
@@ -1954,7 +1925,7 @@ her zaman değiştirebilirsiniz."
 - Müşterinin kararına saygı göster
 
 
-### BÖLÜM 5: ŞİKAYET YÖNETİMİ SENARYOLARI
+#### BÖLÜM 5: ŞİKAYET YÖNETİMİ SENARYOLARI
 
 
 #### Senaryo 5.2: Yanlış Ürün/Beden Şikayeti
@@ -1980,7 +1951,7 @@ Tekrar özür dileriz ve bizi tercih ettiğiniz için teşekkürler."
 - Müşteri memnuniyetini garanti et
 
 
-### BÖLÜM 6: KABİN HİZMETİ SENARYOLARI
+#### BÖLÜM 6: KABİN HİZMETİ SENARYOLARI
 
 
 #### Senaryo 6.2: Beden Sorunu Çözümü
@@ -2028,7 +1999,7 @@ Personel: "Süper! Telefon numaranız? ... Teşekkürler!
 - KVKK onayını unutma
 
 
-### BÖLÜM 8: MARKA SPESİFİK SENARYOLAR
+#### BÖLÜM 8: MARKA SPESİFİK SENARYOLAR
 
 
 #### Senaryo 8.2: Pierre Cardin – İş İnsanı
@@ -2046,9 +2017,9 @@ Executive seriden gömlek önerisi de verebilirim."
 ```
 
 
-## Process / Application Steps
+#### Process / Application Steps
 
-### Günlük Senaryo Pratiği
+#### Günlük Senaryo Pratiği
 
 | Adım | Uygulama | Süre |
 |------|----------|------|
@@ -2058,7 +2029,7 @@ Executive seriden gömlek önerisi de verebilirim."
 | 4 | Gerçek müşteride uygula | Gün boyu |
 | 5 | Akşam değerlendirme | 5 dk |
 
-### Haftalık Senaryo Rotasyonu
+#### Haftalık Senaryo Rotasyonu
 
 | Hafta | Odak |
 |-------|------|
@@ -2069,7 +2040,7 @@ Executive seriden gömlek önerisi de verebilirim."
 | (Tekrar) | Döngü devam eder |
 
 
-## Tools & Resources
+#### Tools & Resources
 
 | Kaynak | Kullanım |
 |--------|----------|
@@ -2080,28 +2051,28 @@ Executive seriden gömlek önerisi de verebilirim."
 | Mobil Uygulama | Senaryo pratik oyunu |
 
 
-## Assessment Methods
+#### Assessment Methods
 
-### 1. Rol-Play Değerlendirmesi
+#### 1. Rol-Play Değerlendirmesi
 - Mağaza müdürü senaryoyu canlandırır
 - Personel doğru yaklaşımı gösterir
 - 1-5 puan skalasında değerlendirme
 
-### 2. Mystery Shopper
+#### 2. Mystery Shopper
 - Gizli müşteri ziyareti
 - Belirli senaryolar test edilir
 - Detaylı geri bildirim raporu
 
-### 3. Video Kayıt Analizi
+#### 3. Video Kayıt Analizi
 - Gerçek müşteri etkileşimi kaydedilir (izinli)
 - Ekiple birlikte izlenir ve değerlendirilir
 
-### 4. Senaryo Quiz'i
+#### 4. Senaryo Quiz'i
 - Yazılı veya dijital test
 - Her senaryo için doğru yanıtlar seçilir
 
 
-## Revision History
+#### Revision History
 
 | Tarih | Versiyon | Editör | Değişiklik |
 |-------|----------|--------|------------|

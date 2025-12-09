@@ -41,12 +41,8 @@ This comprehensive marketing documentation covers all aspects of brand managemen
 
 ## SECTION 1: MARKETING-OVERVIEW-EN
 
-﻿---
-layout: default
-title: "Marketing Overview"
-parent: Marketing
 
-## Table of Contents
+### Table of Contents
 
 1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
 2. [Document Snapshot](#document-snapshot)
@@ -68,7 +64,7 @@ parent: Marketing
 18. [Revision History](#revision-history)
 
 
-## Document Snapshot
+#### Document Snapshot
 
 | Field | Details |
 |-------|---------|
@@ -80,9 +76,9 @@ parent: Marketing
 | Next Review | Quarterly or when brand guidelines change. |
 
 
-## Scope
+#### Scope
 
-### Who This Document Covers
+#### Who This Document Covers
 
 - **Store Staff:** Understanding of marketing campaigns and customer communication
 - **Store Managers:** Campaign execution, local marketing coordination
@@ -90,7 +86,7 @@ parent: Marketing
 - **Franchise Owners:** Marketing investment decisions and ROI tracking
 - **HQ Marketing Team:** Central campaign development and brand management
 
-### Covered Activities
+#### Covered Activities
 
 1. Brand marketing and positioning
 2. Seasonal and promotional campaigns
@@ -100,9 +96,9 @@ parent: Marketing
 6. Marketing performance measurement
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -112,7 +108,7 @@ parent: Marketing
 | Social Media Support | Support local social media content | As requested |
 | Data Collection | Capture customer information for CRM | Every transaction |
 
-### Store Manager
+#### Store Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -123,7 +119,7 @@ parent: Marketing
 | Feedback Reporting | Submit campaign performance reports | Weekly |
 | Budget Management | Manage local marketing expenses | Monthly |
 
-### Regional Manager
+#### Regional Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -134,7 +130,7 @@ parent: Marketing
 | Agency Management | Coordinate with regional marketing agencies | Ongoing |
 | Compliance Audit | Ensure brand guideline compliance | Monthly |
 
-### HQ Marketing Team
+#### HQ Marketing Team
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -146,9 +142,9 @@ parent: Marketing
 | Partner Support | Provide marketing support to franchisees | Ongoing |
 
 
-## Brand Marketing Pillars
+#### Brand Marketing Pillars
 
-### U.S. Polo Assn.
+#### U.S. Polo Assn.
 
 **Brand Positioning:** Authentic American lifestyle brand with polo heritage
 
@@ -171,7 +167,7 @@ parent: Marketing
 - Imagery: Active lifestyle, polo references, American landscapes
 
 
-### Cacharel
+#### Cacharel
 
 **Brand Positioning:** Romantic, feminine French bohemian style
 
@@ -194,9 +190,9 @@ parent: Marketing
 - Imagery: Gardens, flowers, romantic settings, artistic expressions
 
 
-## Campaign Types
+#### Campaign Types
 
-### Tier 1: Major Seasonal Campaigns
+#### Tier 1: Major Seasonal Campaigns
 
 | Characteristic | Details |
 |----------------|---------|
@@ -206,7 +202,7 @@ parent: Marketing
 | **Channels** | ATL + BTL + Digital + In-Store |
 | **HQ Support** | Full campaign kit, media planning |
 
-### Tier 2: Promotional Campaigns
+#### Tier 2: Promotional Campaigns
 
 | Characteristic | Details |
 |----------------|---------|
@@ -216,7 +212,7 @@ parent: Marketing
 | **Channels** | BTL + Digital + In-Store |
 | **HQ Support** | Campaign guidelines, POSM templates |
 
-### Tier 3: Local Activations
+#### Tier 3: Local Activations
 
 | Characteristic | Details |
 |----------------|---------|
@@ -226,7 +222,7 @@ parent: Marketing
 | **Channels** | Local media + In-Store |
 | **HQ Support** | Brand guidelines, approval process |
 
-### Always-On Activities
+#### Always-On Activities
 
 | Characteristic | Details |
 |----------------|---------|
@@ -237,9 +233,9 @@ parent: Marketing
 | **HQ Support** | Content calendar, templates |
 
 
-## Budget Planning
+#### Budget Planning
 
-### Annual Budget Structure
+#### Annual Budget Structure
 
 | Category | % of Total | Description |
 |----------|------------|-------------|
@@ -249,7 +245,7 @@ parent: Marketing
 | **Agency Fees** | 10% | Creative, media, PR agencies |
 | **Contingency** | 10% | Unexpected opportunities |
 
-### Co-op Marketing Model
+#### Co-op Marketing Model
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -274,7 +270,7 @@ parent: Marketing
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### Budget Request Process
+#### Budget Request Process
 
 1. Submit budget request via Marketing Portal (30 days before)
 2. Regional Manager review (within 5 business days)
@@ -283,9 +279,9 @@ parent: Marketing
 5. Post-activity reconciliation and reporting
 
 
-## Process Steps
+#### Process Steps
 
-### Campaign Execution Process
+#### Campaign Execution Process
 
 ```
 Step 1: Receive Campaign Brief from HQ
@@ -311,7 +307,7 @@ Step 10: Submit Weekly Performance Reports
 Step 11: Campaign Close and Final Reporting
 ```
 
-### Marketing Approval Process
+#### Marketing Approval Process
 
 ```
 Local Initiative Proposal
@@ -330,9 +326,9 @@ Post-Activity Report
 ```
 
 
-## KPIs
+#### KPIs
 
-### Marketing Performance KPIs
+#### Marketing Performance KPIs
 
 | KPI | Formula | Target | Frequency |
 |-----|---------|--------|-----------|
@@ -345,7 +341,7 @@ Post-Activity Report
 | **Conversion Rate** | Conversions / Visitors × 100 | > 3% | Weekly |
 | **Customer Acquisition Cost** | Marketing Spend / New Customers | < $30 | Monthly |
 
-### Campaign ROI Calculation
+#### Campaign ROI Calculation
 
 ```
 Campaign ROI = ((Campaign Revenue - Campaign Cost) / Campaign Cost) × 100
@@ -357,7 +353,7 @@ Example:
 ```
 
 
-### Issue 2: Low Campaign Awareness
+#### Issue 2: Low Campaign Awareness
 
 **Symptom:** Customers not aware of ongoing campaign.
 
@@ -373,7 +369,7 @@ Example:
 4. Add window display prominence
 
 
-### Issue 4: Budget Overruns
+#### Issue 4: Budget Overruns
 
 **Symptom:** Actual marketing spend exceeds budget.
 
@@ -389,7 +385,7 @@ Example:
 4. Track spend weekly during campaigns
 
 
-## Related Documents
+#### Related Documents
 
 - [Brand Guidelines](brand-guideline-en.md)
 - [Seasonal Marketing Calendar](seasonal-marketing-calendar-en.md)
@@ -409,12 +405,8 @@ Example:
 
 ## SECTION 2: BRAND-GUIDELINE-EN
 
-﻿---
-layout: default
-title: "Brand Guidelines"
-parent: Marketing
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -436,9 +428,9 @@ parent: Marketing
 18. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Who Must Follow These Guidelines
+#### Who Must Follow These Guidelines
 
 - **All Franchise Partners:** Mandatory compliance for all brand usage
 - **Store Staff:** Understanding of basic brand elements
@@ -446,7 +438,7 @@ parent: Marketing
 - **External Vendors:** All suppliers and agencies
 - **Regional Managers:** Enforcement and audit responsibility
 
-### Applications Covered
+#### Applications Covered
 
 1. Store signage and fascia
 2. In-store visual elements
@@ -458,9 +450,9 @@ parent: Marketing
 8. Event and sponsorship materials
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -468,7 +460,7 @@ parent: Marketing
 | Material Care | Maintain condition of branded materials | Daily |
 | Reporting | Report damaged or non-compliant items | As needed |
 
-### Store Manager
+#### Store Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -477,7 +469,7 @@ parent: Marketing
 | Staff Training | Train team on brand standards | Ongoing |
 | Vendor Coordination | Ensure vendors follow guidelines | As needed |
 
-### Regional Manager
+#### Regional Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -486,7 +478,7 @@ parent: Marketing
 | Approval Review | Review local material requests | Per request |
 | Reporting | Report compliance status to HQ | Monthly |
 
-### HQ Brand Team
+#### HQ Brand Team
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -496,15 +488,15 @@ parent: Marketing
 | Compliance Monitoring | Monitor global brand consistency | Ongoing |
 
 
-## U.S. Polo Assn. Brand Standards
+#### U.S. Polo Assn. Brand Standards
 
-### Brand Overview
+#### Brand Overview
 
 **Brand Essence:** Authentic American Lifestyle with Polo Heritage
 
 **Brand Promise:** Deliver quality sportswear and lifestyle products that embody the spirit of American polo tradition at accessible prices.
 
-### Logo Specifications
+#### Logo Specifications
 
 #### Primary Logo
 
@@ -550,7 +542,7 @@ X = Height of "U" in U.S. POLO ASSN.
 | Digital | 80px |
 | Embroidery | 30mm |
 
-### Color Palette
+#### Color Palette
 
 #### Primary Colors
 
@@ -568,7 +560,7 @@ X = Height of "U" in U.S. POLO ASSN.
 | **Gold** | 7405 C | 0/20/100/0 | 255/199/0 | #FFC700 |
 | **Light Blue** | 292 C | 60/10/0/0 | 105/179/231 | #69B3E7 |
 
-### Typography
+#### Typography
 
 #### Primary Typeface: Gotham
 
@@ -582,7 +574,7 @@ X = Height of "U" in U.S. POLO ASSN.
 
 Used when Gotham is unavailable (digital applications, partner materials)
 
-### Brand Voice
+#### Brand Voice
 
 **Personality Traits:**
 - Confident but not arrogant
@@ -597,15 +589,15 @@ Used when Gotham is unavailable (digital applications, partner materials)
 - Action-oriented messaging
 
 
-## Cacharel Brand Standards
+#### Cacharel Brand Standards
 
-### Brand Overview
+#### Brand Overview
 
 **Brand Essence:** Romantic, Feminine French Bohemian Style
 
 **Brand Promise:** Celebrate feminine beauty through romantic, floral-inspired designs that bring joy and self-expression.
 
-### Logo Specifications
+#### Logo Specifications
 
 #### Primary Logo
 
@@ -648,7 +640,7 @@ X = Height of lowercase "a" in Cacharel
 | Digital | 70px |
 | Embroidery | 25mm |
 
-### Color Palette
+#### Color Palette
 
 #### Primary Colors
 
@@ -667,7 +659,7 @@ X = Height of lowercase "a" in Cacharel
 | **Sage Green** | 5575 C | 40/0/40/20 | 130/175/140 | #82AF8C |
 | **Sky Blue** | 291 C | 40/5/0/0 | 155/210/240 | #9BD2F0 |
 
-### Typography
+#### Typography
 
 #### Primary Typeface: Baskerville
 
@@ -683,7 +675,7 @@ X = Height of lowercase "a" in Cacharel
 | **Avenir Light** | Body copy |
 | **Avenir Book** | Supporting text |
 
-### Brand Voice
+#### Brand Voice
 
 **Personality Traits:**
 - Romantic and dreamy
@@ -698,9 +690,9 @@ X = Height of lowercase "a" in Cacharel
 - Celebratory of femininity
 
 
-## Color Standards
+#### Color Standards
 
-### Color Application Hierarchy
+#### Color Application Hierarchy
 
 ```
 Primary Colors (70%)
@@ -721,7 +713,7 @@ Neutral Colors (5%)
 └── Subtle backgrounds
 ```
 
-### Color Consistency Requirements
+#### Color Consistency Requirements
 
 1. Always reference official color codes
 2. Request color proofs before production
@@ -730,9 +722,9 @@ Neutral Colors (5%)
 5. Document any approved variations
 
 
-## Photography & Imagery
+#### Photography & Imagery
 
-### Photography Style by Brand
+#### Photography Style by Brand
 
 #### U.S. Polo Assn.
 
@@ -764,7 +756,7 @@ Neutral Colors (5%)
 | **Mood** | Romantic, joyful, dreamy |
 | **Props** | Flowers, natural elements |
 
-### Image Do's and Don'ts
+#### Image Do's and Don'ts
 
 **Do:**
 - Use high-resolution images (300dpi print, 72dpi web)
@@ -779,9 +771,9 @@ Neutral Colors (5%)
 - Mix photography styles inconsistently
 
 
-## Application Examples
+#### Application Examples
 
-### Store Signage
+#### Store Signage
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -803,7 +795,7 @@ Neutral Colors (5%)
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Shopping Bag
+#### Shopping Bag
 
 ```
 ┌─────────────────────────────────────────┐
@@ -828,7 +820,7 @@ Specifications:
 • Quality paper/material
 ```
 
-### Business Card
+#### Business Card
 
 ```
 ┌─────────────────────────────────────────┐
@@ -845,9 +837,9 @@ Specifications:
 ```
 
 
-## Approval Process
+#### Approval Process
 
-### Approval Workflow
+#### Approval Workflow
 
 ```
 Material Need Identified
@@ -869,7 +861,7 @@ Quality Check on Final Output
 Implementation
 ```
 
-### Approval Requirements
+#### Approval Requirements
 
 | Material Type | Approval Level | Turnaround |
 |---------------|----------------|------------|
@@ -880,7 +872,7 @@ Implementation
 | Co-branding initiatives | HQ Brand Team + Legal | 15 days |
 
 
-### Issue 2: Color Mismatch in Print
+#### Issue 2: Color Mismatch in Print
 
 **Symptom:** Printed colors don't match brand standards.
 
@@ -896,7 +888,7 @@ Implementation
 4. Keep physical color swatch for reference
 
 
-### Issue 4: Missing Brand Assets
+#### Issue 4: Missing Brand Assets
 
 **Symptom:** Cannot find required logo or asset files.
 
@@ -912,7 +904,7 @@ Implementation
 4. Document asset needs for future planning
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
@@ -923,12 +915,8 @@ Implementation
 
 ## SECTION 3: SEASONAL-MARKETING-CALENDAR-EN
 
-﻿---
-layout: default
-title: "Seasonal Marketing Calendar"
-parent: Marketing
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -948,9 +936,9 @@ parent: Marketing
 16. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Brands Covered
+#### Brands Covered
 
 All three brands follow the core calendar with brand-specific adaptations:
 - U.S. Polo Assn.
@@ -958,9 +946,9 @@ All three brands follow the core calendar with brand-specific adaptations:
 - Cacharel
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -968,7 +956,7 @@ All three brands follow the core calendar with brand-specific adaptations:
 | Implementation | Execute in-store activities on schedule | Per event |
 | Customer Communication | Inform customers of upcoming events | Daily |
 
-### Store Manager
+#### Store Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -977,7 +965,7 @@ All three brands follow the core calendar with brand-specific adaptations:
 | Performance Tracking | Monitor campaign results | Per campaign |
 | Feedback Reporting | Report calendar execution issues | Weekly |
 
-### Regional Manager
+#### Regional Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -986,7 +974,7 @@ All three brands follow the core calendar with brand-specific adaptations:
 | Coordination | Align stores within region | Ongoing |
 | Performance Analysis | Analyze regional calendar performance | Monthly |
 
-### HQ Marketing Team
+#### HQ Marketing Team
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -996,9 +984,9 @@ All three brands follow the core calendar with brand-specific adaptations:
 | Performance Review | Review global calendar effectiveness | Quarterly |
 
 
-## Spring/Summer Season
+#### Spring/Summer Season
 
-### SS Season Timeline
+#### SS Season Timeline
 
 ```
 Week -8 to -4: Collection Preview & Planning
@@ -1016,7 +1004,7 @@ Week 9-12: Mid-Season Activity
 Week 13+: End of Season Sale
 ```
 
-### SS Campaign Calendar
+#### SS Campaign Calendar
 
 | Period | Campaign | Duration | Key Activities |
 |--------|----------|----------|----------------|
@@ -1028,7 +1016,7 @@ Week 13+: End of Season Sale
 | **Jun** | Summer Collection | 4 weeks | Vacation wear, swimwear |
 | **Jul W1** | Summer Sale Start | - | 30-50% off seasonal items |
 
-### SS Hero Products by Brand
+#### SS Hero Products by Brand
 
 | Brand | SS Hero Categories | Marketing Focus |
 |-------|-------------------|-----------------|
@@ -1036,7 +1024,7 @@ Week 13+: End of Season Sale
 | **Pierre Cardin** | Linen suits, Light shirts | Business casual, summer elegance |
 | **Cacharel** | Floral dresses, Light fabrics | Romantic summer, garden party |
 
-### SS Visual Themes
+#### SS Visual Themes
 
 | Month | Window Theme | Color Story |
 |-------|--------------|-------------|
@@ -1047,9 +1035,9 @@ Week 13+: End of Season Sale
 | July | Beach & Resort | Vibrant colors, Tropical |
 
 
-## Key Commercial Moments
+#### Key Commercial Moments
 
-### Tier 1 Commercial Moments (Must Execute)
+#### Tier 1 Commercial Moments (Must Execute)
 
 | Event | Date | Duration | Priority |
 |-------|------|----------|----------|
@@ -1058,7 +1046,7 @@ Week 13+: End of Season Sale
 | **FW Season Launch** | Early September | 2 weeks | Critical |
 | **Holiday/Year-End** | Dec 15-31 | 2 weeks | Critical |
 
-### Tier 2 Commercial Moments (Recommended)
+#### Tier 2 Commercial Moments (Recommended)
 
 | Event | Date | Duration | Priority |
 |-------|------|----------|----------|
@@ -1067,7 +1055,7 @@ Week 13+: End of Season Sale
 | **Summer Sale** | Early July | 3-4 weeks | High |
 | **Back to School** | Mid-Aug | 3 weeks | High |
 
-### Tier 3 Commercial Moments (Optional/Regional)
+#### Tier 3 Commercial Moments (Optional/Regional)
 
 | Event | Date | Region | Priority |
 |-------|------|--------|----------|
@@ -1076,7 +1064,7 @@ Week 13+: End of Season Sale
 | **Father's Day** | 3rd Sunday June | All | Medium |
 | **Halloween** | Oct 31 | Balkans | Low |
 
-### Commercial Moment Planning Template
+#### Commercial Moment Planning Template
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1109,9 +1097,9 @@ Week 13+: End of Season Sale
 ```
 
 
-## Planning Timeline
+#### Planning Timeline
 
-### Annual Planning Cycle
+#### Annual Planning Cycle
 
 ```
 October-November (Y-1)
@@ -1135,7 +1123,7 @@ Monthly (Ongoing)
 └── Performance tracking
 ```
 
-### Campaign Lead Times
+#### Campaign Lead Times
 
 | Campaign Type | Lead Time | Key Milestones |
 |---------------|-----------|----------------|
@@ -1144,7 +1132,7 @@ Monthly (Ongoing)
 | **Standard Campaign** | 6 weeks | Brief → Assets → Store Implementation |
 | **Quick Response** | 2 weeks | Approval → Digital Assets Only |
 
-### Monthly Planning Checklist
+#### Monthly Planning Checklist
 
 - [ ] Review next month's calendar activities
 - [ ] Confirm POSM delivery dates
@@ -1155,9 +1143,9 @@ Monthly (Ongoing)
 - [ ] Schedule review meetings
 
 
-## Process Steps
+#### Process Steps
 
-### Annual Calendar Creation Process
+#### Annual Calendar Creation Process
 
 ```
 Step 1: Review Previous Year Performance
@@ -1181,7 +1169,7 @@ Step 9: Distribution to All Stakeholders
 Step 10: Monthly Review and Adjustment
 ```
 
-### Campaign Execution Process
+#### Campaign Execution Process
 
 ```
 1. Calendar Alert (4 weeks before)
@@ -1206,9 +1194,9 @@ Step 10: Monthly Review and Adjustment
 ```
 
 
-## KPIs
+#### KPIs
 
-### Calendar Performance KPIs
+#### Calendar Performance KPIs
 
 | KPI | Formula | Target | Frequency |
 |-----|---------|--------|-----------|
@@ -1218,7 +1206,7 @@ Step 10: Monthly Review and Adjustment
 | **Traffic vs. LY** | This Year Traffic / Last Year Traffic × 100 | >100% | Weekly |
 | **Seasonal Sell-Through** | Units Sold / Units Bought × 100 | >70% | End of Season |
 
-### Commercial Moment Performance
+#### Commercial Moment Performance
 
 | Metric | Calculation | Benchmark |
 |--------|-------------|-----------|
@@ -1227,7 +1215,7 @@ Step 10: Monthly Review and Adjustment
 | **Season Launch Week** | Launch Week / Normal Week | 2x+ |
 | **Sale Period Efficiency** | Sale Margin / Regular Margin | >50% |
 
-### Calendar Review Template
+#### Calendar Review Template
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1256,7 +1244,7 @@ Step 10: Monthly Review and Adjustment
 ```
 
 
-### Issue 2: Regional Calendar Conflicts
+#### Issue 2: Regional Calendar Conflicts
 
 **Symptom:** Global campaign timing conflicts with regional events.
 
@@ -1272,7 +1260,7 @@ Step 10: Monthly Review and Adjustment
 4. Document conflicts for future planning
 
 
-### Issue 4: Campaign Fatigue
+#### Issue 4: Campaign Fatigue
 
 **Symptom:** Declining response to repeated promotional messages.
 
@@ -1288,7 +1276,7 @@ Step 10: Monthly Review and Adjustment
 4. Focus on quality over quantity
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
@@ -1299,12 +1287,8 @@ Step 10: Monthly Review and Adjustment
 
 ## SECTION 4: CAMPAIGN-EXECUTION-GUIDE-EN
 
-﻿---
-layout: default
-title: "Campaign Execution Guide"
-parent: Marketing
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1325,9 +1309,9 @@ parent: Marketing
 17. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Who This Document Covers
+#### Who This Document Covers
 
 - **Store Staff:** Understanding of campaign implementation tasks
 - **Store Managers:** Campaign execution leadership and coordination
@@ -1335,7 +1319,7 @@ parent: Marketing
 - **Franchise Owners:** Campaign investment and ROI understanding
 - **HQ Marketing Team:** Campaign design and support
 
-### Campaign Types Covered
+#### Campaign Types Covered
 
 1. Seasonal launch campaigns
 2. Promotional/discount campaigns
@@ -1345,9 +1329,9 @@ parent: Marketing
 6. Digital-only campaigns
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Description | Timeline |
 |------|-------------|----------|
@@ -1357,7 +1341,7 @@ parent: Marketing
 | Feedback Collection | Gather customer reactions and questions | During campaign |
 | Daily Maintenance | Keep campaign materials presentable | Daily |
 
-### Store Manager
+#### Store Manager
 
 | Task | Description | Timeline |
 |------|-------------|----------|
@@ -1369,7 +1353,7 @@ parent: Marketing
 | Issue Resolution | Address execution problems immediately | As needed |
 | Reporting | Submit campaign performance reports | Per schedule |
 
-### Regional Manager
+#### Regional Manager
 
 | Task | Description | Timeline |
 |------|-------------|----------|
@@ -1379,7 +1363,7 @@ parent: Marketing
 | Performance Analysis | Analyze regional campaign performance | Weekly |
 | Escalation Management | Handle significant execution issues | As needed |
 
-### HQ Marketing Team
+#### HQ Marketing Team
 
 | Task | Description | Timeline |
 |------|-------------|----------|
@@ -1391,9 +1375,9 @@ parent: Marketing
 | Evaluation | Conduct post-campaign analysis | Campaign +2 weeks |
 
 
-## Pre-Campaign Phase
+#### Pre-Campaign Phase
 
-### Campaign Brief Review
+#### Campaign Brief Review
 
 Upon receiving the campaign brief, store managers must review:
 
@@ -1407,7 +1391,7 @@ Upon receiving the campaign brief, store managers must review:
 | **Pricing** | Any promotional pricing | Update POS system |
 | **KPIs** | Performance metrics | Set tracking method |
 
-### Campaign Brief Checklist
+#### Campaign Brief Checklist
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1439,7 +1423,7 @@ Upon receiving the campaign brief, store managers must review:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Material Receipt and Verification
+#### Material Receipt and Verification
 
 **Material Receipt Process:**
 
@@ -1492,7 +1476,7 @@ Upon receiving the campaign brief, store managers must review:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Staff Training
+#### Staff Training
 
 **Training Components:**
 
@@ -1516,9 +1500,9 @@ Upon receiving the campaign brief, store managers must review:
 - [ ] Questions addressed
 
 
-## Active Campaign Phase
+#### Active Campaign Phase
 
-### Daily Campaign Monitoring
+#### Daily Campaign Monitoring
 
 **Daily Tasks:**
 
@@ -1530,7 +1514,7 @@ Upon receiving the campaign brief, store managers must review:
 | **Afternoon** | Customer feedback collection | All staff |
 | **Closing** | End-of-day metrics capture | Closing staff |
 
-### Performance Tracking Dashboard
+#### Performance Tracking Dashboard
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1567,7 +1551,7 @@ Upon receiving the campaign brief, store managers must review:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Campaign Optimization
+#### Campaign Optimization
 
 **Optimization Triggers:**
 
@@ -1600,9 +1584,9 @@ Monitor Impact
 ```
 
 
-## In-Store Execution
+#### In-Store Execution
 
-### POSM Placement Standards
+#### POSM Placement Standards
 
 **Window Display:**
 
@@ -1622,7 +1606,7 @@ Monitor Impact
 | Counter Display | Checkout area | 1-2 units |
 | Shelf Talkers | Promotional product shelves | All promotional SKUs |
 
-### Product Display for Campaigns
+#### Product Display for Campaigns
 
 **Hero Product Display Standards:**
 
@@ -1653,7 +1637,7 @@ Monitor Impact
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Staff Interaction Guidelines
+#### Staff Interaction Guidelines
 
 **Customer Engagement Script:**
 
@@ -1668,9 +1652,9 @@ Monitor Impact
 5. **Close:** "This [offer/collection] is available [time limitation], let me help you find your perfect [product]."
 
 
-## Performance Monitoring
+#### Performance Monitoring
 
-### Campaign KPIs
+#### Campaign KPIs
 
 | KPI | Formula | Target | Tracking Frequency |
 |-----|---------|--------|-------------------|
@@ -1682,7 +1666,7 @@ Monitor Impact
 | **Conversion Rate** | Transactions / Traffic × 100 | Maintain or improve | Weekly |
 | **ATV Change** | Campaign ATV / Normal ATV × 100 | Maintain or improve | Weekly |
 
-### Reporting Schedule
+#### Reporting Schedule
 
 | Report | Frequency | Due | Recipient |
 |--------|-----------|-----|-----------|
@@ -1691,9 +1675,9 @@ Monitor Impact
 | Campaign Close | End of campaign | Within 3 days | Regional Manager, HQ |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Campaign Execution Standards
+#### Campaign Execution Standards
 
 1. **Timing:** All campaigns must launch on the specified date
 2. **Completeness:** All POSM elements must be displayed
@@ -1703,7 +1687,7 @@ Monitor Impact
 6. **Duration:** Campaigns run exact specified period
 7. **Reporting:** Submit all required reports on time
 
-### Quality Standards
+#### Quality Standards
 
 | Element | Standard | Tolerance |
 |---------|----------|-----------|
@@ -1713,7 +1697,7 @@ Monitor Impact
 | Price Display | Accurate and clear | Zero tolerance for errors |
 | Staff Knowledge | Full campaign understanding | 100% trained before launch |
 
-### Compliance Requirements
+#### Compliance Requirements
 
 - No unauthorized modifications to campaign materials
 - No extension of campaign dates without approval
@@ -1722,7 +1706,7 @@ Monitor Impact
 - No deviation from approved pricing
 
 
-### Issue 2: Low Campaign Awareness
+#### Issue 2: Low Campaign Awareness
 
 **Symptom:** Customers not responding to campaign.
 
@@ -1739,7 +1723,7 @@ Monitor Impact
 4. Increase local social media posting
 
 
-### Issue 4: POS System Issues
+#### Issue 4: POS System Issues
 
 **Symptom:** Promotional pricing not applying correctly.
 
@@ -1755,7 +1739,7 @@ Monitor Impact
 - Train staff on override procedures
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
@@ -1766,12 +1750,8 @@ Monitor Impact
 
 ## SECTION 5: POSM-GUIDELINE-EN
 
-﻿---
-layout: default
-title: "POSM Guidelines"
-parent: Marketing
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1789,9 +1769,9 @@ parent: Marketing
 14. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Who This Document Covers
+#### Who This Document Covers
 
 - **Store Staff:** Installation and daily maintenance
 - **Store Managers:** POSM management and compliance
@@ -1799,7 +1779,7 @@ parent: Marketing
 - **Trade Marketing Team:** POSM design and production
 - **External Suppliers:** Production and delivery partners
 
-### POSM Types Covered
+#### POSM Types Covered
 
 1. Window displays
 2. In-store signage
@@ -1811,9 +1791,9 @@ parent: Marketing
 8. Promotional materials
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -1822,7 +1802,7 @@ parent: Marketing
 | Reporting | Report damaged or missing materials | As identified |
 | Removal | Remove expired POSM promptly | As directed |
 
-### Store Manager
+#### Store Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -1832,7 +1812,7 @@ parent: Marketing
 | Order Management | Submit POSM orders and requests | As needed |
 | Compliance | Ensure brand guideline compliance | Ongoing |
 
-### Regional Manager
+#### Regional Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -1841,7 +1821,7 @@ parent: Marketing
 | Budget Management | Manage regional POSM budget | Quarterly |
 | Performance Review | Analyze POSM effectiveness | Per campaign |
 
-### HQ Trade Marketing
+#### HQ Trade Marketing
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -1852,9 +1832,9 @@ parent: Marketing
 | Guidelines Updates | Update POSM standards | As needed |
 
 
-## Placement Standards
+#### Placement Standards
 
-### Window Display Layout
+#### Window Display Layout
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1884,7 +1864,7 @@ parent: Marketing
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### In-Store POSM Placement
+#### In-Store POSM Placement
 
 | POSM Type | Location | Height | Quantity |
 |-----------|----------|--------|----------|
@@ -1894,7 +1874,7 @@ parent: Marketing
 | **Header Boards** | Above key fixtures | Top of fixture | 1 per promoted fixture |
 | **Counter Display** | Checkout area | Counter height | 1-2 per checkout |
 
-### Floor Plan POSM Distribution
+#### Floor Plan POSM Distribution
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1926,9 +1906,9 @@ parent: Marketing
 ```
 
 
-## Maintenance Standards
+#### Maintenance Standards
 
-### Daily Maintenance Routine
+#### Daily Maintenance Routine
 
 | Task | Responsibility | Checklist Item |
 |------|----------------|----------------|
@@ -1938,7 +1918,7 @@ parent: Marketing
 | Damage Check | All staff | Report any damage immediately |
 | Inventory | Store Manager | All POSM present and accounted for |
 
-### Weekly Maintenance Tasks
+#### Weekly Maintenance Tasks
 
 - [ ] Thorough cleaning of all POSM
 - [ ] Check for fading or wear
@@ -1948,7 +1928,7 @@ parent: Marketing
 - [ ] Review counter display condition
 - [ ] Update any time-sensitive messaging
 
-### POSM Condition Assessment
+#### POSM Condition Assessment
 
 | Condition | Action | Timeline |
 |-----------|--------|----------|
@@ -1959,9 +1939,9 @@ parent: Marketing
 | **Outdated content** | Replace/remove | Same day |
 
 
-## Quality Standards
+#### Quality Standards
 
-### Visual Quality Requirements
+#### Visual Quality Requirements
 
 | Aspect | Standard |
 |--------|----------|
@@ -1971,7 +1951,7 @@ parent: Marketing
 | **Material Quality** | Appropriate weight and finish |
 | **Finishing** | Clean cuts, proper lamination |
 
-### Brand Compliance Requirements
+#### Brand Compliance Requirements
 
 - Correct logo placement and size
 - Approved brand colors only
@@ -1979,7 +1959,7 @@ parent: Marketing
 - Approved messaging and copy
 - Proper legal disclaimers where required
 
-### Safety Standards
+#### Safety Standards
 
 | POSM Type | Safety Requirement |
 |-----------|-------------------|
@@ -1990,9 +1970,9 @@ parent: Marketing
 | **Counter Displays** | Stable, non-obstructive |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Mandatory POSM Rules
+#### Mandatory POSM Rules
 
 1. **Installation:** All campaign POSM must be installed by launch date
 2. **Completeness:** All kit items must be displayed (no partial execution)
@@ -2002,7 +1982,7 @@ parent: Marketing
 6. **Removal:** Previous campaign POSM removed before new installation
 7. **Safety:** All safety standards must be met
 
-### Prohibited Actions
+#### Prohibited Actions
 
 - Modifying POSM design or messaging
 - Installing POSM in unauthorized locations
@@ -2012,7 +1992,7 @@ parent: Marketing
 - Using personal or handwritten signage
 - Blocking safety features with POSM
 
-### POSM Disposal Guidelines
+#### POSM Disposal Guidelines
 
 | Material Type | Disposal Method |
 |---------------|-----------------|
@@ -2023,7 +2003,7 @@ parent: Marketing
 | Hardware (hooks, stands) | Keep for reuse |
 
 
-### Issue 2: POSM Doesn't Fit Store Layout
+#### Issue 2: POSM Doesn't Fit Store Layout
 
 **Symptom:** Standard POSM size doesn't work in store.
 
@@ -2034,7 +2014,7 @@ parent: Marketing
 4. Consult Regional Manager for approved adjustments
 
 
-### Issue 4: Inconsistent Installation Across Stores
+#### Issue 4: Inconsistent Installation Across Stores
 
 **Symptom:** Regional audit shows varying POSM quality.
 
@@ -2045,7 +2025,7 @@ parent: Marketing
 4. Schedule follow-up compliance check
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
@@ -2056,12 +2036,8 @@ parent: Marketing
 
 ## SECTION 6: IN-STORE-COMMUNICATION-GUIDE-EN
 
-﻿---
-layout: default
-title: "In-Store Communication Guide"
-parent: Marketing
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -2079,9 +2055,9 @@ parent: Marketing
 14. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Who This Document Covers
+#### Who This Document Covers
 
 - **Store Staff:** Verbal customer communication
 - **Store Managers:** Communication oversight and compliance
@@ -2089,7 +2065,7 @@ parent: Marketing
 - **Marketing Teams:** Communication content creation
 - **Regional Managers:** Multi-store communication standards
 
-### Communication Types Covered
+#### Communication Types Covered
 
 1. Permanent signage
 2. Promotional signage
@@ -2101,9 +2077,9 @@ parent: Marketing
 8. Fitting room communication
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -2112,7 +2088,7 @@ parent: Marketing
 | Information Accuracy | Ensure displayed information is current | Daily |
 | Customer Queries | Answer questions using approved information | As needed |
 
-### Store Manager
+#### Store Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -2121,7 +2097,7 @@ parent: Marketing
 | Update Implementation | Ensure timely communication updates | Per campaign |
 | Compliance Check | Verify all messaging meets standards | Daily |
 
-### Regional Manager
+#### Regional Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -2130,7 +2106,7 @@ parent: Marketing
 | Issue Resolution | Address communication-related issues | As needed |
 | Performance Review | Assess communication effectiveness | Monthly |
 
-### HQ Marketing Team
+#### HQ Marketing Team
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -2140,9 +2116,9 @@ parent: Marketing
 | Quality Assurance | Review communication compliance | Monthly |
 
 
-## Signage Standards
+#### Signage Standards
 
-### Permanent Signage
+#### Permanent Signage
 
 | Element | Specifications | Placement |
 |---------|----------------|-----------|
@@ -2152,7 +2128,7 @@ parent: Marketing
 | **Checkout Sign** | "Cashier" / "Checkout" | Above checkout counter |
 | **Exit Sign** | Emergency exit marking | Per building code |
 
-### Promotional Signage
+#### Promotional Signage
 
 | Type | Standard Size | Material | Duration |
 |------|---------------|----------|----------|
@@ -2162,7 +2138,7 @@ parent: Marketing
 | **Floor Sticker** | 50×50cm | Anti-slip vinyl | 4-6 weeks |
 | **Counter Card** | A5 | Card stock | Promotion period |
 
-### Signage Design Standards
+#### Signage Design Standards
 
 **Typography:**
 - Primary font: Brand-approved typeface
@@ -2191,9 +2167,9 @@ parent: Marketing
 ```
 
 
-## Promotional Messaging
+#### Promotional Messaging
 
-### Promotional Message Types
+#### Promotional Message Types
 
 | Message Type | Purpose | Example |
 |--------------|---------|---------|
@@ -2204,7 +2180,7 @@ parent: Marketing
 | **New Arrival** | Highlight newness | "Just Arrived" |
 | **Loyalty** | Reward members | "Members Save Extra 10%" |
 
-### Promotional Messaging Guidelines
+#### Promotional Messaging Guidelines
 
 **Do's:**
 - Clear, simple language
@@ -2220,7 +2196,7 @@ parent: Marketing
 - Handwritten promotional signs
 - Expired promotional materials
 
-### Promotional Display Hierarchy
+#### Promotional Display Hierarchy
 
 ```
 1. PRIMARY: Discount/Offer (Largest)
@@ -2237,9 +2213,9 @@ parent: Marketing
 ```
 
 
-## Staff Communication Guidelines
+#### Staff Communication Guidelines
 
-### Customer Greeting
+#### Customer Greeting
 
 **Standard Greeting:**
 ```
@@ -2252,7 +2228,7 @@ Is there anything specific I can help you find today?"
 - Morocco: Bilingual option (Arabic/French)
 - Balkans: Local language, English as backup
 
-### Key Talking Points
+#### Key Talking Points
 
 | Topic | Key Message |
 |-------|-------------|
@@ -2262,7 +2238,7 @@ Is there anything specific I can help you find today?"
 | **Services** | Alterations, gift wrapping, delivery options |
 | **Return Policy** | 14-day return with receipt |
 
-### Handling Customer Questions
+#### Handling Customer Questions
 
 **Product Questions:**
 - Use product knowledge training
@@ -2282,9 +2258,9 @@ Is there anything specific I can help you find today?"
 - Escalate if unable to resolve
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Communication Standards
+#### Communication Standards
 
 | Aspect | Standard |
 |--------|----------|
@@ -2294,7 +2270,7 @@ Is there anything specific I can help you find today?"
 | **Timeliness** | Updates implemented by specified dates |
 | **Compliance** | Meet all regulatory and brand requirements |
 
-### Prohibited Communications
+#### Prohibited Communications
 
 | Category | Prohibited Elements |
 |----------|---------------------|
@@ -2304,7 +2280,7 @@ Is there anything specific I can help you find today?"
 | **Offensive** | Any discriminatory or inappropriate content |
 | **Competitor** | References to competitor brands |
 
-### Regulatory Compliance
+#### Regulatory Compliance
 
 | Region | Key Requirements |
 |--------|-----------------|
@@ -2314,7 +2290,7 @@ Is there anything specific I can help you find today?"
 | **Balkans** | Local language requirements, EU standards |
 
 
-### Issue 2: Outdated Promotional Materials
+#### Issue 2: Outdated Promotional Materials
 
 **Symptom:** Expired campaign materials still displayed.
 
@@ -2329,7 +2305,7 @@ Is there anything specific I can help you find today?"
 3. Implement removal verification process
 
 
-### Issue 4: Digital Signage Not Working
+#### Issue 4: Digital Signage Not Working
 
 **Symptom:** Screens blank or showing wrong content.
 
@@ -2344,7 +2320,7 @@ Is there anything specific I can help you find today?"
 - Use static display mode if available
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
@@ -2355,12 +2331,8 @@ Is there anything specific I can help you find today?"
 
 ## SECTION 7: DIGITAL-ASSETS-USAGE-EN
 
-﻿---
-layout: default
-title: "Digital Assets Usage Guide"
-parent: Marketing
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -2379,9 +2351,9 @@ parent: Marketing
 15. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Who This Document Covers
+#### Who This Document Covers
 
 - **Store Staff:** Basic asset usage for local communications
 - **Store Managers:** Asset selection for local marketing needs
@@ -2389,7 +2361,7 @@ parent: Marketing
 - **External Agencies:** Approved asset access for contracted work
 - **Regional Managers:** Asset compliance oversight
 
-### Covered Asset Types
+#### Covered Asset Types
 
 1. Logo files and brand marks
 2. Product photography
@@ -2401,9 +2373,9 @@ parent: Marketing
 8. Website assets
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -2411,7 +2383,7 @@ parent: Marketing
 | Proper Usage | Follow usage guidelines | Always |
 | Report Issues | Report missing or incorrect assets | As identified |
 
-### Store Manager
+#### Store Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -2420,7 +2392,7 @@ parent: Marketing
 | Compliance | Ensure proper asset usage by team | Ongoing |
 | Request Submission | Submit requests for custom assets | As needed |
 
-### Regional Marketing Manager
+#### Regional Marketing Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -2429,7 +2401,7 @@ parent: Marketing
 | Custom Requests | Manage regional asset customization | Per campaign |
 | Training | Train stores on asset usage | Quarterly |
 
-### HQ Digital Team
+#### HQ Digital Team
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -2440,9 +2412,9 @@ parent: Marketing
 | Guideline Updates | Update usage guidelines | As needed |
 
 
-## Asset Categories
+#### Asset Categories
 
-### 1. Logo Files
+#### 1. Logo Files
 
 **Available Formats:**
 
@@ -2462,7 +2434,7 @@ parent: Marketing
 | Black | `[brand]_logo_black_CMYK.ai` |
 | Icon Only | `[brand]_icon_CMYK.ai` |
 
-### 2. Product Photography
+#### 2. Product Photography
 
 **Image Types:**
 
@@ -2482,7 +2454,7 @@ parent: Marketing
 Example: USPA_SS24_Polo_12345_NavyBlue_Model_01.jpg
 ```
 
-### 3. Campaign Assets
+#### 3. Campaign Assets
 
 **Asset Kit Contents:**
 
@@ -2495,7 +2467,7 @@ Example: USPA_SS24_Polo_12345_NavyBlue_Model_01.jpg
 | Web Banners | IAB standard sizes | JPG, GIF |
 | Video | 16:9, 9:16, 1:1 | MP4 |
 
-### 4. Social Media Assets
+#### 4. Social Media Assets
 
 **Platform Requirements:**
 
@@ -2506,7 +2478,7 @@ Example: USPA_SS24_Polo_12345_NavyBlue_Model_01.jpg
 | **TikTok** | 200×200px | N/A | 1080×1920px |
 | **LinkedIn** | 400×400px | 1128×191px | 1200×627px |
 
-### 5. Email Templates
+#### 5. Email Templates
 
 **Template Types:**
 
@@ -2518,9 +2490,9 @@ Example: USPA_SS24_Polo_12345_NavyBlue_Model_01.jpg
 | **Event** | Invitations, announcements | Header, event details, CTA |
 
 
-## Usage Guidelines
+#### Usage Guidelines
 
-### General Usage Rules
+#### General Usage Rules
 
 1. **Always use latest version** - Check for asset updates before use
 2. **Maintain aspect ratio** - Never stretch or distort images
@@ -2528,7 +2500,7 @@ Example: USPA_SS24_Polo_12345_NavyBlue_Model_01.jpg
 4. **Use appropriate resolution** - Match resolution to output
 5. **Follow color profiles** - RGB for digital, CMYK for print
 
-### Permitted Usage
+#### Permitted Usage
 
 ✓ Official franchise marketing materials
 ✓ Approved social media channels
@@ -2537,7 +2509,7 @@ Example: USPA_SS24_Polo_12345_NavyBlue_Model_01.jpg
 ✓ Approved website and digital platforms
 ✓ Email marketing through approved systems
 
-### Prohibited Usage
+#### Prohibited Usage
 
 ✗ Personal use
 ✗ Unauthorized third-party platforms
@@ -2547,7 +2519,7 @@ Example: USPA_SS24_Polo_12345_NavyBlue_Model_01.jpg
 ✗ Combining with competitor brands
 ✗ Use after license termination
 
-### Image Usage Restrictions
+#### Image Usage Restrictions
 
 | Asset Type | Restrictions |
 |------------|-------------|
@@ -2557,9 +2529,9 @@ Example: USPA_SS24_Polo_12345_NavyBlue_Model_01.jpg
 | **Seasonal** | Replace with current season assets when available |
 
 
-## Platform-Specific Requirements
+#### Platform-Specific Requirements
 
-### Instagram
+#### Instagram
 
 | Element | Specification |
 |---------|---------------|
@@ -2570,7 +2542,7 @@ Example: USPA_SS24_Polo_12345_NavyBlue_Model_01.jpg
 | Caption | Up to 2,200 characters |
 | Hashtags | Max 30 per post |
 
-### Facebook
+#### Facebook
 
 | Element | Specification |
 |---------|---------------|
@@ -2581,7 +2553,7 @@ Example: USPA_SS24_Polo_12345_NavyBlue_Model_01.jpg
 | Video | 1280×720px min, MP4 |
 | Character Limit | 63,206 (recommended <80) |
 
-### Email Marketing
+#### Email Marketing
 
 | Element | Specification |
 |---------|---------------|
@@ -2593,9 +2565,9 @@ Example: USPA_SS24_Polo_12345_NavyBlue_Model_01.jpg
 | Responsive | Mobile-friendly design required |
 
 
-## Process Steps
+#### Process Steps
 
-### Finding and Downloading Assets
+#### Finding and Downloading Assets
 
 ```
 Step 1: Log into Brand Portal
@@ -2619,7 +2591,7 @@ Step 9: Log Usage (if required)
 Step 10: Use Asset per Guidelines
 ```
 
-### Reporting Asset Issues
+#### Reporting Asset Issues
 
 ```
 1. Identify the Issue
@@ -2642,9 +2614,9 @@ Step 10: Use Asset per Guidelines
 ```
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Cannot Find Required Asset
+#### Issue 1: Cannot Find Required Asset
 
 **Symptom:** Asset not appearing in search results.
 
@@ -2656,7 +2628,7 @@ Step 10: Use Asset per Guidelines
 5. Submit custom asset request if truly unavailable
 
 
-### Issue 3: Asset Appears Different When Used
+#### Issue 3: Asset Appears Different When Used
 
 **Symptom:** Colors or appearance don't match preview.
 
@@ -2672,9 +2644,9 @@ Step 10: Use Asset per Guidelines
 4. Contact HQ if asset file is incorrect
 
 
-## Checklists
+#### Checklists
 
-### Asset Selection Checklist
+#### Asset Selection Checklist
 
 - [ ] Asset is from current/approved library
 - [ ] Resolution appropriate for intended use
@@ -2684,7 +2656,7 @@ Step 10: Use Asset per Guidelines
 - [ ] Asset is within validity period
 - [ ] Brand guidelines being followed
 
-### Asset Usage Audit Checklist
+#### Asset Usage Audit Checklist
 
 - [ ] All assets sourced from Brand Portal
 - [ ] No unauthorized modifications made
@@ -2705,12 +2677,8 @@ Step 10: Use Asset per Guidelines
 
 ## SECTION 8: SOCIAL-MEDIA-LOCALIZATION-GUIDE-EN
 
-﻿---
-layout: default
-title: "Social Media Localization Guide"
-parent: Marketing
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -2729,18 +2697,18 @@ parent: Marketing
 15. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Brands Covered
+#### Brands Covered
 
 - U.S. Polo Assn.
 - Pierre Cardin
 - Cacharel
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Manager
+#### Store Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -2748,7 +2716,7 @@ parent: Marketing
 | Content Support | Support local content creation requests | As needed |
 | Feedback | Report local engagement trends | Weekly |
 
-### Regional Marketing Manager
+#### Regional Marketing Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -2757,7 +2725,7 @@ parent: Marketing
 | Influencer Coordination | Manage regional influencer partnerships | Ongoing |
 | Performance Analysis | Analyze regional social metrics | Weekly |
 
-### HQ Social Media Team
+#### HQ Social Media Team
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
@@ -2767,9 +2735,9 @@ parent: Marketing
 | Performance Review | Review global social performance | Monthly |
 
 
-## Content Localization
+#### Content Localization
 
-### Localization Framework
+#### Localization Framework
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -2796,7 +2764,7 @@ parent: Marketing
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Content Types and Localization Level
+#### Content Types and Localization Level
 
 | Content Type | Localization Level | Approval Required |
 |--------------|-------------------|-------------------|
@@ -2807,7 +2775,7 @@ parent: Marketing
 | UGC reposts | Caption localization | Store/Regional |
 | Stories/Reels | Template adaptation | Regional |
 
-### Visual Localization
+#### Visual Localization
 
 | Element | Localization Approach |
 |---------|----------------------|
@@ -2818,9 +2786,9 @@ parent: Marketing
 | **Colors** | Check cultural color associations |
 
 
-## Cultural Considerations
+#### Cultural Considerations
 
-### KSA Cultural Guidelines
+#### KSA Cultural Guidelines
 
 | Area | Guideline |
 |------|-----------|
@@ -2844,7 +2812,7 @@ parent: Marketing
 ✗ Political content
 ✗ Content that contradicts Islamic values
 
-### Morocco Cultural Guidelines
+#### Morocco Cultural Guidelines
 
 | Area | Guideline |
 |------|-----------|
@@ -2854,7 +2822,7 @@ parent: Marketing
 | **Holidays** | Islamic and national holidays |
 | **Style** | European influence appreciated |
 
-### Balkans Cultural Guidelines
+#### Balkans Cultural Guidelines
 
 | Area | Guideline |
 |------|-----------|
@@ -2865,9 +2833,9 @@ parent: Marketing
 | **Nationalism** | Avoid politically sensitive topics |
 
 
-## Community Management
+#### Community Management
 
-### Response Time Standards
+#### Response Time Standards
 
 | Message Type | Target Response Time |
 |--------------|---------------------|
@@ -2877,7 +2845,7 @@ parent: Marketing
 | **Comments (neutral)** | Within 24 hours |
 | **DMs** | Within 4 hours |
 
-### Response Language Guidelines
+#### Response Language Guidelines
 
 **General Principles:**
 - Respond in the language used by the customer
@@ -2894,7 +2862,7 @@ parent: Marketing
 | **Complaint** | "We're sorry to hear this. Please DM us your details so we can help resolve this." |
 | **Store Inquiry** | "You can find us at [location]. Visit us today! [Store hours]" |
 
-### Escalation Protocol
+#### Escalation Protocol
 
 ```
 Level 1: Standard Response (Store/Regional Team)
@@ -2917,9 +2885,9 @@ Level 3: HQ Escalation
 ```
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Content Standards
+#### Content Standards
 
 | Aspect | Standard |
 |--------|----------|
@@ -2929,7 +2897,7 @@ Level 3: HQ Escalation
 | **Accuracy** | All information verified, prices correct |
 | **Timing** | Posted at optimal local times |
 
-### Prohibited Content
+#### Prohibited Content
 
 | Category | Examples |
 |----------|----------|
@@ -2940,7 +2908,7 @@ Level 3: HQ Escalation
 | **Unverified** | Claims without evidence |
 | **Personal** | Staff personal information |
 
-### Approval Matrix
+#### Approval Matrix
 
 | Content Type | Store | Regional | HQ |
 |--------------|-------|----------|-----|
@@ -2951,9 +2919,9 @@ Level 3: HQ Escalation
 | New content type | - | Request | ✓ |
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Low Engagement on Localized Content
+#### Issue 1: Low Engagement on Localized Content
 
 **Symptom:** Localized posts performing below average.
 
@@ -2971,7 +2939,7 @@ Level 3: HQ Escalation
 5. Incorporate more UGC
 
 
-### Issue 3: Cultural Misstep
+#### Issue 3: Cultural Misstep
 
 **Symptom:** Content receiving negative feedback for cultural reasons.
 
@@ -2989,7 +2957,7 @@ Level 3: HQ Escalation
 - Regular team training
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
@@ -3001,12 +2969,8 @@ Level 3: HQ Escalation
 
 ## SECTION 9: MARKETING-APPROVAL-PROCESS-EN
 
-﻿---
-layout: default
-title: "Marketing Approval Process"
-parent: Marketing
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -3023,9 +2987,9 @@ parent: Marketing
 13. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Who This Document Covers
+#### Who This Document Covers
 
 - **Store Managers:** Submitting local marketing requests
 - **Regional Managers:** Reviewing and approving regional activities
@@ -3033,7 +2997,7 @@ parent: Marketing
 - **Marketing Teams:** Processing approval requests
 - **External Agencies:** Understanding submission requirements
 
-### Activities Requiring Approval
+#### Activities Requiring Approval
 
 1. Local advertising and media
 2. In-store promotional materials
@@ -3045,9 +3009,9 @@ parent: Marketing
 8. Co-marketing initiatives
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Manager
+#### Store Manager
 
 | Task | Description |
 |------|-------------|
@@ -3057,7 +3021,7 @@ parent: Marketing
 | Implementation | Execute approved activities correctly |
 | Reporting | Document results of approved activities |
 
-### Regional Manager
+#### Regional Manager
 
 | Task | Description |
 |------|-------------|
@@ -3067,7 +3031,7 @@ parent: Marketing
 | Feedback | Provide guidance on request improvements |
 | Monitoring | Track approved activity performance |
 
-### HQ Marketing Team
+#### HQ Marketing Team
 
 | Task | Description |
 |------|-------------|
@@ -3077,7 +3041,7 @@ parent: Marketing
 | Legal Coordination | Coordinate with legal team when needed |
 | Documentation | Maintain approval records |
 
-### Legal Team
+#### Legal Team
 
 | Task | Description |
 |------|-------------|
@@ -3087,9 +3051,9 @@ parent: Marketing
 | Documentation | Maintain legal approval records |
 
 
-## Approval Categories
+#### Approval Categories
 
-### Category A: Standard Approvals
+#### Category A: Standard Approvals
 
 **Description:** Routine activities using approved templates and within established guidelines.
 
@@ -3100,7 +3064,7 @@ parent: Marketing
 | Window display change | Regional Manager | 2 days |
 | Standard pricing promotion | Regional Manager | 3 days |
 
-### Category B: Custom Approvals
+#### Category B: Custom Approvals
 
 **Description:** Activities requiring creative review or outside standard templates.
 
@@ -3111,7 +3075,7 @@ parent: Marketing
 | Event sponsorship | HQ Marketing | 7 days |
 | Modified promotional terms | HQ Marketing | 5 days |
 
-### Category C: Strategic Approvals
+#### Category C: Strategic Approvals
 
 **Description:** High-value or brand-sensitive activities requiring senior review.
 
@@ -3122,7 +3086,7 @@ parent: Marketing
 | Co-branding initiative | Marketing Director | 14 days |
 | New market entry campaign | CEO | 21 days |
 
-### Category D: Legal Required
+#### Category D: Legal Required
 
 **Description:** Activities with legal implications requiring legal team review.
 
@@ -3134,9 +3098,9 @@ parent: Marketing
 | Claims/testimonials | HQ Marketing + Legal | 7 days |
 
 
-## Review Process
+#### Review Process
 
-### Review Workflow
+#### Review Workflow
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -3177,7 +3141,7 @@ parent: Marketing
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Review Criteria
+#### Review Criteria
 
 | Criteria | Assessment Areas |
 |----------|------------------|
@@ -3188,7 +3152,7 @@ parent: Marketing
 | **Strategy** | Alignment with marketing objectives |
 | **Timing** | Appropriateness of timing, calendar conflicts |
 
-### Approval Statuses
+#### Approval Statuses
 
 | Status | Meaning | Next Steps |
 |--------|---------|------------|
@@ -3201,9 +3165,9 @@ parent: Marketing
 | **On Hold** | Temporarily paused | Await further instruction |
 
 
-## Process Steps
+#### Process Steps
 
-### Submitting a Request
+#### Submitting a Request
 
 ```
 Step 1: Determine Approval Category
@@ -3237,7 +3201,7 @@ Step 10: Execute (if approved)
         └── Implement as approved
 ```
 
-### Handling Rejection
+#### Handling Rejection
 
 ```
 1. Review Rejection Feedback
@@ -3258,9 +3222,9 @@ Step 10: Execute (if approved)
 ```
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Delayed Approval
+#### Issue 1: Delayed Approval
 
 **Symptom:** Approval taking longer than SLA.
 
@@ -3271,7 +3235,7 @@ Step 10: Execute (if approved)
 4. Plan better lead time for future requests
 
 
-### Issue 3: Repeated Rejections
+#### Issue 3: Repeated Rejections
 
 **Symptom:** Similar requests rejected multiple times.
 
@@ -3282,9 +3246,9 @@ Step 10: Execute (if approved)
 4. Consider pre-submission consultation
 
 
-## Checklists
+#### Checklists
 
-### Pre-Submission Checklist
+#### Pre-Submission Checklist
 
 - [ ] Correct request form completed
 - [ ] Approval category identified
@@ -3296,7 +3260,7 @@ Step 10: Execute (if approved)
 - [ ] Submitter information complete
 - [ ] Sufficient lead time allowed
 
-### Approver Checklist
+#### Approver Checklist
 
 - [ ] Request complete and clear
 - [ ] Within approval authority

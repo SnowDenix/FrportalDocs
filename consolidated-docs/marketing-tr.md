@@ -41,12 +41,8 @@ Bu kapsamlı pazarlama dokümantasyonu, Aydınlı Grup franchise mağazaları i�
 
 ## SECTION 1: MARKETING-OVERVIEW-TR
 
-﻿---
-layout: default
-title: "Pazarlama Genel Bakış"
-parent: Marketing
 
-## İçindekiler
+### İçindekiler
 
 1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
 2. [Amaç](#amaç)
@@ -67,11 +63,11 @@ parent: Marketing
 17. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Amaç
+#### Amaç
 
 Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Aydınlı Grup franchise ortakları için pazarlama operasyonlarının kapsamlı bir genel görünümünü sunar. Tüm franchise bölgelerinde marka tutarlılığı, operasyonel verimlilik ve ölçülebilir sonuçlar sağlamak için tüm pazarlama faaliyetlerinin çerçevesini oluşturur.
 
-### Pazarlama Vizyonu
+#### Pazarlama Vizyonu
 
 - Tüm pazarlarda güçlü marka değeri oluşturmak ve sürdürmek
 - Hedefli kampanyalar aracılığıyla müşteri kazanımı ve elde tutmayı sağlamak
@@ -79,7 +75,7 @@ Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Ayd�
 - Franchise ortaklarını etkili pazarlama araçları ve kaynaklarla desteklemek
 - Pazarlama yatırım getirisini (ROMI) maksimize etmek
 
-### Pazarlama Hedefleri
+#### Pazarlama Hedefleri
 
 | Hedef | Açıklama | Target |
 |-------|----------|--------|
@@ -90,9 +86,9 @@ Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Ayd�
 | Dijital Etkileşim | Sosyal medya ve dijital varlığı büyütmek | %25 etkileşim artışı |
 
 
-## Tanımlar
+#### Tanımlar
 
-### Temel Pazarlama Terimleri
+#### Temel Pazarlama Terimleri
 
 | Terim | Tanım |
 |-------|-------|
@@ -112,7 +108,7 @@ Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Ayd�
 | **Dönüşüm Oranı** | Pazarlama etkisiyle gelen ziyaretçilerden satın alma yapanların yüzdesi |
 | **Müşteri Yaşam Boyu Değeri (CLV)** | Bir müşterinin tüm ilişkisi boyunca beklenen toplam gelir |
 
-### Kampanya Türleri
+#### Kampanya Türleri
 
 | Tür | Tanım | Tipik Süre |
 |-----|-------|------------|
@@ -123,9 +119,9 @@ Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Ayd�
 | **Sürekli Aktif** | Sürekli arka plan pazarlama faaliyeti | Devam eden |
 
 
-## Pazarlama Yapısı
+#### Pazarlama Yapısı
 
-### Organizasyonel Hiyerarşi
+#### Organizasyonel Hiyerarşi
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -154,7 +150,7 @@ Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Ayd�
    Uygulama           Uygulama           Uygulama
 ```
 
-### İletişim Akışı
+#### İletişim Akışı
 
 ```
 1. Merkez Kampanya Brifingi
@@ -171,7 +167,7 @@ Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Ayd�
 ```
 
 
-### Pierre Cardin
+#### Pierre Cardin
 
 **Marka Konumlandırması:** Fransız sofistikasyonu ile modern zarafet
 
@@ -194,9 +190,9 @@ Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Ayd�
 - Görseller: Kentsel sofistikasyon, iş ortamları, akşam etkinlikleri
 
 
-## Pazarlama Takvimi Çerçevesi
+#### Pazarlama Takvimi Çerçevesi
 
-### Yıllık Planlama Döngüsü
+#### Yıllık Planlama Döngüsü
 
 | Ay | Planlama Faaliyeti | Kampanya Odağı |
 |----|-------------------|----------------|
@@ -213,7 +209,7 @@ Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Ayd�
 | Kasım | Kara Cuma | Kara Cuma/Siber Pazartesi |
 | Aralık | Tatil Sezonu | Noel/Yeni Yıl |
 
-### Kampanya Planlama Zaman Çizelgesi
+#### Kampanya Planlama Zaman Çizelgesi
 
 ```
 Hafta -8: Merkez'den Kampanya Brifingi
@@ -234,9 +230,9 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 ```
 
 
-## Pazarlama Kanalları
+#### Pazarlama Kanalları
 
-### Kanal Genel Görünümü
+#### Kanal Genel Görünümü
 
 | Kanal | Birincil Kullanım | Bütçe Payı |
 |-------|-------------------|------------|
@@ -247,7 +243,7 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 | **Etkinlikler/Aktivasyonlar** | Etkileşim, marka deneyimi | %10 |
 | **CRM/Doğrudan** | Elde tutma, kişiselleştirilmiş teklifler | %5 |
 
-### Dijital Kanal Stratejisi
+#### Dijital Kanal Stratejisi
 
 | Platform | Amaç | İçerik Türü | Paylaşım Sıklığı |
 |----------|------|-------------|------------------|
@@ -259,9 +255,9 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 | **WhatsApp** | Doğrudan müşteri hizmeti | Destek, bildirimler | Gerektiğinde |
 
 
-## Performans Ölçümü
+#### Performans Ölçümü
 
-### Pazarlama Gösterge Tablosu
+#### Pazarlama Gösterge Tablosu
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -282,9 +278,9 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 ```
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Marka Uyumluluk Kuralları
+#### Marka Uyumluluk Kuralları
 
 1. **Logo Kullanımı:** Yalnızca Marka Portalı'ndan onaylı logo dosyalarını kullanın
 2. **Renk Doğruluğu:** Yalnızca marka kılavuzlarındaki Pantone/CMYK/RGB değerlerini kullanın
@@ -293,7 +289,7 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 5. **Mesajlaşma:** Tüm metin marka ses tonu kılavuzlarıyla uyumlu olmalı
 6. **Onay:** Tüm harici iletişimler Merkez onayı gerektirir
 
-### POSM Standartları
+#### POSM Standartları
 
 | Malzeme | Boyut | Yerleşim | Dayanıklılık |
 |---------|-------|----------|--------------|
@@ -303,7 +299,7 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 | Zemin Sticker | 50x50cm | Giriş/önemli alanlar | Kampanya süresi |
 | Raf Talker | 10x15cm | Raf kenarı | Promosyon bitene kadar |
 
-### Dijital İçerik Kuralları
+#### Dijital İçerik Kuralları
 
 1. **Yanıt Süresi:** Sosyal medya yorumlarına 4 saat içinde
 2. **İçerik Onayı:** Tüm paylaşımlar yayınlanmadan önce incelenmeli
@@ -312,9 +308,9 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 5. **Kriz Yanıtı:** Olumsuz yorumları hemen üst seviyeye iletin
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: POSM Geç Ulaşıyor
+#### Sorun 1: POSM Geç Ulaşıyor
 
 **Belirti:** Pazarlama malzemeleri kampanya başlangıç tarihinden sonra ulaşıyor.
 
@@ -330,7 +326,7 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 4. Gelecek planlama iyileştirmeleri için belgeleyin
 
 
-### Sorun 3: Marka Kılavuzu İhlalleri
+#### Sorun 3: Marka Kılavuzu İhlalleri
 
 **Belirti:** Marka varlıklarının veya mesajlaşmanın yetkisiz kullanımı.
 
@@ -346,9 +342,9 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 4. İhlalleri ve sonuçlarını belgeleyin
 
 
-## Kontrol Listeleri
+#### Kontrol Listeleri
 
-### Kampanya Lansman Kontrol Listesi
+#### Kampanya Lansman Kontrol Listesi
 
 - [ ] Kampanya brifingi incelendi ve anlaşıldı
 - [ ] Yerel adaptasyon gereksinimleri belirlendi
@@ -362,7 +358,7 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 - [ ] İzleme mekanizmaları yerinde
 - [ ] Lansman onayı Merkez'e gönderildi
 
-### Aylık Pazarlama İnceleme Kontrol Listesi
+#### Aylık Pazarlama İnceleme Kontrol Listesi
 
 - [ ] Kampanya performansını KPI'lara göre inceleyin
 - [ ] Rakip faaliyetlerini analiz edin
@@ -373,7 +369,7 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 - [ ] Öğrenimleri ve önerileri belgeleyin
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklikler | Hazırlayan |
 |----------|-------|---------------|------------|
@@ -384,12 +380,8 @@ Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
 
 ## SECTION 2: BRAND-GUIDELINE-TR
 
-﻿---
-layout: default
-title: "Marka Kılavuzu"
-parent: Marketing
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -411,9 +403,9 @@ parent: Marketing
 18. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Bu Kılavuzu Kimler Takip Etmeli
+#### Bu Kılavuzu Kimler Takip Etmeli
 
 - **Tüm Franchise Ortaklar:** Tüm marka kullanımı için zorunlu uyum
 - **Mağaza Personeli:** Temel marka unsurlarını anlama
@@ -421,7 +413,7 @@ parent: Marketing
 - **Harici Tedarikçiler:** Tüm tedarikçiler ve ajanslar
 - **Bölge Müdürleri:** Uygulama ve denetim sorumluluğu
 
-### Kapsanan Uygulamalar
+#### Kapsanan Uygulamalar
 
 1. Mağaza tabelası ve cephe
 2. Mağaza içi görsel unsurlar
@@ -433,9 +425,9 @@ parent: Marketing
 8. Etkinlik ve sponsorluk materyalleri
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -443,7 +435,7 @@ parent: Marketing
 | Malzeme Bakımı | Markalı malzemelerin durumunu korumak | Günlük |
 | Raporlama | Hasarlı veya uyumsuz öğeleri bildirmek | Gerektiğinde |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -452,7 +444,7 @@ parent: Marketing
 | Personel Eğitimi | Ekibi marka standartları konusunda eğitmek | Sürekli |
 | Tedarikçi Koordinasyonu | Tedarikçilerin kılavuzları takip etmesini sağlamak | Gerektiğinde |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -461,7 +453,7 @@ parent: Marketing
 | Onay İncelemesi | Yerel malzeme taleplerini incelemek | Talep başına |
 | Raporlama | Uyumluluk durumunu Merkez'e bildirmek | Aylık |
 
-### Merkez Marka Ekibi
+#### Merkez Marka Ekibi
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -471,15 +463,15 @@ parent: Marketing
 | Uyumluluk İzleme | Küresel marka tutarlılığını izlemek | Sürekli |
 
 
-## U.S. Polo Assn. Marka Standartları
+#### U.S. Polo Assn. Marka Standartları
 
-### Marka Genel Görünümü
+#### Marka Genel Görünümü
 
 **Marka Özü:** Polo Mirası ile Otantik Amerikan Yaşam Tarzı
 
 **Marka Vaadi:** Erişilebilir fiyatlarla Amerikan polo geleneğinin ruhunu somutlaştıran kaliteli spor giyim ve yaşam tarzı ürünleri sunmak.
 
-### Logo Özellikleri
+#### Logo Özellikleri
 
 #### Birincil Logo
 
@@ -525,7 +517,7 @@ X = U.S. POLO ASSN. içindeki "U" harfinin yüksekliği
 | Dijital | 80px |
 | Nakış | 30mm |
 
-### Renk Paleti
+#### Renk Paleti
 
 #### Ana Renkler
 
@@ -543,7 +535,7 @@ X = U.S. POLO ASSN. içindeki "U" harfinin yüksekliği
 | **Altın** | 7405 C | 0/20/100/0 | 255/199/0 | #FFC700 |
 | **Açık Mavi** | 292 C | 60/10/0/0 | 105/179/231 | #69B3E7 |
 
-### Tipografi
+#### Tipografi
 
 #### Birincil Yazı Karakteri: Gotham
 
@@ -557,7 +549,7 @@ X = U.S. POLO ASSN. içindeki "U" harfinin yüksekliği
 
 Gotham mevcut olmadığında kullanılır (dijital uygulamalar, ortak materyaller)
 
-### Marka Sesi
+#### Marka Sesi
 
 **Kişilik Özellikleri:**
 - Özgüvenli ama kibirli değil
@@ -572,15 +564,15 @@ Gotham mevcut olmadığında kullanılır (dijital uygulamalar, ortak materyalle
 - Aksiyon odaklı mesajlaşma
 
 
-## Cacharel Marka Standartları
+#### Cacharel Marka Standartları
 
-### Marka Genel Görünümü
+#### Marka Genel Görünümü
 
 **Marka Özü:** Romantik, Feminen Fransız Bohem Tarzı
 
 **Marka Vaadi:** Neşe ve öz ifade getiren romantik, çiçek ilhamlı tasarımlarla feminen güzelliği kutlamak.
 
-### Logo Özellikleri
+#### Logo Özellikleri
 
 #### Birincil Logo
 
@@ -623,7 +615,7 @@ X = Cacharel içindeki küçük harf "a"nın yüksekliği
 | Dijital | 70px |
 | Nakış | 25mm |
 
-### Renk Paleti
+#### Renk Paleti
 
 #### Ana Renkler
 
@@ -642,7 +634,7 @@ X = Cacharel içindeki küçük harf "a"nın yüksekliği
 | **Adaçayı Yeşili** | 5575 C | 40/0/40/20 | 130/175/140 | #82AF8C |
 | **Gök Mavisi** | 291 C | 40/5/0/0 | 155/210/240 | #9BD2F0 |
 
-### Tipografi
+#### Tipografi
 
 #### Birincil Yazı Karakteri: Baskerville
 
@@ -658,7 +650,7 @@ X = Cacharel içindeki küçük harf "a"nın yüksekliği
 | **Avenir Light** | Metin gövdesi |
 | **Avenir Book** | Destekleyici metin |
 
-### Marka Sesi
+#### Marka Sesi
 
 **Kişilik Özellikleri:**
 - Romantik ve hayalci
@@ -673,9 +665,9 @@ X = Cacharel içindeki küçük harf "a"nın yüksekliği
 - Kadınsılığı kutlayan
 
 
-## Renk Standartları
+#### Renk Standartları
 
-### Renk Uygulama Hiyerarşisi
+#### Renk Uygulama Hiyerarşisi
 
 ```
 Ana Renkler (%70)
@@ -696,7 +688,7 @@ Nötr Renkler (%5)
 └── İnce arka planlar
 ```
 
-### Renk Tutarlılık Gereksinimleri
+#### Renk Tutarlılık Gereksinimleri
 
 1. Her zaman resmi renk kodlarına başvurun
 2. Üretimden önce renk prova isteyin
@@ -705,9 +697,9 @@ Nötr Renkler (%5)
 5. Onaylanan varyasyonları belgeleyin
 
 
-## Fotoğraf ve Görsellik
+#### Fotoğraf ve Görsellik
 
-### Markaya Göre Fotoğraf Stili
+#### Markaya Göre Fotoğraf Stili
 
 #### U.S. Polo Assn.
 
@@ -739,7 +731,7 @@ Nötr Renkler (%5)
 | **Ruh Hali** | Romantik, neşeli, hayalci |
 | **Aksesuarlar** | Çiçekler, doğal unsurlar |
 
-### Görsel Yapılması ve Yapılmaması Gerekenler
+#### Görsel Yapılması ve Yapılmaması Gerekenler
 
 **Yapın:**
 - Yüksek çözünürlüklü görseller kullanın (300dpi baskı, 72dpi web)
@@ -754,9 +746,9 @@ Nötr Renkler (%5)
 - Fotoğraf stillerini tutarsız karıştırmayın
 
 
-## Uygulama Örnekleri
+#### Uygulama Örnekleri
 
-### Mağaza Tabelası
+#### Mağaza Tabelası
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -778,7 +770,7 @@ Nötr Renkler (%5)
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Alışveriş Çantası
+#### Alışveriş Çantası
 
 ```
 ┌─────────────────────────────────────────┐
@@ -803,7 +795,7 @@ Nötr Renkler (%5)
 • Kaliteli kağıt/malzeme
 ```
 
-### Kartvizit
+#### Kartvizit
 
 ```
 ┌─────────────────────────────────────────┐
@@ -820,9 +812,9 @@ Nötr Renkler (%5)
 ```
 
 
-## Onay Süreci
+#### Onay Süreci
 
-### Onay İş Akışı
+#### Onay İş Akışı
 
 ```
 Malzeme İhtiyacı Belirlendi
@@ -844,7 +836,7 @@ Final Çıktıda Kalite Kontrolü
 Uygulama
 ```
 
-### Onay Gereksinimleri
+#### Onay Gereksinimleri
 
 | Malzeme Türü | Onay Seviyesi | Süre |
 |--------------|---------------|------|
@@ -855,7 +847,7 @@ Uygulama
 | Ortak markalaşma girişimleri | Merkez Marka Ekibi + Hukuk | 15 gün |
 
 
-### Sorun 2: Baskıda Renk Uyumsuzluğu
+#### Sorun 2: Baskıda Renk Uyumsuzluğu
 
 **Belirti:** Basılı renkler marka standartlarıyla eşleşmiyor.
 
@@ -871,7 +863,7 @@ Uygulama
 4. Referans için fiziksel renk örneği saklayın
 
 
-### Sorun 4: Eksik Marka Varlıkları
+#### Sorun 4: Eksik Marka Varlıkları
 
 **Belirti:** Gerekli logo veya varlık dosyaları bulunamıyor.
 
@@ -887,7 +879,7 @@ Uygulama
 4. Gelecek planlama için varlık ihtiyaçlarını belgeleyin
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklikler | Hazırlayan |
 |----------|-------|---------------|------------|
@@ -898,12 +890,8 @@ Uygulama
 
 ## SECTION 3: SEASONAL-MARKETING-CALENDAR-TR
 
-﻿---
-layout: default
-title: "Sezonluk Pazarlama Takvimi"
-parent: Marketing
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -923,9 +911,9 @@ parent: Marketing
 16. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Kapsanan Markalar
+#### Kapsanan Markalar
 
 Üç marka da markaya özgü adaptasyonlarla temel takvimi takip eder:
 - U.S. Polo Assn.
@@ -933,9 +921,9 @@ parent: Marketing
 - Cacharel
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -943,7 +931,7 @@ parent: Marketing
 | Uygulama | Mağaza içi faaliyetleri zamanında yürütmek | Etkinlik başına |
 | Müşteri İletişimi | Müşterileri yaklaşan etkinlikler hakkında bilgilendirmek | Günlük |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -952,7 +940,7 @@ parent: Marketing
 | Performans Takibi | Kampanya sonuçlarını izlemek | Kampanya başına |
 | Geri Bildirim Raporlaması | Takvim uygulama sorunlarını bildirmek | Haftalık |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -961,7 +949,7 @@ parent: Marketing
 | Koordinasyon | Bölge içi mağazaları hizalamak | Sürekli |
 | Performans Analizi | Bölgesel takvim performansını analiz etmek | Aylık |
 
-### Merkez Pazarlama Ekibi
+#### Merkez Pazarlama Ekibi
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -971,9 +959,9 @@ parent: Marketing
 | Performans İncelemesi | Küresel takvim etkinliğini incelemek | Üç ayda bir |
 
 
-## İlkbahar/Yaz Sezonu
+#### İlkbahar/Yaz Sezonu
 
-### SS Sezon Zaman Çizelgesi
+#### SS Sezon Zaman Çizelgesi
 
 ```
 Hafta -8 ile -4: Koleksiyon Ön İzleme ve Planlama
@@ -991,7 +979,7 @@ Hafta 9-12: Sezon Ortası Aktivitesi
 Hafta 13+: Sezon Sonu İndirimi
 ```
 
-### SS Kampanya Takvimi
+#### SS Kampanya Takvimi
 
 | Dönem | Kampanya | Süre | Temel Faaliyetler |
 |-------|----------|------|-------------------|
@@ -1003,7 +991,7 @@ Hafta 13+: Sezon Sonu İndirimi
 | **Haz** | Yaz Koleksiyonu | 4 hafta | Tatil kıyafetleri, mayo |
 | **Tem H1** | Yaz İndirimi Başlangıcı | - | Sezonluk ürünlerde %30-50 indirim |
 
-### Markaya Göre SS Hero Ürünler
+#### Markaya Göre SS Hero Ürünler
 
 | Marka | SS Hero Kategorileri | Pazarlama Odağı |
 |-------|---------------------|-----------------|
@@ -1011,7 +999,7 @@ Hafta 13+: Sezon Sonu İndirimi
 | **Pierre Cardin** | Keten takımlar, Hafif gömlekler | İş casual, yaz zarafeti |
 | **Cacharel** | Çiçekli elbiseler, Hafif kumaşlar | Romantik yaz, bahçe partisi |
 
-### SS Görsel Temalar
+#### SS Görsel Temalar
 
 | Ay | Vitrin Teması | Renk Hikayesi |
 |----|---------------|---------------|
@@ -1022,9 +1010,9 @@ Hafta 13+: Sezon Sonu İndirimi
 | Temmuz | Plaj ve Resort | Canlı renkler, Tropikal |
 
 
-## Önemli Ticari Anlar
+#### Önemli Ticari Anlar
 
-### Seviye 1 Ticari Anlar (Zorunlu Uygulama)
+#### Seviye 1 Ticari Anlar (Zorunlu Uygulama)
 
 | Etkinlik | Tarih | Süre | Öncelik |
 |----------|-------|------|---------|
@@ -1033,7 +1021,7 @@ Hafta 13+: Sezon Sonu İndirimi
 | **FW Sezon Lansmanı** | Eylül başı | 2 hafta | Kritik |
 | **Tatil/Yıl Sonu** | Ara 15-31 | 2 hafta | Kritik |
 
-### Seviye 2 Ticari Anlar (Önerilen)
+#### Seviye 2 Ticari Anlar (Önerilen)
 
 | Etkinlik | Tarih | Süre | Öncelik |
 |----------|-------|------|---------|
@@ -1042,7 +1030,7 @@ Hafta 13+: Sezon Sonu İndirimi
 | **Yaz İndirimi** | Temmuz başı | 3-4 hafta | Yüksek |
 | **Okula Dönüş** | Ağustos ortası | 3 hafta | Yüksek |
 
-### Seviye 3 Ticari Anlar (İsteğe Bağlı/Bölgesel)
+#### Seviye 3 Ticari Anlar (İsteğe Bağlı/Bölgesel)
 
 | Etkinlik | Tarih | Bölge | Öncelik |
 |----------|-------|-------|---------|
@@ -1051,7 +1039,7 @@ Hafta 13+: Sezon Sonu İndirimi
 | **Babalar Günü** | Haziran 3. Pazar | Tümü | Orta |
 | **Halloween** | 31 Ekim | Balkanlar | Düşük |
 
-### Ticari An Planlama Şablonu
+#### Ticari An Planlama Şablonu
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1084,9 +1072,9 @@ Hafta 13+: Sezon Sonu İndirimi
 ```
 
 
-## Planlama Zaman Çizelgesi
+#### Planlama Zaman Çizelgesi
 
-### Yıllık Planlama Döngüsü
+#### Yıllık Planlama Döngüsü
 
 ```
 Ekim-Kasım (Y-1)
@@ -1110,7 +1098,7 @@ Aylık (Sürekli)
 └── Performans takibi
 ```
 
-### Kampanya Hazırlık Süreleri
+#### Kampanya Hazırlık Süreleri
 
 | Kampanya Türü | Hazırlık Süresi | Temel Kilometre Taşları |
 |---------------|-----------------|------------------------|
@@ -1119,7 +1107,7 @@ Aylık (Sürekli)
 | **Standart Kampanya** | 6 hafta | Brief → Varlıklar → Mağaza Uygulaması |
 | **Hızlı Yanıt** | 2 hafta | Onay → Yalnızca Dijital Varlıklar |
 
-### Aylık Planlama Kontrol Listesi
+#### Aylık Planlama Kontrol Listesi
 
 - [ ] Sonraki ayın takvim faaliyetlerini incele
 - [ ] POSM teslimat tarihlerini onayla
@@ -1130,9 +1118,9 @@ Aylık (Sürekli)
 - [ ] İnceleme toplantılarını planla
 
 
-## Süreç Adımları
+#### Süreç Adımları
 
-### Yıllık Takvim Oluşturma Süreci
+#### Yıllık Takvim Oluşturma Süreci
 
 ```
 Adım 1: Önceki Yıl Performansını İncele
@@ -1156,7 +1144,7 @@ Adım 9: Tüm Paydaşlara Dağıtım
 Adım 10: Aylık İnceleme ve Ayarlama
 ```
 
-### Kampanya Uygulama Süreci
+#### Kampanya Uygulama Süreci
 
 ```
 1. Takvim Uyarısı (4 hafta önce)
@@ -1181,9 +1169,9 @@ Adım 10: Aylık İnceleme ve Ayarlama
 ```
 
 
-## KPI'lar
+#### KPI'lar
 
-### Takvim Performans KPI'ları
+#### Takvim Performans KPI'ları
 
 | KPI | Formül | Hedef | Sıklık |
 |-----|--------|-------|--------|
@@ -1193,7 +1181,7 @@ Adım 10: Aylık İnceleme ve Ayarlama
 | **Trafik vs. GY** | Bu Yıl Trafik / Geçen Yıl Trafik × 100 | >%100 | Haftalık |
 | **Sezonluk Satış Gerçekleşme** | Satılan Adet / Alınan Adet × 100 | >%70 | Sezon Sonu |
 
-### Ticari An Performansı
+#### Ticari An Performansı
 
 | Metrik | Hesaplama | Kıyaslama |
 |--------|-----------|-----------|
@@ -1202,7 +1190,7 @@ Adım 10: Aylık İnceleme ve Ayarlama
 | **Sezon Lansmanı Haftası** | Lansman Haftası / Normal Hafta | 2x+ |
 | **İndirim Dönemi Verimliliği** | İndirim Marjı / Normal Marj | >%50 |
 
-### Takvim İnceleme Şablonu
+#### Takvim İnceleme Şablonu
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1231,7 +1219,7 @@ Adım 10: Aylık İnceleme ve Ayarlama
 ```
 
 
-### Sorun 2: Bölgesel Takvim Çatışmaları
+#### Sorun 2: Bölgesel Takvim Çatışmaları
 
 **Belirti:** Global kampanya zamanlaması bölgesel etkinliklerle çatışıyor.
 
@@ -1247,7 +1235,7 @@ Adım 10: Aylık İnceleme ve Ayarlama
 4. Gelecek planlama için çatışmaları belgeleyin
 
 
-### Sorun 4: Kampanya Yorgunluğu
+#### Sorun 4: Kampanya Yorgunluğu
 
 **Belirti:** Tekrarlanan promosyonel mesajlara azalan yanıt.
 
@@ -1263,7 +1251,7 @@ Adım 10: Aylık İnceleme ve Ayarlama
 4. Nicelik yerine kaliteye odaklanın
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklikler | Hazırlayan |
 |----------|-------|---------------|------------|
@@ -1274,12 +1262,8 @@ Adım 10: Aylık İnceleme ve Ayarlama
 
 ## SECTION 4: CAMPAIGN-EXECUTION-GUIDE-TR
 
-﻿---
-layout: default
-title: "Kampanya Uygulama Rehberi"
-parent: Marketing
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1300,9 +1284,9 @@ parent: Marketing
 17. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Bu Belge Kimleri Kapsar
+#### Bu Belge Kimleri Kapsar
 
 - **Mağaza Personeli:** Kampanya uygulama görevlerini anlama
 - **Mağaza Müdürleri:** Kampanya uygulama liderliği ve koordinasyonu
@@ -1310,7 +1294,7 @@ parent: Marketing
 - **Franchise Sahipleri:** Kampanya yatırımı ve ROI anlayışı
 - **Merkez Pazarlama Ekibi:** Kampanya tasarımı ve desteği
 
-### Kapsanan Kampanya Türleri
+#### Kapsanan Kampanya Türleri
 
 1. Sezonluk lansman kampanyaları
 2. Promosyonel/indirim kampanyaları
@@ -1320,9 +1304,9 @@ parent: Marketing
 6. Yalnızca dijital kampanyalar
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Açıklama | Zaman Çizelgesi |
 |-------|----------|-----------------|
@@ -1332,7 +1316,7 @@ parent: Marketing
 | Geri Bildirim Toplama | Müşteri tepkilerini ve sorularını toplamak | Kampanya süresince |
 | Günlük Bakım | Kampanya malzemelerini düzenli tutmak | Günlük |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Açıklama | Zaman Çizelgesi |
 |-------|----------|-----------------|
@@ -1344,7 +1328,7 @@ parent: Marketing
 | Sorun Çözümü | Uygulama problemlerini hemen ele almak | Gerektiğinde |
 | Raporlama | Kampanya performans raporları göndermek | Programa göre |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Görev | Açıklama | Zaman Çizelgesi |
 |-------|----------|-----------------|
@@ -1354,7 +1338,7 @@ parent: Marketing
 | Performans Analizi | Bölgesel kampanya performansını analiz etmek | Haftalık |
 | Eskalasyon Yönetimi | Önemli uygulama sorunlarını ele almak | Gerektiğinde |
 
-### Merkez Pazarlama Ekibi
+#### Merkez Pazarlama Ekibi
 
 | Görev | Açıklama | Zaman Çizelgesi |
 |-------|----------|-----------------|
@@ -1366,9 +1350,9 @@ parent: Marketing
 | Değerlendirme | Kampanya sonrası analiz yapmak | Kampanya +2 hafta |
 
 
-## Kampanya Öncesi Aşama
+#### Kampanya Öncesi Aşama
 
-### Kampanya Brifingi İncelemesi
+#### Kampanya Brifingi İncelemesi
 
 Kampanya brifingi alındığında, mağaza müdürleri şunları incelemelidir:
 
@@ -1382,7 +1366,7 @@ Kampanya brifingi alındığında, mağaza müdürleri şunları incelemelidir:
 | **Fiyatlandırma** | Promosyonel fiyatlandırma varsa | POS sistemini güncelle |
 | **KPI'lar** | Performans metrikleri | Takip yöntemini belirle |
 
-### Kampanya Brifingi Kontrol Listesi
+#### Kampanya Brifingi Kontrol Listesi
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1414,7 +1398,7 @@ Kampanya brifingi alındığında, mağaza müdürleri şunları incelemelidir:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Malzeme Alımı ve Doğrulama
+#### Malzeme Alımı ve Doğrulama
 
 **Malzeme Alım Süreci:**
 
@@ -1467,7 +1451,7 @@ Kampanya brifingi alındığında, mağaza müdürleri şunları incelemelidir:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Personel Eğitimi
+#### Personel Eğitimi
 
 **Eğitim Bileşenleri:**
 
@@ -1491,9 +1475,9 @@ Kampanya brifingi alındığında, mağaza müdürleri şunları incelemelidir:
 - [ ] Sorular ele alındı
 
 
-## Aktif Kampanya Aşaması
+#### Aktif Kampanya Aşaması
 
-### Günlük Kampanya İzleme
+#### Günlük Kampanya İzleme
 
 **Günlük Görevler:**
 
@@ -1505,7 +1489,7 @@ Kampanya brifingi alındığında, mağaza müdürleri şunları incelemelidir:
 | **Öğleden sonra** | Müşteri geri bildirim toplama | Tüm personel |
 | **Kapanış** | Gün sonu metrikleri kaydet | Kapanış personeli |
 
-### Performans İzleme Gösterge Tablosu
+#### Performans İzleme Gösterge Tablosu
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1542,7 +1526,7 @@ Kampanya brifingi alındığında, mağaza müdürleri şunları incelemelidir:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Kampanya Optimizasyonu
+#### Kampanya Optimizasyonu
 
 **Optimizasyon Tetikleyicileri:**
 
@@ -1575,9 +1559,9 @@ Etkiyi İzle
 ```
 
 
-## Mağaza İçi Uygulama
+#### Mağaza İçi Uygulama
 
-### POSM Yerleşim Standartları
+#### POSM Yerleşim Standartları
 
 **Vitrin Displayı:**
 
@@ -1597,7 +1581,7 @@ Etkiyi İzle
 | Tezgah Displayı | Kasa alanı | 1-2 adet |
 | Raf Talkerları | Promosyonel ürün rafları | Tüm promosyonel SKU'lar |
 
-### Kampanyalar için Ürün Displayı
+#### Kampanyalar için Ürün Displayı
 
 **Hero Ürün Display Standartları:**
 
@@ -1628,7 +1612,7 @@ Etkiyi İzle
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Personel Etkileşim Kılavuzları
+#### Personel Etkileşim Kılavuzları
 
 **Müşteri Etkileşim Senaryosu:**
 
@@ -1643,9 +1627,9 @@ Etkiyi İzle
 5. **Kapanış:** "Bu [teklif/koleksiyon] [zaman sınırlaması] süresince mevcut, mükemmel [ürününüzü] bulmanıza yardımcı olayım."
 
 
-## Performans İzleme
+#### Performans İzleme
 
-### Kampanya KPI'ları
+#### Kampanya KPI'ları
 
 | KPI | Formül | Hedef | İzleme Sıklığı |
 |-----|--------|-------|----------------|
@@ -1657,7 +1641,7 @@ Etkiyi İzle
 | **Dönüşüm Oranı** | İşlem / Trafik × 100 | Koru veya iyileştir | Haftalık |
 | **ATV Değişimi** | Kampanya ATV / Normal ATV × 100 | Koru veya iyileştir | Haftalık |
 
-### Raporlama Programı
+#### Raporlama Programı
 
 | Rapor | Sıklık | Bitiş | Alıcı |
 |-------|--------|-------|-------|
@@ -1666,9 +1650,9 @@ Etkiyi İzle
 | Kampanya Kapanışı | Kampanya sonu | 3 gün içinde | Bölge Müdürü, Merkez |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Kampanya Uygulama Standartları
+#### Kampanya Uygulama Standartları
 
 1. **Zamanlama:** Tüm kampanyalar belirtilen tarihte başlamalıdır
 2. **Eksiksizlik:** Tüm POSM unsurları sergilenmelidir
@@ -1678,7 +1662,7 @@ Etkiyi İzle
 6. **Süre:** Kampanyalar tam belirtilen süre boyunca devam eder
 7. **Raporlama:** Tüm gerekli raporları zamanında gönderin
 
-### Kalite Standartları
+#### Kalite Standartları
 
 | Unsur | Standart | Tolerans |
 |-------|----------|----------|
@@ -1688,7 +1672,7 @@ Etkiyi İzle
 | Fiyat Displayı | Doğru ve net | Hatalar için sıfır tolerans |
 | Personel Bilgisi | Tam kampanya anlayışı | Lansmandam önce %100 eğitimli |
 
-### Uyumluluk Gereksinimleri
+#### Uyumluluk Gereksinimleri
 
 - Kampanya materyallerinde yetkisiz değişiklik yapılmaz
 - Onaysız kampanya tarihi uzatması yapılmaz
@@ -1697,7 +1681,7 @@ Etkiyi İzle
 - Onaylı fiyatlandırmadan sapma yapılmaz
 
 
-### Sorun 2: Düşük Kampanya Bilinirliği
+#### Sorun 2: Düşük Kampanya Bilinirliği
 
 **Belirti:** Müşteriler kampanyaya tepki vermiyor.
 
@@ -1714,7 +1698,7 @@ Etkiyi İzle
 4. Yerel sosyal medya paylaşımlarını artır
 
 
-### Sorun 4: POS Sistemi Sorunları
+#### Sorun 4: POS Sistemi Sorunları
 
 **Belirti:** Promosyonel fiyatlandırma doğru uygulanmıyor.
 
@@ -1730,7 +1714,7 @@ Etkiyi İzle
 - Personeli geçersiz kılma prosedürleri konusunda eğit
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklikler | Hazırlayan |
 |----------|-------|---------------|------------|
@@ -1741,12 +1725,8 @@ Etkiyi İzle
 
 ## SECTION 5: POSM-GUIDELINE-TR
 
-﻿---
-layout: default
-title: "POSM Kılavuzu"
-parent: Marketing
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1764,9 +1744,9 @@ parent: Marketing
 14. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Bu Belge Kimleri Kapsar
+#### Bu Belge Kimleri Kapsar
 
 - **Mağaza Personeli:** Kurulum ve günlük bakım
 - **Mağaza Müdürleri:** POSM yönetimi ve uyumluluk
@@ -1774,7 +1754,7 @@ parent: Marketing
 - **Ticari Pazarlama Ekibi:** POSM tasarımı ve üretimi
 - **Harici Tedarikçiler:** Üretim ve teslimat ortakları
 
-### Kapsanan POSM Türleri
+#### Kapsanan POSM Türleri
 
 1. Vitrin displayları
 2. Mağaza içi tabelalar
@@ -1786,9 +1766,9 @@ parent: Marketing
 8. Promosyonel materyaller
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -1797,7 +1777,7 @@ parent: Marketing
 | Raporlama | Hasarlı veya eksik materyalleri bildirmek | Tespit edildiğinde |
 | Kaldırma | Süresi dolan POSM'u hemen kaldırmak | Yönlendirildiğinde |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -1807,7 +1787,7 @@ parent: Marketing
 | Sipariş Yönetimi | POSM siparişleri ve talepleri göndermek | Gerektiğinde |
 | Uyumluluk | Marka kılavuzu uyumluluğunu sağlamak | Sürekli |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -1816,7 +1796,7 @@ parent: Marketing
 | Bütçe Yönetimi | Bölgesel POSM bütçesini yönetmek | Üç ayda bir |
 | Performans İncelemesi | POSM etkinliğini analiz etmek | Kampanya başına |
 
-### Merkez Ticari Pazarlama
+#### Merkez Ticari Pazarlama
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -1827,9 +1807,9 @@ parent: Marketing
 | Kılavuz Güncellemeleri | POSM standartlarını güncellemek | Gerektiğinde |
 
 
-## Yerleşim Standartları
+#### Yerleşim Standartları
 
-### Vitrin Display Düzeni
+#### Vitrin Display Düzeni
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1859,7 +1839,7 @@ parent: Marketing
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Mağaza İçi POSM Yerleşimi
+#### Mağaza İçi POSM Yerleşimi
 
 | POSM Türü | Konum | Yükseklik | Miktar |
 |-----------|-------|-----------|--------|
@@ -1870,9 +1850,9 @@ parent: Marketing
 | **Tezgah Display** | Kasa alanı | Tezgah yüksekliği | Kasa başına 1-2 |
 
 
-## Bakım Standartları
+#### Bakım Standartları
 
-### Günlük Bakım Rutini
+#### Günlük Bakım Rutini
 
 | Görev | Sorumluluk | Kontrol Öğesi |
 |-------|------------|---------------|
@@ -1882,7 +1862,7 @@ parent: Marketing
 | Hasar Kontrolü | Tüm personel | Herhangi bir hasarı hemen bildir |
 | Envanter | Mağaza Müdürü | Tüm POSM mevcut ve hesapta |
 
-### Haftalık Bakım Görevleri
+#### Haftalık Bakım Görevleri
 
 - [ ] Tüm POSM'un kapsamlı temizliği
 - [ ] Solma veya aşınma kontrolü
@@ -1892,7 +1872,7 @@ parent: Marketing
 - [ ] Tezgah display durumunu incele
 - [ ] Zamana duyarlı mesajlaşmayı güncelle
 
-### POSM Durum Değerlendirmesi
+#### POSM Durum Değerlendirmesi
 
 | Durum | Eylem | Zaman Çizelgesi |
 |-------|-------|-----------------|
@@ -1903,9 +1883,9 @@ parent: Marketing
 | **Güncel olmayan içerik** | Değiştir/kaldır | Aynı gün |
 
 
-## Kalite Standartları
+#### Kalite Standartları
 
-### Görsel Kalite Gereksinimleri
+#### Görsel Kalite Gereksinimleri
 
 | Husus | Standart |
 |-------|----------|
@@ -1915,7 +1895,7 @@ parent: Marketing
 | **Malzeme Kalitesi** | Uygun ağırlık ve finish |
 | **Son İşlem** | Temiz kesimler, uygun laminasyon |
 
-### Marka Uyumluluk Gereksinimleri
+#### Marka Uyumluluk Gereksinimleri
 
 - Doğru logo yerleşimi ve boyutu
 - Yalnızca onaylı marka renkleri
@@ -1923,7 +1903,7 @@ parent: Marketing
 - Onaylı mesajlaşma ve kopya
 - Gerektiğinde uygun yasal feragatnameler
 
-### Güvenlik Standartları
+#### Güvenlik Standartları
 
 | POSM Türü | Güvenlik Gereksinimi |
 |-----------|---------------------|
@@ -1934,9 +1914,9 @@ parent: Marketing
 | **Tezgah Displayları** | Sabit, engel oluşturmayan |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Zorunlu POSM Kuralları
+#### Zorunlu POSM Kuralları
 
 1. **Kurulum:** Tüm kampanya POSM'u lansman tarihine kadar kurulmalı
 2. **Eksiksizlik:** Tüm kit öğeleri sergilenmeli (kısmi uygulama yok)
@@ -1946,7 +1926,7 @@ parent: Marketing
 6. **Kaldırma:** Önceki kampanya POSM'u yeni kurulumdan önce kaldırılmalı
 7. **Güvenlik:** Tüm güvenlik standartları karşılanmalı
 
-### Yasaklanan Eylemler
+#### Yasaklanan Eylemler
 
 - POSM tasarımını veya mesajlaşmasını değiştirme
 - POSM'u yetkisiz lokasyonlara kurma
@@ -1956,7 +1936,7 @@ parent: Marketing
 - Kişisel veya el yazısı tabela kullanma
 - POSM ile güvenlik özelliklerini engelleme
 
-### POSM İmha Kılavuzları
+#### POSM İmha Kılavuzları
 
 | Malzeme Türü | İmha Yöntemi |
 |--------------|--------------|
@@ -1967,7 +1947,7 @@ parent: Marketing
 | Donanım (kancalar, standlar) | Yeniden kullanım için sakla |
 
 
-### Sorun 2: POSM Mağaza Düzenine Uymuyor
+#### Sorun 2: POSM Mağaza Düzenine Uymuyor
 
 **Belirti:** Standart POSM boyutu mağazada çalışmıyor.
 
@@ -1978,7 +1958,7 @@ parent: Marketing
 4. Onaylı ayarlamalar için Bölge Müdürü'ne danış
 
 
-### Sorun 4: Mağazalar Arasında Tutarsız Kurulum
+#### Sorun 4: Mağazalar Arasında Tutarsız Kurulum
 
 **Belirti:** Bölgesel denetim değişen POSM kalitesi gösteriyor.
 
@@ -1989,7 +1969,7 @@ parent: Marketing
 4. Takip uyumluluk kontrolü planla
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklikler | Hazırlayan |
 |----------|-------|---------------|------------|
@@ -2000,12 +1980,8 @@ parent: Marketing
 
 ## SECTION 6: IN-STORE-COMMUNICATION-GUIDE-TR
 
-﻿---
-layout: default
-title: "Mağaza İçi İletişim Rehberi"
-parent: Marketing
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -2023,9 +1999,9 @@ parent: Marketing
 14. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Bu Belge Kimleri Kapsar
+#### Bu Belge Kimleri Kapsar
 
 - **Mağaza Personeli:** Sözlü müşteri iletişimi
 - **Mağaza Müdürleri:** İletişim gözetimi ve uyumluluk
@@ -2033,7 +2009,7 @@ parent: Marketing
 - **Pazarlama Ekipleri:** İletişim içeriği oluşturma
 - **Bölge Müdürleri:** Çok mağazalı iletişim standartları
 
-### Kapsanan İletişim Türleri
+#### Kapsanan İletişim Türleri
 
 1. Kalıcı tabelalar
 2. Promosyonel tabelalar
@@ -2045,9 +2021,9 @@ parent: Marketing
 8. Giyinme odası iletişimi
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -2056,7 +2032,7 @@ parent: Marketing
 | Bilgi Doğruluğu | Sergilenen bilgilerin güncel olduğundan emin olmak | Günlük |
 | Müşteri Soruları | Onaylı bilgileri kullanarak soruları yanıtlamak | Gerektiğinde |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -2065,7 +2041,7 @@ parent: Marketing
 | Güncelleme Uygulaması | Zamanında iletişim güncellemelerini sağlamak | Kampanya başına |
 | Uyumluluk Kontrolü | Tüm mesajlaşmanın standartları karşıladığını doğrulamak | Günlük |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -2074,7 +2050,7 @@ parent: Marketing
 | Sorun Çözümü | İletişimle ilgili sorunları ele almak | Gerektiğinde |
 | Performans İncelemesi | İletişim etkinliğini değerlendirmek | Aylık |
 
-### Merkez Pazarlama Ekibi
+#### Merkez Pazarlama Ekibi
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -2084,9 +2060,9 @@ parent: Marketing
 | Kalite Güvencesi | İletişim uyumluluğunu incelemek | Aylık |
 
 
-## Tabela Standartları
+#### Tabela Standartları
 
-### Kalıcı Tabelalar
+#### Kalıcı Tabelalar
 
 | Unsur | Özellikler | Yerleşim |
 |-------|------------|----------|
@@ -2096,7 +2072,7 @@ parent: Marketing
 | **Kasa Tabelası** | "Kasa" / "Ödeme" | Kasa tezgahı üstü |
 | **Çıkış Tabelası** | Acil çıkış işareti | Bina koduna göre |
 
-### Promosyonel Tabelalar
+#### Promosyonel Tabelalar
 
 | Tür | Standart Boyut | Malzeme | Süre |
 |-----|----------------|---------|------|
@@ -2106,7 +2082,7 @@ parent: Marketing
 | **Zemin Sticker** | 50×50cm | Kaymaz vinil | 4-6 hafta |
 | **Tezgah Kartı** | A5 | Karton | Promosyon dönemi |
 
-### Tabela Tasarım Standartları
+#### Tabela Tasarım Standartları
 
 **Tipografi:**
 - Birincil font: Marka onaylı yazı karakteri
@@ -2135,9 +2111,9 @@ parent: Marketing
 ```
 
 
-## Promosyonel Mesajlaşma
+#### Promosyonel Mesajlaşma
 
-### Promosyonel Mesaj Türleri
+#### Promosyonel Mesaj Türleri
 
 | Mesaj Türü | Amaç | Örnek |
 |------------|------|-------|
@@ -2148,7 +2124,7 @@ parent: Marketing
 | **Yeni Gelen** | Yeniliği vurgulamak | "Yeni Gelen" |
 | **Sadakat** | Üyeleri ödüllendirmek | "Üyelere Ekstra %10 İndirim" |
 
-### Promosyonel Mesajlaşma Kılavuzları
+#### Promosyonel Mesajlaşma Kılavuzları
 
 **Yapılması Gerekenler:**
 - Net, basit dil
@@ -2164,7 +2140,7 @@ parent: Marketing
 - El yazısı promosyonel tabelalar
 - Süresi dolmuş promosyonel materyaller
 
-### Promosyonel Display Hiyerarşisi
+#### Promosyonel Display Hiyerarşisi
 
 ```
 1. BİRİNCİL: İndirim/Teklif (En Büyük)
@@ -2181,9 +2157,9 @@ parent: Marketing
 ```
 
 
-## Personel İletişim Kılavuzları
+#### Personel İletişim Kılavuzları
 
-### Müşteri Karşılama
+#### Müşteri Karşılama
 
 **Standart Karşılama:**
 ```
@@ -2196,7 +2172,7 @@ Bugün size bir konuda yardımcı olabilir miyim?"
 - Fas: İki dilli seçenek (Arapça/Fransızca)
 - Balkanlar: Yerel dil, yedek olarak İngilizce
 
-### Temel Konuşma Noktaları
+#### Temel Konuşma Noktaları
 
 | Konu | Temel Mesaj |
 |------|-------------|
@@ -2206,7 +2182,7 @@ Bugün size bir konuda yardımcı olabilir miyim?"
 | **Hizmetler** | Tadilat, hediye paketleme, teslimat seçenekleri |
 | **İade Politikası** | Fişle 14 günlük iade |
 
-### Müşteri Sorularını Ele Alma
+#### Müşteri Sorularını Ele Alma
 
 **Ürün Soruları:**
 - Ürün bilgisi eğitimini kullan
@@ -2226,9 +2202,9 @@ Bugün size bir konuda yardımcı olabilir miyim?"
 - Çözemezsen üst seviyeye ilet
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### İletişim Standartları
+#### İletişim Standartları
 
 | Husus | Standart |
 |-------|----------|
@@ -2238,7 +2214,7 @@ Bugün size bir konuda yardımcı olabilir miyim?"
 | **Zamanlılık** | Güncellemeler belirtilen tarihlerde uygulanmalı |
 | **Uyumluluk** | Tüm düzenleyici ve marka gereksinimlerini karşıla |
 
-### Yasaklanan İletişimler
+#### Yasaklanan İletişimler
 
 | Kategori | Yasaklanan Unsurlar |
 |----------|---------------------|
@@ -2248,7 +2224,7 @@ Bugün size bir konuda yardımcı olabilir miyim?"
 | **Rahatsız Edici** | Herhangi bir ayrımcı veya uygunsuz içerik |
 | **Rakip** | Rakip markalara referanslar |
 
-### Düzenleyici Uyumluluk
+#### Düzenleyici Uyumluluk
 
 | Bölge | Temel Gereksinimler |
 |-------|---------------------|
@@ -2258,7 +2234,7 @@ Bugün size bir konuda yardımcı olabilir miyim?"
 | **Balkanlar** | Yerel dil gereksinimleri, AB standartları |
 
 
-### Sorun 2: Eski Promosyonel Materyaller
+#### Sorun 2: Eski Promosyonel Materyaller
 
 **Belirti:** Süresi dolmuş kampanya materyalleri hala sergileniyor.
 
@@ -2273,7 +2249,7 @@ Bugün size bir konuda yardımcı olabilir miyim?"
 3. Kaldırma doğrulama süreci uygula
 
 
-### Sorun 4: Dijital Tabela Çalışmıyor
+#### Sorun 4: Dijital Tabela Çalışmıyor
 
 **Belirti:** Ekranlar boş veya yanlış içerik gösteriyor.
 
@@ -2288,7 +2264,7 @@ Bugün size bir konuda yardımcı olabilir miyim?"
 - Mevcutsa statik display modunu kullan
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklikler | Hazırlayan |
 |----------|-------|---------------|------------|
@@ -2299,12 +2275,8 @@ Bugün size bir konuda yardımcı olabilir miyim?"
 
 ## SECTION 7: DIGITAL-ASSETS-USAGE-TR
 
-﻿---
-layout: default
-title: "Dijital Varlık Kullanım Rehberi"
-parent: Marketing
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -2323,9 +2295,9 @@ parent: Marketing
 15. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Bu Belge Kimleri Kapsar
+#### Bu Belge Kimleri Kapsar
 
 - **Mağaza Personeli:** Yerel iletişimler için temel varlık kullanımı
 - **Mağaza Müdürleri:** Yerel pazarlama ihtiyaçları için varlık seçimi
@@ -2333,7 +2305,7 @@ parent: Marketing
 - **Harici Ajanslar:** Sözleşmeli işler için onaylı varlık erişimi
 - **Bölge Müdürleri:** Varlık uyumluluk gözetimi
 
-### Kapsanan Varlık Türleri
+#### Kapsanan Varlık Türleri
 
 1. Logo dosyaları ve marka işaretleri
 2. Ürün fotoğrafçılığı
@@ -2345,9 +2317,9 @@ parent: Marketing
 8. Web sitesi varlıkları
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -2355,7 +2327,7 @@ parent: Marketing
 | Doğru Kullanım | Kullanım kılavuzlarını takip etmek | Her zaman |
 | Sorun Bildirme | Eksik veya hatalı varlıkları bildirmek | Tespit edildiğinde |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -2364,7 +2336,7 @@ parent: Marketing
 | Uyumluluk | Ekibin doğru varlık kullanımını sağlamak | Sürekli |
 | Talep Gönderimi | Özel varlıklar için talep göndermek | Gerektiğinde |
 
-### Bölge Pazarlama Müdürü
+#### Bölge Pazarlama Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -2373,7 +2345,7 @@ parent: Marketing
 | Özel Talepler | Bölgesel varlık özelleştirmesini yönetmek | Kampanya başına |
 | Eğitim | Mağazaları varlık kullanımı konusunda eğitmek | Üç ayda bir |
 
-### Merkez Dijital Ekibi
+#### Merkez Dijital Ekibi
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -2384,9 +2356,9 @@ parent: Marketing
 | Kılavuz Güncellemeleri | Kullanım kılavuzlarını güncellemek | Gerektiğinde |
 
 
-## Varlık Kategorileri
+#### Varlık Kategorileri
 
-### 1. Logo Dosyaları
+#### 1. Logo Dosyaları
 
 **Mevcut Formatlar:**
 
@@ -2406,7 +2378,7 @@ parent: Marketing
 | Siyah | `[marka]_logo_siyah_CMYK.ai` |
 | Yalnızca İkon | `[marka]_ikon_CMYK.ai` |
 
-### 2. Ürün Fotoğrafçılığı
+#### 2. Ürün Fotoğrafçılığı
 
 **Görüntü Türleri:**
 
@@ -2426,7 +2398,7 @@ parent: Marketing
 Örnek: USPA_SS24_Polo_12345_Lacivert_Model_01.jpg
 ```
 
-### 3. Kampanya Varlıkları
+#### 3. Kampanya Varlıkları
 
 **Varlık Kiti İçeriği:**
 
@@ -2439,7 +2411,7 @@ parent: Marketing
 | Web Banner | IAB standart boyutlar | JPG, GIF |
 | Video | 16:9, 9:16, 1:1 | MP4 |
 
-### 4. Sosyal Medya Varlıkları
+#### 4. Sosyal Medya Varlıkları
 
 **Platform Gereksinimleri:**
 
@@ -2450,7 +2422,7 @@ parent: Marketing
 | **TikTok** | 200×200px | N/A | 1080×1920px |
 | **LinkedIn** | 400×400px | 1128×191px | 1200×627px |
 
-### 5. E-posta Şablonları
+#### 5. E-posta Şablonları
 
 **Şablon Türleri:**
 
@@ -2462,9 +2434,9 @@ parent: Marketing
 | **Etkinlik** | Davetler, duyurular | Başlık, etkinlik detayları, CTA |
 
 
-## Kullanım Kılavuzları
+#### Kullanım Kılavuzları
 
-### Genel Kullanım Kuralları
+#### Genel Kullanım Kuralları
 
 1. **Her zaman en son versiyonu kullanın** - Kullanmadan önce varlık güncellemelerini kontrol edin
 2. **En boy oranını koruyun** - Görselleri asla esnetmeyin veya bozmayın
@@ -2472,7 +2444,7 @@ parent: Marketing
 4. **Uygun çözünürlük kullanın** - Çözünürlüğü çıktıyla eşleştirin
 5. **Renk profillerini takip edin** - Dijital için RGB, baskı için CMYK
 
-### İzin Verilen Kullanım
+#### İzin Verilen Kullanım
 
 ✓ Resmi franchise pazarlama materyalleri
 ✓ Onaylı sosyal medya kanalları
@@ -2481,7 +2453,7 @@ parent: Marketing
 ✓ Onaylı web sitesi ve dijital platformlar
 ✓ Onaylı sistemler üzerinden e-posta pazarlama
 
-### Yasaklanan Kullanım
+#### Yasaklanan Kullanım
 
 ✗ Kişisel kullanım
 ✗ Yetkisiz üçüncü taraf platformları
@@ -2491,7 +2463,7 @@ parent: Marketing
 ✗ Rakip markalarla birleştirme
 ✗ Lisans sona erdikten sonra kullanım
 
-### Görüntü Kullanım Kısıtlamaları
+#### Görüntü Kullanım Kısıtlamaları
 
 | Varlık Türü | Kısıtlamalar |
 |-------------|--------------|
@@ -2501,9 +2473,9 @@ parent: Marketing
 | **Sezonluk** | Mevcut sezon varlıkları hazır olduğunda değiştirin |
 
 
-## Platforma Özgü Gereksinimler
+#### Platforma Özgü Gereksinimler
 
-### Instagram
+#### Instagram
 
 | Unsur | Özellik |
 |-------|---------|
@@ -2514,7 +2486,7 @@ parent: Marketing
 | Açıklama | 2.200 karaktere kadar |
 | Hashtag | Paylaşım başına maks 30 |
 
-### Facebook
+#### Facebook
 
 | Unsur | Özellik |
 |-------|---------|
@@ -2525,7 +2497,7 @@ parent: Marketing
 | Video | Min 1280×720px, MP4 |
 | Karakter Limiti | 63.206 (önerilen <80) |
 
-### E-posta Pazarlama
+#### E-posta Pazarlama
 
 | Unsur | Özellik |
 |-------|---------|
@@ -2537,9 +2509,9 @@ parent: Marketing
 | Responsive | Mobil uyumlu tasarım gerekli |
 
 
-## Süreç Adımları
+#### Süreç Adımları
 
-### Varlık Bulma ve İndirme
+#### Varlık Bulma ve İndirme
 
 ```
 Adım 1: Marka Portalına Giriş Yap
@@ -2563,7 +2535,7 @@ Adım 9: Kullanımı Kaydet (gerekirse)
 Adım 10: Varlığı Kılavuzlara Göre Kullan
 ```
 
-### Varlık Sorunlarını Bildirme
+#### Varlık Sorunlarını Bildirme
 
 ```
 1. Sorunu Tanımla
@@ -2586,9 +2558,9 @@ Adım 10: Varlığı Kılavuzlara Göre Kullan
 ```
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Gerekli Varlık Bulunamıyor
+#### Sorun 1: Gerekli Varlık Bulunamıyor
 
 **Belirti:** Varlık arama sonuçlarında görünmüyor.
 
@@ -2600,7 +2572,7 @@ Adım 10: Varlığı Kılavuzlara Göre Kullan
 5. Gerçekten mevcut değilse özel varlık talebi gönderin
 
 
-### Sorun 3: Kullanıldığında Varlık Farklı Görünüyor
+#### Sorun 3: Kullanıldığında Varlık Farklı Görünüyor
 
 **Belirti:** Renkler veya görünüm ön izlemeyle eşleşmiyor.
 
@@ -2616,9 +2588,9 @@ Adım 10: Varlığı Kılavuzlara Göre Kullan
 4. Varlık dosyası yanlışsa Merkez ile iletişime geçin
 
 
-## Kontrol Listeleri
+#### Kontrol Listeleri
 
-### Varlık Seçimi Kontrol Listesi
+#### Varlık Seçimi Kontrol Listesi
 
 - [ ] Varlık mevcut/onaylı kütüphaneden
 - [ ] Amaçlanan kullanım için uygun çözünürlük
@@ -2628,7 +2600,7 @@ Adım 10: Varlığı Kılavuzlara Göre Kullan
 - [ ] Varlık geçerlilik süresi içinde
 - [ ] Marka kılavuzları takip ediliyor
 
-### Varlık Kullanım Denetim Kontrol Listesi
+#### Varlık Kullanım Denetim Kontrol Listesi
 
 - [ ] Tüm varlıklar Marka Portalından alındı
 - [ ] Yetkisiz değişiklik yapılmadı
@@ -2649,12 +2621,8 @@ Adım 10: Varlığı Kılavuzlara Göre Kullan
 
 ## SECTION 8: SOCIAL-MEDIA-LOCALIZATION-GUIDE-TR
 
-﻿---
-layout: default
-title: "Sosyal Medya Lokalizasyon Rehberi"
-parent: Marketing
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -2673,18 +2641,18 @@ parent: Marketing
 15. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Kapsanan Markalar
+#### Kapsanan Markalar
 
 - U.S. Polo Assn.
 - Pierre Cardin
 - Cacharel
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -2692,7 +2660,7 @@ parent: Marketing
 | İçerik Desteği | Yerel içerik oluşturma taleplerini desteklemek | Gerektiğinde |
 | Geri Bildirim | Yerel etkileşim trendlerini raporlamak | Haftalık |
 
-### Bölge Pazarlama Müdürü
+#### Bölge Pazarlama Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -2701,7 +2669,7 @@ parent: Marketing
 | Influencer Koordinasyonu | Bölgesel influencer ortaklıklarını yönetmek | Sürekli |
 | Performans Analizi | Bölgesel sosyal metrikleri analiz etmek | Haftalık |
 
-### Merkez Sosyal Medya Ekibi
+#### Merkez Sosyal Medya Ekibi
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
@@ -2711,9 +2679,9 @@ parent: Marketing
 | Performans İncelemesi | Global sosyal performansı incelemek | Aylık |
 
 
-## İçerik Lokalizasyonu
+#### İçerik Lokalizasyonu
 
-### Lokalizasyon Çerçevesi
+#### Lokalizasyon Çerçevesi
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -2740,7 +2708,7 @@ parent: Marketing
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### İçerik Türleri ve Lokalizasyon Seviyesi
+#### İçerik Türleri ve Lokalizasyon Seviyesi
 
 | İçerik Türü | Lokalizasyon Seviyesi | Onay Gerekli |
 |-------------|----------------------|--------------|
@@ -2751,7 +2719,7 @@ parent: Marketing
 | UGC yeniden paylaşımları | Açıklama lokalizasyonu | Mağaza/Bölgesel |
 | Stories/Reels | Şablon adaptasyonu | Bölgesel |
 
-### Görsel Lokalizasyon
+#### Görsel Lokalizasyon
 
 | Unsur | Lokalizasyon Yaklaşımı |
 |-------|------------------------|
@@ -2762,9 +2730,9 @@ parent: Marketing
 | **Renkler** | Kültürel renk çağrışımlarını kontrol et |
 
 
-## Kültürel Değerlendirmeler
+#### Kültürel Değerlendirmeler
 
-### KSA Kültürel Kılavuzları
+#### KSA Kültürel Kılavuzları
 
 | Alan | Kılavuz |
 |------|---------|
@@ -2788,7 +2756,7 @@ parent: Marketing
 ✗ Politik içerik
 ✗ İslami değerlerle çelişen içerik
 
-### Fas Kültürel Kılavuzları
+#### Fas Kültürel Kılavuzları
 
 | Alan | Kılavuz |
 |------|---------|
@@ -2798,7 +2766,7 @@ parent: Marketing
 | **Tatiller** | İslami ve ulusal tatiller |
 | **Stil** | Avrupa etkisi takdir edilen |
 
-### Balkanlar Kültürel Kılavuzları
+#### Balkanlar Kültürel Kılavuzları
 
 | Alan | Kılavuz |
 |------|---------|
@@ -2809,9 +2777,9 @@ parent: Marketing
 | **Milliyetçilik** | Politik hassas konulardan kaçın |
 
 
-## Topluluk Yönetimi
+#### Topluluk Yönetimi
 
-### Yanıt Süresi Standartları
+#### Yanıt Süresi Standartları
 
 | Mesaj Türü | Hedef Yanıt Süresi |
 |------------|-------------------|
@@ -2821,7 +2789,7 @@ parent: Marketing
 | **Yorumlar (nötr)** | 24 saat içinde |
 | **DM'ler** | 4 saat içinde |
 
-### Yanıt Dili Kılavuzları
+#### Yanıt Dili Kılavuzları
 
 **Genel Prensipler:**
 - Müşterinin kullandığı dilde yanıt ver
@@ -2838,7 +2806,7 @@ parent: Marketing
 | **Şikayet** | "Bunu duyduğumuz için üzgünüz. Çözmemize yardımcı olması için lütfen detaylarınızı DM olarak gönderin." |
 | **Mağaza Sorusu** | "Bizi [konum] adresinde bulabilirsiniz. Bugün ziyaret edin! [Mağaza saatleri]" |
 
-### Eskalasyon Protokolü
+#### Eskalasyon Protokolü
 
 ```
 Seviye 1: Standart Yanıt (Mağaza/Bölge Ekibi)
@@ -2861,9 +2829,9 @@ Seviye 3: Merkez Eskalasyonu
 ```
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### İçerik Standartları
+#### İçerik Standartları
 
 | Husus | Standart |
 |-------|----------|
@@ -2873,7 +2841,7 @@ Seviye 3: Merkez Eskalasyonu
 | **Doğruluk** | Tüm bilgiler doğrulanmış, fiyatlar doğru |
 | **Zamanlama** | Optimal yerel saatlerde yayınlanmış |
 
-### Yasaklanan İçerik
+#### Yasaklanan İçerik
 
 | Kategori | Örnekler |
 |----------|----------|
@@ -2884,7 +2852,7 @@ Seviye 3: Merkez Eskalasyonu
 | **Doğrulanmamış** | Kanıt olmadan iddialar |
 | **Kişisel** | Personel kişisel bilgileri |
 
-### Onay Matrisi
+#### Onay Matrisi
 
 | İçerik Türü | Mağaza | Bölgesel | Merkez |
 |-------------|--------|----------|--------|
@@ -2895,9 +2863,9 @@ Seviye 3: Merkez Eskalasyonu
 | Yeni içerik türü | - | Talep | ✓ |
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Lokalize İçerikte Düşük Etkileşim
+#### Sorun 1: Lokalize İçerikte Düşük Etkileşim
 
 **Belirti:** Lokalize paylaşımlar ortalamanın altında performans gösteriyor.
 
@@ -2915,7 +2883,7 @@ Seviye 3: Merkez Eskalasyonu
 5. Daha fazla UGC dahil edin
 
 
-### Sorun 3: Kültürel Hata
+#### Sorun 3: Kültürel Hata
 
 **Belirti:** İçerik kültürel nedenlerle olumsuz geri bildirim alıyor.
 
@@ -2933,7 +2901,7 @@ Seviye 3: Merkez Eskalasyonu
 - Düzenli ekip eğitimi
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklikler | Hazırlayan |
 |----------|-------|---------------|------------|
@@ -2945,12 +2913,8 @@ Seviye 3: Merkez Eskalasyonu
 
 ## SECTION 9: MARKETING-APPROVAL-PROCESS-TR
 
-﻿---
-layout: default
-title: "Pazarlama Onay Süreci"
-parent: Marketing
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -2967,9 +2931,9 @@ parent: Marketing
 13. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Bu Belge Kimleri Kapsar
+#### Bu Belge Kimleri Kapsar
 
 - **Mağaza Müdürleri:** Yerel pazarlama talepleri göndermek
 - **Bölge Müdürleri:** Bölgesel faaliyetleri incelemek ve onaylamak
@@ -2977,7 +2941,7 @@ parent: Marketing
 - **Pazarlama Ekipleri:** Onay taleplerini işlemek
 - **Harici Ajanslar:** Gönderim gereksinimlerini anlamak
 
-### Onay Gerektiren Faaliyetler
+#### Onay Gerektiren Faaliyetler
 
 1. Yerel reklamcılık ve medya
 2. Mağaza içi promosyonel materyaller
@@ -2989,9 +2953,9 @@ parent: Marketing
 8. Ortak pazarlama girişimleri
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Açıklama |
 |-------|----------|
@@ -3001,7 +2965,7 @@ parent: Marketing
 | Uygulama | Onaylı faaliyetleri doğru şekilde yürütmek |
 | Raporlama | Onaylı faaliyetlerin sonuçlarını belgelemek |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Görev | Açıklama |
 |-------|----------|
@@ -3011,7 +2975,7 @@ parent: Marketing
 | Geri Bildirim | Talep iyileştirmeleri hakkında rehberlik sağlamak |
 | İzleme | Onaylı faaliyet performansını takip etmek |
 
-### Merkez Pazarlama Ekibi
+#### Merkez Pazarlama Ekibi
 
 | Görev | Açıklama |
 |-------|----------|
@@ -3021,7 +2985,7 @@ parent: Marketing
 | Yasal Koordinasyon | Gerektiğinde yasal ekiple koordinasyon |
 | Belgeleme | Onay kayıtlarını tutmak |
 
-### Hukuk Ekibi
+#### Hukuk Ekibi
 
 | Görev | Açıklama |
 |-------|----------|
@@ -3031,9 +2995,9 @@ parent: Marketing
 | Belgeleme | Yasal onay kayıtlarını tutmak |
 
 
-## Onay Kategorileri
+#### Onay Kategorileri
 
-### Kategori A: Standart Onaylar
+#### Kategori A: Standart Onaylar
 
 **Açıklama:** Onaylı şablonları kullanan ve belirlenmiş kılavuzlar dahilindeki rutin faaliyetler.
 
@@ -3044,7 +3008,7 @@ parent: Marketing
 | Vitrin display değişikliği | Bölge Müdürü | 2 gün |
 | Standart fiyatlandırma promosyonu | Bölge Müdürü | 3 gün |
 
-### Kategori B: Özel Onaylar
+#### Kategori B: Özel Onaylar
 
 **Açıklama:** Kreatif inceleme gerektiren veya standart şablonlar dışındaki faaliyetler.
 
@@ -3055,7 +3019,7 @@ parent: Marketing
 | Etkinlik sponsorluğu | Merkez Pazarlama | 7 gün |
 | Değiştirilmiş promosyonel şartlar | Merkez Pazarlama | 5 gün |
 
-### Kategori C: Stratejik Onaylar
+#### Kategori C: Stratejik Onaylar
 
 **Açıklama:** Üst düzey inceleme gerektiren yüksek değerli veya marka hassasiyetli faaliyetler.
 
@@ -3066,7 +3030,7 @@ parent: Marketing
 | Ortak markalaşma girişimi | Pazarlama Direktörü | 14 gün |
 | Yeni pazar giriş kampanyası | CEO | 21 gün |
 
-### Kategori D: Yasal Gerekli
+#### Kategori D: Yasal Gerekli
 
 **Açıklama:** Yasal ekip incelemesi gerektiren yasal etkileri olan faaliyetler.
 
@@ -3078,9 +3042,9 @@ parent: Marketing
 | İddialar/referanslar | Merkez Pazarlama + Hukuk | 7 gün |
 
 
-## İnceleme Süreci
+#### İnceleme Süreci
 
-### İnceleme İş Akışı
+#### İnceleme İş Akışı
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -3121,7 +3085,7 @@ parent: Marketing
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### İnceleme Kriterleri
+#### İnceleme Kriterleri
 
 | Kriter | Değerlendirme Alanları |
 |--------|------------------------|
@@ -3132,7 +3096,7 @@ parent: Marketing
 | **Strateji** | Pazarlama hedefleriyle uyum |
 | **Zamanlama** | Zamanlamanın uygunluğu, takvim çatışmaları |
 
-### Onay Durumları
+#### Onay Durumları
 
 | Durum | Anlam | Sonraki Adımlar |
 |-------|-------|-----------------|
@@ -3145,9 +3109,9 @@ parent: Marketing
 | **Beklemede** | Geçici olarak durduruldu | İlave talimat bekle |
 
 
-## Süreç Adımları
+#### Süreç Adımları
 
-### Talep Gönderme
+#### Talep Gönderme
 
 ```
 Adım 1: Onay Kategorisini Belirle
@@ -3181,7 +3145,7 @@ Adım 10: Uygula (onaylandıysa)
         └── Onaylandığı şekilde uygula
 ```
 
-### Red ile Başa Çıkma
+#### Red ile Başa Çıkma
 
 ```
 1. Red Geri Bildirimini İncele
@@ -3202,9 +3166,9 @@ Adım 10: Uygula (onaylandıysa)
 ```
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Geciken Onay
+#### Sorun 1: Geciken Onay
 
 **Belirti:** Onay SLA'dan daha uzun sürüyor.
 
@@ -3215,7 +3179,7 @@ Adım 10: Uygula (onaylandıysa)
 4. Gelecek talepler için daha iyi hazırlık süresi planla
 
 
-### Sorun 3: Tekrarlanan Redler
+#### Sorun 3: Tekrarlanan Redler
 
 **Belirti:** Benzer talepler birden fazla kez reddediliyor.
 
@@ -3226,9 +3190,9 @@ Adım 10: Uygula (onaylandıysa)
 4. Gönderim öncesi danışmanlık düşün
 
 
-## Kontrol Listeleri
+#### Kontrol Listeleri
 
-### Gönderim Öncesi Kontrol Listesi
+#### Gönderim Öncesi Kontrol Listesi
 
 - [ ] Doğru talep formu tamamlandı
 - [ ] Onay kategorisi belirlendi
@@ -3240,7 +3204,7 @@ Adım 10: Uygula (onaylandıysa)
 - [ ] Gönderen bilgileri eksiksiz
 - [ ] Yeterli hazırlık süresi bırakıldı
 
-### Onaylayan Kontrol Listesi
+#### Onaylayan Kontrol Listesi
 
 - [ ] Talep eksiksiz ve net
 - [ ] Onay yetkisi dahilinde

@@ -33,12 +33,8 @@ Bu kapsamlı görsel merchandising dokümantasyonu, Aydınlı Grup franchise ma�
 
 ## SECTION 1: VM-OVERVIEW-TR
 
-﻿---
-layout: default
-title: "Görsel Mağazacılık Genel Bakış – TR"
-parent: Visual Merchandising
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -53,9 +49,9 @@ parent: Visual Merchandising
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Mağaza Formatı Kapsamı
+#### Mağaza Formatı Kapsamı
 
 | Format | Boyut Aralığı | VM Karmaşıklığı |
 |--------|---------------|-----------------|
@@ -65,16 +61,16 @@ parent: Visual Merchandising
 | Shop-in-Shop | 25-50 m² | Köşe VM adaptasyonu |
 | Outlet | Değişken | Basitleştirilmiş VM yaklaşımı |
 
-### Marka Uygulaması
+#### Marka Uygulaması
 
 - **U.S. Polo Assn.:** Tam VM kılavuzları uygulanır
 - **Pierre Cardin:** Tam VM kılavuzları uygulanır
 - **Cacharel:** Tam VM kılavuzları uygulanır
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Sıklık | Standart |
 |-------|--------|----------|
@@ -84,7 +80,7 @@ parent: Visual Merchandising
 | VM sorunlarını raporlama | Gerektiğinde | Mağaza uygulaması üzerinden |
 | Günlük VM kontrol listesini uygulama | Günlük | Sabah açılışta |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Sıklık | Standart |
 |-------|--------|----------|
@@ -95,7 +91,7 @@ parent: Visual Merchandising
 | Rekabet analizi | Haftalık | Fotoğraf dokümantasyonu |
 | VM performans değerlendirmesi | Haftalık | Satış korelasyonu |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Görev | Sıklık | Standart |
 |-------|--------|----------|
@@ -105,7 +101,7 @@ parent: Visual Merchandising
 | Yeni mağaza VM kurulumu | Gerektiğinde | Açılış öncesi kontrol listesi |
 | VM eğitimi sunumu | Üç aylık | Bölgesel atölyeler |
 
-### Merkez VM Ekibi
+#### Merkez VM Ekibi
 
 | Görev | Sıklık | Standart |
 |-------|--------|----------|
@@ -117,9 +113,9 @@ parent: Visual Merchandising
 | VM eğitim müfredatı | Yıllık | Global sertifikasyon |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Temel VM Prensipleri
+#### Temel VM Prensipleri
 
 1. **Altın Üçgen Kuralı**
    - Ana odak noktası girişten görünür olmalı
@@ -142,7 +138,7 @@ parent: Visual Merchandising
    - Bu alanda kritik ürün yok
    - Marka ambiyansı için kullan
 
-### Zorunlu Standartlar
+#### Zorunlu Standartlar
 
 | Standart | Gereksinim | Tolerans |
 |----------|------------|----------|
@@ -155,7 +151,7 @@ parent: Visual Merchandising
 | Renk bloklama | Gradyan düzenleme | Kılavuza göre |
 | Tabela doğruluğu | Sadece güncel kampanya | Sıfır tolerans |
 
-### Yasaklı Uygulamalar
+#### Yasaklı Uygulamalar
 
 - ❌ Kapasiteyi aşan aşırı dolu fikstürler
 - ❌ Karışık marka sergileri (onaylı değilse)
@@ -169,9 +165,9 @@ parent: Visual Merchandising
 - ❌ Onaysız fikstürler
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Yeni Sezon Lansmanı
+#### Senaryo 1: Yeni Sezon Lansmanı
 
 **Durum:** İlkbahar/Yaz koleksiyonu lansman günü
 
@@ -194,7 +190,7 @@ T+1: Fotoğraf dokümantasyonu, sorun çözümü
 - 24 saat içinde fotoğraf dokümantasyonu yüklenmiş
 - Sıfır VM uyum sorunu
 
-### Senaryo 2: Kampanya Dönemi VM Adaptasyonu
+#### Senaryo 2: Kampanya Dönemi VM Adaptasyonu
 
 **Durum:** Black Friday promosyonu başlıyor
 
@@ -207,7 +203,7 @@ T+1: Fotoğraf dokümantasyonu, sorun çözümü
 
 **Uygulama Zaman Çizelgesi:** Kampanya başlangıcından 24 saat önce
 
-### Senaryo 3: Düşük Stok Durumu
+#### Senaryo 3: Düşük Stok Durumu
 
 **Durum:** Yeniden stok öncesi önemli ürünler azalıyor
 
@@ -230,9 +226,9 @@ Seçenek C: Yeniden Mağazacılık
 ```
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Aşırı Dolu Fikstürler
+#### Sorun 1: Aşırı Dolu Fikstürler
 
 **Problem:** Ürünler çok sıkışık, görsel çekicilik azalıyor
 
@@ -245,7 +241,7 @@ Seçenek C: Yeniden Mağazacılık
 **Önleme:** Günlük kapasite kontrolleri, düzgün stok rotasyonu
 
 
-### Sorun 3: Manken Styling Hataları
+#### Sorun 3: Manken Styling Hataları
 
 **Problem:** Yanlış kombin kombinasyonları veya kötü kalıp
 
@@ -259,7 +255,7 @@ Seçenek C: Yeniden Mağazacılık
 **Önleme:** Haftalık manken styling incelemesi
 
 
-### Sorun 5: Tabela Hataları
+#### Sorun 5: Tabela Hataları
 
 **Problem:** Yanlış fiyatlar, güncelliğini yitirmiş kampanyalar veya eksik etiketler
 
@@ -272,9 +268,9 @@ Seçenek C: Yeniden Mağazacılık
 **Önleme:** Kampanya öncesi tabela kontrol listesi, tüm materyalleri tarihle
 
 
-## VM Kaynakları
+#### VM Kaynakları
 
-### Mevcut Destek
+#### Mevcut Destek
 
 | Kaynak | Erişim | Güncelleme Sıklığı |
 |--------|--------|-------------------|
@@ -284,7 +280,7 @@ Seçenek C: Yeniden Mağazacılık
 | VM Yardım Hattı | +90 212 XXX XX XX | İş saatleri |
 | Bölge VM Müdürü | E-posta/WhatsApp | Yanıt <24s |
 
-### Eğitim Takvimi
+#### Eğitim Takvimi
 
 | Eğitim | Format | Sıklık | Süre |
 |--------|--------|--------|------|
@@ -304,12 +300,8 @@ Seçenek C: Yeniden Mağazacılık
 
 ## SECTION 2: IN-STORE-LAYOUT-GUIDELINE-TR
 
-﻿---
-layout: default
-title: "Mağaza İçi Yerleşim Kılavuzu – TR"
-parent: Visual Merchandising
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -324,9 +316,9 @@ parent: Visual Merchandising
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Kapsanan Mağaza Formatları
+#### Kapsanan Mağaza Formatları
 
 | Format | Boyut | Yerleşim Karmaşıklığı |
 |--------|-------|----------------------|
@@ -336,7 +328,7 @@ parent: Visual Merchandising
 | **Shop-in-Shop** | 25-50 m² | Basitleştirilmiş yerleşim |
 | **Outlet** | Değişken | Akış odaklı |
 
-### Marka Uygulaması
+#### Marka Uygulaması
 
 Tüm kılavuzlar şunlara uygulanır:
 - U.S. Polo Assn.
@@ -344,9 +336,9 @@ Tüm kılavuzlar şunlara uygulanır:
 - Cacharel
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Sıklık | Standart |
 |-------|--------|----------|
@@ -355,7 +347,7 @@ Tüm kılavuzlar şunlara uygulanır:
 | Trafik akışı optimizasyonu | Sürekli | Gözleme dayalı |
 | Yerleşim uyum denetimi | Haftalık | Denetim kontrol listesi ile |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Görev | Sıklık | Standart |
 |-------|--------|----------|
@@ -363,7 +355,7 @@ Tüm kılavuzlar şunlara uygulanır:
 | Yerleşim değişikliği onayı | Gerektiğinde | 48 saat içinde |
 | En iyi uygulama paylaşımı | Aylık | Bölge toplantısı |
 
-### Merkez VM Ekibi
+#### Merkez VM Ekibi
 
 | Görev | Sıklık | Standart |
 |-------|--------|----------|
@@ -372,9 +364,9 @@ Tüm kılavuzlar şunlara uygulanır:
 | Performans analizi | Aylık | Bölge başına satış |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Fikstür Yerleşim Kuralları
+#### Fikstür Yerleşim Kuralları
 
 #### Duvar Fikstürleri (Çevre)
 ```
@@ -404,7 +396,7 @@ DUVAR FİKSTÜRÜ YÜKSEKLİK BÖLGELERİ
 | **İç İçe Masalar** | Katlı ürünler | A-Bölgesi odak noktaları |
 | **Sergi Küpü** | Kahraman ürünler | Giriş, vitrinler |
 
-### Ürün Komşuluk Matrisi
+#### Ürün Komşuluk Matrisi
 
 | Kategori | Yakınında Olmalı | Kaçınılmalı |
 |----------|------------------|-------------|
@@ -415,7 +407,7 @@ DUVAR FİKSTÜRÜ YÜKSEKLİK BÖLGELERİ
 | **Aksesuarlar** | İlgili giysi, kasa | İzole alanlar |
 | **Dış Giyim** | Triko, atkı | Yaz ürünleri |
 
-### Sezona Göre Alan Tahsisi
+#### Sezona Göre Alan Tahsisi
 
 | Sezon | A-Bölgesi Odağı | B-Bölgesi Odağı | C-Bölgesi |
 |-------|-----------------|-----------------|-----------|
@@ -426,9 +418,9 @@ DUVAR FİKSTÜRÜ YÜKSEKLİK BÖLGELERİ
 | **İndirim Dönemleri** | İndirimli kahraman | Promosyon | Sezon sonu |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: 150m² Standart Mağaza Yerleşimi
+#### Senaryo 1: 150m² Standart Mağaza Yerleşimi
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -467,9 +459,9 @@ DUVAR FİKSTÜRÜ YÜKSEKLİK BÖLGELERİ
 ```
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Ölü Bölgeler
+#### Sorun 1: Ölü Bölgeler
 
 **Problem:** Düşük trafikli ve kötü satışlı alanlar
 
@@ -480,7 +472,7 @@ DUVAR FİKSTÜRÜ YÜKSEKLİK BÖLGELERİ
 - Aydınlatmayı geliştir
 
 
-### Sorun 3: Zayıf Müşteri Akışı
+#### Sorun 3: Zayıf Müşteri Akışı
 
 **Problem:** Müşteriler tüm mağazayı keşfetmiyor
 
@@ -501,12 +493,8 @@ DUVAR FİKSTÜRÜ YÜKSEKLİK BÖLGELERİ
 
 ## SECTION 3: WINDOW-DISPLAY-GUIDELINE-TR
 
-﻿---
-layout: default
-title: "Vitrin Sergileme Kılavuzu – TR"
-parent: Visual Merchandising
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -521,9 +509,9 @@ parent: Visual Merchandising
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Kapsanan Vitrin Tipleri
+#### Kapsanan Vitrin Tipleri
 
 | Vitrin Tipi | Açıklama | Uygulama |
 |-------------|----------|----------|
@@ -534,7 +522,7 @@ parent: Visual Merchandising
 | **Shadow Box** | Küçük yükseltilmiş sergileme kutusu | Aksesuar odaklı |
 | **Ada Sergi** | Serbest duran vitrin yapısı | AVM koridorları |
 
-### Marka Uygulaması
+#### Marka Uygulaması
 
 | Marka | Vitrin Stili | Temel Özellikler |
 |-------|--------------|------------------|
@@ -543,9 +531,9 @@ parent: Visual Merchandising
 | **Cacharel** | Klasik, rafine | Fransız zarafeti, ölçülü |
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Sorumluluk | Sıklık | Standart |
 |------------|--------|----------|
@@ -555,7 +543,7 @@ parent: Visual Merchandising
 | Satılan sergi ürünlerini değiştirme | Aynı gün | 4 saat içinde |
 | Gerektiğinde aydınlatmayı ayarlama | Günlük | Aydınlatma kılavuzuna göre |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Sorumluluk | Sıklık | Standart |
 |------------|--------|----------|
@@ -565,7 +553,7 @@ parent: Visual Merchandising
 | Fotoğraf dokümantasyonu | Değişim başına | Minimum 3 açı |
 | Rakip vitrin analizi | Haftalık | Fotoğraf raporu |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Sorumluluk | Sıklık | Standart |
 |------------|--------|----------|
@@ -574,7 +562,7 @@ parent: Visual Merchandising
 | İstisna onayı | Gerektiğinde | 24 saat içinde |
 | Yeni mağaza vitrin kurulumu | Gerektiğinde | Açılış öncesi |
 
-### Merkez VM Ekibi
+#### Merkez VM Ekibi
 
 | Sorumluluk | Sıklık | Standart |
 |------------|--------|----------|
@@ -585,9 +573,9 @@ parent: Visual Merchandising
 | Performans analizi | Aylık | Global benchmark |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Vitrin Kompozisyon Kuralları
+#### Vitrin Kompozisyon Kuralları
 
 #### Piramit Kompozisyon
 ```
@@ -629,7 +617,7 @@ Aynı ürün farklı renklerde
 • Promosyonlar için etkili
 ```
 
-### Manken Gruplama Standartları
+#### Manken Gruplama Standartları
 
 | Vitrin Boyutu | Manken Sayısı | Gruplama Stili |
 |---------------|---------------|----------------|
@@ -638,7 +626,7 @@ Aynı ürün farklı renklerde
 | Büyük (5-8m) | 4-6 | Çoklu gruplar |
 | Ekstra Büyük (>8m) | 6+ | Sahne kompozisyonu |
 
-### Manken Konumlandırma
+#### Manken Konumlandırma
 
 ```
 ÖN GÖRÜNÜM - Müşteri Perspektifi
@@ -659,7 +647,7 @@ Aynı ürün farklı renklerde
     └─────────────────────────────────────────┘
 ```
 
-### Aydınlatma Standartları
+#### Aydınlatma Standartları
 
 | Aydınlatma Tipi | Amaç | Spesifikasyon |
 |-----------------|------|---------------|
@@ -668,7 +656,7 @@ Aynı ürün farklı renklerde
 | **Renk Sıcaklığı** | Marka ambiyansı | 3000-4000K (sıcak beyaz) |
 | **Arka Işık** | Derinlik ve drama | 500-800 lux |
 
-### Vitrin Temizlik Standartları
+#### Vitrin Temizlik Standartları
 
 | Öğe | Temizlik Sıklığı | Yöntem |
 |-----|------------------|--------|
@@ -680,9 +668,9 @@ Aynı ürün farklı renklerde
 | Aydınlatma armatürleri | Aylık | Toz alma, ampul kontrolü |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: İlkbahar/Yaz Lansman Vitrini
+#### Senaryo 1: İlkbahar/Yaz Lansman Vitrini
 
 **Tema:** "Yeni Başlangıç" - Yeni sezon koleksiyon lansmanı
 
@@ -716,9 +704,9 @@ Aynı ürün farklı renklerde
 - Manken 2: Günlük gömlek, şort, kemer
 
 
-## KPI'lar
+#### KPI'lar
 
-### Vitrin Performans Metrikleri
+#### Vitrin Performans Metrikleri
 
 | KPI | Formül | Hedef | Ölçüm |
 |-----|--------|-------|-------|
@@ -729,7 +717,7 @@ Aynı ürün farklı renklerde
 | **Vitrin ROI** | Vitrin ürün satışları / Vitrin maliyeti | >5:1 | Aylık |
 
 
-### Sorun 2: Manken Hasarı
+#### Sorun 2: Manken Hasarı
 
 **Problem:** Kırık manken parçaları (el, kol, taban)
 
@@ -746,7 +734,7 @@ Aynı ürün farklı renklerde
 **Önleme:** Dikkatli kullanım eğitimi, düzgün depolama, düzenli kontrol
 
 
-### Sorun 4: Vitrin Referansla Eşleşmiyor
+#### Sorun 4: Vitrin Referansla Eşleşmiyor
 
 **Problem:** Kurulu vitrin HQ kılavuzundan önemli ölçüde farklı
 
@@ -763,7 +751,7 @@ Aynı ürün farklı renklerde
 **Önleme:** Kılavuzu takip ederek adım adım kurulum, kurulum sırasında görünür referans fotoğraflar
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|
@@ -775,12 +763,8 @@ Aynı ürün farklı renklerde
 
 ## SECTION 4: MANNEQUIN-STYLING-GUIDELINE-TR
 
-﻿---
-layout: default
-title: "Manken Styling Kılavuzu – TR"
-parent: Visual Merchandising
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -795,9 +779,9 @@ parent: Visual Merchandising
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Kapsanan Manken Tipleri
+#### Kapsanan Manken Tipleri
 
 | Tip | Açıklama | Kullanım Alanı |
 |-----|----------|----------------|
@@ -808,7 +792,7 @@ parent: Visual Merchandising
 | **Bacak Formu** | Sadece alt vücut | Pantolon sergileri |
 | **Eklemli** | Hareketli eklemler | Dinamik pozlar |
 
-### Marka Uygulaması
+#### Marka Uygulaması
 
 | Marka | Manken Stili | Temel Özellikler |
 |-------|--------------|------------------|
@@ -817,9 +801,9 @@ parent: Visual Merchandising
 | **Cacharel** | Modern, ölçülü | Profesyonel, cilalı |
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Sıklık | Standart |
 |-------|--------|----------|
@@ -828,7 +812,7 @@ parent: Visual Merchandising
 | Hasarı raporlama | Hemen | Mağaza uygulaması ile |
 | Styling'i koruma | Sürekli | Standartlara göre |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Sıklık | Standart |
 |-------|--------|----------|
@@ -837,7 +821,7 @@ parent: Visual Merchandising
 | Manken envanteri | Üç aylık | Tam kontrol |
 | Kalite denetimi | Haftalık | Kontrol listesi ile |
 
-### Merkez VM Ekibi
+#### Merkez VM Ekibi
 
 | Görev | Sıklık | Standart |
 |-------|--------|----------|
@@ -847,9 +831,9 @@ parent: Visual Merchandising
 | Performans analizi | Aylık | Satış korelasyonu |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Markaya Özel Styling Standartları
+#### Markaya Özel Styling Standartları
 
 #### U.S. Polo Assn.
 
@@ -924,7 +908,7 @@ parent: Visual Merchandising
 | **Aksesuarlar** | Klasik rafine | Kaliteli deri, ince metaller |
 | **Renk Karışımı** | 2-3 renk | Sofistike palet |
 
-### Evrensel Styling Kuralları
+#### Evrensel Styling Kuralları
 
 #### YAPILMALI ✓
 
@@ -950,7 +934,7 @@ parent: Visual Merchandising
 | Sezon uygunluğunu göz ardı etme | Müşteri ihtiyaçlarına uygunluk |
 | Önden görünen iğne bırakma | Profesyonellik dışı görünüm |
 
-### Mağaza Boyutuna Göre Manken Sayısı
+#### Mağaza Boyutuna Göre Manken Sayısı
 
 | Mağaza Boyutu | Vitrin Mankenleri | Mağaza İçi Mankenler | Toplam |
 |---------------|-------------------|----------------------|--------|
@@ -960,9 +944,9 @@ parent: Visual Merchandising
 | > 250 m² | 8+ | 10+ | 18+ |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: İlkbahar/Yaz Günlük (U.S. Polo Assn.)
+#### Senaryo 1: İlkbahar/Yaz Günlük (U.S. Polo Assn.)
 
 **Kombin Bileşimi:**
 | Katman | Ürün | Renk | Notlar |
@@ -975,7 +959,7 @@ parent: Visual Merchandising
 
 **Poz:** Rahat, bir kol hafif öne
 
-### Senaryo 2: İş Toplantısı (Pierre Cardin)
+#### Senaryo 2: İş Toplantısı (Pierre Cardin)
 
 **Kombin Bileşimi:**
 | Katman | Ürün | Renk | Notlar |
@@ -990,7 +974,7 @@ parent: Visual Merchandising
 
 **Poz:** Güvenli, düz duruş
 
-### Senaryo 3: Şık Günlük Cuma (Cacharel)
+#### Senaryo 3: Şık Günlük Cuma (Cacharel)
 
 **Kombin Bileşimi:**
 | Katman | Ürün | Renk | Notlar |
@@ -1005,9 +989,9 @@ parent: Visual Merchandising
 **Poz:** Çağdaş, hafif açılı
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Zayıf Giysi Kalıbı
+#### Sorun 1: Zayıf Giysi Kalıbı
 
 **Problem:** Giysiler mankende çok büyük/küçük görünüyor
 
@@ -1020,7 +1004,7 @@ parent: Visual Merchandising
 **Önleme:** Her manken için beden kılavuzu tut
 
 
-### Sorun 3: Ürünler Sürekli Tükeniyor
+#### Sorun 3: Ürünler Sürekli Tükeniyor
 
 **Problem:** Manken ürünleri müşteriler için mevcut değil
 
@@ -1033,7 +1017,7 @@ parent: Visual Merchandising
 **Önleme:** Manken görünümleri için stok ayır
 
 
-### Sorun 5: Mağazalar Arası Tutarsız Styling
+#### Sorun 5: Mağazalar Arası Tutarsız Styling
 
 **Problem:** Aynı look book, farklı uygulama
 
@@ -1056,12 +1040,8 @@ parent: Visual Merchandising
 
 ## SECTION 5: SEASONAL-VM-CHANGEOVER-TR
 
-﻿---
-layout: default
-title: "Sezonluk VM Geçiş Kılavuzu – TR"
-parent: Visual Merchandising
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1076,9 +1056,9 @@ parent: Visual Merchandising
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Sezon Takvimi
+#### Sezon Takvimi
 
 | Sezon | Dönem | Geçiş Penceresi | Ana Temalar |
 |-------|-------|-----------------|-------------|
@@ -1087,7 +1067,7 @@ parent: Visual Merchandising
 | **Sezon Ortası SS** | Haziran | 1-7 Haziran | Yaz zirvesi |
 | **Sezon Ortası FW** | Kasım | 1-7 Kasım | Tatil hazırlığı |
 
-### Geçiş Tipleri
+#### Geçiş Tipleri
 
 | Tip | Kapsam | Süre | Sıklık |
 |-----|--------|------|--------|
@@ -1097,9 +1077,9 @@ parent: Visual Merchandising
 | **Promosyon** | Tabela + seçili sergiler | 2-4 saat | Gerektiğinde |
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Zaman Çizelgesi | Standart |
 |-------|-----------------|----------|
@@ -1107,7 +1087,7 @@ parent: Visual Merchandising
 | Uygulamayı destekle | Geçiş günü | Tam ekip katılımı |
 | Geçiş sonrası bakım | Sürekli | Yeni standartlara göre |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Zaman Çizelgesi | Standart |
 |-------|-----------------|----------|
@@ -1118,7 +1098,7 @@ parent: Visual Merchandising
 | Fotoğraf dokümantasyonu | T+1 gün | Minimum 3 açı |
 | Kalite doğrulama | T+1 gün | Tam kontrol listesi |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Görev | Zaman Çizelgesi | Standart |
 |-------|-----------------|----------|
@@ -1127,7 +1107,7 @@ parent: Visual Merchandising
 | Geçiş sonrası denetim | T+7 gün | Bölgedeki tüm mağazalar |
 | Performans inceleme | T+14 gün | Satış analizi |
 
-### Merkez VM Ekibi
+#### Merkez VM Ekibi
 
 | Görev | Zaman Çizelgesi | Standart |
 |-------|-----------------|----------|
@@ -1138,9 +1118,9 @@ parent: Visual Merchandising
 | Global uyum incelemesi | T+14 gün | Fotoğraf denetimi |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Geçiş Zamanlama Standartları
+#### Geçiş Zamanlama Standartları
 
 | Pazar Tipi | Geçiş Günü | Tamamlama Son Tarihi |
 |------------|------------|----------------------|
@@ -1149,7 +1129,7 @@ parent: Visual Merchandising
 | **Kompakt** | Lansman Günü | 18:00 Lansman Günü |
 | **Shop-in-Shop** | Lansman Günü +1 | 12:00 Gün +1 |
 
-### Geçiş Döneminde Ürün Karışımı
+#### Geçiş Döneminde Ürün Karışımı
 
 | Hafta | Yeni Sezon | Önceki Sezon | Notlar |
 |-------|------------|--------------|--------|
@@ -1159,7 +1139,7 @@ parent: Visual Merchandising
 | Hafta +1 | %85 | %15 | Eski için sezon sonu alanı |
 | Hafta +2 | %95 | %5 | Tam yeni sezon |
 
-### Kalite Standartları
+#### Kalite Standartları
 
 | Öğe | Standart | Doğrulama |
 |-----|----------|-----------|
@@ -1171,9 +1151,9 @@ parent: Visual Merchandising
 | Temizlik | Lekesiz | Beyaz eldiven testi |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: İlkbahar/Yaz Lansmanı
+#### Senaryo 1: İlkbahar/Yaz Lansmanı
 
 **Zaman Çizelgesi:** 25 Şubat - 5 Mart
 
@@ -1193,7 +1173,7 @@ parent: Visual Merchandising
 | B-Bölgesi | Şortlar, yaz pantolonları | Aksesuarlar |
 | C-Bölgesi | T-shirtler, temel ürünler | Mayo |
 
-### Senaryo 2: Sonbahar/Kış Lansmanı
+#### Senaryo 2: Sonbahar/Kış Lansmanı
 
 **Zaman Çizelgesi:** 25 Ağustos - 5 Eylül
 
@@ -1213,7 +1193,7 @@ parent: Visual Merchandising
 | B-Bölgesi | Pantolonlar, katman parçaları | Aksesuarlar |
 | C-Bölgesi | Temel ürünler, günlük | Geçiş ürünleri |
 
-### Senaryo 3: Sezon Ortası Yenileme
+#### Senaryo 3: Sezon Ortası Yenileme
 
 **Zaman Çizelgesi:** 1-2 gün
 
@@ -1226,9 +1206,9 @@ parent: Visual Merchandising
 **Uygulama:** Normal saatlerde minimum kesinti ile
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: VM Kiti Geç Geliyor
+#### Sorun 1: VM Kiti Geç Geliyor
 
 **Problem:** Kit T-7 günden sonra geliyor
 
@@ -1246,7 +1226,7 @@ parent: Visual Merchandising
 **Önleme:** Sevkiyatı proaktif izle, teslimatı onayla
 
 
-### Sorun 3: Ekip Müsait Değil
+#### Sorun 3: Ekip Müsait Değil
 
 **Problem:** Uygulama için kilit ekip üyeleri müsait değil
 
@@ -1264,7 +1244,7 @@ parent: Visual Merchandising
 **Önleme:** Önceden planlama, yedek ekip belirleme
 
 
-### Sorun 5: Kalite Standart Altı
+#### Sorun 5: Kalite Standart Altı
 
 **Problem:** Geçiş sonrası denetim puanı 85'in altında
 

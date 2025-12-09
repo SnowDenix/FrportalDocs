@@ -39,13 +39,8 @@ This comprehensive guidelines and training documentation covers operational stan
 
 ## SECTION 1: FRANCHISE-COMMUNICATION-PROTOCOL-EN
 
-﻿---
-layout: default
-title: "Franchise Communication Protocol"
-parent: Guidelines
-permalink: /guidelines/franchise-communication-protocol-en/
 
-## Table of Contents
+### Table of Contents
 
 1. [Introduction and Purpose](#introduction-and-purpose)
 2. [Organization Structure](#organization-structure)
@@ -58,9 +53,9 @@ permalink: /guidelines/franchise-communication-protocol-en/
 9. [Communication Templates](#communication-templates)
 
 
-## Organization Structure
+#### Organization Structure
 
-### Aydınlı Group Headquarters Structure
+#### Aydınlı Group Headquarters Structure
 
 ```
 ┌─────────────────────────────────────┐
@@ -80,7 +75,7 @@ permalink: /guidelines/franchise-communication-protocol-en/
 └───────┘  └─────────┘  └─────────┘
 ```
 
-### Franchise Partner Structure
+#### Franchise Partner Structure
 
 ```
 ┌─────────────────────────────────────┐
@@ -100,7 +95,7 @@ permalink: /guidelines/franchise-communication-protocol-en/
 └───────┘
 ```
 
-### Communication Matrix
+#### Communication Matrix
 
 | Subject | Franchise Representative | HQ Counterpart |
 |---------|-------------------------|----------------|
@@ -112,9 +107,9 @@ permalink: /guidelines/franchise-communication-protocol-en/
 | Strategic | Franchise Owner | General Manager |
 
 
-## Reporting Standards
+#### Reporting Standards
 
-### Daily Reports
+#### Daily Reports
 
 **Sales Report (Due by 22:00 daily)**
 
@@ -144,7 +139,7 @@ Conversion:     _____    _____    ___%
 Notes: ________________________
 ```
 
-### Weekly Reports
+#### Weekly Reports
 
 **Stock Status Report (Due Monday 12:00)**
 - Current stock value
@@ -158,7 +153,7 @@ Notes: ________________________
 - Top selling products (Top 10)
 - Slow moving products (Bottom 10)
 
-### Monthly Reports
+#### Monthly Reports
 
 **Comprehensive Performance Report (Due by 5th of each month)**
 - Monthly sales performance
@@ -168,9 +163,9 @@ Notes: ________________________
 - Next month targets
 
 
-## Escalation Procedures
+#### Escalation Procedures
 
-### Escalation Levels
+#### Escalation Levels
 
 | Level | Definition | Duration | Authority |
 |-------|------------|----------|-----------|
@@ -179,7 +174,7 @@ Notes: ________________________
 | **L3** | Critical matters | 72 hours | Director |
 | **L4** | Crisis situations | Immediate | General Manager |
 
-### Escalation Matrix
+#### Escalation Matrix
 
 | Subject | L1 | L2 | L3 | L4 |
 |---------|-----|-----|-----|-----|
@@ -189,7 +184,7 @@ Notes: ________________________
 | Payment issue | Accounting | Finance Manager | Finance Director | GM |
 | Contract matter | Legal | Legal Manager | General Secretary | GM |
 
-### Escalation Communication Template
+#### Escalation Communication Template
 
 ```
 Subject: [URGENT] - Escalation L[X] - [Subject Summary]
@@ -221,9 +216,9 @@ Contact: [Name, phone, email]
 ```
 
 
-## Crisis Communication
+#### Crisis Communication
 
-### Crisis Types
+#### Crisis Types
 
 | Type | Definition | Priority |
 |------|------------|----------|
@@ -232,7 +227,7 @@ Contact: [Name, phone, email]
 | **Reputation Crisis** | Media, social media issues | Very High |
 | **Natural Disaster** | Earthquake, flood, pandemic | Critical |
 
-### Crisis Communication Protocol
+#### Crisis Communication Protocol
 
 ```
 1. Detect and Assess Crisis
@@ -250,7 +245,7 @@ Contact: [Name, phone, email]
 7. Post-Crisis: Evaluation and Reporting
 ```
 
-### Emergency Contact List
+#### Emergency Contact List
 
 ```
 CRISIS CONTACT LIST
@@ -262,7 +257,7 @@ WhatsApp: +90 XXX XXX XX XX
 ```
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Change | Prepared By |
 |---------|------|--------|-------------|
@@ -273,12 +268,8 @@ WhatsApp: +90 XXX XXX XX XX
 
 ## SECTION 2: CUSTOMER-EXPERIENCE-STANDARDS-EN
 
-﻿---
-layout: default
-title: "Customer Experience Standards"
-parent: Training
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -297,9 +288,9 @@ parent: Training
 15. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Target Audience
+#### Target Audience
 
 | Role | Training Content |
 |------|------------------|
@@ -308,7 +299,7 @@ parent: Training
 | **Store Manager** | Complaint management, CRM, team coaching |
 | **Regional Manager** | Experience auditing, best practice sharing |
 
-### Customer Journey Map
+#### Customer Journey Map
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -337,9 +328,9 @@ parent: Training
 ```
 
 
-## Key Concepts
+#### Key Concepts
 
-### Customer Experience Terminology
+#### Customer Experience Terminology
 
 | Term | Definition | Importance |
 |------|------------|------------|
@@ -350,7 +341,7 @@ parent: Training
 | **Customer Journey** | Customer journey | End-to-end experience |
 | **Service Recovery** | Service recovery | Turning complaint into opportunity |
 
-### Customer Expectations
+#### Customer Expectations
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -375,9 +366,9 @@ parent: Training
 ```
 
 
-## Greeting Standards
+#### Greeting Standards
 
-### First 10 Seconds Rule
+#### First 10 Seconds Rule
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -402,7 +393,7 @@ parent: Training
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Greeting Phrases
+#### Greeting Phrases
 
 **Standard Greeting:**
 ```
@@ -420,7 +411,7 @@ Busy day: "Welcome, we're a bit busy but I'll be with you shortly."
 Regular customer: "Welcome Sir/Madam, lovely to see you again!"
 ```
 
-### Body Language Standards
+#### Body Language Standards
 
 | Correct | Incorrect |
 |---------|-----------|
@@ -432,9 +423,9 @@ Regular customer: "Welcome Sir/Madam, lovely to see you again!"
 | Facing customer | Back turned |
 
 
-## Problem Solving and Complaint Management
+#### Problem Solving and Complaint Management
 
-### LEARN Model
+#### LEARN Model
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -468,7 +459,7 @@ Regular customer: "Welcome Sir/Madam, lovely to see you again!"
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Common Complaints and Solutions
+#### Common Complaints and Solutions
 
 | Complaint | First Response | Solution |
 |-----------|----------------|----------|
@@ -478,7 +469,7 @@ Regular customer: "Welcome Sir/Madam, lovely to see you again!"
 | **Long wait** | "I apologize for keeping you waiting" | Priority service |
 | **Staff behavior** | "I'm so sorry, this is unacceptable" | Apology + Manager handover |
 
-### Complaint Management Dialogue
+#### Complaint Management Dialogue
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -514,7 +505,7 @@ Regular customer: "Welcome Sir/Madam, lovely to see you again!"
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Escalation Procedure
+#### Escalation Procedure
 
 ```
 LEVEL 1: SALES ASSOCIATE
@@ -543,9 +534,9 @@ LEVEL 3: REGIONAL MANAGER / HQ
 ```
 
 
-## Role Responsibilities
+#### Role Responsibilities
 
-### Sales Associate
+#### Sales Associate
 
 | Responsibility | Detail |
 |----------------|--------|
@@ -555,7 +546,7 @@ LEVEL 3: REGIONAL MANAGER / HQ
 | CRM | Collecting customer information |
 | Farewell | Standard and warm send-off |
 
-### Store Manager
+#### Store Manager
 
 | Responsibility | Detail |
 |----------------|--------|
@@ -565,7 +556,7 @@ LEVEL 3: REGIONAL MANAGER / HQ
 | Coaching | Team performance coaching |
 | Reporting | Weekly CX report |
 
-### Regional Manager
+#### Regional Manager
 
 | Responsibility | Detail |
 |----------------|--------|
@@ -575,9 +566,9 @@ LEVEL 3: REGIONAL MANAGER / HQ
 | Analysis | Regional CX analysis |
 
 
-## Scenarios
+#### Scenarios
 
-### Scenario 1: Creating a WOW Moment
+#### Scenario 1: Creating a WOW Moment
 
 ```
 SITUATION: Regular customer visiting near their birthday.
@@ -594,7 +585,7 @@ STEPS:
 RESULT: Customer satisfaction, loyalty increase, social media share
 ```
 
-### Scenario 2: Difficult Customer Management
+#### Scenario 2: Difficult Customer Management
 
 ```
 SITUATION: Customer loudly claiming a 1-month-old product is defective.
@@ -615,7 +606,7 @@ STEPS:
 RESULT: Angry customer transforms into loyal customer
 ```
 
-### Scenario 3: Proactive Service
+#### Scenario 3: Proactive Service
 
 ```
 SITUATION: Customer has been browsing the store for a while, 
@@ -633,9 +624,9 @@ RESULT: Lost sale recovered, customer leaves satisfied
 ```
 
 
-## Assessment Methods
+#### Assessment Methods
 
-### Mystery Shopping Form
+#### Mystery Shopping Form
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -673,7 +664,7 @@ RESULT: Lost sale recovered, customer leaves satisfied
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### NPS Survey
+#### NPS Survey
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -707,12 +698,8 @@ RESULT: Lost sale recovered, customer leaves satisfied
 
 ## SECTION 3: COMPETENCY-FRAMEWORK-EN
 
-﻿---
-layout: default
-title: "Competency Framework"
-parent: Training
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -729,9 +716,9 @@ parent: Training
 13. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Target Audience
+#### Target Audience
 
 | Role | Starting Level | Target Level |
 |------|----------------|--------------|
@@ -739,7 +726,7 @@ parent: Training
 | **Assistant Store Manager** | Level 3 | Level 4-5 |
 | **Store Manager** | Level 4 | Level 5 |
 
-### Competency System Overview
+#### Competency System Overview
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -770,9 +757,9 @@ parent: Training
 ```
 
 
-## Competency Levels
+#### Competency Levels
 
-### Level 1: Trainee
+#### Level 1: Trainee
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -805,7 +792,7 @@ parent: Training
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Level 2: Junior
+#### Level 2: Junior
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -839,7 +826,7 @@ parent: Training
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Level 3: Proficient
+#### Level 3: Proficient
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -875,7 +862,7 @@ parent: Training
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Level 4: Senior
+#### Level 4: Senior
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -911,7 +898,7 @@ parent: Training
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Level 5: Expert
+#### Level 5: Expert
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -948,9 +935,9 @@ parent: Training
 ```
 
 
-## Skills Matrix
+#### Skills Matrix
 
-### Sales Skills Matrix
+#### Sales Skills Matrix
 
 | Skill | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
 |-------|---------|---------|---------|---------|---------|
@@ -961,7 +948,7 @@ parent: Training
 | **Closing** | - | Basic | Advanced | Excellent | Can train |
 | **Add-on Sales** | - | Learning | Can do | Mastered | Can train |
 
-### Customer Service Matrix
+#### Customer Service Matrix
 
 | Skill | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
 |-------|---------|---------|---------|---------|---------|
@@ -970,7 +957,7 @@ parent: Training
 | **CRM** | Learning | Basic | Full usage | Analysis | Strategy |
 | **Problem Solving** | - | Basic | Intermediate | Advanced | Expert |
 
-### Operational Skills Matrix
+#### Operational Skills Matrix
 
 | Skill | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
 |-------|---------|---------|---------|---------|---------|
@@ -981,9 +968,9 @@ parent: Training
 | **VM** | Observing | Support | Implementation | Management | Can train |
 
 
-## Assessment Process
+#### Assessment Process
 
-### Assessment Calendar
+#### Assessment Calendar
 
 | Assessment | Frequency | Responsible | Purpose |
 |------------|-----------|-------------|---------|
@@ -993,7 +980,7 @@ parent: Training
 | **Quarterly 360°** | Every 3 months | Regional Manager | Comprehensive assessment |
 | **Level Assessment** | As needed | Relevant manager | Level transition |
 
-### Competency Assessment Form
+#### Competency Assessment Form
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -1053,9 +1040,9 @@ parent: Training
 ```
 
 
-## Role Responsibilities
+#### Role Responsibilities
 
-### Staff
+#### Staff
 
 | Responsibility | Detail |
 |----------------|--------|
@@ -1064,7 +1051,7 @@ parent: Training
 | Training participation | Complete required training |
 | Performance | Achieve targets |
 
-### Store Manager
+#### Store Manager
 
 | Responsibility | Detail |
 |----------------|--------|
@@ -1073,7 +1060,7 @@ parent: Training
 | Recommendation | Level transition recommendation |
 | Tracking | Monitor progress |
 
-### Regional Manager
+#### Regional Manager
 
 | Responsibility | Detail |
 |----------------|--------|
@@ -1082,9 +1069,9 @@ parent: Training
 | Standard | Consistency across region |
 
 
-## Common Mistakes and Coaching Notes
+#### Common Mistakes and Coaching Notes
 
-### Common Mistakes in Competency Development
+#### Common Mistakes in Competency Development
 
 | Mistake | Result | Correction |
 |---------|--------|------------|
@@ -1093,7 +1080,7 @@ parent: Training
 | Focusing only on sales | One-dimensional | Develop all competencies |
 | Refusing mentorship | Missing opportunity | Be open to learning |
 
-### Coaching Tips
+#### Coaching Tips
 
 ```
 FOR LEVEL 1-2:
@@ -1126,14 +1113,10 @@ FOR LEVEL 5:
 
 ## SECTION 4: BRAND-SUPPLEMENT-USPA-EN
 
-﻿---
-layout: default
-title: "U.S. Polo Assn. Brand Training Guide – EN"
-parent: Training
 
-## Training Content
+#### Training Content
 
-### SECTION 1: BRAND STORY
+#### SECTION 1: BRAND STORY
 
 #### 1.1 History
 
@@ -1168,7 +1151,7 @@ With over 130 years of heritage, we offer quality and authentic pieces."
 ```
 
 
-### SECTION 3: PRODUCT CATEGORIES
+#### SECTION 3: PRODUCT CATEGORIES
 
 #### 3.1 Men's Collection
 
@@ -1221,7 +1204,7 @@ With over 130 years of heritage, we offer quality and authentic pieces."
 - Matches any outfit
 
 
-### SECTION 5: SALES TECHNIQUES
+#### SECTION 5: SALES TECHNIQUES
 
 #### 5.1 Brand Story Selling
 
@@ -1264,7 +1247,7 @@ wear this logo. The fabric is pique cotton, breathable and shape-retaining."
 | Winter | Coat, Knitwear, Scarf | "Warm and stylish" |
 
 
-### SECTION 7: PRODUCT KNOWLEDGE DETAILS
+#### SECTION 7: PRODUCT KNOWLEDGE DETAILS
 
 #### 7.1 Fabric Types
 
@@ -1308,7 +1291,7 @@ wear this logo. The fabric is pique cotton, breathable and shape-retaining."
 | Knitwear | Hand wash or 30°C | Flat dry | Steam |
 
 
-### SECTION 9: FREQUENTLY ASKED QUESTIONS
+#### SECTION 9: FREQUENTLY ASKED QUESTIONS
 
 | Question | Answer |
 |----------|--------|
@@ -1318,7 +1301,7 @@ wear this logo. The fabric is pique cotton, breathable and shape-retaining."
 | "Does it go on sale?" | "We have end-of-season sales and special campaigns. With CRM membership, you'll be the first to know about campaigns." |
 
 
-## Tools & Resources
+#### Tools & Resources
 
 | Resource | Usage |
 |----------|-------|
@@ -1329,19 +1312,19 @@ wear this logo. The fabric is pique cotton, breathable and shape-retaining."
 | Fabric Samples | Tactile training set |
 
 
-## Assessment Methods
+#### Assessment Methods
 
-### Brand Knowledge Quiz
+#### Brand Knowledge Quiz
 - 20 questions, multiple choice
 - Brand story, values, product knowledge
 - Passing grade: 80%
 
-### Product Recognition Test
+#### Product Recognition Test
 - 10 product images
 - Fabric, fit, feature identification
 - Practical evaluation
 
-### Role-Play
+#### Role-Play
 - Customer scenario
 - Brand story narration
 - Cross-sell/Upsell application
@@ -1351,14 +1334,10 @@ wear this logo. The fabric is pique cotton, breathable and shape-retaining."
 
 ## SECTION 5: BRAND-SUPPLEMENT-PIERRE-CARDIN-EN
 
-﻿---
-layout: default
-title: "Pierre Cardin Brand Training Guide – EN"
-parent: Training
 
-## Training Content
+#### Training Content
 
-### SECTION 1: BRAND STORY
+#### SECTION 1: BRAND STORY
 
 #### 1.1 History
 
@@ -1395,7 +1374,7 @@ you today brings together French elegance with modern living."
 ```
 
 
-### SECTION 3: PRODUCT CATEGORIES
+#### SECTION 3: PRODUCT CATEGORIES
 
 #### 3.1 Men's Collection - Business
 
@@ -1457,7 +1436,7 @@ you today brings together French elegance with modern living."
 - Timeless patterns
 
 
-### SECTION 5: SALES TECHNIQUES
+#### SECTION 5: SALES TECHNIQUES
 
 #### 5.1 Consultative Sales
 
@@ -1513,7 +1492,7 @@ it's actually a very reasonable investment."
 ```
 
 
-### SECTION 7: PRODUCT KNOWLEDGE DETAILS
+#### SECTION 7: PRODUCT KNOWLEDGE DETAILS
 
 #### 7.1 Fabric Types - Suits
 
@@ -1563,7 +1542,7 @@ it's actually a very reasonable investment."
 | Non-iron Shirt | 40°C wash | Hanging |
 
 
-### SECTION 9: FREQUENTLY ASKED QUESTIONS
+#### SECTION 9: FREQUENTLY ASKED QUESTIONS
 
 | Question | Answer |
 |----------|--------|
@@ -1573,7 +1552,7 @@ it's actually a very reasonable investment."
 | "How to choose suit size?" | "Jacket size is determined by your chest measurement, trousers by your waist measurement. I recommend we take professional measurements for you." |
 
 
-## Tools & Resources
+#### Tools & Resources
 
 | Resource | Usage |
 |----------|-------|
@@ -1584,19 +1563,19 @@ it's actually a very reasonable investment."
 | Care Cards | Information cards to give customers |
 
 
-## Assessment Methods
+#### Assessment Methods
 
-### Premium Sales Quiz
+#### Premium Sales Quiz
 - 20 questions
 - Fabric knowledge, fit, style recommendations
 - Passing grade: 85%
 
-### Style Consultancy Evaluation
+#### Style Consultancy Evaluation
 - Customer profile analysis
 - Outfit recommendation scenario
 - Wardrobe consultancy role-play
 
-### Product Knowledge Test
+#### Product Knowledge Test
 - Fabric recognition (by touch)
 - Fit type determination
 - Care instruction knowledge
@@ -1606,14 +1585,10 @@ it's actually a very reasonable investment."
 
 ## SECTION 6: BRAND-SUPPLEMENT-CACHAREL-EN
 
-﻿---
-layout: default
-title: "Cacharel Brand Training Guide – EN"
-parent: Training
 
-## Training Content
+#### Training Content
 
-### SECTION 1: BRAND STORY
+#### SECTION 1: BRAND STORY
 
 #### 1.1 History
 
@@ -1651,7 +1626,7 @@ both in the business world and in everyday life."
 ```
 
 
-### SECTION 3: PRODUCT CATEGORIES
+#### SECTION 3: PRODUCT CATEGORIES
 
 #### 3.1 Men's Collection - Business
 
@@ -1704,7 +1679,7 @@ both in the business world and in everyday life."
 - Everyday use
 
 
-### SECTION 5: SALES TECHNIQUES
+#### SECTION 5: SALES TECHNIQUES
 
 #### 5.1 Professional Sales Approach
 
@@ -1758,7 +1733,7 @@ Fabric quality is higher level, can be worn for years."
 ```
 
 
-### SECTION 7: PRODUCT KNOWLEDGE DETAILS
+#### SECTION 7: PRODUCT KNOWLEDGE DETAILS
 
 #### 7.1 Fabric Types
 
@@ -1801,7 +1776,7 @@ Fabric quality is higher level, can be worn for years."
 | Denim | 30°C inside out | Hang dry cool | Steam |
 
 
-### SECTION 9: FREQUENTLY ASKED QUESTIONS
+#### SECTION 9: FREQUENTLY ASKED QUESTIONS
 
 | Question | Answer |
 |----------|--------|
@@ -1811,7 +1786,7 @@ Fabric quality is higher level, can be worn for years."
 | "What does French cut mean?" | "French cut is a narrower, body-fitting, modern cut. It looks more elegant and contemporary than classic cut." |
 
 
-## Tools & Resources
+#### Tools & Resources
 
 | Resource | Usage |
 |----------|-------|
@@ -1823,19 +1798,19 @@ Fabric quality is higher level, can be worn for years."
 | Care Cards | Information cards to give customers |
 
 
-## Assessment Methods
+#### Assessment Methods
 
-### Brand Knowledge Quiz
+#### Brand Knowledge Quiz
 - 20 questions
 - Brand story, values, product knowledge
 - Passing grade: 80%
 
-### Style Consultancy Evaluation
+#### Style Consultancy Evaluation
 - Customer profile analysis
 - Outfit suggestion scenario
 - Business/Casual guidance
 
-### Product Knowledge Test
+#### Product Knowledge Test
 - Fabric recognition
 - Fit type determination
 - Care instruction knowledge
@@ -1845,14 +1820,10 @@ Fabric quality is higher level, can be worn for years."
 
 ## SECTION 7: CUSTOMER-INTERACTION-SCENARIOS-EN
 
-﻿---
-layout: default
-title: "Customer Interaction Scenarios – EN"
-parent: Training
 
-## Training Content
+#### Training Content
 
-### SECTION 1: GREETING SCENARIOS
+#### SECTION 1: GREETING SCENARIOS
 
 
 #### Scenario 1.2: Customer in a Hurry
@@ -1876,7 +1847,7 @@ Would you like to try? I can prepare the fitting room."
 - Speed up the fitting room and payment process
 
 
-### SECTION 2: NEEDS ASSESSMENT SCENARIOS
+#### SECTION 2: NEEDS ASSESSMENT SCENARIOS
 
 
 #### Scenario 2.2: Customer Looking for a Gift
@@ -1903,7 +1874,7 @@ Even if you don't, we do gift wrapping and have 30-day exchange policy."
 - Suggest gift wrapping
 
 
-### SECTION 3: SALES TECHNIQUE SCENARIOS
+#### SECTION 3: SALES TECHNIQUE SCENARIOS
 
 
 #### Scenario 3.2: Upsell
@@ -1929,7 +1900,7 @@ this product can be worn much longer."
 - Emphasize long-term benefit
 
 
-### SECTION 4: OBJECTION HANDLING SCENARIOS
+#### SECTION 4: OBJECTION HANDLING SCENARIOS
 
 
 #### Scenario 4.2: "It's Cheaper Elsewhere" Objection
@@ -1956,7 +1927,7 @@ you can always exchange it."
 - Respect the customer's decision
 
 
-### SECTION 5: COMPLAINT MANAGEMENT SCENARIOS
+#### SECTION 5: COMPLAINT MANAGEMENT SCENARIOS
 
 
 #### Scenario 5.2: Wrong Product/Size Complaint
@@ -1982,7 +1953,7 @@ We apologize again and thank you for choosing us."
 - Guarantee customer satisfaction
 
 
-### SECTION 6: FITTING ROOM SERVICE SCENARIOS
+#### SECTION 6: FITTING ROOM SERVICE SCENARIOS
 
 
 #### Scenario 6.2: Size Issue Resolution
@@ -2030,7 +2001,7 @@ I've just added 100 welcome points, you can use them on your next purchase."
 - Don't forget data protection consent
 
 
-### SECTION 8: BRAND-SPECIFIC SCENARIOS
+#### SECTION 8: BRAND-SPECIFIC SCENARIOS
 
 
 #### Scenario 8.2: Pierre Cardin – Business Professional
@@ -2048,9 +2019,9 @@ I can also suggest a shirt from the Executive series."
 ```
 
 
-## Process / Application Steps
+#### Process / Application Steps
 
-### Daily Scenario Practice
+#### Daily Scenario Practice
 
 | Step | Application | Duration |
 |------|-------------|----------|
@@ -2060,7 +2031,7 @@ I can also suggest a shirt from the Executive series."
 | 4 | Apply with real customer | All day |
 | 5 | Evening evaluation | 5 min |
 
-### Weekly Scenario Rotation
+#### Weekly Scenario Rotation
 
 | Week | Focus |
 |------|-------|
@@ -2071,7 +2042,7 @@ I can also suggest a shirt from the Executive series."
 | (Repeat) | Cycle continues |
 
 
-## Tools & Resources
+#### Tools & Resources
 
 | Resource | Usage |
 |----------|-------|
@@ -2082,28 +2053,28 @@ I can also suggest a shirt from the Executive series."
 | Mobile App | Scenario practice game |
 
 
-## Assessment Methods
+#### Assessment Methods
 
-### 1. Role-Play Evaluation
+#### 1. Role-Play Evaluation
 - Store manager acts out the scenario
 - Staff demonstrates correct approach
 - Rating on 1-5 point scale
 
-### 2. Mystery Shopper
+#### 2. Mystery Shopper
 - Secret shopper visit
 - Specific scenarios are tested
 - Detailed feedback report
 
-### 3. Video Recording Analysis
+#### 3. Video Recording Analysis
 - Real customer interaction is recorded (with permission)
 - Watched and evaluated together with the team
 
-### 4. Scenario Quiz
+#### 4. Scenario Quiz
 - Written or digital test
 - Correct answers selected for each scenario
 
 
-## Revision History
+#### Revision History
 
 | Date | Version | Editor | Change |
 |------|---------|--------|--------|
@@ -2124,7 +2095,7 @@ I can also suggest a shirt from the Executive series."
 > **Who should use this:** Anyone authoring or updating pages in this repository.
 
 
-## Standard Page Skeleton
+#### Standard Page Skeleton
 
 1. Front matter:
 ```yaml
@@ -2140,7 +2111,7 @@ I can also suggest a shirt from the Executive series."
 10. **Revision History**: date, version, editor, change note.
 
 
-## Bilingual Toggle Pattern (EN/TR)
+#### Bilingual Toggle Pattern (EN/TR)
 
 Use the shared include to present both languages on one page without duplication in navigation.
 
@@ -2158,7 +2129,7 @@ Use the shared include to present both languages on one page without duplication
 3) Only one group per toggle. Reuse the include with a new `group` value if you need multiple toggled sections on a page.
 
 
-## Revision History Template
+#### Revision History Template
 
 | Date | Version | Editor | Change |
 |------|---------|--------|--------|

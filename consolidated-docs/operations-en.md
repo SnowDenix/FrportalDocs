@@ -49,12 +49,8 @@ This comprehensive operations documentation covers all aspects of store operatio
 
 ## SECTION 1: STORE-OPERATIONS-OVERVIEW-EN
 
-﻿---
-layout: default
-title: "Store Operations Overview – EN"
-parent: Store Operations
 
-## Table of Contents
+### Table of Contents
 
 1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
 2. [Purpose](#purpose)
@@ -70,11 +66,11 @@ parent: Store Operations
 12. [Revision History](#revision-history)
 
 
-## Purpose
+#### Purpose
 
 This document provides a comprehensive overview of store operations standards, procedures, and best practices for all Aydınlı Group franchise stores. Effective store operations ensure consistent customer experiences, operational efficiency, and business profitability across all locations.
 
-### Operations Mission
+#### Operations Mission
 
 Deliver exceptional customer experiences through:
 - **Consistency:** Standardized operations across all stores
@@ -83,7 +79,7 @@ Deliver exceptional customer experiences through:
 - **Excellence:** Continuous improvement in service delivery
 
 
-## Definitions
+#### Definitions
 
 | Term (EN) | Term (TR) | Definition |
 |-----------|-----------|------------|
@@ -99,9 +95,9 @@ Deliver exceptional customer experiences through:
 | Z-Report | Z Raporu | End of day cash register report |
 
 
-## Process Steps
+#### Process Steps
 
-### Daily Operations Cycle
+#### Daily Operations Cycle
 
 ```
 ┌────────────────────────────────────────────────────────────────┐
@@ -163,7 +159,7 @@ Deliver exceptional customer experiences through:
 └────────────────────────────────────────────────────────────────┘
 ```
 
-### Weekly Operations Rhythm
+#### Weekly Operations Rhythm
 
 | Day | Focus Area | Key Activities |
 |-----|------------|----------------|
@@ -176,9 +172,9 @@ Deliver exceptional customer experiences through:
 | **Sunday** | Week Close | Recap, next week planning, deep reset |
 
 
-## Checklists
+#### Checklists
 
-### Daily Opening Checklist
+#### Daily Opening Checklist
 
 ```
 SECURITY & SYSTEMS
@@ -208,7 +204,7 @@ TEAM & COMMUNICATION
 □ Brief team on daily targets and focus
 ```
 
-### Daily Closing Checklist
+#### Daily Closing Checklist
 
 ```
 CUSTOMER & SALES FLOOR
@@ -239,9 +235,9 @@ NEXT DAY PREPARATION
 ```
 
 
-## KPIs
+#### KPIs
 
-### Store Performance Metrics
+#### Store Performance Metrics
 
 | KPI | Formula | Target | Frequency |
 |-----|---------|--------|-----------|
@@ -253,7 +249,7 @@ NEXT DAY PREPARATION
 | **Customer Satisfaction** | Survey score | ≥85% | Monthly |
 | **Staff Productivity** | Sales / Staff hours | Benchmark | Weekly |
 
-### KPI Dashboard Example
+#### KPI Dashboard Example
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -275,7 +271,7 @@ NEXT DAY PREPARATION
 ```
 
 
-### Issue 2: Cash Discrepancies
+#### Issue 2: Cash Discrepancies
 
 **Problem:** Register over/short at closing
 
@@ -287,7 +283,7 @@ NEXT DAY PREPARATION
 - Document and report per policy
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Change | Prepared By |
 |---------|------|--------|-------------|
@@ -298,12 +294,8 @@ NEXT DAY PREPARATION
 
 ## SECTION 2: SUPPLY-CHAIN-OVERVIEW-EN
 
-﻿---
-layout: default
-title: "Supply Chain & Logistics Overview – EN"
-parent: Supply Chain
 
-## Table of Contents
+### Table of Contents
 
 1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
 2. [Purpose](#purpose)
@@ -318,15 +310,15 @@ parent: Supply Chain
 11. [Common Issues & Solutions](#common-issues--solutions)
 12. [Revision History](#revision-history)
 
-## Purpose
+#### Purpose
 
 This document provides a comprehensive overview of supply chain and logistics operations for Aydınlı Group franchise partners. Efficient supply chain management ensures product availability, inventory optimization, and customer satisfaction across all retail locations.
 
-### Supply Chain Mission
+#### Supply Chain Mission
 
 "Deliver the right product, to the right place, at the right time, in the right quantity, at the right cost."
 
-### Key Objectives
+#### Key Objectives
 
 | Objective | Impact |
 |-----------|--------|
@@ -337,7 +329,7 @@ This document provides a comprehensive overview of supply chain and logistics op
 | **Accuracy** | Error-free deliveries |
 
 
-## Definitions
+#### Definitions
 
 | Term (EN) | Term (TR) | Definition |
 |-----------|-----------|------------|
@@ -353,9 +345,9 @@ This document provides a comprehensive overview of supply chain and logistics op
 | Reorder Point | Yeniden Sipariş Noktası | Inventory level triggering reorder |
 
 
-## Process Steps
+#### Process Steps
 
-### Order Cycle
+#### Order Cycle
 
 ```
 ┌────────────────────────────────────────────────────────────────┐
@@ -404,7 +396,7 @@ This document provides a comprehensive overview of supply chain and logistics op
 └────────────────────────────────────────────────────────────────┘
 ```
 
-### Seasonal Planning Cycle
+#### Seasonal Planning Cycle
 
 | Phase | Timing | Activities |
 |-------|--------|------------|
@@ -416,9 +408,9 @@ This document provides a comprehensive overview of supply chain and logistics op
 | **Launch** | T-Day | Season starts |
 
 
-## Checklists
+#### Checklists
 
-### Weekly Order Checklist
+#### Weekly Order Checklist
 
 ```
 WEEKLY ORDER PREPARATION
@@ -452,7 +444,7 @@ Order Number: _____________
 Expected Delivery: _____________
 ```
 
-### Delivery Receiving Checklist
+#### Delivery Receiving Checklist
 
 ```
 DELIVERY RECEIVING CHECKLIST
@@ -495,9 +487,9 @@ Manager: _____________
 ```
 
 
-## KPIs
+#### KPIs
 
-### Supply Chain Metrics
+#### Supply Chain Metrics
 
 | KPI | Formula | Target | Frequency |
 |-----|---------|--------|-----------|
@@ -508,7 +500,7 @@ Manager: _____________
 | **Stock-out Rate** | Out of stock SKUs / Total | <3% | Weekly |
 | **Receiving Accuracy** | Accurate receipts / Total | 100% | Per delivery |
 
-### Supply Chain Dashboard
+#### Supply Chain Dashboard
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -536,7 +528,7 @@ Manager: _____________
 ```
 
 
-### Issue 2: Delivery Delays
+#### Issue 2: Delivery Delays
 
 **Problem:** Shipments arriving late
 
@@ -548,7 +540,7 @@ Manager: _____________
 - Escalate recurring issues
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Change | Prepared By |
 |---------|------|--------|-------------|
@@ -559,12 +551,8 @@ Manager: _____________
 
 ## SECTION 3: OPENING-CLOSING-PROCEDURES-EN
 
-﻿---
-layout: default
-title: "Opening & Closing Procedures – EN"
-parent: Store Operations
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -579,16 +567,16 @@ parent: Store Operations
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Application
+#### Application
 
 These procedures apply to:
 - All store formats (Flagship, Standard, Compact, Shop-in-Shop, Outlet)
 - All geographic regions
 - All operating days including special trading hours
 
-### Operating Hours
+#### Operating Hours
 
 | Day | Standard Hours | Mall Hours | Holiday Hours |
 |-----|----------------|------------|---------------|
@@ -599,9 +587,9 @@ These procedures apply to:
 *Note: Hours vary by location and local regulations*
 
 
-## Responsibilities
+#### Responsibilities
 
-### Key Holder (Opening)
+#### Key Holder (Opening)
 
 | Task | Time Frame | Accountability |
 |------|------------|----------------|
@@ -612,7 +600,7 @@ These procedures apply to:
 | Systems startup | Before opening | Readiness |
 | Team coordination | Before opening | Leadership |
 
-### Key Holder (Closing)
+#### Key Holder (Closing)
 
 | Task | Time Frame | Accountability |
 |------|------------|----------------|
@@ -624,9 +612,9 @@ These procedures apply to:
 | Secure departure | Immediately after | Safety |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Key Security Standards
+#### Key Security Standards
 
 | Standard | Requirement | Consequence of Violation |
 |----------|-------------|-------------------------|
@@ -636,7 +624,7 @@ These procedures apply to:
 | Alarm code confidentiality | Never shared | Immediate termination |
 | Opening/closing buddy | Recommended | Per local policy |
 
-### Cash Float Standards
+#### Cash Float Standards
 
 | Store Size | Standard Float | Range |
 |------------|----------------|-------|
@@ -645,7 +633,7 @@ These procedures apply to:
 | Large | $500 | $400-600 |
 | Flagship | $750 | $600-1000 |
 
-### Timing Standards
+#### Timing Standards
 
 | Activity | Maximum Time | Notes |
 |----------|--------------|-------|
@@ -656,9 +644,9 @@ These procedures apply to:
 | Z-report discrepancy | Same day | Must be resolved |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Alarm Triggers During Opening
+#### Scenario 1: Alarm Triggers During Opening
 
 **Situation:** Alarm sounds when entering store
 
@@ -671,7 +659,7 @@ These procedures apply to:
 6. Do not re-enter until cleared
 7. Document incident fully
 
-### Scenario 2: Customer Refuses to Leave at Closing
+#### Scenario 2: Customer Refuses to Leave at Closing
 
 **Situation:** Customer still shopping 10 minutes past close
 
@@ -684,7 +672,7 @@ These procedures apply to:
 6. Never physically force customer
 7. Document if significant delay
 
-### Scenario 3: Cash Variance at Closing
+#### Scenario 3: Cash Variance at Closing
 
 **Situation:** $15 short in cash drawer
 
@@ -699,9 +687,9 @@ These procedures apply to:
 8. Do not adjust without authorization
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Alarm Won't Deactivate
+#### Issue 1: Alarm Won't Deactivate
 
 **Solution:**
 1. Try code again carefully
@@ -710,7 +698,7 @@ These procedures apply to:
 4. Have ID ready for verification
 5. Do not disable manually
 
-### Issue 2: POS System Won't Start
+#### Issue 2: POS System Won't Start
 
 **Solution:**
 1. Check power connections
@@ -719,7 +707,7 @@ These procedures apply to:
 4. Use backup procedures
 5. Manual transaction recording if needed
 
-### Issue 3: Cash Float Incorrect
+#### Issue 3: Cash Float Incorrect
 
 **Solution:**
 1. Re-count with witness
@@ -739,12 +727,8 @@ These procedures apply to:
 
 ## SECTION 4: CASH-MANAGEMENT-GUIDE-EN
 
-﻿---
-layout: default
-title: "Cash Management Guide – EN"
-parent: Store Operations
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -759,7 +743,7 @@ parent: Store Operations
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
 This guide covers:
 - Cash register operations
@@ -770,9 +754,9 @@ This guide covers:
 - Fraud prevention
 
 
-## Responsibilities
+#### Responsibilities
 
-### Sales Staff
+#### Sales Staff
 
 | Task | Standard | Frequency |
 |------|----------|-----------|
@@ -781,7 +765,7 @@ This guide covers:
 | Maintain drawer security | Closed when not in use | Continuous |
 | Report discrepancies | Immediately | As occurred |
 
-### Shift Supervisor
+#### Shift Supervisor
 
 | Task | Standard | Frequency |
 |------|----------|-----------|
@@ -790,7 +774,7 @@ This guide covers:
 | Mid-day reconciliation | If required | Per shift |
 | Cash pickups | Per protocol | As needed |
 
-### Store Manager
+#### Store Manager
 
 | Task | Standard | Frequency |
 |------|----------|-----------|
@@ -801,9 +785,9 @@ This guide covers:
 | Cash handling training | Per standard | New staff + refresh |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Cash Handling Standards
+#### Cash Handling Standards
 
 | Standard | Requirement | Consequence |
 |----------|-------------|-------------|
@@ -813,7 +797,7 @@ This guide covers:
 | Large bills | Verify with detector pen | Counterfeit acceptance |
 | Variance tolerance | ±$5 per day | Investigation required |
 
-### Float Standards by Store
+#### Float Standards by Store
 
 | Store Type | Opening Float | Safe Drop Threshold |
 |------------|---------------|---------------------|
@@ -822,7 +806,7 @@ This guide covers:
 | Large | $500 | $750 |
 | Flagship | $750 | $1,000 |
 
-### Denomination Requirements
+#### Denomination Requirements
 
 | Denomination | Opening Quantity | Notes |
 |--------------|------------------|-------|
@@ -837,7 +821,7 @@ This guide covers:
 | Nickels | $2 roll | Coins |
 | Pennies | $0.50 roll | Coins |
 
-### Prohibited Practices
+#### Prohibited Practices
 
 - ❌ Leaving drawer open unattended
 - ❌ Sharing drawer access codes
@@ -849,9 +833,9 @@ This guide covers:
 - ❌ Discussing cash amounts publicly
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Cash Variance Investigation
+#### Scenario 1: Cash Variance Investigation
 
 **Situation:** $20 short at closing
 
@@ -888,7 +872,7 @@ This guide covers:
    └── Implement preventive measures
 ```
 
-### Scenario 2: Suspected Counterfeit Bill
+#### Scenario 2: Suspected Counterfeit Bill
 
 **Situation:** Customer pays with suspicious $100 bill
 
@@ -903,7 +887,7 @@ This guide covers:
    - Complete counterfeit report
    - Contact authorities if required
 
-### Scenario 3: Customer Disputes Change
+#### Scenario 3: Customer Disputes Change
 
 **Situation:** Customer claims received wrong change
 
@@ -917,9 +901,9 @@ This guide covers:
 7. Document incident
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Frequent Small Variances
+#### Issue 1: Frequent Small Variances
 
 **Problem:** $1-5 variances occurring regularly
 
@@ -931,7 +915,7 @@ This guide covers:
 - Implement counting out loud
 
 
-### Issue 3: Counterfeit Bills Accepted
+#### Issue 3: Counterfeit Bills Accepted
 
 **Problem:** Fake currency found during deposit
 
@@ -953,12 +937,8 @@ This guide covers:
 
 ## SECTION 5: CUSTOMER-SERVICE-STANDARDS-EN
 
-﻿---
-layout: default
-title: "Customer Service Standards – EN"
-parent: Store Operations
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -973,7 +953,7 @@ parent: Store Operations
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
 These standards apply to:
 - All customer interactions (in-store, phone, digital)
@@ -982,9 +962,9 @@ These standards apply to:
 - All brands (U.S. Polo Assn., Pierre Cardin, Cacharel)
 
 
-## Responsibilities
+#### Responsibilities
 
-### Sales Associates
+#### Sales Associates
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -995,7 +975,7 @@ These standards apply to:
 | Checkout experience | Fast, accurate, friendly |
 | Farewell | Thank and invite return |
 
-### Store Manager
+#### Store Manager
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -1007,9 +987,9 @@ These standards apply to:
 | Recognition | Acknowledge excellent service |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Response Time Standards
+#### Response Time Standards
 
 | Interaction | Maximum Time | Target |
 |-------------|--------------|--------|
@@ -1020,7 +1000,7 @@ These standards apply to:
 | Phone answer | 3 rings | 2 rings |
 | Customer complaint | Immediate | Immediate |
 
-### Service Behaviors
+#### Service Behaviors
 
 #### Required Behaviors ✓
 
@@ -1048,7 +1028,7 @@ These standards apply to:
 - ✗ Discussing personal matters
 - ✗ Criticizing competitors
 
-### Communication Standards
+#### Communication Standards
 
 | Aspect | Standard |
 |--------|----------|
@@ -1059,9 +1039,9 @@ These standards apply to:
 | **Body Language** | Open, engaged, attentive |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Busy Store, Single Customer Waiting
+#### Scenario 1: Busy Store, Single Customer Waiting
 
 **Situation:** Store is busy, customer waiting for assistance
 
@@ -1075,7 +1055,7 @@ These standards apply to:
 6. Give full attention
 ```
 
-### Scenario 2: Indecisive Customer
+#### Scenario 2: Indecisive Customer
 
 **Situation:** Customer can't decide between two items
 
@@ -1100,7 +1080,7 @@ These standards apply to:
     that doesn't work?"
 ```
 
-### Scenario 3: Customer Complaint
+#### Scenario 3: Customer Complaint
 
 **Situation:** Customer unhappy with previous purchase
 
@@ -1129,9 +1109,9 @@ These standards apply to:
 ```
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Customers Leaving Without Assistance
+#### Issue 1: Customers Leaving Without Assistance
 
 **Problem:** Customers leave without staff engagement
 
@@ -1143,7 +1123,7 @@ These standards apply to:
 - Use door chime/counter awareness
 
 
-### Issue 3: Customer Complaints About Wait Times
+#### Issue 3: Customer Complaints About Wait Times
 
 **Problem:** Customers frustrated by waiting
 
@@ -1165,12 +1145,8 @@ These standards apply to:
 
 ## SECTION 6: INVENTORY-CONTROL-GUIDE-EN
 
-﻿---
-layout: default
-title: "Inventory Control Guide – EN"
-parent: Store Operations
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1185,7 +1161,7 @@ parent: Store Operations
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
 This guide covers:
 - Receiving and processing deliveries
@@ -1196,9 +1172,9 @@ This guide covers:
 - Inter-store transfers
 
 
-## Responsibilities
+#### Responsibilities
 
-### Sales Staff
+#### Sales Staff
 
 | Task | Frequency |
 |------|-----------|
@@ -1207,7 +1183,7 @@ This guide covers:
 | Participate in cycle counts | As assigned |
 | Report damaged items | Immediately |
 
-### Stock Room Staff
+#### Stock Room Staff
 
 | Task | Frequency |
 |------|-----------|
@@ -1216,7 +1192,7 @@ This guide covers:
 | Replenish sales floor | Multiple times daily |
 | Conduct cycle counts | Per schedule |
 
-### Store Manager
+#### Store Manager
 
 | Task | Frequency |
 |------|-----------|
@@ -1227,9 +1203,9 @@ This guide covers:
 | Investigate variances | As occurred |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Inventory Accuracy Standards
+#### Inventory Accuracy Standards
 
 | Metric | Target | Action Threshold |
 |--------|--------|------------------|
@@ -1238,7 +1214,7 @@ This guide covers:
 | Shrinkage Rate | <1% of sales | >1.5% triggers action plan |
 | Receiving Accuracy | 100% | Any error requires report |
 
-### Stock Room Organization
+#### Stock Room Organization
 
 ```
 STOCK ROOM LAYOUT PRINCIPLES
@@ -1270,7 +1246,7 @@ STOCK ROOM LAYOUT PRINCIPLES
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### FIFO Principles
+#### FIFO Principles
 
 | Principle | Application |
 |-----------|-------------|
@@ -1280,9 +1256,9 @@ STOCK ROOM LAYOUT PRINCIPLES
 | **Dated Items** | Check dates, sell oldest first |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Delivery with Shortage
+#### Scenario 1: Delivery with Shortage
 
 **Situation:** Delivery of 100 units, packing slip shows 120
 
@@ -1298,7 +1274,7 @@ STOCK ROOM LAYOUT PRINCIPLES
 8. Follow up on resolution
 ```
 
-### Scenario 2: Cycle Count Variance Found
+#### Scenario 2: Cycle Count Variance Found
 
 **Situation:** System shows 15, actual count is 12
 
@@ -1318,7 +1294,7 @@ STOCK ROOM LAYOUT PRINCIPLES
 8. If pattern found, investigate further
 ```
 
-### Scenario 3: Damaged Goods Received
+#### Scenario 3: Damaged Goods Received
 
 **Situation:** 5 items in delivery have defects
 
@@ -1338,9 +1314,9 @@ STOCK ROOM LAYOUT PRINCIPLES
 ```
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Chronic Stock-outs
+#### Issue 1: Chronic Stock-outs
 
 **Problem:** Same items repeatedly out of stock
 
@@ -1352,7 +1328,7 @@ STOCK ROOM LAYOUT PRINCIPLES
 - Consider store transfer
 
 
-### Issue 3: Disorganized Back Stock
+#### Issue 3: Disorganized Back Stock
 
 **Problem:** Can't find items when needed
 
@@ -1374,12 +1350,8 @@ STOCK ROOM LAYOUT PRINCIPLES
 
 ## SECTION 7: LOSS-PREVENTION-GUIDE-EN
 
-﻿---
-layout: default
-title: "Loss Prevention Guide – EN"
-parent: Store Operations
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1394,7 +1366,7 @@ parent: Store Operations
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
 This guide covers:
 - External theft (shoplifting)
@@ -1405,9 +1377,9 @@ This guide covers:
 - Physical security measures
 
 
-## Responsibilities
+#### Responsibilities
 
-### All Staff
+#### All Staff
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -1416,7 +1388,7 @@ This guide covers:
 | Suspicious behavior | Report immediately |
 | Security procedures | Follow consistently |
 
-### Store Manager
+#### Store Manager
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -1427,9 +1399,9 @@ This guide covers:
 | Investigations | Lead internal investigations |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Security Equipment Standards
+#### Security Equipment Standards
 
 | Equipment | Requirement | Check Frequency |
 |-----------|-------------|-----------------|
@@ -1440,7 +1412,7 @@ This guide covers:
 | Locks | Functional | Daily |
 | Safe | Secure | Per use |
 
-### Fitting Room Procedures
+#### Fitting Room Procedures
 
 | Step | Requirement |
 |------|-------------|
@@ -1451,7 +1423,7 @@ This guide covers:
 | **Exit Count** | Count all items exiting |
 | **Discrepancy** | Report immediately |
 
-### High-Risk Item Protection
+#### High-Risk Item Protection
 
 | Risk Level | Items | Protection |
 |------------|-------|------------|
@@ -1460,9 +1432,9 @@ This guide covers:
 | **Standard** | Basic apparel | Single tag |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Observed Shoplifting
+#### Scenario 1: Observed Shoplifting
 
 **Situation:** Staff sees customer conceal item in bag
 
@@ -1491,7 +1463,7 @@ IF CUSTOMER EXITS:
 5. Call police if high value
 ```
 
-### Scenario 2: Fitting Room Discrepancy
+#### Scenario 2: Fitting Room Discrepancy
 
 **Situation:** Customer entered with 4 items, exits with 2
 
@@ -1514,7 +1486,7 @@ IF CUSTOMER EXITS:
    - Document incident
 ```
 
-### Scenario 3: Suspected Employee Theft
+#### Scenario 3: Suspected Employee Theft
 
 **Situation:** Cash shortages or inventory variances
 
@@ -1533,9 +1505,9 @@ IMPORTANT: Handle confidentially
 ```
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: High Fitting Room Theft
+#### Issue 1: High Fitting Room Theft
 
 **Problem:** Items going missing from fitting rooms
 
@@ -1547,7 +1519,7 @@ IMPORTANT: Handle confidentially
 - Consider attendant position
 
 
-### Issue 3: High Internal Theft
+#### Issue 3: High Internal Theft
 
 **Problem:** Employee theft suspected
 
@@ -1569,12 +1541,8 @@ IMPORTANT: Handle confidentially
 
 ## SECTION 8: RETURN-EXCHANGE-PROCEDURES-EN
 
-﻿---
-layout: default
-title: "Return & Exchange Procedures – EN"
-parent: Store Operations
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1589,7 +1557,7 @@ parent: Store Operations
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
 This procedure covers:
 - Standard returns (refunds)
@@ -1599,9 +1567,9 @@ This procedure covers:
 - Online purchase returns in-store
 
 
-## Responsibilities
+#### Responsibilities
 
-### Sales Staff
+#### Sales Staff
 
 | Task | Standard |
 |------|----------|
@@ -1611,7 +1579,7 @@ This procedure covers:
 | Process transaction | Accurate, efficient |
 | Involve supervisor when needed | Complex cases |
 
-### Supervisor/Manager
+#### Supervisor/Manager
 
 | Task | Standard |
 |------|----------|
@@ -1621,9 +1589,9 @@ This procedure covers:
 | Investigate suspicious returns | Documentation required |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Eligibility Criteria
+#### Eligibility Criteria
 
 | Criteria | Eligible | Not Eligible |
 |----------|----------|--------------|
@@ -1635,7 +1603,7 @@ This procedure covers:
 | **Sale Items** | Per policy | Final sale items |
 | **Alterations** | None | Hemmed, tailored |
 
-### Refund Methods
+#### Refund Methods
 
 | Original Payment | Refund Method | Timing |
 |------------------|---------------|--------|
@@ -1645,7 +1613,7 @@ This procedure covers:
 | Gift Card | Gift card | Immediate |
 | Store Credit | Store credit | Immediate |
 
-### Exception Handling
+#### Exception Handling
 
 | Scenario | Authority | Action |
 |----------|-----------|--------|
@@ -1656,9 +1624,9 @@ This procedure covers:
 | Suspected fraud | Manager | Deny, document |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Standard Return with Receipt
+#### Scenario 1: Standard Return with Receipt
 
 **Situation:** Customer returns shirt bought last week
 
@@ -1676,7 +1644,7 @@ This procedure covers:
 7. Thank customer and invite to return
 ```
 
-### Scenario 2: Return Without Receipt
+#### Scenario 2: Return Without Receipt
 
 **Situation:** Customer wants to return gift, no receipt
 
@@ -1694,7 +1662,7 @@ This procedure covers:
    - Remain friendly but firm on policy
 ```
 
-### Scenario 3: Past Return Window
+#### Scenario 3: Past Return Window
 
 **Situation:** Customer returns item 35 days after purchase
 
@@ -1711,7 +1679,7 @@ This procedure covers:
 7. Document exception if approved
 ```
 
-### Scenario 4: Suspected Fraudulent Return
+#### Scenario 4: Suspected Fraudulent Return
 
 **Red Flags:**
 - No receipt, high-value item
@@ -1734,9 +1702,9 @@ This procedure covers:
 ```
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Customer Insists on Return Outside Policy
+#### Issue 1: Customer Insists on Return Outside Policy
 
 **Solution:**
 - Remain calm and empathetic
@@ -1747,7 +1715,7 @@ This procedure covers:
 - Document any exceptions
 
 
-### Issue 3: Suspected Return Fraud Pattern
+#### Issue 3: Suspected Return Fraud Pattern
 
 **Solution:**
 - Track return patterns by customer
@@ -1767,12 +1735,8 @@ This procedure covers:
 
 ## SECTION 9: ORDER-MANAGEMENT-GUIDE-EN
 
-﻿---
-layout: default
-title: "Order Management Guide – EN"
-parent: Supply Chain
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1787,9 +1751,9 @@ parent: Supply Chain
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Order Types
+#### Order Types
 
 | Order Type | Description | Timing |
 |------------|-------------|--------|
@@ -1799,7 +1763,7 @@ parent: Supply Chain
 | **Transfer Order** | Inter-store movements | As needed |
 | **Emergency Order** | Urgent stock needs | Same day |
 
-### System Access
+#### System Access
 
 | System | Purpose | Access |
 |--------|---------|--------|
@@ -1809,9 +1773,9 @@ parent: Supply Chain
 | **Tracking Portal** | Shipment tracking | All stores |
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -1821,7 +1785,7 @@ parent: Supply Chain
 | Verify received orders | Same day |
 | Update inventory system | Real-time |
 
-### Store Manager
+#### Store Manager
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -1831,7 +1795,7 @@ parent: Supply Chain
 | Coordinate with regional | As needed |
 | Ensure order accuracy | Per submission |
 
-### Regional Manager
+#### Regional Manager
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -1841,7 +1805,7 @@ parent: Supply Chain
 | Coordinate transfers | As needed |
 | Monitor regional performance | Monthly |
 
-### HQ Supply Chain
+#### HQ Supply Chain
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -1852,9 +1816,9 @@ parent: Supply Chain
 | Performance reporting | Monthly |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Order Submission Standards
+#### Order Submission Standards
 
 | Standard | Requirement |
 |----------|-------------|
@@ -1864,7 +1828,7 @@ parent: Supply Chain
 | **System Access** | Authorized users only |
 | **Documentation** | All orders documented |
 
-### Order Accuracy Requirements
+#### Order Accuracy Requirements
 
 | Metric | Target |
 |--------|--------|
@@ -1874,7 +1838,7 @@ parent: Supply Chain
 | Address Accuracy | 100% correct |
 | Special Instructions | Complete and clear |
 
-### Budget Management
+#### Budget Management
 
 | Rule | Description |
 |------|-------------|
@@ -1885,9 +1849,9 @@ parent: Supply Chain
 | **Clearance Balance** | Include markdown items |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Regular Weekly Order
+#### Scenario 1: Regular Weekly Order
 
 **Situation:** Tuesday weekly order submission
 
@@ -1903,7 +1867,7 @@ parent: Supply Chain
 8. Wednesday: Verify order confirmation received
 ```
 
-### Scenario 2: Emergency Stock Request
+#### Scenario 2: Emergency Stock Request
 
 **Situation:** Key item unexpectedly sold out
 
@@ -1919,7 +1883,7 @@ parent: Supply Chain
 8. Coordinate expedited delivery
 ```
 
-### Scenario 3: Season Order Planning
+#### Scenario 3: Season Order Planning
 
 **Situation:** Pre-season bulk order
 
@@ -1938,9 +1902,9 @@ parent: Supply Chain
 ```
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Missed Order Deadline
+#### Issue 1: Missed Order Deadline
 
 **Problem:** Order not submitted by deadline
 
@@ -1952,7 +1916,7 @@ parent: Supply Chain
 - Request deadline extension (once only)
 
 
-### Issue 3: System Access Issues
+#### Issue 3: System Access Issues
 
 **Problem:** Cannot access B2B portal
 
@@ -1965,9 +1929,9 @@ parent: Supply Chain
 - Have backup user submit order
 
 
-## B2B Portal Guide
+#### B2B Portal Guide
 
-### Login Process
+#### Login Process
 
 ```
 B2B PORTAL ACCESS
@@ -1987,7 +1951,7 @@ NAVIGATION
 - Support → Contact help desk
 ```
 
-### Order Entry Steps
+#### Order Entry Steps
 
 ```
 CREATING A NEW ORDER
@@ -2017,12 +1981,8 @@ CREATING A NEW ORDER
 
 ## SECTION 10: DELIVERY-RECEIVING-PROCEDURES-EN
 
-﻿---
-layout: default
-title: "Delivery & Receiving Procedures – EN"
-parent: Supply Chain
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -2037,9 +1997,9 @@ parent: Supply Chain
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Delivery Types
+#### Delivery Types
 
 | Delivery Type | Source | Frequency |
 |---------------|--------|-----------|
@@ -2049,7 +2009,7 @@ parent: Supply Chain
 | **Returns/Repairs** | Repair center | As applicable |
 | **Special/Rush** | DC or vendor | Emergency |
 
-### Receiving Areas
+#### Receiving Areas
 
 | Area | Purpose | Requirements |
 |------|---------|--------------|
@@ -2059,9 +2019,9 @@ parent: Supply Chain
 | **Storage** | Inventory holding | Proper shelving |
 
 
-## Responsibilities
+#### Responsibilities
 
-### Receiving Staff
+#### Receiving Staff
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2071,7 +2031,7 @@ parent: Supply Chain
 | Document discrepancies | Immediately |
 | Update inventory system | Same day |
 
-### Store Manager
+#### Store Manager
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2081,7 +2041,7 @@ parent: Supply Chain
 | Approve inventory updates | Same day |
 | Follow up on issues | Within 24 hours |
 
-### Regional Manager
+#### Regional Manager
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2091,9 +2051,9 @@ parent: Supply Chain
 | Approve claim submissions | Within 48 hours |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Receiving Standards
+#### Receiving Standards
 
 | Standard | Requirement |
 |----------|-------------|
@@ -2103,7 +2063,7 @@ parent: Supply Chain
 | **System Update** | Same day as receipt |
 | **Discrepancy Deadline** | Report within 24 hours |
 
-### Quality Standards
+#### Quality Standards
 
 | Aspect | Standard |
 |--------|----------|
@@ -2113,7 +2073,7 @@ parent: Supply Chain
 | **Barcodes** | Scannable |
 | **Hangers** | Appropriate and undamaged |
 
-### Security Standards
+#### Security Standards
 
 | Rule | Description |
 |------|-------------|
@@ -2124,9 +2084,9 @@ parent: Supply Chain
 | **Documentation** | Signature required |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Normal Delivery
+#### Scenario 1: Normal Delivery
 
 **Situation:** Regular weekly replenishment arrives
 
@@ -2145,7 +2105,7 @@ parent: Supply Chain
 **Result:** Clean receiving, no discrepancies
 
 
-### Scenario 3: Delivery with External Damage
+#### Scenario 3: Delivery with External Damage
 
 **Situation:** Box arrives visibly damaged
 
@@ -2166,9 +2126,9 @@ parent: Supply Chain
 **Result:** Damage documented, carrier notified
 
 
-## KPIs
+#### KPIs
 
-### Receiving Performance Metrics
+#### Receiving Performance Metrics
 
 | KPI | Formula | Target | Frequency |
 |-----|---------|--------|-----------|
@@ -2178,7 +2138,7 @@ parent: Supply Chain
 | **Processing Time** | Hours from delivery to floor | <4 hours | Per delivery |
 | **Claim Submission** | On-time claims / Total claims | 100% | Monthly |
 
-### Performance Dashboard
+#### Performance Dashboard
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -2207,7 +2167,7 @@ parent: Supply Chain
 ```
 
 
-### Issue 2: Scanner Malfunction
+#### Issue 2: Scanner Malfunction
 
 **Problem:** Cannot scan items during receiving
 
@@ -2219,7 +2179,7 @@ parent: Supply Chain
 - Never delay receiving completion
 
 
-### Issue 4: Storage Constraints
+#### Issue 4: Storage Constraints
 
 **Problem:** Not enough space for delivery
 
@@ -2231,7 +2191,7 @@ parent: Supply Chain
 - Communicate capacity limits to HQ
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Change | Prepared By |
 |---------|------|--------|-------------|
@@ -2242,12 +2202,8 @@ parent: Supply Chain
 
 ## SECTION 11: STOCK-TRANSFER-PROCEDURES-EN
 
-﻿---
-layout: default
-title: "Stock Transfer Procedures – EN"
-parent: Supply Chain
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -2262,9 +2218,9 @@ parent: Supply Chain
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Transfer Types
+#### Transfer Types
 
 | Transfer Type | Description | Approval |
 |---------------|-------------|----------|
@@ -2274,7 +2230,7 @@ parent: Supply Chain
 | **Regional Rebalance** | Multiple store adjustments | Regional Manager |
 | **Season End** | End-of-season consolidation | HQ Approval |
 
-### Transfer Reasons
+#### Transfer Reasons
 
 | Reason | Priority | Typical Volume |
 |--------|----------|----------------|
@@ -2286,9 +2242,9 @@ parent: Supply Chain
 | **Event/Promotion Support** | High | As needed |
 
 
-## Responsibilities
+#### Responsibilities
 
-### Sending Store
+#### Sending Store
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2298,7 +2254,7 @@ parent: Supply Chain
 | Update inventory system | At shipment |
 | Coordinate pickup/delivery | Per schedule |
 
-### Receiving Store
+#### Receiving Store
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2308,7 +2264,7 @@ parent: Supply Chain
 | Update inventory system | Same day |
 | Report discrepancies | Within 24 hours |
 
-### Regional Manager
+#### Regional Manager
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2318,9 +2274,9 @@ parent: Supply Chain
 | Monitor transfer KPIs | Monthly |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Transfer Standards
+#### Transfer Standards
 
 | Standard | Requirement |
 |----------|-------------|
@@ -2330,7 +2286,7 @@ parent: Supply Chain
 | **Documentation** | Complete for all transfers |
 | **Condition** | Only sellable items |
 
-### Packaging Standards
+#### Packaging Standards
 
 | Standard | Requirement |
 |----------|-------------|
@@ -2340,7 +2296,7 @@ parent: Supply Chain
 | **Seal** | Boxes sealed and secure |
 | **Packing List** | Inside and outside box |
 
-### Documentation Requirements
+#### Documentation Requirements
 
 | Document | Purpose | Retention |
 |----------|---------|-----------|
@@ -2351,9 +2307,9 @@ parent: Supply Chain
 | Receiving Confirmation | Completion record | 1 year |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Urgent Stock-out Prevention
+#### Scenario 1: Urgent Stock-out Prevention
 
 **Situation:** Store A running low on best-seller, Store B has excess
 
@@ -2381,7 +2337,7 @@ Day 2 - Morning:
 **Result:** Stock-out prevented, sales maintained
 
 
-### Scenario 3: Transfer with Discrepancy
+#### Scenario 3: Transfer with Discrepancy
 
 **Situation:** Receiving store gets fewer items than expected
 
@@ -2402,9 +2358,9 @@ Day 2 - Morning:
 **Result:** Discrepancy resolved, process improved
 
 
-## KPIs
+#### KPIs
 
-### Transfer Performance Metrics
+#### Transfer Performance Metrics
 
 | KPI | Formula | Target | Frequency |
 |-----|---------|--------|-----------|
@@ -2414,7 +2370,7 @@ Day 2 - Morning:
 | **Request to Delivery** | Avg days from request | <3 days | Monthly |
 | **Transfer Volume** | Units transferred | Track | Monthly |
 
-### Performance Dashboard
+#### Performance Dashboard
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -2444,7 +2400,7 @@ Day 2 - Morning:
 ```
 
 
-### Issue 2: Transfer Variances
+#### Issue 2: Transfer Variances
 
 **Problem:** Items missing or damaged in transit
 
@@ -2456,7 +2412,7 @@ Day 2 - Morning:
 - Choose reliable carriers
 
 
-### Issue 4: Rejection of Good Requests
+#### Issue 4: Rejection of Good Requests
 
 **Problem:** Valid transfer requests rejected
 
@@ -2468,7 +2424,7 @@ Day 2 - Morning:
 - Request reconsideration with additional info
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Change | Prepared By |
 |---------|------|--------|-------------|
@@ -2479,12 +2435,8 @@ Day 2 - Morning:
 
 ## SECTION 12: SHIPPING-LOGISTICS-GUIDE-EN
 
-﻿---
-layout: default
-title: "Shipping & Logistics Guide – EN"
-parent: Supply Chain
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -2499,9 +2451,9 @@ parent: Supply Chain
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Shipping Methods
+#### Shipping Methods
 
 | Method | Description | Lead Time | Cost |
 |--------|-------------|-----------|------|
@@ -2512,9 +2464,9 @@ parent: Supply Chain
 | **Courier** | Door-to-door express | Same-Next day | Highest |
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Team
+#### Store Team
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2524,7 +2476,7 @@ parent: Supply Chain
 | Confirm delivery receipt | Same day |
 | Maintain shipping records | Complete |
 
-### Regional Manager
+#### Regional Manager
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2533,7 +2485,7 @@ parent: Supply Chain
 | Optimize delivery routes | Quarterly |
 | Review carrier performance | Monthly |
 
-### HQ Logistics Team
+#### HQ Logistics Team
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2544,9 +2496,9 @@ parent: Supply Chain
 | Report logistics KPIs | Monthly |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Delivery Standards
+#### Delivery Standards
 
 | Standard | Target |
 |----------|--------|
@@ -2556,7 +2508,7 @@ parent: Supply Chain
 | **POD Capture** | 100% |
 | **Issue Resolution** | Within 48 hours |
 
-### Packaging Standards
+#### Packaging Standards
 
 | Standard | Requirement |
 |----------|-------------|
@@ -2566,7 +2518,7 @@ parent: Supply Chain
 | **Weight Limits** | Per carrier guidelines |
 | **Sealing** | Secure tape closure |
 
-### Documentation Requirements
+#### Documentation Requirements
 
 | Document | Purpose | Retention |
 |----------|---------|-----------|
@@ -2577,9 +2529,9 @@ parent: Supply Chain
 | Insurance Certificate | Coverage proof | 3 years |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Tracking Standard Domestic Shipment
+#### Scenario 1: Tracking Standard Domestic Shipment
 
 **Situation:** Weekly replenishment from Istanbul DC
 
@@ -2605,7 +2557,7 @@ Day 4 (Thursday):
 ```
 
 
-### Scenario 3: International Customs Clearance
+#### Scenario 3: International Customs Clearance
 
 **Situation:** Shipment held at customs
 
@@ -2622,9 +2574,9 @@ Day 4 (Thursday):
 ```
 
 
-## KPIs
+#### KPIs
 
-### Logistics Performance Metrics
+#### Logistics Performance Metrics
 
 | KPI | Formula | Target | Frequency |
 |-----|---------|--------|-----------|
@@ -2634,7 +2586,7 @@ Day 4 (Thursday):
 | **Transit Time** | Avg days from ship to delivery | Per route | Monthly |
 | **Cost per Unit** | Total shipping cost / Units shipped | Track | Monthly |
 
-### Performance Dashboard
+#### Performance Dashboard
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -2664,7 +2616,7 @@ Day 4 (Thursday):
 ```
 
 
-### Issue 2: Frequent Damage Claims
+#### Issue 2: Frequent Damage Claims
 
 **Problem:** Products arriving damaged
 
@@ -2676,7 +2628,7 @@ Day 4 (Thursday):
 - Implement damage prevention measures
 
 
-### Issue 4: Customs Delays
+#### Issue 4: Customs Delays
 
 **Problem:** International shipments stuck in customs
 
@@ -2688,9 +2640,9 @@ Day 4 (Thursday):
 - Maintain compliance records
 
 
-## Best Practices
+#### Best Practices
 
-### Efficient Logistics Management
+#### Efficient Logistics Management
 
 1. **Proactive Tracking**
    - Check status daily
@@ -2723,12 +2675,8 @@ Day 4 (Thursday):
 
 ## SECTION 13: WAREHOUSE-COORDINATION-GUIDE-EN
 
-﻿---
-layout: default
-title: "Warehouse Coordination Guide – EN"
-parent: Supply Chain
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -2743,9 +2691,9 @@ parent: Supply Chain
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Distribution Center Network
+#### Distribution Center Network
 
 | DC Location | Coverage | Function |
 |-------------|----------|----------|
@@ -2753,7 +2701,7 @@ parent: Supply Chain
 | **Regional Hubs** | Local markets | Secondary distribution |
 | **Partner DC** | Americas, APAC | Third-party logistics |
 
-### Warehouse Services
+#### Warehouse Services
 
 | Service | Description | Availability |
 |---------|-------------|--------------|
@@ -2764,9 +2712,9 @@ parent: Supply Chain
 | **Inventory Queries** | Stock availability checks | Weekdays |
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Team
+#### Store Team
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2776,7 +2724,7 @@ parent: Supply Chain
 | Provide inventory feedback | As needed |
 | Coordinate returns | Per procedure |
 
-### Regional Manager
+#### Regional Manager
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2785,7 +2733,7 @@ parent: Supply Chain
 | Optimize regional allocations | Monthly |
 | Review warehouse performance | Monthly |
 
-### HQ Warehouse Team
+#### HQ Warehouse Team
 
 | Responsibility | Standard |
 |----------------|----------|
@@ -2796,9 +2744,9 @@ parent: Supply Chain
 | Coordinate with carriers | Ongoing |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Communication Standards
+#### Communication Standards
 
 | Standard | Requirement |
 |----------|-------------|
@@ -2808,7 +2756,7 @@ parent: Supply Chain
 | **Follow-up** | Until resolution |
 | **Escalation** | Per defined process |
 
-### Order Processing Standards
+#### Order Processing Standards
 
 | Standard | Target |
 |----------|--------|
@@ -2818,7 +2766,7 @@ parent: Supply Chain
 | **Ship on Time** | ≥98% |
 | **Documentation** | 100% accurate |
 
-### Warehouse Operating Hours
+#### Warehouse Operating Hours
 
 | Day | Hours | Services |
 |-----|-------|----------|
@@ -2827,9 +2775,9 @@ parent: Supply Chain
 | Sunday | Closed | Emergency only |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Standard Order Query
+#### Scenario 1: Standard Order Query
 
 **Situation:** Store needs to check order status
 
@@ -2848,7 +2796,7 @@ parent: Supply Chain
 ```
 
 
-### Scenario 3: Quality Issue Reporting
+#### Scenario 3: Quality Issue Reporting
 
 **Situation:** Received items with quality defects
 
@@ -2871,9 +2819,9 @@ parent: Supply Chain
 ```
 
 
-## KPIs
+#### KPIs
 
-### Warehouse Performance Metrics
+#### Warehouse Performance Metrics
 
 | KPI | Formula | Target | Frequency |
 |-----|---------|--------|-----------|
@@ -2883,7 +2831,7 @@ parent: Supply Chain
 | **Issue Resolution** | Resolved within SLA / Total | ≥95% | Monthly |
 | **Pick Accuracy** | Correct picks / Total | ≥99.5% | Daily |
 
-### Performance Dashboard
+#### Performance Dashboard
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -2912,7 +2860,7 @@ parent: Supply Chain
 ```
 
 
-### Issue 2: Stock Allocation Issues
+#### Issue 2: Stock Allocation Issues
 
 **Problem:** Not receiving expected allocation
 
@@ -2924,7 +2872,7 @@ parent: Supply Chain
 - Request transfer from other stores
 
 
-### Issue 4: Recurring Quality Issues
+#### Issue 4: Recurring Quality Issues
 
 **Problem:** Consistent product quality problems
 
@@ -2936,9 +2884,9 @@ parent: Supply Chain
 - Implement incoming inspection
 
 
-## Best Practices
+#### Best Practices
 
-### Effective Communication
+#### Effective Communication
 
 1. **Be Clear and Specific**
    - Provide order/reference numbers

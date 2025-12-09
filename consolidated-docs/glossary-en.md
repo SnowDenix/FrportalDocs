@@ -27,13 +27,8 @@ This comprehensive glossary provides definitions, formulas, and explanations for
 
 ## SECTION 1: RETAIL-TERMS-EN
 
-﻿---
-layout: default
-title: "Retail Terms Glossary"
-parent: Glossary
-permalink: /glossary/retail-terms-en/
 
-## Table of Contents
+### Table of Contents
 
 1. [Inventory Management Terms](#inventory-management-terms)
 2. [Sales and Performance Terms](#sales-and-performance-terms)
@@ -43,7 +38,7 @@ permalink: /glossary/retail-terms-en/
 6. [Visual Merchandising Terms](#visual-merchandising-terms)
 
 
-### Stock Turnover Rate
+#### Stock Turnover Rate
 
 **Definition:** A calculation tool that measures how quickly a store sells through its inventory within a specific period.
 
@@ -58,7 +53,7 @@ Stock Turnover Rate = Cost of Goods Sold / Average Inventory Value
 **Stock/Cash-Flow Impact:** Higher turnover indicates healthy inventory management and better cash flow.
 
 
-### Sell-Through Rate (STR)
+#### Sell-Through Rate (STR)
 
 **Definition:** A measurement tool that calculates what percentage of the planned or produced quantity has been sold since the start of the season.
 
@@ -71,7 +66,7 @@ STR = (Units Sold / Units Produced or Planned) × 100
 - STR = (7,500 / 10,000) × 100 = 75%
 
 
-### Product Blocking
+#### Product Blocking
 
 **Definition:** The process of stopping the sale of certain products in some or all stores for various reasons. Blocked products are added to a restricted list to prevent accidental reservations.
 
@@ -80,14 +75,14 @@ STR = (Units Sold / Units Produced or Planned) × 100
 **Example Scenario:** Product transferred from Istanbul to Ankara store is added to Istanbul's blocked list.
 
 
-### Assortment Life Cycle – Multiplier
+#### Assortment Life Cycle – Multiplier
 
 **Definition:** The scaling of a stock option's sales potential across time for each classification.
 
 **Example Scenario:** Summer polo shirts have peak sales potential June-August, low in October.
 
 
-### Size Break
+#### Size Break
 
 **Definition:** The absence of planned or produced sizes in store inventory.
 
@@ -96,7 +91,7 @@ STR = (Units Sold / Units Produced or Planned) × 100
 **Stock/Cash-Flow Impact:** Size breaks directly cause lost sales.
 
 
-### Top-Bottom Ratio
+#### Top-Bottom Ratio
 
 **Definition:** The ratio of total tops inventory to total bottoms inventory. Used to monitor display balance.
 
@@ -108,7 +103,7 @@ Top-Bottom Ratio = Total Tops Stock / Total Bottoms Stock
 **Example Scenario:** 1,000 tops, 600 bottoms = 1,000/600 = 1.67 ratio
 
 
-### Carryover Stock
+#### Carryover Stock
 
 **Definition:** Inventory that was planned to or actually carries over to the next season due to unsold quantities.
 
@@ -117,7 +112,7 @@ Top-Bottom Ratio = Total Tops Stock / Total Bottoms Stock
 **Stock/Cash-Flow Impact:** Carryover stock negatively affects cash flow and usually requires discounted sales.
 
 
-### Physical Stock vs. Final Stock
+#### Physical Stock vs. Final Stock
 
 **Physical Stock:** Products with accepted delivery notes that are in store inventory and available for immediate sale.
 
@@ -129,7 +124,7 @@ Final Stock = Physical Stock + Pending Deliveries - Pending Transfers - Pending 
 ```
 
 
-### Transfer-Return
+#### Transfer-Return
 
 **Definition:** The process of moving a product from a low-selling store to a higher-selling store.
 
@@ -141,9 +136,9 @@ Final Stock = Physical Stock + Pending Deliveries - Pending Transfers - Pending 
 - Reduce overstocking in high-inventory stores
 
 
-## Sales and Performance Terms
+#### Sales and Performance Terms
 
-### Like-for-Like (LFL)
+#### Like-for-Like (LFL)
 
 **Definition:** A measurement method for comparing performance between the same stores across equivalent time periods.
 
@@ -157,7 +152,7 @@ LFL % = ((Current Period Sales - Prior Period Sales) / Prior Period Sales) × 10
 **Stock/Cash-Flow Impact:** Measures true growth by excluding new store effects.
 
 
-### Markup
+#### Markup
 
 **Definition:** The multiplier indicating how many times the product's cash price (PSF) is above the purchase cost (COGS).
 
@@ -170,7 +165,7 @@ Markup = Retail Price / Purchase Cost
 - Markup = 350 / 100 = 3.5×
 
 
-### OTB (Open To Buy)
+#### OTB (Open To Buy)
 
 **Definition:** The remaining quantity calculated by subtracting the already produced amount from the planned production quantity.
 
@@ -180,7 +175,7 @@ OTB = Planned Production Quantity - Actual Production Quantity
 ```
 
 
-### Size Assortment
+#### Size Assortment
 
 **Definition:** The distribution of units per size within a pack for each option.
 
@@ -190,47 +185,47 @@ OTB = Planned Production Quantity - Actual Production Quantity
 | Units | 1 | 2 | 3 | 2 | 1 | 9 |
 
 
-### Lot
+#### Lot
 
 **Definition:** A packaged product group consisting of predetermined quantities per size for a specific color of a model.
 
 
-## Store and Operations Terms
+#### Store and Operations Terms
 
-### Outlet
+#### Outlet
 
 **Definition:** A store type that sells old and new season 1st and 2nd quality products.
 
 
-### Franchise Store
+#### Franchise Store
 
 **Definition:** A store type that sells 1st quality products, uses the brand concept, and is operated by a private individual or company.
 
 **Example:** U.S. Polo Assn. franchise stores
 
 
-## POS and Point of Sale Terms
+#### POS and Point of Sale Terms
 
-### P.O.S. (Point of Sale)
+#### P.O.S. (Point of Sale)
 
 **Definition:** The point where sales transactions occur, including the credit card processing device.
 
 
-## Visual Merchandising Terms
+#### Visual Merchandising Terms
 
-### Fixture
+#### Fixture
 
 **Definition:** Units used to display products in the store's central sales area.
 
 **Examples:** Gondolas, tables, hangers, shelf units
 
 
-### Hanging Sign (Ceiling Dangler)
+#### Hanging Sign (Ceiling Dangler)
 
 **Definition:** Double-sided promotional material suspended from the ceiling.
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Change | Prepared By |
 |---------|------|--------|-------------|
@@ -241,13 +236,8 @@ OTB = Planned Production Quantity - Actual Production Quantity
 
 ## SECTION 2: FINANCE-KPI-FORMULAS-EN
 
-﻿---
-layout: default
-title: "Finance KPI Formulas and Calculations"
-parent: Glossary
-permalink: /glossary/finance-kpi-formulas-en/
 
-## Table of Contents
+### Table of Contents
 
 1. [Profitability KPIs](#profitability-kpis)
 2. [Sales Performance KPIs](#sales-performance-kpis)
@@ -256,7 +246,7 @@ permalink: /glossary/finance-kpi-formulas-en/
 5. [Customer KPIs](#customer-kpis)
 
 
-### EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization)
+#### EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization)
 
 **Definition:** Shows cash generation capacity before non-cash expenses.
 
@@ -272,7 +262,7 @@ EBITDA = EBIT + Depreciation + Amortization
 - **EBITDA = 250,000 + 30,000 + 5,000 = $285,000**
 
 
-### Net Profit Margin
+#### Net Profit Margin
 
 **Definition:** Shows what percentage of sales becomes net profit after all expenses.
 
@@ -287,7 +277,7 @@ Net Profit Margin % = (Net Income / Sales Revenue) × 100
 - **Net Profit Margin = (50,000 / 500,000) × 100 = 10%**
 
 
-### ROS (Return on Sales)
+#### ROS (Return on Sales)
 
 **Definition:** The profit ratio derived from sales.
 
@@ -302,7 +292,7 @@ ROS = (Operating Income / Net Sales) × 100
 - **ROS = (80,000 / 400,000) × 100 = 20%**
 
 
-### Like-for-Like (LFL) Growth
+#### Like-for-Like (LFL) Growth
 
 **Definition:** Comparative growth rate based on same-store basis across periods.
 
@@ -317,7 +307,7 @@ LFL % = ((Current Period LFL Sales - Prior Period LFL Sales) / Prior Period LFL 
 - **LFL = ((1,200,000 - 1,000,000) / 1,000,000) × 100 = 20% growth**
 
 
-### Average Markdown
+#### Average Markdown
 
 **Definition:** The average discount rate applied during the period.
 
@@ -327,7 +317,7 @@ Average Markdown % = (Total Markdown Value / Total Full-Price Sales) × 100
 ```
 
 
-### Stock Cover (Weeks of Stock)
+#### Stock Cover (Weeks of Stock)
 
 **Definition:** Shows how many weeks of sales the current inventory will cover.
 
@@ -350,7 +340,7 @@ Stock Cover = Current Stock Units / 7-Day Sales Units
 **Target:** Mid-season 8-12 weeks, end-of-season 4-6 weeks
 
 
-### Weeks of Supply (WOS)
+#### Weeks of Supply (WOS)
 
 **Definition:** Shows how many weeks current inventory will last.
 
@@ -365,9 +355,9 @@ WOS = Current Inventory / Forecasted Weekly Sales
 - **WOS = 5,000 / 500 = 10 weeks**
 
 
-## Store Performance KPIs
+#### Store Performance KPIs
 
-### Sales per Square Meter (PSM) / Sales per Square Foot (PSF)
+#### Sales per Square Meter (PSM) / Sales per Square Foot (PSF)
 
 **Definition:** Measures sales productivity per unit of store area.
 
@@ -388,7 +378,7 @@ PSF = Total Sales / Store Area (ft²)
 - **PSM = 200,000 / 150 = $1,333/m²**
 
 
-### Occupancy Cost Ratio
+#### Occupancy Cost Ratio
 
 **Definition:** Shows what percentage of sales goes to store rent.
 
@@ -405,9 +395,9 @@ Occupancy Cost % = (Total Rent Expense / Total Sales) × 100
 **Target:** <12% ideal
 
 
-## Customer KPIs
+#### Customer KPIs
 
-### UPT (Units Per Transaction)
+#### UPT (Units Per Transaction)
 
 **Definition:** Shows the average number of items sold per transaction.
 
@@ -424,7 +414,7 @@ UPT = Total Units Sold / Total Transactions
 **Target:** 2.0+ targeted, 3.0+ excellent
 
 
-### Conversion Rate
+#### Conversion Rate
 
 **Definition:** Shows what percentage of store visitors make a purchase.
 
@@ -441,7 +431,7 @@ Conversion % = (Number of Buyers / Number of Store Visitors) × 100
 **Target:** 20-30% normal, 30%+ excellent
 
 
-### Customer Retention Rate
+#### Customer Retention Rate
 
 **Definition:** The percentage of customers who make repeat purchases within a period.
 
@@ -451,7 +441,7 @@ Retention % = ((End Period Customers - New Customers) / Beginning Period Custome
 ```
 
 
-## KPI Summary Table
+#### KPI Summary Table
 
 | KPI | Formula | Target |
 |-----|---------|--------|

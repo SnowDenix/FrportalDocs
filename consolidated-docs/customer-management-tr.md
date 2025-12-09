@@ -42,12 +42,7 @@ Bu kapsamlı CRM dokümantasyonu, Aydınlı Grup franchise mağazaları için m�
 
 ## SECTION 1: CRM-OVERVIEW-TR
 
-﻿---
-layout: default
-title: "CRM Genel Bakış"
-parent: CRM
-
-## İçindekiler
+### İçindekiler
 
 1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
 2. [Amaç](#amaç)
@@ -61,18 +56,18 @@ parent: CRM
 10. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Amaç
+### Amaç
 
 Bu doküman, Aydınlı Grup bünyesindeki U.S. Polo Assn., Pierre Cardin ve Cacharel franchise mağazaları için CRM (Müşteri İlişkileri Yönetimi) sisteminin genel yapısını, hedeflerini ve işleyişini tanımlar.
 
-### CRM Vizyonu
+#### CRM Vizyonu
 
 - Müşteri odaklı bir perakende deneyimi sunmak
 - Müşteri verilerini güvenli ve etkin bir şekilde yönetmek
 - Satış ve pazarlama stratejilerini müşteri davranışlarına göre optimize etmek
 - Franchise ağı genelinde tutarlı bir müşteri deneyimi sağlamak
 
-### CRM Hedefleri
+#### CRM Hedefleri
 
 | Hedef | Açıklama |
 |-------|----------|
@@ -83,9 +78,9 @@ Bu doküman, Aydınlı Grup bünyesindeki U.S. Polo Assn., Pierre Cardin ve Cach
 | Uyumluluk | KVKK ve veri koruma düzenlemelerine tam uyum sağlamak |
 
 
-## Tanımlar
+### Tanımlar
 
-### Temel CRM Terimleri
+#### Temel CRM Terimleri
 
 | Terim | Tanım |
 |-------|-------|
@@ -102,7 +97,7 @@ Bu doküman, Aydınlı Grup bünyesindeki U.S. Polo Assn., Pierre Cardin ve Cach
 | **POS** | Point of Sale - Satış noktası terminali. |
 | **Customer 360** | Müşterinin tüm etkileşimlerini tek bir görünümde sunan ekran. |
 
-### İletişim İzin Tipleri
+#### İletişim İzin Tipleri
 
 | İzin Tipi | Açıklama | Varsayılan |
 |-----------|----------|------------|
@@ -112,9 +107,9 @@ Bu doküman, Aydınlı Grup bünyesindeki U.S. Polo Assn., Pierre Cardin ve Cach
 | Veri İşleme İzni | Kişisel verilerin işlenmesi (zorunlu) | Zorunlu |
 
 
-## CRM Sistem Mimarisi
+### CRM Sistem Mimarisi
 
-### Sistem Bileşenleri
+#### Sistem Bileşenleri
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -140,7 +135,7 @@ Bu doküman, Aydınlı Grup bünyesindeki U.S. Polo Assn., Pierre Cardin ve Cach
      └─────────────┘   └─────────────┘   └─────────────┘
 ```
 
-### Entegrasyon Noktaları
+#### Entegrasyon Noktaları
 
 | Sistem | Entegrasyon Tipi | Veri Akışı |
 |--------|------------------|------------|
@@ -153,7 +148,7 @@ Bu doküman, Aydınlı Grup bünyesindeki U.S. Polo Assn., Pierre Cardin ve Cach
 
 
 
-### Sorun 2: Mükerrer Müşteri Kaydı
+#### Sorun 2: Mükerrer Müşteri Kaydı
 
 **Belirti:** Aynı müşteri için birden fazla profil mevcut.
 
@@ -168,7 +163,7 @@ Bu doküman, Aydınlı Grup bünyesindeki U.S. Polo Assn., Pierre Cardin ve Cach
 3. Yeni satışları en güncel profile kaydedin
 
 
-### Sorun 4: Kupon Çalışmıyor
+#### Sorun 4: Kupon Çalışmıyor
 
 **Belirti:** Müşterinin kuponu POS'ta geçerli değil hatası veriyor.
 
@@ -184,7 +179,7 @@ Bu doküman, Aydınlı Grup bünyesindeki U.S. Polo Assn., Pierre Cardin ve Cach
 3. Alternatif kampanya varsa önerin
 
 
-## Revizyon Geçmişi
+### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|
@@ -195,12 +190,7 @@ Bu doküman, Aydınlı Grup bünyesindeki U.S. Polo Assn., Pierre Cardin ve Cach
 
 ## SECTION 2: CRM-CUSTOMER-SEGMENTATION-TR
 
-﻿---
-layout: default
-title: "CRM Müşteri Segmentasyonu"
-parent: CRM
-
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -215,9 +205,9 @@ parent: CRM
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+### Kapsam
 
-### Bu Doküman Kimleri Kapsar?
+#### Bu Doküman Kimleri Kapsar?
 
 | Rol | Kullanım Amacı |
 |-----|----------------|
@@ -226,7 +216,7 @@ parent: CRM
 | CRM Merkez | Segment stratejileri oluşturmak |
 | Pazarlama Ekibi | Hedefli kampanyalar planlamak |
 
-### Segmentasyon Türleri
+#### Segmentasyon Türleri
 
 | Tür | Açıklama |
 |-----|----------|
@@ -236,9 +226,9 @@ parent: CRM
 | Değer Bazlı | Müşteri değerine göre |
 
 
-## Sorumluluklar
+### Sorumluluklar
 
-### CRM Merkez
+#### CRM Merkez
 
 | Görev | Detay |
 |-------|-------|
@@ -247,7 +237,7 @@ parent: CRM
 | Strateji | Her segment için strateji belirlemek |
 | Kampanya | Segment bazlı kampanyalar oluşturmak |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Detay |
 |-------|-------|
@@ -256,9 +246,9 @@ parent: CRM
 | Geri bildirim | Segment performansını raporlamak |
 
 
-## Müşteri Yaşam Döngüsü
+### Müşteri Yaşam Döngüsü
 
-### Yaşam Döngüsü Aşamaları
+#### Yaşam Döngüsü Aşamaları
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -277,7 +267,7 @@ parent: CRM
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Yaşam Döngüsü Segment Tanımları
+#### Yaşam Döngüsü Segment Tanımları
 
 | Aşama | Tanım | Kriter |
 |-------|-------|--------|
@@ -290,7 +280,7 @@ parent: CRM
 | **Kayıp Müşteri** | Tamamen kaybedilmiş | Son alışveriş >365 gün önce |
 
 
-### Loyal Customers (Sadık Müşteriler)
+#### Loyal Customers (Sadık Müşteriler)
 
 **Profil:** Düzenli alışveriş yapan, marka bağlılığı yüksek
 
@@ -306,7 +296,7 @@ parent: CRM
 - Arkadaşını getir kampanyası
 
 
-### Recent Customers (Yeni Müşteriler)
+#### Recent Customers (Yeni Müşteriler)
 
 **Profil:** İlk alışverişini yeni yapmış
 
@@ -322,7 +312,7 @@ parent: CRM
 - Ürün kullanım ipuçları
 
 
-### At Risk (Risk Altında)
+#### At Risk (Risk Altında)
 
 **Profil:** Değerli ama aktivitesi düşen müşteriler
 
@@ -338,7 +328,7 @@ parent: CRM
 - Kişisel arama
 
 
-### Lost (Kayıp)
+#### Lost (Kayıp)
 
 **Profil:** Uzun süredir alışveriş yapmayan
 
@@ -353,9 +343,9 @@ parent: CRM
 - Büyük kampanya duyurusu
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: At Risk Oranı Yükseliyor
+#### Sorun 1: At Risk Oranı Yükseliyor
 
 **Çözüm:**
 1. Risk altındaki müşterileri listeleyin
@@ -364,7 +354,7 @@ parent: CRM
 4. Kaybetme nedenlerini araştırın
 
 
-### Sorun 3: VIP Müşteriler Düşüyor
+#### Sorun 3: VIP Müşteriler Düşüyor
 
 **Çözüm:**
 1. VIP programını gözden geçirin
@@ -373,7 +363,7 @@ parent: CRM
 4. Geri bildirim alın
 
 
-## Revizyon Geçmişi
+### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|
@@ -384,12 +374,7 @@ parent: CRM
 
 ## SECTION 3: CRM-LOYALTY-CAMPAIGNS-TR
 
-﻿---
-layout: default
-title: "CRM Loyalty Programı ve Kampanya Yönetimi"
-parent: CRM
-
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -406,9 +391,9 @@ parent: CRM
 13. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+### Kapsam
 
-### Bu Doküman Kimleri Kapsar?
+#### Bu Doküman Kimleri Kapsar?
 
 | Rol | Sorumluluk |
 |-----|------------|
@@ -418,7 +403,7 @@ parent: CRM
 | CRM Merkez | Kampanya oluşturma ve yönetimi |
 | Pazarlama Ekibi | Kampanya stratejisi belirleme |
 
-### Kapsanan Süreçler
+#### Kapsanan Süreçler
 
 1. Loyalty programına üyelik
 2. Puan kazanma ve kullanma
@@ -428,9 +413,9 @@ parent: CRM
 6. Raporlama ve analiz
 
 
-## Sorumluluklar
+### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Detay |
 |-------|-------|
@@ -440,7 +425,7 @@ parent: CRM
 | Bilgilendirme | Müşteriyi kampanyalar hakkında bilgilendirmek |
 | Sorun çözümü | Loyalty ile ilgili sorunları çözmek/yönlendirmek |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Detay |
 |-------|-------|
@@ -449,7 +434,7 @@ parent: CRM
 | Eğitim | Personeli kampanyalar konusunda eğitmek |
 | Raporlama | Kampanya performansını raporlamak |
 
-### CRM Merkez
+#### CRM Merkez
 
 | Görev | Detay |
 |-------|-------|
@@ -459,9 +444,9 @@ parent: CRM
 | Analiz | Kampanya etkinliğini analiz etmek |
 
 
-## Puan Sistemi
+### Puan Sistemi
 
-### Puan Kazanma
+#### Puan Kazanma
 
 | Koşul | Puan Oranı | Örnek |
 |-------|------------|-------|
@@ -470,7 +455,7 @@ parent: CRM
 | Çarpanlı Kampanya (3x) | 1 TL = 3 Puan | 500 TL = 1.500 Puan |
 | Doğum Günü Alışverişi | 1 TL = 2 Puan | Doğum günü haftasında |
 
-### Puan Kazanma Kuralları
+#### Puan Kazanma Kuralları
 
 | Kural | Açıklama |
 |-------|----------|
@@ -479,7 +464,7 @@ parent: CRM
 | İade durumu | İade edilen ürünün puanı düşürülür |
 | Geçerlilik | Puanlar 12 ay geçerlidir |
 
-### Puan Kullanma
+#### Puan Kullanma
 
 | Koşul | Değer | Kural |
 |-------|-------|-------|
@@ -488,7 +473,7 @@ parent: CRM
 | Maksimum Kullanım | Sepet tutarının %50'si | Tek seferde en fazla sepet tutarının yarısı kadar |
 | Nakit İadesi | Yok | Puanlar nakde çevrilemez |
 
-### Puan Geçerliliği
+#### Puan Geçerliliği
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -505,9 +490,9 @@ parent: CRM
 ```
 
 
-## Kupon Yönetimi
+### Kupon Yönetimi
 
-### Kupon Özellikleri
+#### Kupon Özellikleri
 
 | Özellik | Açıklama |
 |---------|----------|
@@ -520,7 +505,7 @@ parent: CRM
 | Geçerli Ürünler | Tüm ürünler / Belirli kategoriler |
 | Hariç Ürünler | Kampanya dışı ürünler |
 
-### Kupon Durumları
+#### Kupon Durumları
 
 | Durum | Açıklama |
 |-------|----------|
@@ -530,7 +515,7 @@ parent: CRM
 | İptal Edildi | Manuel olarak iptal edilmiş |
 | Kilitli | Belirli koşul sağlanana kadar kilitli |
 
-### Kupon Kullanım Kuralları
+#### Kupon Kullanım Kuralları
 
 | Kural | Açıklama |
 |-------|----------|
@@ -540,7 +525,7 @@ parent: CRM
 | İade durumu | Kuponlu satış iadesinde kupon iade edilmez |
 
 
-### 2. Satışta Puan Kazandırma
+#### 2. Satışta Puan Kazandırma
 
 **Adım 1:** Satış işlemini başlatın
 
@@ -569,7 +554,7 @@ parent: CRM
 ```
 
 
-### 4. Kupon Kullanımı
+#### 4. Kupon Kullanımı
 
 **Adım 1:** Müşteriyi satışa eşleştirin
 
@@ -593,9 +578,9 @@ parent: CRM
 
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Kupon Çalışmıyor
+#### Sorun 1: Kupon Çalışmıyor
 
 **Kontrol Listesi:**
 - [ ] Kupon süresi dolmuş mu?
@@ -607,7 +592,7 @@ parent: CRM
 **Çözüm:** Koşulları kontrol edin, sağlanmıyorsa müşteriye açıklayın.
 
 
-### Sorun 3: Müşteri Yanlış Puan Kullandı
+#### Sorun 3: Müşteri Yanlış Puan Kullandı
 
 **Çözüm:**
 1. İşlemi iptal edin (mağaza müdürü onayı gerekir)
@@ -616,16 +601,16 @@ parent: CRM
 4. Durumu ticket ile belgeleyin
 
 
-## Mağaza İpuçları
+### Mağaza İpuçları
 
-### Loyalty Satışı Artırma
+#### Loyalty Satışı Artırma
 
 1. **Her müşteriye sorun:** "Aydınlı Club üyemiz misiniz?"
 2. **Avantajları anlatın:** "Şu an 500 puan kazanabilirsiniz"
 3. **Puanları hatırlatın:** "3.500 puanınız var, bugün kullanmak ister misiniz?"
 4. **Kampanyaları duyurun:** "Üyelere özel %20 indirim var"
 
-### Üyelik Kaydını Teşvik
+#### Üyelik Kaydını Teşvik
 
 | Yaklaşım | Örnek |
 |----------|-------|
@@ -634,7 +619,7 @@ parent: CRM
 | Özel gün | "Doğum gününüzde özel indirim kuponu gönderelim" |
 | Erken erişim | "Yeni koleksiyonları herkesten önce görün" |
 
-### Kampanya Uygulama Kuralları
+#### Kampanya Uygulama Kuralları
 
 | Yapın | Yapmayın |
 |-------|----------|
@@ -643,7 +628,7 @@ parent: CRM
 | ✅ Kupon/puan kombinasyonunu kontrol edin | ❌ Sistem dışı indirim uygulamayın |
 | ✅ İşlem sonrası kazanımları bildirin | ❌ Geçersiz kupon kabul etmeyin |
 
-### Sorunlu Durumlar
+#### Sorunlu Durumlar
 
 | Durum | Yaklaşım |
 |-------|----------|
@@ -663,12 +648,7 @@ parent: CRM
 
 ## SECTION 4: CRM-DASHBOARD-KPI-TR
 
-﻿---
-layout: default
-title: "CRM Dashboard ve KPI Rehberi"
-parent: CRM
-
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -682,9 +662,9 @@ parent: CRM
 10. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+### Kapsam
 
-### Bu Doküman Kimleri Kapsar?
+#### Bu Doküman Kimleri Kapsar?
 
 | Rol | Kullanım Amacı |
 |-----|----------------|
@@ -693,7 +673,7 @@ parent: CRM
 | CRM Merkez | Global performans ve trend analizi |
 | Franchise Sahibi | İş sonuçları takibi |
 
-### Dashboard Türleri
+#### Dashboard Türleri
 
 | Dashboard | Kullanıcı | İçerik |
 |-----------|-----------|--------|
@@ -703,9 +683,9 @@ parent: CRM
 | Executive Dashboard | Üst Yönetim | Özet metrikler |
 
 
-## Sorumluluklar
+### Sorumluluklar
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Sıklık |
 |-------|--------|
@@ -714,7 +694,7 @@ parent: CRM
 | Düşük performans aksiyon planı | Anında |
 | Ekiple KPI paylaşımı | Günlük |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Görev | Sıklık |
 |-------|--------|
@@ -748,7 +728,7 @@ New Customer Rate % = (Yeni Müşteri / Toplam Satış Yapılan Müşteri) × 10
 **Hedef:** %20-30 arası (sektör ve lokasyona göre değişir)
 
 
-### 3. Müşteri Değeri KPI'ları
+#### 3. Müşteri Değeri KPI'ları
 
 #### Average Transaction Value (ATV)
 
@@ -793,7 +773,7 @@ Coupon Redemption % = (Kullanılan Kupon / Dağıtılan Kupon) × 100
 **Hedef:** %15-25 arası
 
 
-### 5. Kampanya KPI'ları
+#### 5. Kampanya KPI'ları
 
 #### Campaign Response Rate
 
@@ -807,7 +787,7 @@ Response Rate % = (Kampanyaya Katılan / Hedef Kitle) × 100
 **Hedef:** %10-20 arası
 
 
-### 6. Müşteri Edinme KPI'ları
+#### 6. Müşteri Edinme KPI'ları
 
 #### Customer Acquisition Cost (CAC)
 
@@ -838,9 +818,9 @@ FCR % = (İlk Temasta Çözülen / Toplam Ticket) × 100
 **Hedef:** %60 ve üzeri
 
 
-## Dashboard Kullanımı
+### Dashboard Kullanımı
 
-### Ana Dashboard Bileşenleri
+#### Ana Dashboard Bileşenleri
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -866,7 +846,7 @@ FCR % = (İlk Temasta Çözülen / Toplam Ticket) × 100
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Dashboard Filtreleri
+#### Dashboard Filtreleri
 
 | Filtre | Seçenekler |
 |--------|------------|
@@ -875,7 +855,7 @@ FCR % = (İlk Temasta Çözülen / Toplam Ticket) × 100
 | Mağaza | Tekli mağaza, Bölge, Tüm mağazalar |
 | Segment | Tüm müşteriler, RFM segmentleri |
 
-### Dashboard Okuma Rehberi
+#### Dashboard Okuma Rehberi
 
 **Kart Yapısı:**
 - **Başlık:** KPI adı
@@ -889,7 +869,7 @@ FCR % = (İlk Temasta Çözülen / Toplam Ticket) × 100
 - → Yatay ok: Stabil
 
 
-### Sorun 2: Loyalty Penetration Düşük
+#### Sorun 2: Loyalty Penetration Düşük
 
 **Durum:** Hedefin altında penetration oranı.
 
@@ -904,15 +884,15 @@ FCR % = (İlk Temasta Çözülen / Toplam Ticket) × 100
 3. Her satışta müşteri sorgusu yapılmasını sağlayın
 
 
-## Mağaza İpuçları
+### Mağaza İpuçları
 
-### Günlük KPI Takibi
+#### Günlük KPI Takibi
 
 1. **Sabah:** Dashboard'u kontrol edin, günlük hedefinizi bilin
 2. **Gün içi:** Penetration oranını izleyin
 3. **Akşam:** Günü değerlendirin, ertesi gün için plan yapın
 
-### KPI İyileştirme Taktikleri
+#### KPI İyileştirme Taktikleri
 
 | KPI | İyileştirme Taktiği |
 |-----|---------------------|
@@ -922,7 +902,7 @@ FCR % = (İlk Temasta Çözülen / Toplam Ticket) × 100
 | Enrollment | Avantajları vurgulayın |
 | Redemption | Puan bakiyesini hatırlatın |
 
-### Ekip Motivasyonu
+#### Ekip Motivasyonu
 
 - Günlük hedefleri ekiple paylaşın
 - İyi performansı kutlayın
@@ -940,12 +920,7 @@ FCR % = (İlk Temasta Çözülen / Toplam Ticket) × 100
 
 ## SECTION 5: CRM-CUSTOMER-DATA-POLICY-TR
 
-﻿---
-layout: default
-title: "CRM Müşteri Verileri Politikası (KVKK Uyumlu)"
-parent: CRM
-
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -962,9 +937,9 @@ parent: CRM
 13. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+### Kapsam
 
-### Bu Politika Kimleri Kapsar?
+#### Bu Politika Kimleri Kapsar?
 
 | Rol | Sorumluluk |
 |-----|------------|
@@ -974,7 +949,7 @@ parent: CRM
 | CRM Merkez | Veri yönetimi ve güvenliği |
 | Veri Koruma Sorumlusu (DPO) | KVKK uyumluluk denetimi |
 
-### Kapsanan Veriler
+#### Kapsanan Veriler
 
 | Veri Kategorisi | Örnekler | Hassasiyet |
 |-----------------|----------|------------|
@@ -986,9 +961,9 @@ parent: CRM
 | **İletişim Tercihleri** | SMS/E-posta izinleri | Düşük |
 
 
-## Yasal Dayanak
+### Yasal Dayanak
 
-### İlgili Mevzuat
+#### İlgili Mevzuat
 
 | Mevzuat | Konu |
 |---------|------|
@@ -997,7 +972,7 @@ parent: CRM
 | KVKK Yönetmelikleri | Uygulama detayları |
 | Kişisel Verileri Koruma Kurulu Kararları | Emsal kararlar |
 
-### Temel İlkeler (KVKK m.4)
+#### Temel İlkeler (KVKK m.4)
 
 1. **Hukuka ve dürüstlük kurallarına uygun olma**
 2. **Doğru ve gerektiğinde güncel olma**
@@ -1006,9 +981,9 @@ parent: CRM
 5. **İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilme**
 
 
-## Veri Toplama İlkeleri
+### Veri Toplama İlkeleri
 
-### Toplanabilecek Veriler
+#### Toplanabilecek Veriler
 
 | Veri | Amaç | Zorunluluk |
 |------|------|------------|
@@ -1019,7 +994,7 @@ parent: CRM
 | Cinsiyet | Kişiselleştirilmiş hizmet | İsteğe bağlı |
 | Adres | Teslimat hizmetleri | İsteğe bağlı |
 
-### Toplanamayacak Veriler
+#### Toplanamayacak Veriler
 
 Aşağıdaki veriler **kesinlikle toplanamaz**:
 
@@ -1035,7 +1010,7 @@ Aşağıdaki veriler **kesinlikle toplanamaz**:
 
 > ⚠️ **UYARI:** Bu verileri sormak, kaydetmek veya işlemek yasaktır ve ciddi yaptırımlara tabidir.
 
-### Veri Toplama Kuralları
+#### Veri Toplama Kuralları
 
 1. **Sadece gerekli verileri toplayın:** Amaç dışı veri toplamayın
 2. **Aydınlatma yapın:** Verinin neden toplandığını açıklayın
@@ -1044,9 +1019,9 @@ Aşağıdaki veriler **kesinlikle toplanamaz**:
 5. **Güvende tutun:** Verileri yetkisiz erişimden koruyun
 
 
-## Veri Saklama ve İmha
+### Veri Saklama ve İmha
 
-### Saklama Süreleri
+#### Saklama Süreleri
 
 | Veri Kategorisi | Saklama Süresi | Dayanak |
 |-----------------|----------------|---------|
@@ -1056,7 +1031,7 @@ Aşağıdaki veriler **kesinlikle toplanamaz**:
 | Şikayet kayıtları | Çözüm + 10 yıl | TTK |
 | Loyalty işlemleri | Son işlem + 5 yıl | İç politika |
 
-### İmha Yöntemleri
+#### İmha Yöntemleri
 
 | Yöntem | Açıklama | Kullanım Alanı |
 |--------|----------|----------------|
@@ -1064,16 +1039,16 @@ Aşağıdaki veriler **kesinlikle toplanamaz**:
 | **Yok Etme** | Fiziksel imha (öğütme, yakma) | Basılı belgeler |
 | **Anonimleştirme** | Verinin kişiyle ilişkilendirilemez hale getirilmesi | Analitik amaçlı |
 
-### Periyodik İmha
+#### Periyodik İmha
 
 - **Sıklık:** Her 6 ayda bir
 - **Sorumlu:** CRM Merkez
 - **Raporlama:** İmha tutanağı düzenlenir
 
 
-## Süreç Adımları
+### Süreç Adımları
 
-### 1. Yeni Müşteri Kaydında Veri Toplama
+#### 1. Yeni Müşteri Kaydında Veri Toplama
 
 **Adım 1:** Müşteriye aydınlatma metnini sunun
 
@@ -1094,7 +1069,7 @@ Aşağıdaki veriler **kesinlikle toplanamaz**:
 > ❌ **Yanlış:** "Şuraya imza atın" (açıklama yapmadan)
 
 
-### 3. Silme/Unutulma Hakkı Talebi
+#### 3. Silme/Unutulma Hakkı Talebi
 
 **Adım 1:** Müşteriden yazılı başvuru alın
 
@@ -1113,7 +1088,7 @@ Aşağıdaki veriler **kesinlikle toplanamaz**:
 > ⚠️ **Dikkat:** Bazı veriler yasal zorunluluk nedeniyle silinemez (örn: fatura bilgileri 10 yıl saklanmalı).
 
 
-### Sorun 2: Müşteri Verilerini Sorgulamak İstiyor
+#### Sorun 2: Müşteri Verilerini Sorgulamak İstiyor
 
 **Çözüm:**
 1. Müşteri kimliğini doğrulayın
@@ -1122,7 +1097,7 @@ Aşağıdaki veriler **kesinlikle toplanamaz**:
 4. Teslim tutanağı alın
 
 
-### Sorun 4: Veri İhlali Şüphesi
+#### Sorun 4: Veri İhlali Şüphesi
 
 **Çözüm:**
 1. Panik yapmayın ama hızlı hareket edin
@@ -1132,7 +1107,7 @@ Aşağıdaki veriler **kesinlikle toplanamaz**:
 5. Hiçbir şeyi silmeyin/değiştirmeyin (delil)
 
 
-## Revizyon Geçmişi
+### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|
@@ -1143,12 +1118,7 @@ Aşağıdaki veriler **kesinlikle toplanamaz**:
 
 ## SECTION 6: CRM-DATA-QUALITY-TR
 
-﻿---
-layout: default
-title: "CRM Veri Kalitesi Yönetimi"
-parent: CRM
-
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1165,9 +1135,9 @@ parent: CRM
 13. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+### Kapsam
 
-### Bu Doküman Kimleri Kapsar?
+#### Bu Doküman Kimleri Kapsar?
 
 | Rol | Sorumluluk |
 |-----|------------|
@@ -1177,7 +1147,7 @@ parent: CRM
 | CRM Merkez | Veri temizleme ve standardizasyon |
 | IT Ekibi | Sistem doğrulama kuralları |
 
-### Kapsanan Veriler
+#### Kapsanan Veriler
 
 | Veri Alanı | Kritiklik | Doğrulama Seviyesi |
 |------------|-----------|-------------------|
@@ -1189,9 +1159,9 @@ parent: CRM
 | Cinsiyet | Düşük | Manuel |
 
 
-## Sorumluluklar
+### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Detay | Sıklık |
 |-------|-------|--------|
@@ -1200,7 +1170,7 @@ parent: CRM
 | Güncelleme | Değişen bilgileri güncellemek | Talep üzerine |
 | Raporlama | Hatalı veriyi bildirmek | Tespit halinde |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Detay | Sıklık |
 |-------|-------|--------|
@@ -1209,7 +1179,7 @@ parent: CRM
 | Düzeltme | Tespit edilen hataları düzeltmek | Anında |
 | Raporlama | Veri kalitesi KPI'larını izlemek | Aylık |
 
-### CRM Merkez
+#### CRM Merkez
 
 | Görev | Detay | Sıklık |
 |-------|-------|--------|
@@ -1219,9 +1189,9 @@ parent: CRM
 | Analiz | Veri kalitesi trendlerini analiz etmek | Aylık |
 
 
-## Veri Doğrulama Kuralları
+### Veri Doğrulama Kuralları
 
-### Telefon Numarası
+#### Telefon Numarası
 
 | Kural | Geçerli | Geçersiz |
 |-------|---------|----------|
@@ -1238,7 +1208,7 @@ parent: CRM
 ✗ 532123456 → Geçersiz (9 hane)
 ```
 
-### E-posta Adresi
+#### E-posta Adresi
 
 | Kural | Geçerli | Geçersiz |
 |-------|---------|----------|
@@ -1256,7 +1226,7 @@ parent: CRM
 | Eksik domain | ahmet@gmail | ahmet@gmail.com |
 | Yanlış domain | ahmet@gmial.com | ahmet@gmail.com |
 
-### Ad Soyad
+#### Ad Soyad
 
 | Kural | Doğru | Yanlış |
 |-------|-------|--------|
@@ -1270,7 +1240,7 @@ parent: CRM
 - Soyad: İlk harf büyük, geri kalan küçük
 - Birden fazla ad: Her kelimenin ilk harfi büyük
 
-### Doğum Tarihi
+#### Doğum Tarihi
 
 | Kural | Geçerli | Geçersiz |
 |-------|---------|----------|
@@ -1280,9 +1250,9 @@ parent: CRM
 | Mantıksal | Gerçekçi | 01/01/1900 |
 
 
-## Düzeltme Süreçleri
+### Düzeltme Süreçleri
 
-### 1. Mağaza Seviyesinde Düzeltme
+#### 1. Mağaza Seviyesinde Düzeltme
 
 **Müşteri talep ederse:**
 
@@ -1298,7 +1268,7 @@ parent: CRM
 
 **Adım 6:** Müşteriye bilgi verin
 
-### 2. Toplu Düzeltme (CRM Merkez)
+#### 2. Toplu Düzeltme (CRM Merkez)
 
 Belirli paternler için toplu düzeltme yapılabilir:
 
@@ -1308,7 +1278,7 @@ Belirli paternler için toplu düzeltme yapılabilir:
 | email@gmial.com | @gmail.com olarak düzelt |
 | AHMET YILMAZ | Ahmet Yılmaz olarak formatla |
 
-### 3. Düzeltme Talep Süreci
+#### 3. Düzeltme Talep Süreci
 
 **Mağazanın kendisi düzeltemiyorsa:**
 
@@ -1325,9 +1295,9 @@ Belirli paternler için toplu düzeltme yapılabilir:
 **Adım 4:** Düzeltme bilgisi mağazaya iletilir
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Müşteri Telefon Numarasını Değiştirmiş
+#### Sorun 1: Müşteri Telefon Numarasını Değiştirmiş
 
 **Durum:** Eski numara ile kayıtlı, yeni numara ile aranıyor.
 
@@ -1338,7 +1308,7 @@ Belirli paternler için toplu düzeltme yapılabilir:
 4. Müşteriye onay verin
 
 
-### Sorun 3: Duplicate Kayıt Şüphesi
+#### Sorun 3: Duplicate Kayıt Şüphesi
 
 **Durum:** Aynı müşteri farklı numaralarla geliyor.
 
@@ -1349,9 +1319,9 @@ Belirli paternler için toplu düzeltme yapılabilir:
 4. Müşteriye süreç hakkında bilgi verin
 
 
-## Mağaza İpuçları
+### Mağaza İpuçları
 
-### Doğru Veri Girişi İçin
+#### Doğru Veri Girişi İçin
 
 | Yapın | Yapmayın |
 |-------|----------|
@@ -1361,7 +1331,7 @@ Belirli paternler için toplu düzeltme yapılabilir:
 | ✅ Sahte bilgi yerine boş bırakın | ❌ aaa@aaa.com kabul etmeyin |
 | ✅ Şüpheli duplicate'i bildirin | ❌ Görmezden gelmeyin |
 
-### Veri Kalitesi Kontrol Listesi
+#### Veri Kalitesi Kontrol Listesi
 
 **Her Müşteri Kaydında:**
 - [ ] Telefon 10 hane ve 5 ile başlıyor mu?
@@ -1370,7 +1340,7 @@ Belirli paternler için toplu düzeltme yapılabilir:
 - [ ] Müşteri zaten kayıtlı değil mi?
 - [ ] KVKK izinleri alındı mı?
 
-### Müşteriye Yaklaşım
+#### Müşteriye Yaklaşım
 
 **Doğru bilgi almak için:**
 > "Doğum gününüzde size özel bir sürprizimiz olacak, bu yüzden doğum tarihinizi doğru almam önemli."
@@ -1391,12 +1361,7 @@ Belirli paternler için toplu düzeltme yapılabilir:
 
 ## SECTION 7: CRM-DO-AND-DONT-TR
 
-﻿---
-layout: default
-title: "CRM Yapılması ve Yapılmaması Gerekenler"
-parent: CRM
-
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1412,9 +1377,9 @@ parent: CRM
 12. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+### Kapsam
 
-### Bu Doküman Kimleri Kapsar?
+#### Bu Doküman Kimleri Kapsar?
 
 | Rol | Uyum Zorunluluğu |
 |-----|------------------|
@@ -1423,9 +1388,9 @@ parent: CRM
 | Bölge Müdürü | Denetim |
 
 
-## Müşteri Kaydı
+### Müşteri Kaydı
 
-### ✅ YAPIN
+#### ✅ YAPIN
 
 | Kural | Açıklama |
 |-------|----------|
@@ -1436,7 +1401,7 @@ parent: CRM
 | ✅ Bilgi vermek istemezse boş bırakın | Sahte veri yerine |
 | ✅ Welcome bonusu müşteriye söyleyin | Memnuniyet için |
 
-### ❌ YAPMAYIN
+#### ❌ YAPMAYIN
 
 | Kural | Risk |
 |-------|------|
@@ -1448,9 +1413,9 @@ parent: CRM
 | ❌ Müşteriyi kayda zorlamayın | Müşteri kaybedersiniz |
 
 
-## Müşteri İletişimi
+### Müşteri İletişimi
 
-### ✅ YAPIN
+#### ✅ YAPIN
 
 | Kural | Açıklama |
 |-------|----------|
@@ -1461,7 +1426,7 @@ parent: CRM
 | ✅ Profesyonel ve nazik olun | Marka imajı için |
 | ✅ Şikayetleri ciddiye alın | Sadakat için |
 
-### ❌ YAPMAYIN
+#### ❌ YAPMAYIN
 
 | Kural | Risk |
 |-------|------|
@@ -1473,9 +1438,9 @@ parent: CRM
 | ❌ Başka departmanları suçlamayın | Kurumsal imaj |
 
 
-## Ticketing
+### Ticketing
 
-### ✅ YAPIN
+#### ✅ YAPIN
 
 | Kural | Açıklama |
 |-------|----------|
@@ -1487,7 +1452,7 @@ parent: CRM
 | ✅ SLA sürelerine dikkat edin | Uyumluluk için |
 | ✅ Takip bilgisi verin | Müşteri memnuniyeti için |
 
-### ❌ YAPMAYIN
+#### ❌ YAPMAYIN
 
 | Kural | Risk |
 |-------|------|
@@ -1499,9 +1464,9 @@ parent: CRM
 | ❌ Çözülmeden ticket kapatmayın | Tekrar açılır |
 
 
-## Önemli Uyarılar
+### Önemli Uyarılar
 
-### 🚨 KESİNLİKLE YASAK
+#### 🚨 KESİNLİKLE YASAK
 
 Aşağıdaki eylemler **kesinlikle yasaktır** ve ciddi yaptırımlara tabidir:
 
@@ -1516,9 +1481,9 @@ Aşağıdaki eylemler **kesinlikle yasaktır** ve ciddi yaptırımlara tabidir:
 | 7 | KVKK ihlali yapmak | Yasal yaptırım + tazminat |
 
 
-## İhlal Sonuçları
+### İhlal Sonuçları
 
-### İhlal Seviyeleri
+#### İhlal Seviyeleri
 
 | Seviye | Örnek | Sonuç |
 |--------|-------|-------|
@@ -1527,7 +1492,7 @@ Aşağıdaki eylemler **kesinlikle yasaktır** ve ciddi yaptırımlara tabidir:
 | **Yüksek** | KVKK ihlali, veri paylaşımı | Disiplin işlemi |
 | **Kritik** | Kasıtlı suistimal | İş akdi feshi + yasal işlem |
 
-### İhlal Raporlama
+#### İhlal Raporlama
 
 İhlal tespit edildiğinde:
 1. Durumu derhal mağaza müdürüne bildirin
@@ -1536,7 +1501,7 @@ Aşağıdaki eylemler **kesinlikle yasaktır** ve ciddi yaptırımlara tabidir:
 4. CRM Merkez bilgilendirilir
 
 
-## Revizyon Geçmişi
+### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|
@@ -1547,12 +1512,7 @@ Aşağıdaki eylemler **kesinlikle yasaktır** ve ciddi yaptırımlara tabidir:
 
 ## SECTION 8: CRM-STORE-USER-GUIDE-TR
 
-﻿---
-layout: default
-title: "Mağaza CRM Kullanım Kılavuzu"
-parent: CRM
-
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1564,9 +1524,9 @@ parent: CRM
 8. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+### Kapsam
 
-### Bu Kılavuz Kimleri Kapsar?
+#### Bu Kılavuz Kimleri Kapsar?
 
 | Rol | Kullanım Amacı |
 |-----|----------------|
@@ -1574,7 +1534,7 @@ parent: CRM
 | Kasiyer | Satış sırasında müşteri eşleştirmesi yapmak |
 | Mağaza Müdürü | Ekibi denetlemek ve eğitmek |
 
-### Kapsanan İşlemler
+#### Kapsanan İşlemler
 
 1. CRM sistemine giriş
 2. Müşteri arama ve sorgulama
@@ -1585,9 +1545,9 @@ parent: CRM
 7. Müşteri profili görüntüleme
 
 
-## Sorumluluklar
+### Sorumluluklar
 
-### Satış Danışmanı Görevleri
+#### Satış Danışmanı Görevleri
 
 | Görev | Detay | Önem |
 |-------|-------|------|
@@ -1597,7 +1557,7 @@ parent: CRM
 | Veri doğrulama | Girilen bilgilerin doğruluğunu teyit etmek | Zorunlu |
 | Kupon kullanımı | Geçerli kuponları uygulamak | İsteğe bağlı |
 
-### Mağaza Müdürü Görevleri
+#### Mağaza Müdürü Görevleri
 
 | Görev | Detay | Sıklık |
 |-------|-------|--------|
@@ -1606,7 +1566,7 @@ parent: CRM
 | Performans raporu | CRM eşleştirme oranını takip etmek | Günlük |
 
 
-### 2. Müşteri Arama
+#### 2. Müşteri Arama
 
 #### 2.1 Hızlı Arama (Quick Search)
 
@@ -1644,7 +1604,7 @@ parent: CRM
 **Adım 4:** Sonuç listesinden doğru müşteriyi seçin
 
 
-### 4. Müşteri Bilgisi Güncelleme
+#### 4. Müşteri Bilgisi Güncelleme
 
 **Adım 1:** Müşteriyi arayın ve profilini açın
 
@@ -1667,7 +1627,7 @@ parent: CRM
 > ⚠️ **Dikkat:** Ad, soyad ve TC kimlik numarası gibi temel bilgiler mağazadan değiştirilemez. Bu bilgilerin güncellenmesi için CRM Merkez'e talep açın.
 
 
-### 6. Kupon ve Puan İşlemleri
+#### 6. Kupon ve Puan İşlemleri
 
 #### 6.1 Kupon Kullanımı
 
@@ -1722,7 +1682,7 @@ Standart puan çarpanı: Her 1 TL = 1 Puan
 
 
 
-### Sorun 2: Müşteri Kaydı Başarısız
+#### Sorun 2: Müşteri Kaydı Başarısız
 
 **Olası Nedenler ve Çözümler:**
 
@@ -1734,7 +1694,7 @@ Standart puan çarpanı: Her 1 TL = 1 Puan
 | "KVKK onayı gerekli" | İzin eksik | Veri işleme iznini işaretleyin |
 
 
-### Sorun 4: Müşteri Eşleştirmesi Yapılamıyor
+#### Sorun 4: Müşteri Eşleştirmesi Yapılamıyor
 
 **Çözüm:**
 1. Satış iptal etmeden müşteri araması yapın
@@ -1743,7 +1703,7 @@ Standart puan çarpanı: Her 1 TL = 1 Puan
 4. Satış tamamlandıktan sonra eşleştirme yapılamaz
 
 
-## Revizyon Geçmişi
+### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|
@@ -1754,12 +1714,7 @@ Standart puan çarpanı: Her 1 TL = 1 Puan
 
 ## SECTION 9: CRM-STORE-CRM-CHECKLIST-TR
 
-﻿---
-layout: default
-title: "Mağaza CRM Kontrol Listesi"
-parent: CRM
-
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1773,9 +1728,9 @@ parent: CRM
 10. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+### Kapsam
 
-### Bu Kontrol Listeleri Kimleri Kapsar?
+#### Bu Kontrol Listeleri Kimleri Kapsar?
 
 | Rol | Kullanım |
 |-----|----------|
@@ -1784,9 +1739,9 @@ parent: CRM
 | Bölge Müdürü | Aylık uyumluluk kontrolü |
 
 
-## Haftalık Kontrol Listesi
+### Haftalık Kontrol Listesi
 
-### Pazartesi - Hafta Başlangıcı
+#### Pazartesi - Hafta Başlangıcı
 
 | Sıra | Görev | Sorumlu | Kontrol |
 |------|-------|---------|---------|
@@ -1796,7 +1751,7 @@ parent: CRM
 | 4 | Yeni kampanya duyurularını kontrol et | Mağaza Müdürü | ☐ |
 | 5 | Veri kalitesi raporunu incele | Mağaza Müdürü | ☐ |
 
-### Hafta İçi
+#### Hafta İçi
 
 | Sıra | Görev | Sorumlu | Sıklık | Kontrol |
 |------|-------|---------|--------|---------|
@@ -1805,7 +1760,7 @@ parent: CRM
 | 3 | Ticket çözüm durumlarını takip et | Mağaza Müdürü | Günlük | ☐ |
 | 4 | Personel CRM kullanımını gözlemle | Mağaza Müdürü | Sürekli | ☐ |
 
-### Cuma - Hafta Sonu
+#### Cuma - Hafta Sonu
 
 | Sıra | Görev | Sorumlu | Kontrol |
 |------|-------|---------|---------|
@@ -1815,9 +1770,9 @@ parent: CRM
 | 4 | Haftalık raporu bölge müdürüne gönder | Mağaza Müdürü | ☐ |
 
 
-## Satış Süreci Kontrol Listesi
+### Satış Süreci Kontrol Listesi
 
-### Satış Öncesi
+#### Satış Öncesi
 
 | Sıra | Görev | Kontrol |
 |------|-------|---------|
@@ -1825,7 +1780,7 @@ parent: CRM
 | 2 | Güncel kampanyaları biliyor musunuz? | ☐ |
 | 3 | POS ve CRM entegrasyonu çalışıyor mu? | ☐ |
 
-### Satış Sırası
+#### Satış Sırası
 
 | Sıra | Görev | Kontrol |
 |------|-------|---------|
@@ -1838,7 +1793,7 @@ parent: CRM
 | 7 | Kupon/puan kullanımı soruldu mu? | ☐ |
 | 8 | Geçerli kampanya uygulandı mı? | ☐ |
 
-### Yeni Müşteri Kaydı (Gerekirse)
+#### Yeni Müşteri Kaydı (Gerekirse)
 
 | Sıra | Görev | Kontrol |
 |------|-------|---------|
@@ -1851,7 +1806,7 @@ parent: CRM
 | 7 | İletişim izinleri soruldu ve kaydedildi mi? | ☐ |
 | 8 | Kayıt başarıyla tamamlandı mı? | ☐ |
 
-### Satış Sonrası
+#### Satış Sonrası
 
 | Sıra | Görev | Kontrol |
 |------|-------|---------|
@@ -1861,7 +1816,7 @@ parent: CRM
 | 4 | Müşteri memnuniyeti soruldu mu? | ☐ |
 
 
-## Ticket Açma Kontrol Listesi
+### Ticket Açma Kontrol Listesi
 
 | Sıra | Görev | Kontrol |
 |------|-------|---------|
@@ -1877,16 +1832,16 @@ parent: CRM
 | 10 | Müşteriye ticket numarası verildi mi? | ☐ |
 
 
-## Mağaza İpuçları
+### Mağaza İpuçları
 
-### Kontrol Listesi Kullanım İpuçları
+#### Kontrol Listesi Kullanım İpuçları
 
 1. **Her gün aynı saatte kontrol yapın** - Rutin oluşturun
 2. **Eksik maddeleri hemen tamamlayın** - Ertelemeyin
 3. **Sorunları anında raporlayın** - Biriktirmeyin
 4. **Ekiple paylaşın** - Herkes sorumluluğunu bilsin
 
-### Başarı İçin Kritik Maddeler
+#### Başarı İçin Kritik Maddeler
 
 | Kritik Madde | Neden Önemli |
 |--------------|--------------|
@@ -1895,7 +1850,7 @@ parent: CRM
 | Doğru veri girişi | Veri kalitesi KPI'ı etkiler |
 | Ticket takibi | SLA uyumluluğu etkiler |
 
-### Kontrol Listesi Arşivleme
+#### Kontrol Listesi Arşivleme
 
 - Günlük kontrol listeleri: 1 ay sakla
 - Haftalık kontrol listeleri: 3 ay sakla
@@ -1912,12 +1867,7 @@ parent: CRM
 
 ## SECTION 10: CRM-TICKETING-PROCESS-TR
 
-﻿---
-layout: default
-title: "CRM Ticketing ve Müşteri Şikayet Yönetimi"
-parent: CRM
-
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1931,9 +1881,9 @@ parent: CRM
 10. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+### Kapsam
 
-### Bu Doküman Kimleri Kapsar?
+#### Bu Doküman Kimleri Kapsar?
 
 | Rol | Sorumluluk |
 |-----|------------|
@@ -1943,7 +1893,7 @@ parent: CRM
 | CRM Merkez | Merkezi çözüm ve kapanış onayı |
 | Kalite Ekibi | Ürün kalitesi ile ilgili ticketlar |
 
-### Kapsanan Süreçler
+#### Kapsanan Süreçler
 
 1. Ticket oluşturma
 2. Ticket kategorilendirme
@@ -1955,9 +1905,9 @@ parent: CRM
 8. Müşteri bilgilendirme
 
 
-## Sorumluluklar
+### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Görev | Detay |
 |-------|-------|
@@ -1967,7 +1917,7 @@ parent: CRM
 | İlk müdahale | Mağaza seviyesinde çözülebilecek sorunları çözmek |
 | Müşteriyi bilgilendirme | Süreç hakkında müşteriyi güncel tutmak |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Detay |
 |-------|-------|
@@ -1977,7 +1927,7 @@ parent: CRM
 | Performans takibi | Mağaza ticket KPI'larını izlemek |
 | Kapanış onayı | Çözülen ticketları kapatmak |
 
-### CRM Merkez Ekibi
+#### CRM Merkez Ekibi
 
 | Görev | Detay |
 |-------|-------|
@@ -1988,7 +1938,7 @@ parent: CRM
 | Politika güncelleme | Süreçleri iyileştirmek |
 
 
-### 2. Ticket İşleme Akışı
+#### 2. Ticket İşleme Akışı
 
 ```
 ┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
@@ -2024,7 +1974,7 @@ parent: CRM
 ```
 
 
-### 4. Ticket Güncelleme
+#### 4. Ticket Güncelleme
 
 **Her güncellemede kaydedilecekler:**
 - Yapılan işlem
@@ -2041,9 +1991,9 @@ Sonraki Adım: [Plananan aksiyon]
 ```
 
 
-## SLA Süreleri
+### SLA Süreleri
 
-### Kategori Bazlı SLA
+#### Kategori Bazlı SLA
 
 | Kategori | Öncelik | İlk Yanıt | Çözüm |
 |----------|---------|-----------|-------|
@@ -2054,7 +2004,7 @@ Sonraki Adım: [Plananan aksiyon]
 | Mağaza Hizmeti | Normal | 4 saat | 48 saat |
 | Loyalty/Puan | Normal | 2 saat | 24 saat |
 
-### VIP Müşteri SLA
+#### VIP Müşteri SLA
 
 VIP müşterilerde tüm SLA süreleri %50 kısaltılır.
 
@@ -2065,9 +2015,9 @@ VIP müşterilerde tüm SLA süreleri %50 kısaltılır.
 | 4 saat | 2 saat |
 
 
-## KPI'lar
+### KPI'lar
 
-### Ticket Performans KPI'ları
+#### Ticket Performans KPI'ları
 
 | KPI | Tanım | Formül | Hedef |
 |-----|-------|--------|-------|
@@ -2078,7 +2028,7 @@ VIP müşterilerde tüm SLA süreleri %50 kısaltılır.
 | **Reopened Ticket Rate** | Tekrar açılan ticket oranı | (Tekrar Açılan / Toplam Kapatılan) × 100 | <5% |
 | **Ticket per Transaction** | İşlem başına ticket oranı | Toplam Ticket / Toplam Satış × 1000 | <2‰ |
 
-### Hesaplama Örnekleri
+#### Hesaplama Örnekleri
 
 **FCR Hesaplama:**
 ```
@@ -2095,7 +2045,7 @@ SLA Compliance = (190 / 200) × 100 = %95
 ```
 
 
-### Sorun 2: Müşteri Kanıt Sağlayamıyor
+#### Sorun 2: Müşteri Kanıt Sağlayamıyor
 
 **Durum:** Müşteri fişi kaybetmiş veya ürünü getirmemiş.
 
@@ -2107,7 +2057,7 @@ SLA Compliance = (190 / 200) × 100 = %95
 5. Mağaza müdürü onayı ile işlem yapın
 
 
-### Sorun 4: SLA Süresi Dolmak Üzere
+#### Sorun 4: SLA Süresi Dolmak Üzere
 
 **Durum:** Ticket çözüme ulaşmadı, SLA dolacak.
 
@@ -2119,7 +2069,7 @@ SLA Compliance = (190 / 200) × 100 = %95
 5. Öncelik seviyesini yükseltin
 
 
-## Revizyon Geçmişi
+### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|

@@ -33,12 +33,8 @@ This comprehensive visual merchandising documentation covers all aspects of stor
 
 ## SECTION 1: VM-OVERVIEW-EN
 
-﻿---
-layout: default
-title: "Visual Merchandising Overview – EN"
-parent: Visual Merchandising
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -53,9 +49,9 @@ parent: Visual Merchandising
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Store Format Coverage
+#### Store Format Coverage
 
 | Format | Size Range | VM Complexity |
 |--------|------------|---------------|
@@ -65,16 +61,16 @@ parent: Visual Merchandising
 | Shop-in-Shop | 25-50 m² | Corner VM adaptation |
 | Outlet | Variable | Simplified VM approach |
 
-### Brand Application
+#### Brand Application
 
 - **U.S. Polo Assn.:** Full VM guidelines apply
 - **Pierre Cardin:** Full VM guidelines apply
 - **Cacharel:** Full VM guidelines apply
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Frequency | Standard |
 |------|-----------|----------|
@@ -84,7 +80,7 @@ parent: Visual Merchandising
 | Report VM issues | As needed | Via store app |
 | Execute daily VM checklist | Daily | Morning opening |
 
-### Store Manager
+#### Store Manager
 
 | Task | Frequency | Standard |
 |------|-----------|----------|
@@ -95,7 +91,7 @@ parent: Visual Merchandising
 | Competition analysis | Weekly | Photo documentation |
 | VM performance review | Weekly | Sales correlation |
 
-### Regional Manager
+#### Regional Manager
 
 | Task | Frequency | Standard |
 |------|-----------|----------|
@@ -105,7 +101,7 @@ parent: Visual Merchandising
 | New store VM setup | As needed | Pre-opening checklist |
 | VM training delivery | Quarterly | Regional workshops |
 
-### HQ VM Team
+#### HQ VM Team
 
 | Task | Frequency | Standard |
 |------|-----------|----------|
@@ -117,9 +113,9 @@ parent: Visual Merchandising
 | VM training curriculum | Annual | Global certification |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Core VM Principles
+#### Core VM Principles
 
 1. **Golden Triangle Rule**
    - Primary focal point visible from entrance
@@ -142,7 +138,7 @@ parent: Visual Merchandising
    - No critical products in this area
    - Use for brand ambiance
 
-### Mandatory Standards
+#### Mandatory Standards
 
 | Standard | Requirement | Tolerance |
 |----------|-------------|-----------|
@@ -155,7 +151,7 @@ parent: Visual Merchandising
 | Color blocking | Gradient arrangement | As per guide |
 | Signage accuracy | Current campaign only | Zero tolerance |
 
-### Prohibited Practices
+#### Prohibited Practices
 
 - ❌ Overcrowded fixtures exceeding capacity
 - ❌ Mixed brand displays (unless approved)
@@ -169,9 +165,9 @@ parent: Visual Merchandising
 - ❌ Non-approved fixtures
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: New Season Launch
+#### Scenario 1: New Season Launch
 
 **Situation:** Spring/Summer collection launch day
 
@@ -194,7 +190,7 @@ T+1: Photo documentation, issue resolution
 - Photo documentation uploaded within 24 hours
 - Zero VM compliance issues
 
-### Scenario 2: Campaign Period VM Adaptation
+#### Scenario 2: Campaign Period VM Adaptation
 
 **Situation:** Black Friday promotion starting
 
@@ -207,7 +203,7 @@ T+1: Photo documentation, issue resolution
 
 **Execution Timeline:** 24 hours before campaign start
 
-### Scenario 3: Low Stock Situation
+#### Scenario 3: Low Stock Situation
 
 **Situation:** Key products running low before restock
 
@@ -230,9 +226,9 @@ Option C: Re-merchandising
 ```
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Overcrowded Fixtures
+#### Issue 1: Overcrowded Fixtures
 
 **Problem:** Products packed too tightly, reducing visual appeal
 
@@ -245,7 +241,7 @@ Option C: Re-merchandising
 **Prevention:** Daily capacity checks, proper stock rotation
 
 
-### Issue 3: Mannequin Styling Errors
+#### Issue 3: Mannequin Styling Errors
 
 **Problem:** Incorrect outfit combinations or poor fit
 
@@ -259,7 +255,7 @@ Option C: Re-merchandising
 **Prevention:** Weekly mannequin styling review
 
 
-### Issue 5: Signage Errors
+#### Issue 5: Signage Errors
 
 **Problem:** Wrong prices, outdated campaigns, or missing tags
 
@@ -272,9 +268,9 @@ Option C: Re-merchandising
 **Prevention:** Pre-campaign signage checklist, date-stamp all materials
 
 
-## VM Resources
+#### VM Resources
 
-### Available Support
+#### Available Support
 
 | Resource | Access | Update Frequency |
 |----------|--------|------------------|
@@ -284,7 +280,7 @@ Option C: Re-merchandising
 | VM Hotline | +90 212 XXX XX XX | Business hours |
 | Regional VM Manager | Email/WhatsApp | Response <24h |
 
-### Training Calendar
+#### Training Calendar
 
 | Training | Format | Frequency | Duration |
 |----------|--------|-----------|----------|
@@ -304,12 +300,8 @@ Option C: Re-merchandising
 
 ## SECTION 2: IN-STORE-LAYOUT-GUIDELINE-EN
 
-﻿---
-layout: default
-title: "In-Store Layout Guideline – EN"
-parent: Visual Merchandising
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -324,9 +316,9 @@ parent: Visual Merchandising
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Store Formats Covered
+#### Store Formats Covered
 
 | Format | Size | Layout Complexity |
 |--------|------|-------------------|
@@ -336,7 +328,7 @@ parent: Visual Merchandising
 | **Shop-in-Shop** | 25-50 m² | Simplified layout |
 | **Outlet** | Variable | Flow-focused |
 
-### Brand Application
+#### Brand Application
 
 All guidelines apply to:
 - U.S. Polo Assn.
@@ -344,9 +336,9 @@ All guidelines apply to:
 - Cacharel
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Manager
+#### Store Manager
 
 | Task | Frequency | Standard |
 |------|-----------|----------|
@@ -355,7 +347,7 @@ All guidelines apply to:
 | Traffic flow optimization | Ongoing | Based on observation |
 | Layout compliance audit | Weekly | Using audit checklist |
 
-### Regional Manager
+#### Regional Manager
 
 | Task | Frequency | Standard |
 |------|-----------|----------|
@@ -363,7 +355,7 @@ All guidelines apply to:
 | Layout change approval | As needed | Within 48 hours |
 | Best practice sharing | Monthly | Regional meeting |
 
-### HQ VM Team
+#### HQ VM Team
 
 | Task | Frequency | Standard |
 |------|-----------|----------|
@@ -372,9 +364,9 @@ All guidelines apply to:
 | Performance analysis | Monthly | Sales per zone |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Fixture Placement Rules
+#### Fixture Placement Rules
 
 #### Wall Fixtures (Perimeter)
 ```
@@ -404,7 +396,7 @@ WALL FIXTURE HEIGHT ZONES
 | **Nesting Tables** | Folded items | A-Zone focal points |
 | **Display Cube** | Hero products | Entrance, windows |
 
-### Product Adjacency Matrix
+#### Product Adjacency Matrix
 
 | Category | Should Be Near | Should Avoid |
 |----------|----------------|--------------|
@@ -415,7 +407,7 @@ WALL FIXTURE HEIGHT ZONES
 | **Accessories** | Related apparel, checkout | Isolated areas |
 | **Outerwear** | Knitwear, scarves | Summer items |
 
-### Space Allocation by Season
+#### Space Allocation by Season
 
 | Season | A-Zone Focus | B-Zone Focus | C-Zone |
 |--------|--------------|--------------|--------|
@@ -426,9 +418,9 @@ WALL FIXTURE HEIGHT ZONES
 | **Sale Periods** | Marked-down hero | Promotional | Clearance |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: 150m² Standard Store Layout
+#### Scenario 1: 150m² Standard Store Layout
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -466,7 +458,7 @@ WALL FIXTURE HEIGHT ZONES
 └───────────────────┴─────────────────┴───────────────────────┘
 ```
 
-### Scenario 2: Seasonal Transition Layout
+#### Scenario 2: Seasonal Transition Layout
 
 **Spring to Summer Transition:**
 
@@ -478,9 +470,9 @@ WALL FIXTURE HEIGHT ZONES
 | Window | Spring theme | Summer theme | Complete change |
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Dead Zones
+#### Issue 1: Dead Zones
 
 **Problem:** Areas with low traffic and poor sales
 
@@ -491,7 +483,7 @@ WALL FIXTURE HEIGHT ZONES
 - Enhance lighting
 
 
-### Issue 3: Poor Customer Flow
+#### Issue 3: Poor Customer Flow
 
 **Problem:** Customers not exploring entire store
 
@@ -512,12 +504,8 @@ WALL FIXTURE HEIGHT ZONES
 
 ## SECTION 3: WINDOW-DISPLAY-GUIDELINE-EN
 
-﻿---
-layout: default
-title: "Window Display Guideline – EN"
-parent: Visual Merchandising
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -532,9 +520,9 @@ parent: Visual Merchandising
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Window Types Covered
+#### Window Types Covered
 
 | Window Type | Description | Application |
 |-------------|-------------|-------------|
@@ -545,7 +533,7 @@ parent: Visual Merchandising
 | **Shadow Box** | Small elevated display box | Accessory focus |
 | **Island Display** | Free-standing window structure | Mall corridors |
 
-### Brand Application
+#### Brand Application
 
 | Brand | Window Style | Key Characteristics |
 |-------|-------------|---------------------|
@@ -554,9 +542,9 @@ parent: Visual Merchandising
 | **Cacharel** | Classic, refined | French elegance, tailored |
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Responsibility | Frequency | Standard |
 |----------------|-----------|----------|
@@ -566,7 +554,7 @@ parent: Visual Merchandising
 | Replace sold display products | Same day | Within 4 hours |
 | Adjust lighting as needed | Daily | Per lighting guide |
 
-### Store Manager
+#### Store Manager
 
 | Responsibility | Frequency | Standard |
 |----------------|-----------|----------|
@@ -576,7 +564,7 @@ parent: Visual Merchandising
 | Photo documentation | Per change | 3 angles minimum |
 | Competitor window analysis | Weekly | Photo report |
 
-### Regional Manager
+#### Regional Manager
 
 | Responsibility | Frequency | Standard |
 |----------------|-----------|----------|
@@ -585,7 +573,7 @@ parent: Visual Merchandising
 | Exception approval | As needed | Within 24 hours |
 | New store window setup | As needed | Pre-opening |
 
-### HQ VM Team
+#### HQ VM Team
 
 | Responsibility | Frequency | Standard |
 |----------------|-----------|----------|
@@ -596,9 +584,9 @@ parent: Visual Merchandising
 | Performance analysis | Monthly | Global benchmark |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Window Composition Rules
+#### Window Composition Rules
 
 #### Pyramid Composition
 ```
@@ -640,7 +628,7 @@ Same product in different colors
 • Effective for promotions
 ```
 
-### Mannequin Grouping Standards
+#### Mannequin Grouping Standards
 
 | Window Size | Mannequin Count | Grouping Style |
 |-------------|-----------------|----------------|
@@ -649,7 +637,7 @@ Same product in different colors
 | Large (5-8m) | 4-6 | Multiple groups |
 | Extra Large (>8m) | 6+ | Scene composition |
 
-### Mannequin Positioning
+#### Mannequin Positioning
 
 ```
 FRONT VIEW - Customer Perspective
@@ -680,7 +668,7 @@ TOP VIEW - Positioning Angles
     Preferred angles: 15°-45° from perpendicular
 ```
 
-### Lighting Standards
+#### Lighting Standards
 
 | Lighting Type | Purpose | Specification |
 |---------------|---------|---------------|
@@ -689,7 +677,7 @@ TOP VIEW - Positioning Angles
 | **Color Temperature** | Brand ambiance | 3000-4000K (warm white) |
 | **Backlight** | Depth and drama | 500-800 lux |
 
-### Lighting Angle Guide
+#### Lighting Angle Guide
 
 ```
 Side View - Spotlight Positioning
@@ -710,7 +698,7 @@ Side View - Spotlight Positioning
 • Multiple sources for natural effect
 ```
 
-### Window Cleanliness Standards
+#### Window Cleanliness Standards
 
 | Element | Cleaning Frequency | Method |
 |---------|-------------------|--------|
@@ -722,9 +710,9 @@ Side View - Spotlight Positioning
 | Lighting fixtures | Monthly | Dust, check bulbs |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Spring/Summer Launch Window
+#### Scenario 1: Spring/Summer Launch Window
 
 **Theme:** "Fresh Start" - New season collection launch
 
@@ -760,7 +748,7 @@ Side View - Spotlight Positioning
 **Lighting:** Bright, fresh feel - 4000K, high lux
 
 
-### Scenario 3: Holiday/New Year Window
+#### Scenario 3: Holiday/New Year Window
 
 **Theme:** "Season of Celebration"
 
@@ -796,9 +784,9 @@ Side View - Spotlight Positioning
 - Gift-giving suggestions
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Window Kit Arrives Incomplete
+#### Issue 1: Window Kit Arrives Incomplete
 
 **Problem:** Missing components in window kit delivery
 
@@ -816,7 +804,7 @@ Side View - Spotlight Positioning
 **Prevention:** Detailed kit inventory upon receipt, 72 hours before change
 
 
-### Issue 3: Lighting Failure
+#### Issue 3: Lighting Failure
 
 **Problem:** Spotlights not working or uneven lighting
 
@@ -833,7 +821,7 @@ Side View - Spotlight Positioning
 **Prevention:** Weekly lighting check, maintain spare bulb inventory
 
 
-### Issue 5: Products Sell Out During Window Cycle
+#### Issue 5: Products Sell Out During Window Cycle
 
 **Problem:** Display products no longer available in store
 
@@ -850,9 +838,9 @@ Side View - Spotlight Positioning
 **Prevention:** Higher stock allocation for window products, daily availability check
 
 
-## Resources
+#### Resources
 
-### Window Kit Contents (Standard)
+#### Window Kit Contents (Standard)
 
 | Item | Quantity | Notes |
 |------|----------|-------|
@@ -876,12 +864,8 @@ Side View - Spotlight Positioning
 
 ## SECTION 4: MANNEQUIN-STYLING-GUIDELINE-EN
 
-﻿---
-layout: default
-title: "Mannequin Styling Guideline – EN"
-parent: Visual Merchandising
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -896,9 +880,9 @@ parent: Visual Merchandising
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Mannequin Types Covered
+#### Mannequin Types Covered
 
 | Type | Description | Use Case |
 |------|-------------|----------|
@@ -909,7 +893,7 @@ parent: Visual Merchandising
 | **Leg Form** | Lower body only | Pants displays |
 | **Articulated** | Movable joints | Dynamic poses |
 
-### Brand Application
+#### Brand Application
 
 | Brand | Mannequin Style | Key Characteristics |
 |-------|----------------|---------------------|
@@ -918,9 +902,9 @@ parent: Visual Merchandising
 | **Cacharel** | Modern, tailored | Professional, polished |
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Frequency | Standard |
 |------|-----------|----------|
@@ -929,7 +913,7 @@ parent: Visual Merchandising
 | Report damage | Immediately | Via store app |
 | Maintain styling | Ongoing | Per standards |
 
-### Store Manager
+#### Store Manager
 
 | Task | Frequency | Standard |
 |------|-----------|----------|
@@ -938,7 +922,7 @@ parent: Visual Merchandising
 | Mannequin inventory | Quarterly | Full check |
 | Quality audit | Weekly | Using checklist |
 
-### HQ VM Team
+#### HQ VM Team
 
 | Task | Frequency | Standard |
 |------|-----------|----------|
@@ -948,9 +932,9 @@ parent: Visual Merchandising
 | Performance analysis | Monthly | Sales correlation |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Brand-Specific Styling Standards
+#### Brand-Specific Styling Standards
 
 #### U.S. Polo Assn.
 
@@ -1025,7 +1009,7 @@ parent: Visual Merchandising
 | **Accessories** | Classic refined | Quality leather, subtle metals |
 | **Color Mix** | 2-3 colors | Sophisticated palette |
 
-### Universal Styling Rules
+#### Universal Styling Rules
 
 #### DO's ✓
 
@@ -1051,7 +1035,7 @@ parent: Visual Merchandising
 | Ignore season appropriateness | Relevance to customer needs |
 | Leave visible pins from front | Unprofessional appearance |
 
-### Mannequin Count by Store Size
+#### Mannequin Count by Store Size
 
 | Store Size | Window Mannequins | In-Store Mannequins | Total |
 |------------|-------------------|---------------------|-------|
@@ -1061,9 +1045,9 @@ parent: Visual Merchandising
 | > 250 m² | 8+ | 10+ | 18+ |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Spring/Summer Casual (U.S. Polo Assn.)
+#### Scenario 1: Spring/Summer Casual (U.S. Polo Assn.)
 
 **Outfit Composition:**
 | Layer | Item | Color | Notes |
@@ -1076,7 +1060,7 @@ parent: Visual Merchandising
 
 **Pose:** Relaxed, one arm slightly forward
 
-### Scenario 2: Business Meeting (Pierre Cardin)
+#### Scenario 2: Business Meeting (Pierre Cardin)
 
 **Outfit Composition:**
 | Layer | Item | Color | Notes |
@@ -1091,7 +1075,7 @@ parent: Visual Merchandising
 
 **Pose:** Confident, straight stance
 
-### Scenario 3: Smart Casual Friday (Cacharel)
+#### Scenario 3: Smart Casual Friday (Cacharel)
 
 **Outfit Composition:**
 | Layer | Item | Color | Notes |
@@ -1106,9 +1090,9 @@ parent: Visual Merchandising
 **Pose:** Contemporary, slight angle
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: Poor Garment Fit
+#### Issue 1: Poor Garment Fit
 
 **Problem:** Clothes look too big/small on mannequin
 
@@ -1121,7 +1105,7 @@ parent: Visual Merchandising
 **Prevention:** Maintain size guide for each mannequin
 
 
-### Issue 3: Products Constantly Selling Out
+#### Issue 3: Products Constantly Selling Out
 
 **Problem:** Mannequin items unavailable for customers
 
@@ -1134,7 +1118,7 @@ parent: Visual Merchandising
 **Prevention:** Reserve stock for mannequin looks
 
 
-### Issue 5: Inconsistent Styling Across Stores
+#### Issue 5: Inconsistent Styling Across Stores
 
 **Problem:** Same look book, different execution
 
@@ -1157,12 +1141,8 @@ parent: Visual Merchandising
 
 ## SECTION 5: SEASONAL-VM-CHANGEOVER-EN
 
-﻿---
-layout: default
-title: "Seasonal VM Changeover Guide – EN"
-parent: Visual Merchandising
 
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1177,9 +1157,9 @@ parent: Visual Merchandising
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Seasonal Calendar
+#### Seasonal Calendar
 
 | Season | Period | Changeover Window | Major Themes |
 |--------|--------|-------------------|--------------|
@@ -1188,7 +1168,7 @@ parent: Visual Merchandising
 | **Mid-Season SS** | June | June 1-7 | Summer peak |
 | **Mid-Season FW** | November | Nov 1-7 | Holiday prep |
 
-### Changeover Types
+#### Changeover Types
 
 | Type | Scope | Duration | Frequency |
 |------|-------|----------|-----------|
@@ -1198,9 +1178,9 @@ parent: Visual Merchandising
 | **Promotional** | Signage + select displays | 2-4 hours | As needed |
 
 
-## Responsibilities
+#### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Timeline | Standard |
 |------|----------|----------|
@@ -1208,7 +1188,7 @@ parent: Visual Merchandising
 | Support execution | Changeover day | Full team participation |
 | Post-changeover maintenance | Ongoing | Per new standards |
 
-### Store Manager
+#### Store Manager
 
 | Task | Timeline | Standard |
 |------|----------|----------|
@@ -1219,7 +1199,7 @@ parent: Visual Merchandising
 | Photo documentation | T+1 day | 3 angles minimum |
 | Quality verification | T+1 day | Full checklist |
 
-### Regional Manager
+#### Regional Manager
 
 | Task | Timeline | Standard |
 |------|----------|----------|
@@ -1228,7 +1208,7 @@ parent: Visual Merchandising
 | Post-changeover audit | T+7 days | All stores in region |
 | Performance review | T+14 days | Sales analysis |
 
-### HQ VM Team
+#### HQ VM Team
 
 | Task | Timeline | Standard |
 |------|----------|----------|
@@ -1239,9 +1219,9 @@ parent: Visual Merchandising
 | Global compliance review | T+14 days | Photo audit |
 
 
-## Standards & Rules
+#### Standards & Rules
 
-### Changeover Timing Standards
+#### Changeover Timing Standards
 
 | Market Type | Changeover Day | Completion Deadline |
 |-------------|----------------|---------------------|
@@ -1250,7 +1230,7 @@ parent: Visual Merchandising
 | **Compact** | Launch Day | 18:00 Launch Day |
 | **Shop-in-Shop** | Launch Day +1 | 12:00 Day +1 |
 
-### Product Mix During Transition
+#### Product Mix During Transition
 
 | Week | New Season | Previous Season | Notes |
 |------|------------|-----------------|-------|
@@ -1260,7 +1240,7 @@ parent: Visual Merchandising
 | Week +1 | 85% | 15% | Clearance area for old |
 | Week +2 | 95% | 5% | Full new season |
 
-### Quality Standards
+#### Quality Standards
 
 | Element | Standard | Verification |
 |---------|----------|--------------|
@@ -1272,9 +1252,9 @@ parent: Visual Merchandising
 | Cleanliness | Spotless | White glove test |
 
 
-## Examples / Scenarios
+#### Examples / Scenarios
 
-### Scenario 1: Spring/Summer Launch
+#### Scenario 1: Spring/Summer Launch
 
 **Timeline:** February 25 - March 5
 
@@ -1294,7 +1274,7 @@ parent: Visual Merchandising
 | B-Zone | Shorts, summer pants | Accessories |
 | C-Zone | T-shirts, basics | Swimwear |
 
-### Scenario 2: Fall/Winter Launch
+#### Scenario 2: Fall/Winter Launch
 
 **Timeline:** August 25 - September 5
 
@@ -1314,7 +1294,7 @@ parent: Visual Merchandising
 | B-Zone | Trousers, layering pieces | Accessories |
 | C-Zone | Basics, essentials | Transitional items |
 
-### Scenario 3: Mid-Season Refresh
+#### Scenario 3: Mid-Season Refresh
 
 **Timeline:** 1-2 days
 
@@ -1327,9 +1307,9 @@ parent: Visual Merchandising
 **Execution:** During regular hours with minimal disruption
 
 
-## Common Issues & Solutions
+#### Common Issues & Solutions
 
-### Issue 1: VM Kit Arrives Late
+#### Issue 1: VM Kit Arrives Late
 
 **Problem:** Kit arrives after T-7 days
 
@@ -1347,7 +1327,7 @@ parent: Visual Merchandising
 **Prevention:** Track shipment proactively, confirm delivery
 
 
-### Issue 3: Team Unavailability
+#### Issue 3: Team Unavailability
 
 **Problem:** Key team members unavailable for execution
 
@@ -1365,7 +1345,7 @@ parent: Visual Merchandising
 **Prevention:** Advance scheduling, backup team identification
 
 
-### Issue 5: Quality Below Standard
+#### Issue 5: Quality Below Standard
 
 **Problem:** Post-changeover audit score below 85%
 

@@ -43,13 +43,7 @@ This comprehensive CRM documentation covers all aspects of customer relationship
 
 ## SECTION 1: CRM-OVERVIEW-EN
 
-﻿---
-layout: default
-title: "CRM Overview"
-parent: CRM
-permalink: /crm/crm-overview-en/
-
-## Table of Contents
+### Table of Contents
 
 1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
 2. [Purpose](#purpose)
@@ -63,18 +57,18 @@ permalink: /crm/crm-overview-en/
 10. [Revision History](#revision-history)
 
 
-## Purpose
+#### Purpose
 
 This document defines the overall structure, objectives, and operation of the CRM (Customer Relationship Management) system for U.S. Polo Assn., Pierre Cardin, and Cacharel franchise stores under the Aydınlı Group umbrella.
 
-### CRM Vision
+#### CRM Vision
 
 - Deliver a customer-centric retail experience
 - Manage customer data securely and efficiently
 - Optimize sales and marketing strategies based on customer behavior
 - Ensure consistent customer experience across the franchise network
 
-### CRM Objectives
+#### CRM Objectives
 
 | Objective | Description |
 |-----------|-------------|
@@ -85,9 +79,9 @@ This document defines the overall structure, objectives, and operation of the CR
 | Compliance | Ensure full compliance with GDPR and data protection regulations |
 
 
-## Definitions
+#### Definitions
 
-### Core CRM Terms
+#### Core CRM Terms
 
 | Term | Definition |
 |------|------------|
@@ -104,7 +98,7 @@ This document defines the overall structure, objectives, and operation of the CR
 | **POS** | Point of Sale - Sales terminal. |
 | **Customer 360** | A screen presenting all customer interactions in a single view. |
 
-### Communication Permission Types
+#### Communication Permission Types
 
 | Permission Type | Description | Default |
 |-----------------|-------------|---------|
@@ -114,9 +108,9 @@ This document defines the overall structure, objectives, and operation of the CR
 | Data Processing Permission | Processing of personal data (mandatory) | Required |
 
 
-## CRM System Architecture
+#### CRM System Architecture
 
-### System Components
+#### System Components
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -142,7 +136,7 @@ This document defines the overall structure, objectives, and operation of the CR
      └─────────────┘   └─────────────┘   └─────────────┘
 ```
 
-### Integration Points
+#### Integration Points
 
 | System | Integration Type | Data Flow |
 |--------|------------------|-----------|
@@ -153,7 +147,7 @@ This document defines the overall structure, objectives, and operation of the CR
 | Inventory Management | Unidirectional | Stock → CRM (product info) |
 
 
-### Issue 2: Duplicate Customer Record
+#### Issue 2: Duplicate Customer Record
 
 **Symptom:** Multiple profiles exist for the same customer.
 
@@ -168,7 +162,7 @@ This document defines the overall structure, objectives, and operation of the CR
 3. Record new sales to the most recent profile
 
 
-### Issue 4: Coupon Not Working
+#### Issue 4: Coupon Not Working
 
 **Symptom:** Customer's coupon shows "not valid" error at POS.
 
@@ -184,7 +178,7 @@ This document defines the overall structure, objectives, and operation of the CR
 3. Suggest alternative campaign if available
 
 
-## Revision History
+#### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
@@ -195,12 +189,7 @@ This document defines the overall structure, objectives, and operation of the CR
 
 ## SECTION 2: CRM-CUSTOMER-SEGMENTATION-EN
 
-﻿---
-layout: default
-title: "CRM Customer Segmentation"
-parent: CRM
-
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -215,9 +204,9 @@ parent: CRM
 11. [Revision History](#revision-history)
 
 
-## Scope
+#### Scope
 
-### Who Does This Document Cover?
+#### Who Does This Document Cover?
 
 | Role | Purpose of Use |
 |------|----------------|
@@ -226,7 +215,7 @@ parent: CRM
 | CRM Headquarters | Create segment strategies |
 | Marketing Team | Plan targeted campaigns |
 
-### Segmentation Types
+#### Segmentation Types
 
 | Type | Description |
 |------|-------------|
@@ -236,9 +225,9 @@ parent: CRM
 | Value-Based | Based on customer value |
 
 
-## Responsibilities
+#### Responsibilities
 
-### CRM Headquarters
+#### CRM Headquarters
 
 | Task | Detail |
 |------|--------|
@@ -247,7 +236,7 @@ parent: CRM
 | Strategy | Determine strategy for each segment |
 | Campaign | Create segment-based campaigns |
 
-### Store Manager
+#### Store Manager
 
 | Task | Detail |
 |------|--------|
@@ -256,9 +245,9 @@ parent: CRM
 | Feedback | Report segment performance |
 
 
-## Customer Lifecycle
+### Customer Lifecycle
 
-### Lifecycle Stages
+#### Lifecycle Stages
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -277,7 +266,7 @@ parent: CRM
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Lifecycle Segment Definitions
+#### Lifecycle Segment Definitions
 
 | Stage | Definition | Criteria |
 |-------|------------|----------|
@@ -290,7 +279,7 @@ parent: CRM
 | **Lost Customer** | Completely lost | Last purchase >365 days ago |
 
 
-### Loyal Customers
+#### Loyal Customers
 
 **Profile:** Regular purchasers, high brand loyalty
 
@@ -306,7 +295,7 @@ parent: CRM
 - Bring a friend campaign
 
 
-### Recent Customers
+#### Recent Customers
 
 **Profile:** Just made first purchase
 
@@ -322,7 +311,7 @@ parent: CRM
 - Product usage tips
 
 
-### At Risk
+#### At Risk
 
 **Profile:** Valuable but declining activity
 
@@ -338,7 +327,7 @@ parent: CRM
 - Personal call
 
 
-### Lost
+#### Lost
 
 **Profile:** No purchase for a long time
 
@@ -353,9 +342,9 @@ parent: CRM
 - Major campaign announcement
 
 
-## Common Issues & Solutions
+### Common Issues & Solutions
 
-### Issue 1: At Risk Rate Increasing
+#### Issue 1: At Risk Rate Increasing
 
 **Solution:**
 1. List at-risk customers
@@ -364,7 +353,7 @@ parent: CRM
 4. Research reasons for leaving
 
 
-### Issue 3: VIP Customers Declining
+#### Issue 3: VIP Customers Declining
 
 **Solution:**
 1. Review VIP program
@@ -373,7 +362,7 @@ parent: CRM
 4. Get feedback
 
 
-## Revision History
+### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
@@ -384,12 +373,7 @@ parent: CRM
 
 ## SECTION 3: CRM-LOYALTY-CAMPAIGNS-EN
 
-﻿---
-layout: default
-title: "CRM Loyalty Program and Campaign Management"
-parent: CRM
-
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -406,9 +390,9 @@ parent: CRM
 13. [Revision History](#revision-history)
 
 
-## Scope
+### Scope
 
-### Who Does This Document Cover?
+#### Who Does This Document Cover?
 
 | Role | Responsibility |
 |------|----------------|
@@ -418,7 +402,7 @@ parent: CRM
 | CRM Headquarters | Campaign creation and management |
 | Marketing Team | Define campaign strategy |
 
-### Covered Processes
+#### Covered Processes
 
 1. Loyalty program membership
 2. Earning and using points
@@ -428,9 +412,9 @@ parent: CRM
 6. Reporting and analysis
 
 
-## Responsibilities
+### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Detail |
 |------|--------|
@@ -440,7 +424,7 @@ parent: CRM
 | Information | Inform customers about campaigns |
 | Problem resolution | Resolve/redirect loyalty issues |
 
-### Store Manager
+#### Store Manager
 
 | Task | Detail |
 |------|--------|
@@ -449,7 +433,7 @@ parent: CRM
 | Training | Train staff on campaigns |
 | Reporting | Report campaign performance |
 
-### CRM Headquarters
+#### CRM Headquarters
 
 | Task | Detail |
 |------|--------|
@@ -459,9 +443,9 @@ parent: CRM
 | Analysis | Analyze campaign effectiveness |
 
 
-## Points System
+### Points System
 
-### Earning Points
+#### Earning Points
 
 | Condition | Points Rate | Example |
 |-----------|-------------|---------|
@@ -470,7 +454,7 @@ parent: CRM
 | Multiplier Campaign (3x) | 1 Currency = 3 Points | 500 = 1,500 Points |
 | Birthday Purchase | 1 Currency = 2 Points | During birthday week |
 
-### Points Earning Rules
+#### Points Earning Rules
 
 | Rule | Description |
 |------|-------------|
@@ -479,7 +463,7 @@ parent: CRM
 | Return situation | Points from returned products are deducted |
 | Validity | Points are valid for 12 months |
 
-### Using Points
+#### Using Points
 
 | Condition | Value | Rule |
 |-----------|-------|------|
@@ -488,7 +472,7 @@ parent: CRM
 | Maximum Use | 50% of cart value | At most half of cart value at once |
 | Cash Refund | None | Points cannot be converted to cash |
 
-### Points Validity
+#### Points Validity
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -505,9 +489,9 @@ parent: CRM
 ```
 
 
-## Coupon Management
+### Coupon Management
 
-### Coupon Properties
+#### Coupon Properties
 
 | Property | Description |
 |----------|-------------|
@@ -520,7 +504,7 @@ parent: CRM
 | Valid Products | All products / Specific categories |
 | Excluded Products | Products outside campaign |
 
-### Coupon Statuses
+#### Coupon Statuses
 
 | Status | Description |
 |--------|-------------|
@@ -530,7 +514,7 @@ parent: CRM
 | Cancelled | Manually cancelled |
 | Locked | Locked until certain condition met |
 
-### Coupon Usage Rules
+#### Coupon Usage Rules
 
 | Rule | Description |
 |------|-------------|
@@ -540,7 +524,7 @@ parent: CRM
 | Return situation | Coupon not refunded on coupon sale return |
 
 
-### 2. Earning Points During Sale
+#### 2. Earning Points During Sale
 
 **Step 1:** Start the sale transaction
 
@@ -569,7 +553,7 @@ parent: CRM
 ```
 
 
-### 4. Coupon Usage
+#### 4. Coupon Usage
 
 **Step 1:** Match customer to sale
 
@@ -591,9 +575,9 @@ parent: CRM
 **Step 8:** Take payment
 
 
-## Common Issues & Solutions
+### Common Issues & Solutions
 
-### Issue 1: Coupon Not Working
+#### Issue 1: Coupon Not Working
 
 **Checklist:**
 - [ ] Has coupon expired?
@@ -605,7 +589,7 @@ parent: CRM
 **Solution:** Check conditions, explain to customer if not met.
 
 
-### Issue 3: Customer Used Wrong Points Amount
+#### Issue 3: Customer Used Wrong Points Amount
 
 **Solution:**
 1. Cancel transaction (store manager approval required)
@@ -614,16 +598,16 @@ parent: CRM
 4. Document situation with ticket
 
 
-## Store Tips
+### Store Tips
 
-### Increasing Loyalty Sales
+#### Increasing Loyalty Sales
 
 1. **Ask every customer:** "Are you an Aydınlı Club member?"
 2. **Explain benefits:** "You can earn 500 points right now"
 3. **Remind points:** "You have 3,500 points, would you like to use them today?"
 4. **Announce campaigns:** "There's an exclusive 20% discount for members"
 
-### Encouraging Membership Registration
+#### Encouraging Membership Registration
 
 | Approach | Example |
 |----------|---------|
@@ -632,7 +616,7 @@ parent: CRM
 | Special occasion | "Let us send you a special discount on your birthday" |
 | Early access | "See new collections before everyone else" |
 
-### Campaign Application Rules
+#### Campaign Application Rules
 
 | Do | Don't |
 |----|-------|
@@ -641,7 +625,7 @@ parent: CRM
 | ✅ Check coupon/points combination | ❌ Don't apply off-system discounts |
 | ✅ Inform earned benefits after transaction | ❌ Don't accept invalid coupons |
 
-### Difficult Situations
+#### Difficult Situations
 
 | Situation | Approach |
 |-----------|----------|
@@ -661,12 +645,7 @@ parent: CRM
 
 ## SECTION 4: CRM-DASHBOARD-KPI-EN
 
-﻿---
-layout: default
-title: "CRM Dashboard and KPI Guide"
-parent: CRM
-
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -680,9 +659,9 @@ parent: CRM
 10. [Revision History](#revision-history)
 
 
-## Scope
+### Scope
 
-### Who Does This Document Cover?
+#### Who Does This Document Cover?
 
 | Role | Purpose of Use |
 |------|----------------|
@@ -691,7 +670,7 @@ parent: CRM
 | CRM Headquarters | Global performance and trend analysis |
 | Franchise Owner | Business results tracking |
 
-### Dashboard Types
+#### Dashboard Types
 
 | Dashboard | User | Content |
 |-----------|------|---------|
@@ -701,9 +680,9 @@ parent: CRM
 | Executive Dashboard | Senior Management | Summary metrics |
 
 
-## Responsibilities
+### Responsibilities
 
-### Store Manager
+#### Store Manager
 
 | Task | Frequency |
 |------|-----------|
@@ -712,7 +691,7 @@ parent: CRM
 | Low performance action plan | Immediately |
 | Share KPIs with team | Daily |
 
-### Regional Manager
+#### Regional Manager
 
 | Task | Frequency |
 |------|-----------|
@@ -746,7 +725,7 @@ New Customer Rate % = (New Customers / Total Customers with Sales) × 100
 **Target:** 20-30% range (varies by sector and location)
 
 
-### 3. Customer Value KPIs
+#### 3. Customer Value KPIs
 
 #### Average Transaction Value (ATV)
 
@@ -791,7 +770,7 @@ Coupon Redemption % = (Coupons Used / Coupons Distributed) × 100
 **Target:** 15-25% range
 
 
-### 5. Campaign KPIs
+#### 5. Campaign KPIs
 
 #### Campaign Response Rate
 
@@ -805,7 +784,7 @@ Response Rate % = (Campaign Participants / Target Audience) × 100
 **Target:** 10-20% range
 
 
-### 6. Customer Acquisition KPIs
+#### 6. Customer Acquisition KPIs
 
 #### Customer Acquisition Cost (CAC)
 
@@ -836,9 +815,9 @@ FCR % = (Resolved on First Contact / Total Tickets) × 100
 **Target:** 60% and above
 
 
-## Dashboard Usage
+### Dashboard Usage
 
-### Main Dashboard Components
+#### Main Dashboard Components
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -864,7 +843,7 @@ FCR % = (Resolved on First Contact / Total Tickets) × 100
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Dashboard Filters
+#### Dashboard Filters
 
 | Filter | Options |
 |--------|---------|
@@ -873,7 +852,7 @@ FCR % = (Resolved on First Contact / Total Tickets) × 100
 | Store | Single store, Region, All stores |
 | Segment | All customers, RFM segments |
 
-### Dashboard Reading Guide
+#### Dashboard Reading Guide
 
 **Card Structure:**
 - **Title:** KPI name
@@ -887,7 +866,7 @@ FCR % = (Resolved on First Contact / Total Tickets) × 100
 - → Horizontal arrow: Stable
 
 
-### Issue 2: Low Loyalty Penetration
+#### Issue 2: Low Loyalty Penetration
 
 **Situation:** Penetration rate below target.
 
@@ -902,15 +881,15 @@ FCR % = (Resolved on First Contact / Total Tickets) × 100
 3. Ensure customer query at every sale
 
 
-## Store Tips
+### Store Tips
 
-### Daily KPI Tracking
+#### Daily KPI Tracking
 
 1. **Morning:** Check dashboard, know your daily target
 2. **During day:** Monitor penetration rate
 3. **Evening:** Evaluate the day, plan for next day
 
-### KPI Improvement Tactics
+#### KPI Improvement Tactics
 
 | KPI | Improvement Tactic |
 |-----|-------------------|
@@ -920,7 +899,7 @@ FCR % = (Resolved on First Contact / Total Tickets) × 100
 | Enrollment | Highlight benefits |
 | Redemption | Remind points balance |
 
-### Team Motivation
+#### Team Motivation
 
 - Share daily targets with team
 - Celebrate good performance
@@ -938,12 +917,7 @@ FCR % = (Resolved on First Contact / Total Tickets) × 100
 
 ## SECTION 5: CRM-CUSTOMER-DATA-POLICY-EN
 
-﻿---
-layout: default
-title: "CRM Customer Data Policy (GDPR Compliant)"
-parent: CRM
-
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -960,9 +934,9 @@ parent: CRM
 13. [Revision History](#revision-history)
 
 
-## Scope
+### Scope
 
-### Who Does This Policy Cover?
+#### Who Does This Policy Cover?
 
 | Role | Responsibility |
 |------|----------------|
@@ -972,7 +946,7 @@ parent: CRM
 | CRM Headquarters | Data management and security |
 | Data Protection Officer (DPO) | GDPR compliance oversight |
 
-### Covered Data
+#### Covered Data
 
 | Data Category | Examples | Sensitivity |
 |---------------|----------|-------------|
@@ -984,9 +958,9 @@ parent: CRM
 | **Communication Preferences** | SMS/Email permissions | Low |
 
 
-## Legal Basis
+### Legal Basis
 
-### Relevant Legislation
+#### Relevant Legislation
 
 | Legislation | Subject |
 |-------------|---------|
@@ -995,7 +969,7 @@ parent: CRM
 | E-Commerce Regulations | Electronic communications |
 | Consumer Protection Laws | Customer rights |
 
-### Core Principles (GDPR Art. 5)
+#### Core Principles (GDPR Art. 5)
 
 1. **Lawfulness, fairness, and transparency**
 2. **Purpose limitation**
@@ -1006,9 +980,9 @@ parent: CRM
 7. **Accountability**
 
 
-## Data Collection Principles
+### Data Collection Principles
 
-### Data That May Be Collected
+#### Data That May Be Collected
 
 | Data | Purpose | Requirement |
 |------|---------|-------------|
@@ -1019,7 +993,7 @@ parent: CRM
 | Gender | Personalized service | Optional |
 | Address | Delivery services | Optional |
 
-### Data That Must NOT Be Collected
+#### Data That Must NOT Be Collected
 
 The following data **must never be collected**:
 
@@ -1035,7 +1009,7 @@ The following data **must never be collected**:
 
 > ⚠️ **WARNING:** Asking for, recording, or processing this data is prohibited and subject to severe penalties.
 
-### Data Collection Rules
+#### Data Collection Rules
 
 1. **Collect only necessary data:** Don't collect data beyond purpose
 2. **Provide information:** Explain why data is collected
@@ -1044,9 +1018,9 @@ The following data **must never be collected**:
 5. **Keep secure:** Protect data from unauthorized access
 
 
-## Data Retention and Disposal
+### Data Retention and Disposal
 
-### Retention Periods
+#### Retention Periods
 
 | Data Category | Retention Period | Basis |
 |---------------|------------------|-------|
@@ -1056,7 +1030,7 @@ The following data **must never be collected**:
 | Complaint records | Resolution + 10 years | Commercial law |
 | Loyalty transactions | Last transaction + 5 years | Internal policy |
 
-### Disposal Methods
+#### Disposal Methods
 
 | Method | Description | Application Area |
 |--------|-------------|------------------|
@@ -1064,16 +1038,16 @@ The following data **must never be collected**:
 | **Destruction** | Physical destruction (shredding, burning) | Printed documents |
 | **Anonymization** | Making data non-identifiable | Analytics purposes |
 
-### Periodic Disposal
+#### Periodic Disposal
 
 - **Frequency:** Every 6 months
 - **Responsible:** CRM Headquarters
 - **Reporting:** Disposal report prepared
 
 
-## Process Steps
+### Process Steps
 
-### 1. Data Collection at New Customer Registration
+#### 1. Data Collection at New Customer Registration
 
 **Step 1:** Present privacy notice to customer
 
@@ -1094,7 +1068,7 @@ The following data **must never be collected**:
 > ❌ **Wrong:** "Sign here" (without explanation)
 
 
-### 3. Erasure/Right to be Forgotten Request
+#### 3. Erasure/Right to be Forgotten Request
 
 **Step 1:** Receive written application from customer
 
@@ -1113,7 +1087,7 @@ The following data **must never be collected**:
 > ⚠️ **Note:** Some data cannot be deleted due to legal obligations (e.g., invoice data must be kept for 10 years).
 
 
-### Issue 2: Customer Wants to Query Their Data
+#### Issue 2: Customer Wants to Query Their Data
 
 **Solution:**
 1. Verify customer identity
@@ -1122,7 +1096,7 @@ The following data **must never be collected**:
 4. Get delivery acknowledgment
 
 
-### Issue 4: Suspected Data Breach
+#### Issue 4: Suspected Data Breach
 
 **Solution:**
 1. Don't panic but act quickly
@@ -1132,7 +1106,7 @@ The following data **must never be collected**:
 5. Don't delete/change anything (evidence)
 
 
-## Revision History
+### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
@@ -1143,12 +1117,7 @@ The following data **must never be collected**:
 
 ## SECTION 6: CRM-DATA-QUALITY-EN
 
-﻿---
-layout: default
-title: "CRM Data Quality Management"
-parent: CRM
-
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1165,9 +1134,9 @@ parent: CRM
 13. [Revision History](#revision-history)
 
 
-## Scope
+### Scope
 
-### Who Does This Document Cover?
+#### Who Does This Document Cover?
 
 | Role | Responsibility |
 |------|----------------|
@@ -1177,7 +1146,7 @@ parent: CRM
 | CRM Headquarters | Data cleansing and standardization |
 | IT Team | System validation rules |
 
-### Covered Data
+#### Covered Data
 
 | Data Field | Criticality | Validation Level |
 |------------|-------------|------------------|
@@ -1189,9 +1158,9 @@ parent: CRM
 | Gender | Low | Manual |
 
 
-## Responsibilities
+### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Detail | Frequency |
 |------|--------|-----------|
@@ -1200,7 +1169,7 @@ parent: CRM
 | Update | Update changed information | On request |
 | Reporting | Report incorrect data | Upon detection |
 
-### Store Manager
+#### Store Manager
 
 | Task | Detail | Frequency |
 |------|--------|-----------|
@@ -1209,7 +1178,7 @@ parent: CRM
 | Correction | Correct detected errors | Immediately |
 | Reporting | Monitor data quality KPIs | Monthly |
 
-### CRM Headquarters
+#### CRM Headquarters
 
 | Task | Detail | Frequency |
 |------|--------|-----------|
@@ -1219,9 +1188,9 @@ parent: CRM
 | Analysis | Analyze data quality trends | Monthly |
 
 
-## Data Validation Rules
+### Data Validation Rules
 
-### Phone Number
+#### Phone Number
 
 | Rule | Valid | Invalid |
 |------|-------|---------|
@@ -1238,7 +1207,7 @@ parent: CRM
 ✗ 532123456 → Invalid (9 digits)
 ```
 
-### Email Address
+#### Email Address
 
 | Rule | Valid | Invalid |
 |------|-------|---------|
@@ -1256,7 +1225,7 @@ parent: CRM
 | Missing domain | john@gmail | john@gmail.com |
 | Wrong domain | john@gmial.com | john@gmail.com |
 
-### First/Last Name
+#### First/Last Name
 
 | Rule | Correct | Wrong |
 |------|---------|-------|
@@ -1270,7 +1239,7 @@ parent: CRM
 - Last name: First letter uppercase, rest lowercase
 - Multiple names: Each word's first letter uppercase
 
-### Date of Birth
+#### Date of Birth
 
 | Rule | Valid | Invalid |
 |------|-------|---------|
@@ -1280,9 +1249,9 @@ parent: CRM
 | Logical | Realistic | 01/01/1900 |
 
 
-## Correction Processes
+### Correction Processes
 
-### 1. Store Level Correction
+#### 1. Store Level Correction
 
 **If customer requests:**
 
@@ -1298,7 +1267,7 @@ parent: CRM
 
 **Step 6:** Inform the customer
 
-### 2. Bulk Correction (CRM Headquarters)
+#### 2. Bulk Correction (CRM Headquarters)
 
 Bulk correction can be done for certain patterns:
 
@@ -1308,7 +1277,7 @@ Bulk correction can be done for certain patterns:
 | email@gmial.com | Correct to @gmail.com |
 | JOHN SMITH | Format to John Smith |
 
-### 3. Correction Request Process
+#### 3. Correction Request Process
 
 **If store cannot correct:**
 
@@ -1325,9 +1294,9 @@ Bulk correction can be done for certain patterns:
 **Step 4:** Correction information sent to store
 
 
-## Common Issues & Solutions
+### Common Issues & Solutions
 
-### Issue 1: Customer Changed Phone Number
+#### Issue 1: Customer Changed Phone Number
 
 **Situation:** Registered with old number, searching with new number.
 
@@ -1338,7 +1307,7 @@ Bulk correction can be done for certain patterns:
 4. Give customer confirmation
 
 
-### Issue 3: Suspected Duplicate Record
+#### Issue 3: Suspected Duplicate Record
 
 **Situation:** Same customer coming with different numbers.
 
@@ -1349,9 +1318,9 @@ Bulk correction can be done for certain patterns:
 4. Inform customer about the process
 
 
-## Store Tips
+### Store Tips
 
-### For Correct Data Entry
+#### For Correct Data Entry
 
 | Do | Don't |
 |----|-------|
@@ -1361,7 +1330,7 @@ Bulk correction can be done for certain patterns:
 | ✅ Leave empty instead of fake info | ❌ Don't accept aaa@aaa.com |
 | ✅ Report suspected duplicates | ❌ Don't ignore |
 
-### Data Quality Checklist
+#### Data Quality Checklist
 
 **At Every Customer Registration:**
 - [ ] Is phone 10 digits and starts with 5?
@@ -1370,7 +1339,7 @@ Bulk correction can be done for certain patterns:
 - [ ] Is customer not already registered?
 - [ ] Were GDPR consents obtained?
 
-### Customer Approach
+#### Customer Approach
 
 **To get correct information:**
 > "We'll have a special surprise for you on your birthday, so it's important for me to get your date of birth correctly."
@@ -1391,12 +1360,7 @@ Bulk correction can be done for certain patterns:
 
 ## SECTION 7: CRM-DO-AND-DONT-EN
 
-﻿---
-layout: default
-title: "CRM Do's and Don'ts"
-parent: CRM
-
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1412,9 +1376,9 @@ parent: CRM
 12. [Revision History](#revision-history)
 
 
-## Scope
+### Scope
 
-### Who Does This Document Cover?
+#### Who Does This Document Cover?
 
 | Role | Compliance Requirement |
 |------|------------------------|
@@ -1423,9 +1387,9 @@ parent: CRM
 | Regional Manager | Oversight |
 
 
-## Customer Registration
+### Customer Registration
 
-### ✅ DO
+#### ✅ DO
 
 | Rule | Explanation |
 |------|-------------|
@@ -1436,7 +1400,7 @@ parent: CRM
 | ✅ Leave blank if customer won't provide info | Instead of fake data |
 | ✅ Tell customer about welcome bonus | For satisfaction |
 
-### ❌ DON'T
+#### ❌ DON'T
 
 | Rule | Risk |
 |------|------|
@@ -1448,9 +1412,9 @@ parent: CRM
 | ❌ Don't force customers to register | You'll lose customers |
 
 
-## Customer Communication
+### Customer Communication
 
-### ✅ DO
+#### ✅ DO
 
 | Rule | Explanation |
 |------|-------------|
@@ -1461,7 +1425,7 @@ parent: CRM
 | ✅ Be professional and courteous | For brand image |
 | ✅ Take complaints seriously | For loyalty |
 
-### ❌ DON'T
+#### ❌ DON'T
 
 | Rule | Risk |
 |------|------|
@@ -1473,9 +1437,9 @@ parent: CRM
 | ❌ Don't blame other departments | Corporate image |
 
 
-## Ticketing
+### Ticketing
 
-### ✅ DO
+#### ✅ DO
 
 | Rule | Explanation |
 |------|-------------|
@@ -1487,7 +1451,7 @@ parent: CRM
 | ✅ Pay attention to SLA times | For compliance |
 | ✅ Provide follow-up information | For customer satisfaction |
 
-### ❌ DON'T
+#### ❌ DON'T
 
 | Rule | Risk |
 |------|------|
@@ -1499,9 +1463,9 @@ parent: CRM
 | ❌ Don't close tickets without resolution | Will be reopened |
 
 
-## Important Warnings
+### Important Warnings
 
-### 🚨 STRICTLY PROHIBITED
+#### 🚨 STRICTLY PROHIBITED
 
 The following actions are **strictly prohibited** and subject to serious sanctions:
 
@@ -1516,9 +1480,9 @@ The following actions are **strictly prohibited** and subject to serious sanctio
 | 7 | GDPR violation | Legal sanction + compensation |
 
 
-## Violation Consequences
+### Violation Consequences
 
-### Violation Levels
+#### Violation Levels
 
 | Level | Example | Consequence |
 |-------|---------|-------------|
@@ -1527,7 +1491,7 @@ The following actions are **strictly prohibited** and subject to serious sanctio
 | **High** | GDPR violation, data sharing | Disciplinary action |
 | **Critical** | Intentional abuse | Contract termination + legal action |
 
-### Violation Reporting
+#### Violation Reporting
 
 When violation detected:
 1. Immediately inform store manager
@@ -1536,7 +1500,7 @@ When violation detected:
 4. CRM Headquarters is informed
 
 
-## Revision History
+### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
@@ -1547,12 +1511,7 @@ When violation detected:
 
 ## SECTION 8: CRM-STORE-USER-GUIDE-EN
 
-﻿---
-layout: default
-title: "Store CRM User Guide"
-parent: CRM
-
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1564,9 +1523,9 @@ parent: CRM
 8. [Revision History](#revision-history)
 
 
-## Scope
+### Scope
 
-### Who Does This Guide Cover?
+#### Who Does This Guide Cover?
 
 | Role | Purpose of Use |
 |------|----------------|
@@ -1574,7 +1533,7 @@ parent: CRM
 | Cashier | Match customers during sales |
 | Store Manager | Supervise and train the team |
 
-### Covered Operations
+#### Covered Operations
 
 1. CRM system login
 2. Customer search and query
@@ -1585,9 +1544,9 @@ parent: CRM
 7. Customer profile viewing
 
 
-## Responsibilities
+### Responsibilities
 
-### Sales Associate Tasks
+#### Sales Associate Tasks
 
 | Task | Detail | Importance |
 |------|--------|------------|
@@ -1597,7 +1556,7 @@ parent: CRM
 | Data verification | Confirm accuracy of entered information | Mandatory |
 | Coupon usage | Apply valid coupons | Optional |
 
-### Store Manager Tasks
+#### Store Manager Tasks
 
 | Task | Detail | Frequency |
 |------|--------|-----------|
@@ -1606,7 +1565,7 @@ parent: CRM
 | Performance report | Track CRM matching rate | Daily |
 
 
-### 2. Customer Search
+#### 2. Customer Search
 
 #### 2.1 Quick Search
 
@@ -1644,7 +1603,7 @@ parent: CRM
 **Step 4:** Select the correct customer from the results list
 
 
-### 4. Updating Customer Information
+#### 4. Updating Customer Information
 
 **Step 1:** Search for the customer and open their profile
 
@@ -1667,7 +1626,7 @@ parent: CRM
 > ⚠️ **Warning:** Basic information such as name, surname, and national ID number cannot be changed from the store. Submit a request to CRM Headquarters for these updates.
 
 
-### 6. Coupon and Points Operations
+#### 6. Coupon and Points Operations
 
 #### 6.1 Coupon Usage
 
@@ -1720,7 +1679,7 @@ Standard points multiplier: Every 1 currency unit = 1 Point
 > ⚠️ **Warning:** Points earned are automatically deducted in return transactions.
 
 
-### Issue 2: Customer Registration Failed
+#### Issue 2: Customer Registration Failed
 
 **Possible Causes and Solutions:**
 
@@ -1732,7 +1691,7 @@ Standard points multiplier: Every 1 currency unit = 1 Point
 | "GDPR consent required" | Missing permission | Check data processing permission |
 
 
-### Issue 4: Cannot Match Customer
+#### Issue 4: Cannot Match Customer
 
 **Solution:**
 1. Search for customer without canceling the sale
@@ -1741,7 +1700,7 @@ Standard points multiplier: Every 1 currency unit = 1 Point
 4. Matching cannot be done after the sale is completed
 
 
-## Revision History
+### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
@@ -1752,12 +1711,7 @@ Standard points multiplier: Every 1 currency unit = 1 Point
 
 ## SECTION 9: CRM-STORE-CRM-CHECKLIST-EN
 
-﻿---
-layout: default
-title: "Store CRM Checklist"
-parent: CRM
-
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1771,9 +1725,9 @@ parent: CRM
 10. [Revision History](#revision-history)
 
 
-## Scope
+### Scope
 
-### Who Do These Checklists Cover?
+#### Who Do These Checklists Cover?
 
 | Role | Usage |
 |------|-------|
@@ -1782,9 +1736,9 @@ parent: CRM
 | Regional Manager | Monthly compliance check |
 
 
-## Weekly Checklist
+### Weekly Checklist
 
-### Monday - Week Start
+#### Monday - Week Start
 
 | # | Task | Responsible | Check |
 |---|------|-------------|-------|
@@ -1794,7 +1748,7 @@ parent: CRM
 | 4 | Check new campaign announcements | Store Manager | ☐ |
 | 5 | Review data quality report | Store Manager | ☐ |
 
-### During the Week
+#### During the Week
 
 | # | Task | Responsible | Frequency | Check |
 |---|------|-------------|-----------|-------|
@@ -1803,7 +1757,7 @@ parent: CRM
 | 3 | Track ticket resolution status | Store Manager | Daily | ☐ |
 | 4 | Observe staff CRM usage | Store Manager | Continuous | ☐ |
 
-### Friday - Weekend
+#### Friday - Weekend
 
 | # | Task | Responsible | Check |
 |---|------|-------------|-------|
@@ -1813,9 +1767,9 @@ parent: CRM
 | 4 | Send weekly report to regional manager | Store Manager | ☐ |
 
 
-## Sales Process Checklist
+### Sales Process Checklist
 
-### Pre-Sale
+#### Pre-Sale
 
 | # | Task | Check |
 |---|------|-------|
@@ -1823,7 +1777,7 @@ parent: CRM
 | 2 | Are you aware of current campaigns? | ☐ |
 | 3 | Is POS and CRM integration working? | ☐ |
 
-### During Sale
+#### During Sale
 
 | # | Task | Check |
 |---|------|-------|
@@ -1836,7 +1790,7 @@ parent: CRM
 | 7 | Was coupon/points usage asked? | ☐ |
 | 8 | Was applicable campaign applied? | ☐ |
 
-### New Customer Registration (If Needed)
+#### New Customer Registration (If Needed)
 
 | # | Task | Check |
 |---|------|-------|
@@ -1849,7 +1803,7 @@ parent: CRM
 | 7 | Were communication permissions asked and recorded? | ☐ |
 | 8 | Was registration completed successfully? | ☐ |
 
-### Post-Sale
+#### Post-Sale
 
 | # | Task | Check |
 |---|------|-------|
@@ -1859,7 +1813,7 @@ parent: CRM
 | 4 | Was customer satisfaction asked? | ☐ |
 
 
-## Ticket Opening Checklist
+### Ticket Opening Checklist
 
 | # | Task | Check |
 |---|------|-------|
@@ -1875,16 +1829,16 @@ parent: CRM
 | 10 | Was ticket number given to customer? | ☐ |
 
 
-## Store Tips
+### Store Tips
 
-### Checklist Usage Tips
+#### Checklist Usage Tips
 
 1. **Check at the same time every day** - Create routine
 2. **Complete missing items immediately** - Don't postpone
 3. **Report issues instantly** - Don't accumulate
 4. **Share with team** - Everyone should know their responsibility
 
-### Critical Items for Success
+#### Critical Items for Success
 
 | Critical Item | Why Important |
 |---------------|---------------|
@@ -1893,7 +1847,7 @@ parent: CRM
 | Correct data entry | Affects data quality KPI |
 | Ticket tracking | Affects SLA compliance |
 
-### Checklist Archiving
+#### Checklist Archiving
 
 - Daily checklists: Keep for 1 month
 - Weekly checklists: Keep for 3 months
@@ -1910,12 +1864,7 @@ parent: CRM
 
 ## SECTION 10: CRM-TICKETING-PROCESS-EN
 
-﻿---
-layout: default
-title: "CRM Ticketing and Customer Complaint Management"
-parent: CRM
-
-## Table of Contents
+### Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
@@ -1929,9 +1878,9 @@ parent: CRM
 10. [Revision History](#revision-history)
 
 
-## Scope
+### Scope
 
-### Who Does This Document Cover?
+#### Who Does This Document Cover?
 
 | Role | Responsibility |
 |------|----------------|
@@ -1941,7 +1890,7 @@ parent: CRM
 | CRM Headquarters | Central resolution and closure approval |
 | Quality Team | Product quality-related tickets |
 
-### Covered Processes
+#### Covered Processes
 
 1. Ticket creation
 2. Ticket categorization
@@ -1953,9 +1902,9 @@ parent: CRM
 8. Customer notification
 
 
-## Responsibilities
+### Responsibilities
 
-### Store Staff
+#### Store Staff
 
 | Task | Detail |
 |------|--------|
@@ -1965,7 +1914,7 @@ parent: CRM
 | First response | Resolve issues that can be handled at store level |
 | Customer notification | Keep customer updated about the process |
 
-### Store Manager
+#### Store Manager
 
 | Task | Detail |
 |------|--------|
@@ -1975,7 +1924,7 @@ parent: CRM
 | Performance tracking | Monitor store ticket KPIs |
 | Closure approval | Close resolved tickets |
 
-### CRM Headquarters Team
+#### CRM Headquarters Team
 
 | Task | Detail |
 |------|--------|
@@ -1986,7 +1935,7 @@ parent: CRM
 | Policy update | Improve processes |
 
 
-### 2. Ticket Processing Flow
+#### 2. Ticket Processing Flow
 
 ```
 ┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
@@ -2022,7 +1971,7 @@ parent: CRM
 ```
 
 
-### 4. Ticket Update
+#### 4. Ticket Update
 
 **Record at each update:**
 - Action taken
@@ -2039,9 +1988,9 @@ Next Step: [Planned action]
 ```
 
 
-## SLA Times
+### SLA Times
 
-### Category-Based SLA
+#### Category-Based SLA
 
 | Category | Priority | First Response | Resolution |
 |----------|----------|----------------|------------|
@@ -2052,7 +2001,7 @@ Next Step: [Planned action]
 | Store Service | Normal | 4 hours | 48 hours |
 | Loyalty/Points | Normal | 2 hours | 24 hours |
 
-### VIP Customer SLA
+#### VIP Customer SLA
 
 All SLA times are reduced by 50% for VIP customers.
 
@@ -2063,9 +2012,9 @@ All SLA times are reduced by 50% for VIP customers.
 | 4 hours | 2 hours |
 
 
-## KPIs
+### KPIs
 
-### Ticket Performance KPIs
+#### Ticket Performance KPIs
 
 | KPI | Definition | Formula | Target |
 |-----|------------|---------|--------|
@@ -2076,7 +2025,7 @@ All SLA times are reduced by 50% for VIP customers.
 | **Reopened Ticket Rate** | Percentage of reopened tickets | (Reopened / Total Closed) × 100 | <5% |
 | **Ticket per Transaction** | Ticket rate per transaction | Total Tickets / Total Sales × 1000 | <2‰ |
 
-### Calculation Examples
+#### Calculation Examples
 
 **FCR Calculation:**
 ```
@@ -2093,7 +2042,7 @@ SLA Compliance = (190 / 200) × 100 = 95%
 ```
 
 
-### Issue 2: Customer Cannot Provide Evidence
+#### Issue 2: Customer Cannot Provide Evidence
 
 **Situation:** Customer lost receipt or didn't bring product.
 
@@ -2105,7 +2054,7 @@ SLA Compliance = (190 / 200) × 100 = 95%
 5. Proceed with store manager approval
 
 
-### Issue 4: SLA About to Expire
+#### Issue 4: SLA About to Expire
 
 **Situation:** Ticket not resolved, SLA expiring.
 
@@ -2117,7 +2066,7 @@ SLA Compliance = (190 / 200) × 100 = 95%
 5. Raise priority level
 
 
-## Revision History
+### Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|

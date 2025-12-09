@@ -49,12 +49,8 @@ Bu kapsamlı operasyon dokümantasyonu, Aydınlı Grup franchise mağazaları i�
 
 ## SECTION 1: STORE-OPERATIONS-OVERVIEW-TR
 
-﻿---
-layout: default
-title: "Mağaza Operasyonları Genel Bakış – TR"
-parent: Store Operations
 
-## İçindekiler
+### İçindekiler
 
 1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
 2. [Amaç](#amaç)
@@ -70,11 +66,11 @@ parent: Store Operations
 12. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Amaç
+#### Amaç
 
 Bu doküman, tüm Aydınlı Grup franchise mağazaları için mağaza operasyonları standartları, prosedürleri ve en iyi uygulamalarına kapsamlı bir genel bakış sunmaktadır. Etkili mağaza operasyonları, tüm lokasyonlarda tutarlı müşteri deneyimleri, operasyonel verimlilik ve iş karlılığını sağlar.
 
-### Operasyon Misyonu
+#### Operasyon Misyonu
 
 Şunlar aracılığıyla olağanüstü müşteri deneyimleri sunmak:
 - **Tutarlılık:** Tüm mağazalarda standartlaştırılmış operasyonlar
@@ -83,7 +79,7 @@ Bu doküman, tüm Aydınlı Grup franchise mağazaları için mağaza operasyonl
 - **Mükemmellik:** Hizmet sunumunda sürekli iyileştirme
 
 
-## Tanımlar
+#### Tanımlar
 
 | Terim (EN) | Terim (TR) | Tanım |
 |------------|------------|-------|
@@ -99,9 +95,9 @@ Bu doküman, tüm Aydınlı Grup franchise mağazaları için mağaza operasyonl
 | Z-Report | Z Raporu | Gün sonu kasa raporu |
 
 
-## Süreç Adımları
+#### Süreç Adımları
 
-### Günlük Operasyon Döngüsü
+#### Günlük Operasyon Döngüsü
 
 ```
 06:00-09:00  AÇILIŞ ÖNCESİ
@@ -145,7 +141,7 @@ Bu doküman, tüm Aydınlı Grup franchise mağazaları için mağaza operasyonl
 └── Alarm aktivasyonu ve çıkış
 ```
 
-### Haftalık Operasyon Ritmi
+#### Haftalık Operasyon Ritmi
 
 | Gün | Odak Alanı | Ana Aktiviteler |
 |-----|------------|-----------------|
@@ -158,9 +154,9 @@ Bu doküman, tüm Aydınlı Grup franchise mağazaları için mağaza operasyonl
 | **Pazar** | Hafta Kapanışı | Özet, gelecek hafta planlaması, derin reset |
 
 
-## Kontrol Listeleri
+#### Kontrol Listeleri
 
-### Günlük Açılış Kontrol Listesi
+#### Günlük Açılış Kontrol Listesi
 
 ```
 GÜVENLİK VE SİSTEMLER
@@ -190,7 +186,7 @@ EKİP VE İLETİŞİM
 □ Ekibe günlük hedefleri ve odağı brifingle
 ```
 
-### Günlük Kapanış Kontrol Listesi
+#### Günlük Kapanış Kontrol Listesi
 
 ```
 MÜŞTERİ VE SATIŞ ALANI
@@ -221,9 +217,9 @@ ERTESI GÜN HAZIRLIĞI
 ```
 
 
-## KPI'lar
+#### KPI'lar
 
-### Mağaza Performans Metrikleri
+#### Mağaza Performans Metrikleri
 
 | KPI | Formül | Hedef | Sıklık |
 |-----|--------|-------|--------|
@@ -235,7 +231,7 @@ ERTESI GÜN HAZIRLIĞI
 | **Müşteri Memnuniyeti** | Anket puanı | ≥%85 | Aylık |
 | **Personel Verimliliği** | Satışlar / Personel saatleri | Benchmark | Haftalık |
 
-### KPI Panosu Örneği
+#### KPI Panosu Örneği
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -257,7 +253,7 @@ ERTESI GÜN HAZIRLIĞI
 ```
 
 
-### Sorun 2: Nakit Tutarsızlıkları
+#### Sorun 2: Nakit Tutarsızlıkları
 
 **Problem:** Kapanışta kasa fazla/eksik
 
@@ -269,7 +265,7 @@ ERTESI GÜN HAZIRLIĞI
 - Politikaya göre belgele ve raporla
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|
@@ -280,12 +276,8 @@ ERTESI GÜN HAZIRLIĞI
 
 ## SECTION 2: SUPPLY-CHAIN-OVERVIEW-TR
 
-﻿---
-layout: default
-title: "Tedarik Zinciri ve Lojistik Genel Bakış – TR"
-parent: Supply Chain
 
-## İçindekiler
+### İçindekiler
 
 1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
 2. [Amaç](#amaç)
@@ -300,15 +292,15 @@ parent: Supply Chain
 11. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
 12. [Revizyon Geçmişi](#revizyon-geçmişi)
 
-## Amaç
+#### Amaç
 
 Bu doküman, Aydınlı Grup franchise ortakları için tedarik zinciri ve lojistik operasyonlarına kapsamlı bir genel bakış sunmaktadır. Verimli tedarik zinciri yönetimi, tüm perakende lokasyonlarında ürün bulunabilirliği, envanter optimizasyonu ve müşteri memnuniyetini sağlar.
 
-### Tedarik Zinciri Misyonu
+#### Tedarik Zinciri Misyonu
 
 "Doğru ürünü, doğru yere, doğru zamanda, doğru miktarda, doğru maliyetle teslim etmek."
 
-### Temel Hedefler
+#### Temel Hedefler
 
 | Hedef | Etki |
 |-------|------|
@@ -319,7 +311,7 @@ Bu doküman, Aydınlı Grup franchise ortakları için tedarik zinciri ve lojist
 | **Doğruluk** | Hatasız teslimatlar |
 
 
-## Tanımlar
+#### Tanımlar
 
 | Terim (EN) | Terim (TR) | Tanım |
 |------------|------------|-------|
@@ -335,9 +327,9 @@ Bu doküman, Aydınlı Grup franchise ortakları için tedarik zinciri ve lojist
 | Reorder Point | Yeniden Sipariş Noktası | Yeniden siparişi tetikleyen envanter seviyesi |
 
 
-## Süreç Adımları
+#### Süreç Adımları
 
-### Sipariş Döngüsü
+#### Sipariş Döngüsü
 
 ```
 GÜN 1: SİPARİŞ GÖNDERİMİ
@@ -370,7 +362,7 @@ GÜN 5-7: TESLİMAT VE KABUL
 └── Tutarsızlık raporlama
 ```
 
-### Sezonluk Planlama Döngüsü
+#### Sezonluk Planlama Döngüsü
 
 | Aşama | Zamanlama | Aktiviteler |
 |-------|-----------|-------------|
@@ -382,9 +374,9 @@ GÜN 5-7: TESLİMAT VE KABUL
 | **Lansman** | T-Günü | Sezon başlar |
 
 
-## Kontrol Listeleri
+#### Kontrol Listeleri
 
-### Haftalık Sipariş Kontrol Listesi
+#### Haftalık Sipariş Kontrol Listesi
 
 ```
 HAFTALIK SİPARİŞ HAZIRLIĞI
@@ -418,7 +410,7 @@ Sipariş Numarası: _____________
 Beklenen Teslimat: _____________
 ```
 
-### Teslimat Kabul Kontrol Listesi
+#### Teslimat Kabul Kontrol Listesi
 
 ```
 TESLİMAT KABUL KONTROL LİSTESİ
@@ -461,9 +453,9 @@ Müdür: _____________
 ```
 
 
-## KPI'lar
+#### KPI'lar
 
-### Tedarik Zinciri Metrikleri
+#### Tedarik Zinciri Metrikleri
 
 | KPI | Formül | Hedef | Sıklık |
 |-----|--------|-------|--------|
@@ -474,7 +466,7 @@ Müdür: _____________
 | **Stoksuzluk Oranı** | Stoksuz SKU / Toplam | <%3 | Haftalık |
 | **Kabul Doğruluğu** | Doğru kabuller / Toplam | %100 | Teslimat başına |
 
-### Tedarik Zinciri Panosu
+#### Tedarik Zinciri Panosu
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -502,7 +494,7 @@ Müdür: _____________
 ```
 
 
-### Sorun 2: Teslimat Gecikmeleri
+#### Sorun 2: Teslimat Gecikmeleri
 
 **Problem:** Sevkiyatlar geç varıyor
 
@@ -514,7 +506,7 @@ Müdür: _____________
 - Tekrarlayan sorunları eskalasyon yap
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|
@@ -525,12 +517,8 @@ Müdür: _____________
 
 ## SECTION 3: OPENING-CLOSING-PROCEDURES-TR
 
-﻿---
-layout: default
-title: "Açılış ve Kapanış Prosedürleri – TR"
-parent: Store Operations
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -545,16 +533,16 @@ parent: Store Operations
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Uygulama
+#### Uygulama
 
 Bu prosedürler şunlara uygulanır:
 - Tüm mağaza formatları (Flagship, Standart, Kompakt, Shop-in-Shop, Outlet)
 - Tüm coğrafi bölgeler
 - Özel ticaret saatleri dahil tüm işletim günleri
 
-### Çalışma Saatleri
+#### Çalışma Saatleri
 
 | Gün | Standart Saatler | AVM Saatleri | Tatil Saatleri |
 |-----|------------------|--------------|----------------|
@@ -565,9 +553,9 @@ Bu prosedürler şunlara uygulanır:
 *Not: Saatler lokasyon ve yerel düzenlemelere göre değişir*
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Anahtar Sorumlusu (Açılış)
+#### Anahtar Sorumlusu (Açılış)
 
 | Görev | Zaman Dilimi | Hesap Verebilirlik |
 |-------|--------------|-------------------|
@@ -578,7 +566,7 @@ Bu prosedürler şunlara uygulanır:
 | Sistem başlatma | Açılış öncesi | Hazırlık |
 | Ekip koordinasyonu | Açılış öncesi | Liderlik |
 
-### Anahtar Sorumlusu (Kapanış)
+#### Anahtar Sorumlusu (Kapanış)
 
 | Görev | Zaman Dilimi | Hesap Verebilirlik |
 |-------|--------------|-------------------|
@@ -590,9 +578,9 @@ Bu prosedürler şunlara uygulanır:
 | Güvenli çıkış | Hemen ardından | Emniyet |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Anahtar Güvenlik Standartları
+#### Anahtar Güvenlik Standartları
 
 | Standart | Gereksinim | İhlal Sonucu |
 |----------|------------|--------------|
@@ -602,7 +590,7 @@ Bu prosedürler şunlara uygulanır:
 | Alarm kodu gizliliği | Asla paylaşılmaz | Derhal fesih |
 | Açılış/kapanış arkadaşı | Önerilir | Yerel politikaya göre |
 
-### Nakit Açılış Tutarı Standartları
+#### Nakit Açılış Tutarı Standartları
 
 | Mağaza Boyutu | Standart Açılış | Aralık |
 |---------------|-----------------|--------|
@@ -611,7 +599,7 @@ Bu prosedürler şunlara uygulanır:
 | Büyük | 500 $ | 400-600 $ |
 | Flagship | 750 $ | 600-1000 $ |
 
-### Zamanlama Standartları
+#### Zamanlama Standartları
 
 | Aktivite | Maksimum Süre | Notlar |
 |----------|---------------|--------|
@@ -622,9 +610,9 @@ Bu prosedürler şunlara uygulanır:
 | Z-raporu tutarsızlığı | Aynı gün | Çözülmeli |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Açılışta Alarm Tetikleniyor
+#### Senaryo 1: Açılışta Alarm Tetikleniyor
 
 **Durum:** Mağazaya girerken alarm çalıyor
 
@@ -637,7 +625,7 @@ Bu prosedürler şunlara uygulanır:
 6. İzin verilene kadar tekrar girme
 7. Olayı tam belgele
 
-### Senaryo 2: Kapanışta Müşteri Ayrılmayı Reddediyor
+#### Senaryo 2: Kapanışta Müşteri Ayrılmayı Reddediyor
 
 **Durum:** Müşteri kapanıştan 10 dakika sonra hâlâ alışveriş yapıyor
 
@@ -650,7 +638,7 @@ Bu prosedürler şunlara uygulanır:
 6. Asla müşteriyi fiziksel olarak zorla
 7. Önemli gecikme varsa belgele
 
-### Senaryo 3: Kapanışta Nakit Farkı
+#### Senaryo 3: Kapanışta Nakit Farkı
 
 **Durum:** Kasa çekmecesinde 15$ eksik
 
@@ -665,9 +653,9 @@ Bu prosedürler şunlara uygulanır:
 8. Yetki olmadan düzeltme yapma
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Alarm Devre Dışı Kalmıyor
+#### Sorun 1: Alarm Devre Dışı Kalmıyor
 
 **Çözüm:**
 1. Kodu dikkatle tekrar dene
@@ -676,7 +664,7 @@ Bu prosedürler şunlara uygulanır:
 4. Doğrulama için kimlik hazır bulundur
 5. Manuel olarak devre dışı bırakma
 
-### Sorun 2: POS Sistemi Başlamıyor
+#### Sorun 2: POS Sistemi Başlamıyor
 
 **Çözüm:**
 1. Güç bağlantılarını kontrol et
@@ -685,7 +673,7 @@ Bu prosedürler şunlara uygulanır:
 4. Yedek prosedürleri kullan
 5. Gerekirse manuel işlem kaydı
 
-### Sorun 3: Nakit Açılış Tutarı Yanlış
+#### Sorun 3: Nakit Açılış Tutarı Yanlış
 
 **Çözüm:**
 1. Şahitle yeniden say
@@ -705,12 +693,8 @@ Bu prosedürler şunlara uygulanır:
 
 ## SECTION 4: CASH-MANAGEMENT-GUIDE-TR
 
-﻿---
-layout: default
-title: "Nakit Yönetimi Kılavuzu – TR"
-parent: Store Operations
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -725,7 +709,7 @@ parent: Store Operations
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
 Bu kılavuz şunları kapsar:
 - Kasa operasyonları
@@ -736,9 +720,9 @@ Bu kılavuz şunları kapsar:
 - Dolandırıcılık önleme
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Satış Personeli
+#### Satış Personeli
 
 | Görev | Standart | Sıklık |
 |-------|----------|--------|
@@ -747,7 +731,7 @@ Bu kılavuz şunları kapsar:
 | Çekmece güvenliğini koruma | Kullanılmadığında kapalı | Sürekli |
 | Tutarsızlıkları raporlama | Hemen | Gerçekleştiğinde |
 
-### Vardiya Sorumlusu
+#### Vardiya Sorumlusu
 
 | Görev | Standart | Sıklık |
 |-------|----------|--------|
@@ -756,7 +740,7 @@ Bu kılavuz şunları kapsar:
 | Gün ortası mutabakatı | Gerekirse | Vardiya başına |
 | Nakit çekimleri | Protokole göre | Gerektiğinde |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Standart | Sıklık |
 |-------|----------|--------|
@@ -767,9 +751,9 @@ Bu kılavuz şunları kapsar:
 | Nakit yönetimi eğitimi | Standarda göre | Yeni personel + yenileme |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Nakit İşlem Standartları
+#### Nakit İşlem Standartları
 
 | Standart | Gereksinim | Sonuç |
 |----------|------------|-------|
@@ -779,7 +763,7 @@ Bu kılavuz şunları kapsar:
 | Büyük banknotlar | Dedektör kalemiyle doğrula | Sahte kabul |
 | Fark toleransı | Günlük ±5$ | Araştırma gerekli |
 
-### Mağazaya Göre Açılış Nakiti Standartları
+#### Mağazaya Göre Açılış Nakiti Standartları
 
 | Mağaza Tipi | Açılış Nakiti | Kasaya Bırakma Eşiği |
 |-------------|---------------|----------------------|
@@ -788,7 +772,7 @@ Bu kılavuz şunları kapsar:
 | Büyük | 500$ | 750$ |
 | Flagship | 750$ | 1.000$ |
 
-### Para Birimi Gereksinimleri
+#### Para Birimi Gereksinimleri
 
 | Para Birimi | Açılış Miktarı | Notlar |
 |-------------|----------------|--------|
@@ -801,7 +785,7 @@ Bu kılavuz şunları kapsar:
 | 1 TL | 50 (50 TL) | Bozukluk |
 | Kuruşlar | 50 TL değerinde | Bozukluk |
 
-### Yasaklı Uygulamalar
+#### Yasaklı Uygulamalar
 
 - ❌ Çekmeceyi açık ve gözetimsiz bırakma
 - ❌ Çekmece erişim kodlarını paylaşma
@@ -813,9 +797,9 @@ Bu kılavuz şunları kapsar:
 - ❌ Nakit tutarlarını alenen tartışma
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Nakit Fark Araştırması
+#### Senaryo 1: Nakit Fark Araştırması
 
 **Durum:** Kapanışta 20$ eksik
 
@@ -852,7 +836,7 @@ Bu kılavuz şunları kapsar:
    └── Önleyici tedbirler uygula
 ```
 
-### Senaryo 2: Şüpheli Sahte Banknot
+#### Senaryo 2: Şüpheli Sahte Banknot
 
 **Durum:** Müşteri şüpheli 100$ ile ödeme yapıyor
 
@@ -867,7 +851,7 @@ Bu kılavuz şunları kapsar:
    - Sahte raporunu tamamla
    - Gerekirse yetkililere bildir
 
-### Senaryo 3: Müşteri Para Üstünü İtiraz Ediyor
+#### Senaryo 3: Müşteri Para Üstünü İtiraz Ediyor
 
 **Durum:** Müşteri yanlış para üstü aldığını iddia ediyor
 
@@ -881,9 +865,9 @@ Bu kılavuz şunları kapsar:
 7. Olayı belgele
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Sık Küçük Farklar
+#### Sorun 1: Sık Küçük Farklar
 
 **Problem:** Düzenli olarak 1-5$ farklar oluşuyor
 
@@ -895,7 +879,7 @@ Bu kılavuz şunları kapsar:
 - Yüksek sesle sayma uygula
 
 
-### Sorun 3: Sahte Banknotlar Kabul Edilmiş
+#### Sorun 3: Sahte Banknotlar Kabul Edilmiş
 
 **Problem:** Yatırım sırasında sahte para bulundu
 
@@ -917,12 +901,8 @@ Bu kılavuz şunları kapsar:
 
 ## SECTION 5: CUSTOMER-SERVICE-STANDARDS-TR
 
-﻿---
-layout: default
-title: "Müşteri Hizmetleri Standartları – TR"
-parent: Store Operations
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -937,7 +917,7 @@ parent: Store Operations
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
 Bu standartlar şunlara uygulanır:
 - Tüm müşteri etkileşimleri (mağaza içi, telefon, dijital)
@@ -946,9 +926,9 @@ Bu standartlar şunlara uygulanır:
 - Tüm markalar (U.S. Polo Assn., Pierre Cardin, Cacharel)
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Satış Danışmanları
+#### Satış Danışmanları
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -959,7 +939,7 @@ Bu standartlar şunlara uygulanır:
 | Kasa deneyimi | Hızlı, doğru, samimi |
 | Veda | Teşekkür et ve geri dönmeye davet et |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -971,9 +951,9 @@ Bu standartlar şunlara uygulanır:
 | Takdir | Mükemmel hizmeti kabul et |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Yanıt Süresi Standartları
+#### Yanıt Süresi Standartları
 
 | Etkileşim | Maksimum Süre | Hedef |
 |-----------|---------------|-------|
@@ -984,7 +964,7 @@ Bu standartlar şunlara uygulanır:
 | Telefona cevap | 3 çalış | 2 çalış |
 | Müşteri şikayeti | Hemen | Hemen |
 
-### Hizmet Davranışları
+#### Hizmet Davranışları
 
 #### Gerekli Davranışlar ✓
 
@@ -1012,7 +992,7 @@ Bu standartlar şunlara uygulanır:
 - ✗ Kişisel konuları tartışma
 - ✗ Rakipleri eleştirme
 
-### İletişim Standartları
+#### İletişim Standartları
 
 | Boyut | Standart |
 |-------|----------|
@@ -1023,9 +1003,9 @@ Bu standartlar şunlara uygulanır:
 | **Beden Dili** | Açık, ilgili, dikkatli |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Yoğun Mağaza, Bekleyen Müşteri
+#### Senaryo 1: Yoğun Mağaza, Bekleyen Müşteri
 
 **Durum:** Mağaza yoğun, müşteri yardım için bekliyor
 
@@ -1039,7 +1019,7 @@ Bu standartlar şunlara uygulanır:
 6. Tam dikkatini ver
 ```
 
-### Senaryo 2: Kararsız Müşteri
+#### Senaryo 2: Kararsız Müşteri
 
 **Durum:** Müşteri iki ürün arasında karar veremiyor
 
@@ -1063,7 +1043,7 @@ Bu standartlar şunlara uygulanır:
    "İkisini de alıp uymayanı iade etmek ister misiniz?"
 ```
 
-### Senaryo 3: Müşteri Şikayeti
+#### Senaryo 3: Müşteri Şikayeti
 
 **Durum:** Müşteri önceki satın alımından memnun değil
 
@@ -1092,9 +1072,9 @@ Bu standartlar şunlara uygulanır:
 ```
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Müşteriler Yardımsız Ayrılıyor
+#### Sorun 1: Müşteriler Yardımsız Ayrılıyor
 
 **Problem:** Müşteriler personel ilgisi olmadan ayrılıyor
 
@@ -1106,7 +1086,7 @@ Bu standartlar şunlara uygulanır:
 - Kapı zili/sayaç farkındalığı kullan
 
 
-### Sorun 3: Bekleme Süresi Şikayetleri
+#### Sorun 3: Bekleme Süresi Şikayetleri
 
 **Problem:** Müşteriler beklemekten rahatsız
 
@@ -1128,12 +1108,8 @@ Bu standartlar şunlara uygulanır:
 
 ## SECTION 6: INVENTORY-CONTROL-GUIDE-TR
 
-﻿---
-layout: default
-title: "Envanter Kontrol Kılavuzu – TR"
-parent: Store Operations
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1148,7 +1124,7 @@ parent: Store Operations
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
 Bu kılavuz şunları kapsar:
 - Teslimat alma ve işleme
@@ -1159,9 +1135,9 @@ Bu kılavuz şunları kapsar:
 - Mağazalar arası transferler
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Satış Personeli
+#### Satış Personeli
 
 | Görev | Sıklık |
 |-------|--------|
@@ -1170,7 +1146,7 @@ Bu kılavuz şunları kapsar:
 | Döngüsel sayımlara katılım | Atandığında |
 | Hasarlı ürünleri raporlama | Hemen |
 
-### Depo Personeli
+#### Depo Personeli
 
 | Görev | Sıklık |
 |-------|--------|
@@ -1179,7 +1155,7 @@ Bu kılavuz şunları kapsar:
 | Satış alanını yenileme | Günde birkaç kez |
 | Döngüsel sayım yapma | Programa göre |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Görev | Sıklık |
 |-------|--------|
@@ -1190,9 +1166,9 @@ Bu kılavuz şunları kapsar:
 | Farkları araştırma | Gerçekleştiğinde |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Envanter Doğruluk Standartları
+#### Envanter Doğruluk Standartları
 
 | Metrik | Hedef | Aksiyon Eşiği |
 |--------|-------|---------------|
@@ -1201,7 +1177,7 @@ Bu kılavuz şunları kapsar:
 | Fire Oranı | Satışların <%1'i | >%1.5 aksiyon planı tetikler |
 | Mal Kabul Doğruluğu | %100 | Her hata rapor gerektirir |
 
-### Depo Organizasyonu
+#### Depo Organizasyonu
 
 ```
 DEPO ALAN DÜZENİ
@@ -1227,7 +1203,7 @@ BÖLGE D: İADELER/HASARLAR
 └── Transfer hazırlık alanı
 ```
 
-### FIFO Prensipleri
+#### FIFO Prensipleri
 
 | Prensip | Uygulama |
 |---------|----------|
@@ -1237,9 +1213,9 @@ BÖLGE D: İADELER/HASARLAR
 | **Tarihli Ürünler** | Tarihleri kontrol et, en eskiyi önce sat |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Eksik Teslimat
+#### Senaryo 1: Eksik Teslimat
 
 **Durum:** 100 adet teslimat, paket fişi 120 gösteriyor
 
@@ -1255,7 +1231,7 @@ BÖLGE D: İADELER/HASARLAR
 8. Çözüm için takip et
 ```
 
-### Senaryo 2: Döngüsel Sayımda Fark Bulundu
+#### Senaryo 2: Döngüsel Sayımda Fark Bulundu
 
 **Durum:** Sistem 15 gösteriyor, gerçek sayım 12
 
@@ -1275,7 +1251,7 @@ BÖLGE D: İADELER/HASARLAR
 8. Desen bulunursa daha fazla araştır
 ```
 
-### Senaryo 3: Hasarlı Ürün Teslim Alındı
+#### Senaryo 3: Hasarlı Ürün Teslim Alındı
 
 **Durum:** Teslimattta 5 ürün kusurlu
 
@@ -1295,9 +1271,9 @@ BÖLGE D: İADELER/HASARLAR
 ```
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Kronik Stoksuzluk
+#### Sorun 1: Kronik Stoksuzluk
 
 **Problem:** Aynı ürünler sürekli stoksuz kalıyor
 
@@ -1309,7 +1285,7 @@ BÖLGE D: İADELER/HASARLAR
 - Mağaza transferi düşün
 
 
-### Sorun 3: Düzensiz Arka Stok
+#### Sorun 3: Düzensiz Arka Stok
 
 **Problem:** Gerektiğinde ürünler bulunamıyor
 
@@ -1331,12 +1307,8 @@ BÖLGE D: İADELER/HASARLAR
 
 ## SECTION 7: LOSS-PREVENTION-GUIDE-TR
 
-﻿---
-layout: default
-title: "Kayıp Önleme Kılavuzu – TR"
-parent: Store Operations
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1351,7 +1323,7 @@ parent: Store Operations
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
 Bu kılavuz şunları kapsar:
 - Dış hırsızlık (mağaza hırsızlığı)
@@ -1362,9 +1334,9 @@ Bu kılavuz şunları kapsar:
 - Fiziksel güvenlik önlemleri
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Tüm Personel
+#### Tüm Personel
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -1373,7 +1345,7 @@ Bu kılavuz şunları kapsar:
 | Şüpheli davranış | Hemen raporla |
 | Güvenlik prosedürleri | Tutarlı uygula |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -1384,9 +1356,9 @@ Bu kılavuz şunları kapsar:
 | Soruşturmalar | İç soruşturmaları yönet |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Güvenlik Ekipmanı Standartları
+#### Güvenlik Ekipmanı Standartları
 
 | Ekipman | Gereksinim | Kontrol Sıklığı |
 |---------|------------|-----------------|
@@ -1397,7 +1369,7 @@ Bu kılavuz şunları kapsar:
 | Kilitler | İşlevsel | Günlük |
 | Kasa | Güvenli | Her kullanımda |
 
-### Kabin Prosedürleri
+#### Kabin Prosedürleri
 
 | Adım | Gereksinim |
 |------|------------|
@@ -1408,7 +1380,7 @@ Bu kılavuz şunları kapsar:
 | **Çıkış Sayımı** | Çıkan tüm ürünleri say |
 | **Tutarsızlık** | Hemen raporla |
 
-### Yüksek Riskli Ürün Koruması
+#### Yüksek Riskli Ürün Koruması
 
 | Risk Seviyesi | Ürünler | Koruma |
 |---------------|---------|--------|
@@ -1417,9 +1389,9 @@ Bu kılavuz şunları kapsar:
 | **Standart** | Temel giyim | Tek etiket |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Gözlemlenen Hırsızlık
+#### Senaryo 1: Gözlemlenen Hırsızlık
 
 **Durum:** Personel müşterinin ürünü çantasına sakladığını görüyor
 
@@ -1448,7 +1420,7 @@ MÜŞTERİ ÇIKARSA:
 5. Yüksek değerse polisi ara
 ```
 
-### Senaryo 2: Kabin Tutarsızlığı
+#### Senaryo 2: Kabin Tutarsızlığı
 
 **Durum:** Müşteri 4 ürünle girdi, 2 ile çıkıyor
 
@@ -1471,7 +1443,7 @@ MÜŞTERİ ÇIKARSA:
    - Olayı belgele
 ```
 
-### Senaryo 3: Şüpheli Çalışan Hırsızlığı
+#### Senaryo 3: Şüpheli Çalışan Hırsızlığı
 
 **Durum:** Nakit eksiklikleri veya envanter farkları
 
@@ -1490,9 +1462,9 @@ MÜŞTERİ ÇIKARSA:
 ```
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Yüksek Kabin Hırsızlığı
+#### Sorun 1: Yüksek Kabin Hırsızlığı
 
 **Problem:** Kabinlerden ürünler kayboluyor
 
@@ -1504,7 +1476,7 @@ MÜŞTERİ ÇIKARSA:
 - Görevli pozisyonu düşün
 
 
-### Sorun 3: Yüksek İç Hırsızlık
+#### Sorun 3: Yüksek İç Hırsızlık
 
 **Problem:** Çalışan hırsızlığı şüphesi
 
@@ -1526,12 +1498,8 @@ MÜŞTERİ ÇIKARSA:
 
 ## SECTION 8: RETURN-EXCHANGE-PROCEDURES-TR
 
-﻿---
-layout: default
-title: "İade ve Değişim Prosedürleri – TR"
-parent: Store Operations
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1546,7 +1514,7 @@ parent: Store Operations
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
 Bu prosedür şunları kapsar:
 - Standart iadeler (para iadesi)
@@ -1556,9 +1524,9 @@ Bu prosedür şunları kapsar:
 - Online alışveriş mağazada iade
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Satış Personeli
+#### Satış Personeli
 
 | Görev | Standart |
 |-------|----------|
@@ -1568,7 +1536,7 @@ Bu prosedür şunları kapsar:
 | İşlemi gerçekleştirme | Doğru, verimli |
 | Gerektiğinde sorumluyu dahil etme | Karmaşık durumlar |
 
-### Sorumlu/Müdür
+#### Sorumlu/Müdür
 
 | Görev | Standart |
 |-------|----------|
@@ -1578,9 +1546,9 @@ Bu prosedür şunları kapsar:
 | Şüpheli iadeleri araştırma | Dokümantasyon gerekli |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Uygunluk Kriterleri
+#### Uygunluk Kriterleri
 
 | Kriter | Uygun | Uygun Değil |
 |--------|-------|-------------|
@@ -1592,7 +1560,7 @@ Bu prosedür şunları kapsar:
 | **İndirimli Ürünler** | Politikaya göre | Son satış ürünleri |
 | **Tadilat** | Yok | Paça kısaltılmış, değiştirilmiş |
 
-### İade Yöntemleri
+#### İade Yöntemleri
 
 | Orijinal Ödeme | İade Yöntemi | Süre |
 |----------------|--------------|------|
@@ -1602,7 +1570,7 @@ Bu prosedür şunları kapsar:
 | Hediye Kartı | Hediye kartı | Anında |
 | Mağaza Kredisi | Mağaza kredisi | Anında |
 
-### İstisna Yönetimi
+#### İstisna Yönetimi
 
 | Senaryo | Yetki | Aksiyon |
 |---------|-------|---------|
@@ -1613,9 +1581,9 @@ Bu prosedür şunları kapsar:
 | Şüpheli dolandırıcılık | Müdür | Reddet, belgele |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Fişli Standart İade
+#### Senaryo 1: Fişli Standart İade
 
 **Durum:** Müşteri geçen hafta aldığı gömleği iade ediyor
 
@@ -1633,7 +1601,7 @@ Bu prosedür şunları kapsar:
 7. Müşteriye teşekkür et ve geri dönmeye davet et
 ```
 
-### Senaryo 2: Fişsiz İade
+#### Senaryo 2: Fişsiz İade
 
 **Durum:** Müşteri hediyeyi iade etmek istiyor, fiş yok
 
@@ -1651,7 +1619,7 @@ Bu prosedür şunları kapsar:
    - Politikada samimi ama kararlı kal
 ```
 
-### Senaryo 3: İade Süresi Geçmiş
+#### Senaryo 3: İade Süresi Geçmiş
 
 **Durum:** Müşteri satın almadan 35 gün sonra ürün iade ediyor
 
@@ -1668,7 +1636,7 @@ Bu prosedür şunları kapsar:
 7. Onaylanırsa istisnayı belgele
 ```
 
-### Senaryo 4: Şüpheli Dolandırıcı İade
+#### Senaryo 4: Şüpheli Dolandırıcı İade
 
 **Kırmızı Bayraklar:**
 - Fiş yok, yüksek değerli ürün
@@ -1691,9 +1659,9 @@ Bu prosedür şunları kapsar:
 ```
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Müşteri Politika Dışı İadede Israr Ediyor
+#### Sorun 1: Müşteri Politika Dışı İadede Israr Ediyor
 
 **Çözüm:**
 - Sakin ve empatik kal
@@ -1704,7 +1672,7 @@ Bu prosedür şunları kapsar:
 - İstisnaları belgele
 
 
-### Sorun 3: Şüpheli İade Dolandırıcılığı Deseni
+#### Sorun 3: Şüpheli İade Dolandırıcılığı Deseni
 
 **Çözüm:**
 - Müşteriye göre iade desenlerini izle
@@ -1724,12 +1692,8 @@ Bu prosedür şunları kapsar:
 
 ## SECTION 9: ORDER-MANAGEMENT-GUIDE-TR
 
-﻿---
-layout: default
-title: "Sipariş Yönetimi Kılavuzu – TR"
-parent: Supply Chain
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1744,9 +1708,9 @@ parent: Supply Chain
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Sipariş Türleri
+#### Sipariş Türleri
 
 | Sipariş Türü | Açıklama | Zamanlama |
 |--------------|----------|-----------|
@@ -1756,7 +1720,7 @@ parent: Supply Chain
 | **Transfer Siparişi** | Mağazalar arası hareketler | Gerektiğinde |
 | **Acil Sipariş** | Acil stok ihtiyaçları | Aynı gün |
 
-### Sistem Erişimi
+#### Sistem Erişimi
 
 | Sistem | Amaç | Erişim |
 |--------|------|--------|
@@ -1766,9 +1730,9 @@ parent: Supply Chain
 | **Takip Portalı** | Sevkiyat takibi | Tüm mağazalar |
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Personeli
+#### Mağaza Personeli
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -1778,7 +1742,7 @@ parent: Supply Chain
 | Alınan siparişleri doğrula | Aynı gün |
 | Envanter sistemini güncelle | Gerçek zamanlı |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -1788,7 +1752,7 @@ parent: Supply Chain
 | Bölge ile koordine ol | Gerektiğinde |
 | Sipariş doğruluğunu sağla | Gönderim başına |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -1798,7 +1762,7 @@ parent: Supply Chain
 | Transferleri koordine et | Gerektiğinde |
 | Bölgesel performansı izle | Aylık |
 
-### Merkez Tedarik Zinciri
+#### Merkez Tedarik Zinciri
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -1809,9 +1773,9 @@ parent: Supply Chain
 | Performans raporlaması | Aylık |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Sipariş Gönderim Standartları
+#### Sipariş Gönderim Standartları
 
 | Standart | Gereksinim |
 |----------|------------|
@@ -1821,7 +1785,7 @@ parent: Supply Chain
 | **Sistem Erişimi** | Sadece yetkili kullanıcılar |
 | **Dokümantasyon** | Tüm siparişler belgelenir |
 
-### Sipariş Doğruluk Gereksinimleri
+#### Sipariş Doğruluk Gereksinimleri
 
 | Metrik | Hedef |
 |--------|-------|
@@ -1831,7 +1795,7 @@ parent: Supply Chain
 | Adres Doğruluğu | %100 doğru |
 | Özel Talimatlar | Tam ve net |
 
-### Bütçe Yönetimi
+#### Bütçe Yönetimi
 
 | Kural | Açıklama |
 |-------|----------|
@@ -1842,9 +1806,9 @@ parent: Supply Chain
 | **İndirim Dengesi** | İndirimli ürünleri dahil et |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Düzenli Haftalık Sipariş
+#### Senaryo 1: Düzenli Haftalık Sipariş
 
 **Durum:** Salı haftalık sipariş gönderimi
 
@@ -1860,7 +1824,7 @@ parent: Supply Chain
 8. Çarşamba: Sipariş onayının alındığını doğrula
 ```
 
-### Senaryo 2: Acil Stok Talebi
+#### Senaryo 2: Acil Stok Talebi
 
 **Durum:** Kilit ürün beklenmedik şekilde tükendi
 
@@ -1876,7 +1840,7 @@ parent: Supply Chain
 8. Hızlandırılmış teslimatı koordine et
 ```
 
-### Senaryo 3: Sezon Sipariş Planlaması
+#### Senaryo 3: Sezon Sipariş Planlaması
 
 **Durum:** Sezon öncesi toplu sipariş
 
@@ -1895,9 +1859,9 @@ parent: Supply Chain
 ```
 
 
-## Sık Karşılaşılan Sorunlar ve Çözümler
+#### Sık Karşılaşılan Sorunlar ve Çözümler
 
-### Sorun 1: Kaçırılan Sipariş Son Tarihi
+#### Sorun 1: Kaçırılan Sipariş Son Tarihi
 
 **Problem:** Sipariş son tarihe kadar gönderilmedi
 
@@ -1909,7 +1873,7 @@ parent: Supply Chain
 - Son tarih uzatması talep et (sadece bir kez)
 
 
-### Sorun 3: Sistem Erişim Sorunları
+#### Sorun 3: Sistem Erişim Sorunları
 
 **Problem:** B2B portalına erişilemiyor
 
@@ -1922,9 +1886,9 @@ parent: Supply Chain
 - Yedek kullanıcının sipariş göndermesini sağla
 
 
-## B2B Portal Kılavuzu
+#### B2B Portal Kılavuzu
 
-### Giriş Süreci
+#### Giriş Süreci
 
 ```
 B2B PORTAL ERİŞİMİ
@@ -1944,7 +1908,7 @@ NAVİGASYON
 - Destek → Yardım masasına ulaş
 ```
 
-### Sipariş Giriş Adımları
+#### Sipariş Giriş Adımları
 
 ```
 YENİ SİPARİŞ OLUŞTURMA
@@ -1974,12 +1938,8 @@ YENİ SİPARİŞ OLUŞTURMA
 
 ## SECTION 10: DELIVERY-RECEIVING-PROCEDURES-TR
 
-﻿---
-layout: default
-title: "Teslimat ve Kabul Prosedürleri – TR"
-parent: Supply Chain
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -1994,9 +1954,9 @@ parent: Supply Chain
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Teslimat Türleri
+#### Teslimat Türleri
 
 | Teslimat Türü | Kaynak | Sıklık |
 |---------------|--------|--------|
@@ -2006,7 +1966,7 @@ parent: Supply Chain
 | **İade/Onarım** | Onarım merkezi | Uygulanabildiğinde |
 | **Özel/Acil** | DC veya tedarikçi | Acil durum |
 
-### Kabul Alanları
+#### Kabul Alanları
 
 | Alan | Amaç | Gereksinimler |
 |------|------|---------------|
@@ -2016,9 +1976,9 @@ parent: Supply Chain
 | **Depolama** | Envanter tutma | Uygun raflama |
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Kabul Personeli
+#### Kabul Personeli
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2028,7 +1988,7 @@ parent: Supply Chain
 | Tutarsızlıkları belgele | Hemen |
 | Envanter sistemini güncelle | Aynı gün |
 
-### Mağaza Müdürü
+#### Mağaza Müdürü
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2038,7 +1998,7 @@ parent: Supply Chain
 | Envanter güncellemelerini onayla | Aynı gün |
 | Sorunları takip et | 24 saat içinde |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2048,9 +2008,9 @@ parent: Supply Chain
 | Talep gönderimlerini onayla | 48 saat içinde |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Kabul Standartları
+#### Kabul Standartları
 
 | Standart | Gereksinim |
 |----------|------------|
@@ -2060,7 +2020,7 @@ parent: Supply Chain
 | **Sistem Güncelleme** | Kabul ile aynı gün |
 | **Tutarsızlık Son Tarihi** | 24 saat içinde raporla |
 
-### Kalite Standartları
+#### Kalite Standartları
 
 | Husus | Standart |
 |-------|----------|
@@ -2070,7 +2030,7 @@ parent: Supply Chain
 | **Barkodlar** | Taranabilir |
 | **Askılar** | Uygun ve hasarsız |
 
-### Güvenlik Standartları
+#### Güvenlik Standartları
 
 | Kural | Açıklama |
 |-------|----------|
@@ -2081,9 +2041,9 @@ parent: Supply Chain
 | **Dokümantasyon** | İmza gerekli |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Normal Teslimat
+#### Senaryo 1: Normal Teslimat
 
 **Durum:** Düzenli haftalık yenileme geldi
 
@@ -2102,7 +2062,7 @@ parent: Supply Chain
 **Sonuç:** Temiz kabul, tutarsızlık yok
 
 
-### Senaryo 3: Dış Hasarlı Teslimat
+#### Senaryo 3: Dış Hasarlı Teslimat
 
 **Durum:** Kutu görünür şekilde hasarlı geldi
 
@@ -2123,9 +2083,9 @@ parent: Supply Chain
 **Sonuç:** Hasar belgelendi, taşıyıcı bilgilendirildi
 
 
-## KPI'lar
+#### KPI'lar
 
-### Kabul Performans Metrikleri
+#### Kabul Performans Metrikleri
 
 | KPI | Formül | Hedef | Sıklık |
 |-----|--------|-------|--------|
@@ -2135,7 +2095,7 @@ parent: Supply Chain
 | **İşleme Süresi** | Teslimatdan satış alanına saat | <4 saat | Teslimat başına |
 | **Talep Gönderimi** | Zamanında talepler / Toplam talep | %100 | Aylık |
 
-### Performans Panosu
+#### Performans Panosu
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -2164,7 +2124,7 @@ parent: Supply Chain
 ```
 
 
-### Sorun 2: Tarayıcı Arızası
+#### Sorun 2: Tarayıcı Arızası
 
 **Problem:** Kabul sırasında ürünler taranamıyor
 
@@ -2176,7 +2136,7 @@ parent: Supply Chain
 - Kabul tamamlanmasını asla geciktirme
 
 
-### Sorun 4: Depolama Kısıtlamaları
+#### Sorun 4: Depolama Kısıtlamaları
 
 **Problem:** Teslimat için yeterli alan yok
 
@@ -2188,7 +2148,7 @@ parent: Supply Chain
 - Kapasite limitlerini HQ'ya ilet
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|
@@ -2199,12 +2159,8 @@ parent: Supply Chain
 
 ## SECTION 11: STOCK-TRANSFER-PROCEDURES-TR
 
-﻿---
-layout: default
-title: "Stok Transfer Prosedürleri – TR"
-parent: Supply Chain
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -2219,9 +2175,9 @@ parent: Supply Chain
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Transfer Türleri
+#### Transfer Türleri
 
 | Transfer Türü | Açıklama | Onay |
 |---------------|----------|------|
@@ -2231,7 +2187,7 @@ parent: Supply Chain
 | **Bölgesel Dengeleme** | Çoklu mağaza ayarlamaları | Bölge Müdürü |
 | **Sezon Sonu** | Sezon sonu konsolidasyonu | HQ Onayı |
 
-### Transfer Nedenleri
+#### Transfer Nedenleri
 
 | Neden | Öncelik | Tipik Hacim |
 |-------|---------|-------------|
@@ -2243,9 +2199,9 @@ parent: Supply Chain
 | **Etkinlik/Promosyon Desteği** | Yüksek | Gerektiği kadar |
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Gönderen Mağaza
+#### Gönderen Mağaza
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2255,7 +2211,7 @@ parent: Supply Chain
 | Envanter sistemini güncelle | Sevkiyatta |
 | Toplama/teslimatı koordine et | Programa göre |
 
-### Alan Mağaza
+#### Alan Mağaza
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2265,7 +2221,7 @@ parent: Supply Chain
 | Envanter sistemini güncelle | Aynı gün |
 | Tutarsızlıkları raporla | 24 saat içinde |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2275,9 +2231,9 @@ parent: Supply Chain
 | Transfer KPI'larını izle | Aylık |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Transfer Standartları
+#### Transfer Standartları
 
 | Standart | Gereksinim |
 |----------|------------|
@@ -2287,7 +2243,7 @@ parent: Supply Chain
 | **Dokümantasyon** | Tüm transferler için tam |
 | **Durum** | Sadece satılabilir ürünler |
 
-### Paketleme Standartları
+#### Paketleme Standartları
 
 | Standart | Gereksinim |
 |----------|------------|
@@ -2297,7 +2253,7 @@ parent: Supply Chain
 | **Mühür** | Kutular mühürlü ve güvenli |
 | **Paket Listesi** | Kutunun içinde ve dışında |
 
-### Dokümantasyon Gereksinimleri
+#### Dokümantasyon Gereksinimleri
 
 | Belge | Amaç | Saklama |
 |-------|------|---------|
@@ -2308,9 +2264,9 @@ parent: Supply Chain
 | Kabul Onayı | Tamamlanma kaydı | 1 yıl |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Acil Stoksuzluk Önleme
+#### Senaryo 1: Acil Stoksuzluk Önleme
 
 **Durum:** Mağaza A en çok satanda azalıyor, Mağaza B'de fazlalık var
 
@@ -2338,7 +2294,7 @@ Gün 2 - Sabah:
 **Sonuç:** Stoksuzluk önlendi, satışlar korundu
 
 
-### Senaryo 3: Tutarsızlıklı Transfer
+#### Senaryo 3: Tutarsızlıklı Transfer
 
 **Durum:** Alan mağaza beklenenden az ürün alıyor
 
@@ -2359,9 +2315,9 @@ Gün 2 - Sabah:
 **Sonuç:** Tutarsızlık çözüldü, süreç iyileştirildi
 
 
-## KPI'lar
+#### KPI'lar
 
-### Transfer Performans Metrikleri
+#### Transfer Performans Metrikleri
 
 | KPI | Formül | Hedef | Sıklık |
 |-----|--------|-------|--------|
@@ -2371,7 +2327,7 @@ Gün 2 - Sabah:
 | **Talepten Teslimata** | Ort gün talepten | <3 gün | Aylık |
 | **Transfer Hacmi** | Transfer edilen adet | Takip | Aylık |
 
-### Performans Panosu
+#### Performans Panosu
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -2401,7 +2357,7 @@ Gün 2 - Sabah:
 ```
 
 
-### Sorun 2: Transfer Farkları
+#### Sorun 2: Transfer Farkları
 
 **Problem:** Transit sırasında eksik veya hasarlı ürünler
 
@@ -2413,7 +2369,7 @@ Gün 2 - Sabah:
 - Güvenilir taşıyıcılar seç
 
 
-### Sorun 4: Geçerli Taleplerin Reddi
+#### Sorun 4: Geçerli Taleplerin Reddi
 
 **Problem:** Geçerli transfer talepleri reddediliyor
 
@@ -2425,7 +2381,7 @@ Gün 2 - Sabah:
 - Ek bilgiyle yeniden değerlendirme talep et
 
 
-## Revizyon Geçmişi
+#### Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklik | Hazırlayan |
 |----------|-------|------------|------------|
@@ -2436,12 +2392,8 @@ Gün 2 - Sabah:
 
 ## SECTION 12: SHIPPING-LOGISTICS-GUIDE-TR
 
-﻿---
-layout: default
-title: "Sevkiyat ve Lojistik Kılavuzu – TR"
-parent: Supply Chain
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -2456,9 +2408,9 @@ parent: Supply Chain
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Sevkiyat Yöntemleri
+#### Sevkiyat Yöntemleri
 
 | Yöntem | Açıklama | Tedarik Süresi | Maliyet |
 |--------|----------|----------------|---------|
@@ -2469,9 +2421,9 @@ parent: Supply Chain
 | **Kurye** | Kapıdan kapıya ekspres | Aynı-Ertesi gün | En Yüksek |
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Ekibi
+#### Mağaza Ekibi
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2481,7 +2433,7 @@ parent: Supply Chain
 | Teslimat kabulünü onayla | Aynı gün |
 | Sevkiyat kayıtlarını tut | Tam |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2490,7 +2442,7 @@ parent: Supply Chain
 | Teslimat rotalarını optimize et | Üç aylık |
 | Taşıyıcı performansını incele | Aylık |
 
-### Merkez Lojistik Ekibi
+#### Merkez Lojistik Ekibi
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2501,9 +2453,9 @@ parent: Supply Chain
 | Lojistik KPI'larını raporla | Aylık |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### Teslimat Standartları
+#### Teslimat Standartları
 
 | Standart | Hedef |
 |----------|-------|
@@ -2513,7 +2465,7 @@ parent: Supply Chain
 | **POD Yakalama** | %100 |
 | **Sorun Çözümü** | 48 saat içinde |
 
-### Ambalaj Standartları
+#### Ambalaj Standartları
 
 | Standart | Gereksinim |
 |----------|------------|
@@ -2523,7 +2475,7 @@ parent: Supply Chain
 | **Ağırlık Limitleri** | Taşıyıcı kılavuzlarına göre |
 | **Mühürleme** | Güvenli bant kapatma |
 
-### Dokümantasyon Gereksinimleri
+#### Dokümantasyon Gereksinimleri
 
 | Belge | Amaç | Saklama |
 |-------|------|---------|
@@ -2534,9 +2486,9 @@ parent: Supply Chain
 | Sigorta Sertifikası | Kapsam kanıtı | 3 yıl |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Standart Yurt İçi Sevkiyat Takibi
+#### Senaryo 1: Standart Yurt İçi Sevkiyat Takibi
 
 **Durum:** İstanbul DC'den haftalık yenileme
 
@@ -2562,7 +2514,7 @@ Gün 4 (Perşembe):
 ```
 
 
-### Senaryo 3: Uluslararası Gümrük İşlemleri
+#### Senaryo 3: Uluslararası Gümrük İşlemleri
 
 **Durum:** Sevkiyat gümrükte bekletildi
 
@@ -2579,9 +2531,9 @@ Gün 4 (Perşembe):
 ```
 
 
-## KPI'lar
+#### KPI'lar
 
-### Lojistik Performans Metrikleri
+#### Lojistik Performans Metrikleri
 
 | KPI | Formül | Hedef | Sıklık |
 |-----|--------|-------|--------|
@@ -2591,7 +2543,7 @@ Gün 4 (Perşembe):
 | **Transit Süresi** | Sevkten teslimata ort gün | Rotaya göre | Aylık |
 | **Birim Başına Maliyet** | Toplam sevkiyat maliyeti / Sevk edilen adet | Takip | Aylık |
 
-### Performans Panosu
+#### Performans Panosu
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -2621,7 +2573,7 @@ Gün 4 (Perşembe):
 ```
 
 
-### Sorun 2: Sık Hasar Talepleri
+#### Sorun 2: Sık Hasar Talepleri
 
 **Problem:** Ürünler hasarlı geliyor
 
@@ -2633,7 +2585,7 @@ Gün 4 (Perşembe):
 - Hasar önleme tedbirleri uygula
 
 
-### Sorun 4: Gümrük Gecikmeleri
+#### Sorun 4: Gümrük Gecikmeleri
 
 **Problem:** Uluslararası sevkiyatlar gümrükte takılı
 
@@ -2645,9 +2597,9 @@ Gün 4 (Perşembe):
 - Uyum kayıtlarını sürdür
 
 
-## En İyi Uygulamalar
+#### En İyi Uygulamalar
 
-### Verimli Lojistik Yönetimi
+#### Verimli Lojistik Yönetimi
 
 1. **Proaktif Takip**
    - Durumu günlük kontrol et
@@ -2680,12 +2632,8 @@ Gün 4 (Perşembe):
 
 ## SECTION 13: WAREHOUSE-COORDINATION-GUIDE-TR
 
-﻿---
-layout: default
-title: "Depo Koordinasyon Kılavuzu – TR"
-parent: Supply Chain
 
-## İçindekiler
+### İçindekiler
 
 1. [Amaç](#amaç)
 2. [Kapsam](#kapsam)
@@ -2700,9 +2648,9 @@ parent: Supply Chain
 11. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
-## Kapsam
+#### Kapsam
 
-### Dağıtım Merkezi Ağı
+#### Dağıtım Merkezi Ağı
 
 | DC Lokasyonu | Kapsam | Fonksiyon |
 |--------------|--------|-----------|
@@ -2710,7 +2658,7 @@ parent: Supply Chain
 | **Bölgesel Hublar** | Yerel pazarlar | İkincil dağıtım |
 | **Partner DC** | Amerika, APAC | Üçüncü parti lojistik |
 
-### Depo Hizmetleri
+#### Depo Hizmetleri
 
 | Hizmet | Açıklama | Uygunluk |
 |--------|----------|----------|
@@ -2721,9 +2669,9 @@ parent: Supply Chain
 | **Envanter Sorguları** | Stok mevcudiyet kontrolleri | Hafta içi |
 
 
-## Sorumluluklar
+#### Sorumluluklar
 
-### Mağaza Ekibi
+#### Mağaza Ekibi
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2733,7 +2681,7 @@ parent: Supply Chain
 | Envanter geri bildirimi sağla | Gerektiğinde |
 | İadeleri koordine et | Prosedüre göre |
 
-### Bölge Müdürü
+#### Bölge Müdürü
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2742,7 +2690,7 @@ parent: Supply Chain
 | Bölgesel tahsisleri optimize et | Aylık |
 | Depo performansını incele | Aylık |
 
-### Merkez Depo Ekibi
+#### Merkez Depo Ekibi
 
 | Sorumluluk | Standart |
 |------------|----------|
@@ -2753,9 +2701,9 @@ parent: Supply Chain
 | Taşıyıcılarla koordine ol | Sürekli |
 
 
-## Standartlar ve Kurallar
+#### Standartlar ve Kurallar
 
-### İletişim Standartları
+#### İletişim Standartları
 
 | Standart | Gereksinim |
 |----------|------------|
@@ -2765,7 +2713,7 @@ parent: Supply Chain
 | **Takip** | Çözüme kadar |
 | **Eskalasyon** | Tanımlı süreçe göre |
 
-### Sipariş İşleme Standartları
+#### Sipariş İşleme Standartları
 
 | Standart | Hedef |
 |----------|-------|
@@ -2775,7 +2723,7 @@ parent: Supply Chain
 | **Zamanında Sevk** | ≥%98 |
 | **Dokümantasyon** | %100 doğru |
 
-### Depo Çalışma Saatleri
+#### Depo Çalışma Saatleri
 
 | Gün | Saatler | Hizmetler |
 |-----|---------|-----------|
@@ -2784,9 +2732,9 @@ parent: Supply Chain
 | Pazar | Kapalı | Sadece acil |
 
 
-## Örnekler / Senaryolar
+#### Örnekler / Senaryolar
 
-### Senaryo 1: Standart Sipariş Sorgusu
+#### Senaryo 1: Standart Sipariş Sorgusu
 
 **Durum:** Mağaza sipariş durumunu kontrol etmek istiyor
 
@@ -2805,7 +2753,7 @@ parent: Supply Chain
 ```
 
 
-### Senaryo 3: Kalite Sorunu Raporlama
+#### Senaryo 3: Kalite Sorunu Raporlama
 
 **Durum:** Kalite kusurlu ürünler alındı
 
@@ -2828,9 +2776,9 @@ parent: Supply Chain
 ```
 
 
-## KPI'lar
+#### KPI'lar
 
-### Depo Performans Metrikleri
+#### Depo Performans Metrikleri
 
 | KPI | Formül | Hedef | Sıklık |
 |-----|--------|-------|--------|
@@ -2840,7 +2788,7 @@ parent: Supply Chain
 | **Sorun Çözümü** | SLA içinde çözülen / Toplam | ≥%95 | Aylık |
 | **Toplama Doğruluğu** | Doğru toplamalar / Toplam | ≥%99.5 | Günlük |
 
-### Performans Panosu
+#### Performans Panosu
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -2869,7 +2817,7 @@ parent: Supply Chain
 ```
 
 
-### Sorun 2: Stok Tahsis Sorunları
+#### Sorun 2: Stok Tahsis Sorunları
 
 **Problem:** Beklenen tahsisi almıyor
 
@@ -2881,7 +2829,7 @@ parent: Supply Chain
 - Diğer mağazalardan transfer talep et
 
 
-### Sorun 4: Tekrarlayan Kalite Sorunları
+#### Sorun 4: Tekrarlayan Kalite Sorunları
 
 **Problem:** Tutarlı ürün kalite problemleri
 
@@ -2893,9 +2841,9 @@ parent: Supply Chain
 - Gelen ürün incelemesi uygula
 
 
-## En İyi Uygulamalar
+#### En İyi Uygulamalar
 
-### Etkili İletişim
+#### Etkili İletişim
 
 1. **Net ve Spesifik Ol**
    - Sipariş/referans numaralarını sağla
