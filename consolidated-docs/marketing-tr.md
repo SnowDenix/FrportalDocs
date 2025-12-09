@@ -17,29 +17,372 @@ nav_order: 6
 
 ## Doküman Genel Bakış
 
-Bu kapsamlı pazarlama dokümantasyonu, Aydınlı Grup franchise mağazaları için marka yönetimi, kampanya yürütme ve pazarlama iletişiminin tüm yönlerini kapsamaktadır. Doküman 9 ana bölümden oluşmaktadır:
+Bu kapsamlı pazarlama dokümantasyonu, Aydınlı Grup franchise mağazaları için marka yönetimi, kampanya yürütme ve pazarlama iletişiminin tüm yönlerini kapsamaktadır. Doküman, genel bakıştan spesifik prosedürlere mantıksal bir hiyerarşi izleyerek 9 ana bölümden oluşmaktadır:
 
-**Bölüm 1: Marka Kılavuzu** - U.S. Polo Assn., Pierre Cardin ve Cacharel markaları için logo kullanımı, renk spesifikasyonları, tipografi kuralları, görsel stil yönergeleri ve marka sesi ilkeleri dahil kapsamlı marka kimliği standartlarını belirler.
+**Bölüm 1: Pazarlama Genel Bakış** - Organizasyon yapısı, marka konumlandırması, hedef kitle tanımları, pazarlama kanalları ve merkez ile franchise mağazaları arasındaki koordinasyon dahil pazarlama ekosisteminin kapsamlı görünümünü sağlar.
 
-**Bölüm 2: Kampanya Yürütme Kılavuzu** - Kampanya brief oluşturma, zaman çizelgesi yönetimi, materyal dağıtımı, mağaza içi uygulama ve kampanya sonrası değerlendirme prosedürleri dahil planlamadan yürütmeye kadar tam kampanya yaşam döngüsünü detaylandırır.
+**Bölüm 2: Marka Kılavuzu** - U.S. Polo Assn., Pierre Cardin ve Cacharel markaları için logo kullanımı, renk spesifikasyonları, tipografi kuralları, görsel stil yönergeleri ve marka sesi ilkeleri dahil kapsamlı marka kimliği standartlarını belirler.
 
-**Bölüm 3: Dijital Varlık Kullanımı** - Dosya formatları, çözünürlük gereksinimleri, indirme prosedürleri, depolama yönergeleri ve dijital içerik için kalite kontrol standartları dahil dijital pazarlama materyallerinin uygun kullanımını ve işlenmesini kapsar.
+**Bölüm 3: Mevsimsel Pazarlama Takvimi** - Anahtar tarihler, mevsimsel kampanyalar, promosyon dönemleri, ürün lansmanları ve mevsimsel pazarlama aktivitelerini planlamak ve yürütmek için koordinasyon zaman çizelgeleri ile yıllık pazarlama takvimini sunar.
 
-**Bölüm 4: Mağaza İçi İletişim Kılavuzu** - Tabela yerleştirme, promosyon materyali gösterimi, vitrin iletişimi, satış noktası mesajlaşması ve mevsimsel dekorasyon yönergeleri dahil görsel merchandising iletişim standartlarını açıklar.
+**Bölüm 4: Kampanya Yürütme Kılavuzu** - Kampanya brief oluşturma, zaman çizelgesi yönetimi, materyal dağıtımı, mağaza içi uygulama ve kampanya sonrası değerlendirme prosedürleri dahil planlamadan yürütmeye kadar tam kampanya yaşam döngüsünü detaylandırır.
 
-**Bölüm 5: Pazarlama Onay Süreci** - Gönderim prosedürleri, inceleme zaman çizelgeleri, onay yetkilileri, revizyon süreçleri ve uyumluluk doğrulama gereksinimleri dahil tüm pazarlama materyalleri için onay iş akışını özetler.
+**Bölüm 5: POSM Kılavuzu** - POSM türleri, sipariş prosedürleri, kurulum yönergeleri, bakım gereksinimleri ve eski materyallerin uygun şekilde imhası dahil satış noktası materyalleri standartlarını detaylandırır.
 
-**Bölüm 6: Pazarlama Genel Bakış** - Organizasyon yapısı, marka konumlandırması, hedef kitle tanımları, pazarlama kanalları ve merkez ile franchise mağazaları arasındaki koordinasyon dahil pazarlama ekosisteminin kapsamlı görünümünü sağlar.
+**Bölüm 6: Mağaza İçi İletişim Kılavuzu** - Tabela yerleştirme, promosyon materyali gösterimi, vitrin iletişimi, satış noktası mesajlaşması ve mevsimsel dekorasyon yönergeleri dahil görsel merchandising iletişim standartlarını açıklar.
 
-**Bölüm 7: POSM Kılavuzu** - POSM türleri, sipariş prosedürleri, kurulum yönergeleri, bakım gereksinimleri ve eski materyallerin uygun şekilde imhası dahil satış noktası materyalleri standartlarını detaylandırır.
+**Bölüm 7: Dijital Varlık Kullanımı** - Dosya formatları, çözünürlük gereksinimleri, indirme prosedürleri, depolama yönergeleri ve dijital içerik için kalite kontrol standartları dahil dijital pazarlama materyallerinin uygun kullanımını ve işlenmesini kapsar.
 
-**Bölüm 8: Mevsimsel Pazarlama Takvimi** - Anahtar tarihler, mevsimsel kampanyalar, promosyon dönemleri, ürün lansmanları ve mevsimsel pazarlama aktivitelerini planlamak ve yürütmek için koordinasyon zaman çizelgeleri ile yıllık pazarlama takvimini sunar.
+**Bölüm 8: Sosyal Medya Yerelleştirme Kılavuzu** - İçerik oluşturma kuralları, yayınlama programları, marka sesi adaptasyonu, etkileşim protokolleri ve franchise mağaza sosyal medya varlığı için onay gereksinimleri dahil yerel sosyal medya aktiviteleri için yönergeleri açıklar.
 
-**Bölüm 9: Sosyal Medya Yerelleştirme Kılavuzu** - İçerik oluşturma kuralları, yayınlama programları, marka sesi adaptasyonu, etkileşim protokolleri ve franchise mağaza sosyal medya varlığı için onay gereksinimleri dahil yerel sosyal medya aktiviteleri için yönergeleri açıklar.
+**Bölüm 9: Pazarlama Onay Süreci** - Gönderim prosedürleri, inceleme zaman çizelgeleri, onay yetkilileri, revizyon süreçleri ve uyumluluk doğrulama gereksinimleri dahil tüm pazarlama materyalleri için onay iş akışını özetler.
 
 ---
 
-## SECTION 1: BRAND-GUIDELINE-TR
+## SECTION 1: MARKETING-OVERVIEW-TR
+
+﻿---
+layout: default
+title: "Pazarlama Genel Bakış"
+parent: Marketing
+
+## İçindekiler
+
+1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
+2. [Amaç](#amaç)
+3. [Kapsam](#kapsam)
+4. [Tanımlar](#tanımlar)
+5. [Sorumluluklar](#sorumluluklar)
+6. [Pazarlama Yapısı](#pazarlama-yapısı)
+7. [Marka Pazarlama Sütunları](#marka-pazarlama-sütunları)
+8. [Pazarlama Takvimi Çerçevesi](#pazarlama-takvimi-çerçevesi)
+9. [Kampanya Türleri](#kampanya-türleri)
+10. [Pazarlama Kanalları](#pazarlama-kanalları)
+11. [Bütçe Planlaması](#bütçe-planlaması)
+12. [Performans Ölçümü](#performans-ölçümü)
+13. [Süreç Adımları](#süreç-adımları)
+14. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
+15. [KPI'lar](#kpilar)
+16. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+17. [Revizyon Geçmişi](#revizyon-geçmişi)
+
+
+## Amaç
+
+Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Aydınlı Grup franchise ortakları için pazarlama operasyonlarının kapsamlı bir genel görünümünü sunar. Tüm franchise bölgelerinde marka tutarlılığı, operasyonel verimlilik ve ölçülebilir sonuçlar sağlamak için tüm pazarlama faaliyetlerinin çerçevesini oluşturur.
+
+### Pazarlama Vizyonu
+
+- Tüm pazarlarda güçlü marka değeri oluşturmak ve sürdürmek
+- Hedefli kampanyalar aracılığıyla müşteri kazanımı ve elde tutmayı sağlamak
+- Tüm temas noktalarında tutarlı marka mesajlaşması sağlamak
+- Franchise ortaklarını etkili pazarlama araçları ve kaynaklarla desteklemek
+- Pazarlama yatırım getirisini (ROMI) maksimize etmek
+
+### Pazarlama Hedefleri
+
+| Hedef | Açıklama | Target |
+|-------|----------|--------|
+| Marka Bilinirliği | Hedef pazarlarda marka tanınırlığını artırmak | Yıllık +%15 |
+| Müşteri Kazanımı | Mağazalara yeni müşteri trafiği çekmek | Yıllık +%10 |
+| Müşteri Elde Tutma | Tekrar satın alma oranını artırmak | %35+ |
+| Satış Desteği | Sezonluk ve promosyonel satış hedeflerini desteklemek | Kampanya ROI 3:1 |
+| Dijital Etkileşim | Sosyal medya ve dijital varlığı büyütmek | %25 etkileşim artışı |
+
+
+## Tanımlar
+
+### Temel Pazarlama Terimleri
+
+| Terim | Tanım |
+|-------|-------|
+| **ATL (Above The Line)** | TV, radyo, açık hava ve basılı medya dahil kitle iletişim reklamcılığı |
+| **BTL (Below The Line)** | Mağaza içi promosyonlar, etkinlikler ve doğrudan posta dahil doğrudan pazarlama faaliyetleri |
+| **POSM (Point of Sale Materials)** | Posterler, danglerlar, standlar dahil satış noktasında sergilenen pazarlama malzemeleri |
+| **Kampanya** | Belirli hedeflere ulaşmak için tasarlanmış koordineli pazarlama faaliyetleri serisi |
+| **Hero Ürün** | Trafik ve satış artırmak için pazarlama iletişimlerinde öne çıkarılan anahtar ürün |
+| **Pazarlama Karması** | Ürün, fiyat, yer ve promosyon stratejilerinin kombinasyonu |
+| **Marka Kılavuzu** | Marka varlıkları ve mesajlaşmasının kullanımını yöneten resmi kurallar |
+| **Ortak Pazarlama** | Merkez ve franchise ortaklar arasında paylaşılan pazarlama yatırımı |
+| **ROMI** | Pazarlama Yatırım Getirisi - harcanan pazarlama doları başına üretilen gelir |
+| **Erişim** | Pazarlama iletişimine maruz kalan toplam benzersiz birey sayısı |
+| **Frekans** | Bir bireyin pazarlama iletişimine maruz kaldığı ortalama sayı |
+| **Gösterim** | Pazarlama içeriğinin tek bir görüntülenme örneği |
+| **TO (Tıklama Oranı)** | Dijital bir reklama tıklayan kişilerin yüzdesi |
+| **Dönüşüm Oranı** | Pazarlama etkisiyle gelen ziyaretçilerden satın alma yapanların yüzdesi |
+| **Müşteri Yaşam Boyu Değeri (CLV)** | Bir müşterinin tüm ilişkisi boyunca beklenen toplam gelir |
+
+### Kampanya Türleri
+
+| Tür | Tanım | Tipik Süre |
+|-----|-------|------------|
+| **Sezonluk Kampanya** | Moda sezonlarıyla (SS/FW) uyumlu ana kampanya | 8-12 hafta |
+| **Promosyonel Kampanya** | Kısa vadeli indirim veya teklif tabanlı kampanya | 1-4 hafta |
+| **Marka Kampanyası** | İmaj ve bilinirlik odaklı kampanya | 4-8 hafta |
+| **Etkinlik Kampanyası** | Belirli etkinlikler veya tatillerle bağlantılı kampanya | 1-2 hafta |
+| **Sürekli Aktif** | Sürekli arka plan pazarlama faaliyeti | Devam eden |
+
+
+## Pazarlama Yapısı
+
+### Organizasyonel Hiyerarşi
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    MERKEZ PAZARLAMA DEPARTMANI                   │
+├─────────────────────────────────────────────────────────────────┤
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐              │
+│  │    Marka    │  │   Dijital   │  │   Ticari    │              │
+│  │  Pazarlama  │  │  Pazarlama  │  │  Pazarlama  │              │
+│  └──────┬──────┘  └──────┬──────┘  └──────┬──────┘              │
+│         │                │                │                      │
+│         └────────────────┼────────────────┘                      │
+│                          │                                       │
+│               ┌──────────┴──────────┐                            │
+│               │  Kampanya Yöneticisi│                            │
+│               └──────────┬──────────┘                            │
+└──────────────────────────┼──────────────────────────────────────┘
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+┌───────┴───────┐  ┌───────┴───────┐  ┌───────┴───────┐
+│  KSA Bölgesi  │  │  Fas Bölgesi  │  │ Balkan Bölgesi│
+│   Pazarlama   │  │   Pazarlama   │  │   Pazarlama   │
+└───────┬───────┘  └───────┬───────┘  └───────┬───────┘
+        │                  │                  │
+   Mağaza Düzeyi      Mağaza Düzeyi      Mağaza Düzeyi
+   Uygulama           Uygulama           Uygulama
+```
+
+### İletişim Akışı
+
+```
+1. Merkez Kampanya Brifingi
+       ↓
+2. Bölgesel Adaptasyon Toplantısı
+       ↓
+3. Yerel Pazar Planlaması
+       ↓
+4. Mağaza Uygulama Brifingi
+       ↓
+5. Kampanya Uygulaması
+       ↓
+6. Performans Raporlaması (Mağaza → Bölge → Merkez)
+```
+
+
+### Pierre Cardin
+
+**Marka Konumlandırması:** Fransız sofistikasyonu ile modern zarafet
+
+| Sütun | Açıklama | Anahtar Mesajlar |
+|-------|----------|------------------|
+| **Zarafet** | Rafine Fransız tarzı | "Zamansız Zarafet" |
+| **Yenilik** | Moda-ilerici tasarım | "Modern Tasarım" |
+| **Kalite** | Premium malzemeler ve işçilik | "Üstün Kalite" |
+| **Sofistikasyon** | Gösterişsiz lüks | "Zahmetsiz Stil" |
+
+**Pazarlama Tonu:**
+- Sofistike ve rafine
+- Özgüvenli ve emin
+- Modern ama zamansız
+- Premium ama erişilebilir
+
+**Görsel Kimlik:**
+- Ana Renkler: Siyah, Gri, Lacivert
+- İkincil Renkler: Bordo, Altın
+- Görseller: Kentsel sofistikasyon, iş ortamları, akşam etkinlikleri
+
+
+## Pazarlama Takvimi Çerçevesi
+
+### Yıllık Planlama Döngüsü
+
+| Ay | Planlama Faaliyeti | Kampanya Odağı |
+|----|-------------------|----------------|
+| Ocak | Q1 İnceleme, SS Kampanya Lansmanı | Kış İndirimi, Sevgililer Günü Ön İzleme |
+| Şubat | Sevgililer Günü Kampanyası | Sevgililer Günü |
+| Mart | SS Tam Lansman | İlkbahar/Yaz Sezonu Açılışı |
+| Nisan | Ramazan Planlaması (Bölgesel) | Ramazan Kampanyası |
+| Mayıs | Anneler Günü, FW Planlama Başlangıcı | Anneler Günü |
+| Haziran | Yaz Kampanyası Zirvesi | Yaz Koleksiyonu |
+| Temmuz | Yaz İndirimi, FW Geliştirme | Sezon Sonu İndirimi |
+| Ağustos | Okula Dönüş | Okula Dönüş Kampanyası |
+| Eylül | FW Kampanya Lansmanı | Sonbahar/Kış Sezonu Açılışı |
+| Ekim | Q4 Planlaması | Halloween (Seçili Pazarlar) |
+| Kasım | Kara Cuma | Kara Cuma/Siber Pazartesi |
+| Aralık | Tatil Sezonu | Noel/Yeni Yıl |
+
+### Kampanya Planlama Zaman Çizelgesi
+
+```
+Hafta -8: Merkez'den Kampanya Brifingi
+    ↓
+Hafta -6: Bölgesel Adaptasyon Planları
+    ↓
+Hafta -4: Varlık Lokalizasyonu Tamamlandı
+    ↓
+Hafta -2: POSM Üretimi ve Dağıtımı
+    ↓
+Hafta -1: Mağaza Uygulama Brifingi
+    ↓
+Hafta 0: Kampanya Lansmanı
+    ↓
+Hafta +1 - +N: Kampanya Yürütme ve Optimizasyon
+    ↓
+Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
+```
+
+
+## Pazarlama Kanalları
+
+### Kanal Genel Görünümü
+
+| Kanal | Birincil Kullanım | Bütçe Payı |
+|-------|-------------------|------------|
+| **Dijital/Sosyal Medya** | Bilinirlik, etkileşim, trafik | %35 |
+| **Mağaza İçi/POSM** | Dönüşüm, promosyon iletişimi | %25 |
+| **Açık Hava/OOH** | Önemli lokasyonlarda bilinirlik | %15 |
+| **Basılı Medya** | Marka bilinirliği (seçili pazarlar) | %10 |
+| **Etkinlikler/Aktivasyonlar** | Etkileşim, marka deneyimi | %10 |
+| **CRM/Doğrudan** | Elde tutma, kişiselleştirilmiş teklifler | %5 |
+
+### Dijital Kanal Stratejisi
+
+| Platform | Amaç | İçerik Türü | Paylaşım Sıklığı |
+|----------|------|-------------|------------------|
+| **Instagram** | Marka bilinirliği, etkileşim | Yaşam tarzı görselleri, hikayeler | Günlük |
+| **Facebook** | Topluluk, promosyonlar | Teklifler, etkinlikler, topluluk | Haftada 3-5 |
+| **TikTok** | Gençlik etkileşimi | Trendler, meydan okumalar | Haftada 3-5 |
+| **Web Sitesi** | Bilgi, e-ticaret | Ürünler, kampanyalar | Sürekli |
+| **E-posta** | CRM, kişiselleştirilmiş teklifler | Bültenler, teklifler | Ayda 2-4 |
+| **WhatsApp** | Doğrudan müşteri hizmeti | Destek, bildirimler | Gerektiğinde |
+
+
+## Performans Ölçümü
+
+### Pazarlama Gösterge Tablosu
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                 PAZARLAMA PERFORMANS GÖSTERGE TABLOSU            │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  BİLİNİRLİK METRİKLERİ       │  ETKİLEŞİM METRİKLERİ            │
+│  ├── Erişim: ___________     │  ├── Sosyal Etkileşim: ________   │
+│  ├── Gösterimler: ______     │  ├── E-posta Açılma Oranı: ____%  │
+│  └── Marka Hatırlanırlığı: % │  └── TO: ____%                    │
+│                              │                                    │
+│  DÖNÜŞÜM METRİKLERİ          │  GELİR METRİKLERİ                  │
+│  ├── Trafik Artışı: ___%     │  ├── Kampanya Satışları: $_______  │
+│  ├── Dönüşüm Oranı: ____%    │  ├── ROMI: ____:1                  │
+│  └── Yeni Müşteriler: ______ │  └── Artan Gelir: $______          │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+## Standartlar ve Kurallar
+
+### Marka Uyumluluk Kuralları
+
+1. **Logo Kullanımı:** Yalnızca Marka Portalı'ndan onaylı logo dosyalarını kullanın
+2. **Renk Doğruluğu:** Yalnızca marka kılavuzlarındaki Pantone/CMYK/RGB değerlerini kullanın
+3. **Tipografi:** Yalnızca onaylı marka fontlarını kullanın
+4. **Görsellik:** Yalnızca lisanslı veya onaylı görselleri kullanın
+5. **Mesajlaşma:** Tüm metin marka ses tonu kılavuzlarıyla uyumlu olmalı
+6. **Onay:** Tüm harici iletişimler Merkez onayı gerektirir
+
+### POSM Standartları
+
+| Malzeme | Boyut | Yerleşim | Dayanıklılık |
+|---------|-------|----------|--------------|
+| Vitrin Posteri | A1/A2 | Vitrin içi | Kampanya süresi |
+| Tezgah Displayi | A4/A5 | Kasa alanı | Kampanya süresi |
+| Tavan Dangler | 30x50cm | Önemli alanların üstü | Kampanya süresi |
+| Zemin Sticker | 50x50cm | Giriş/önemli alanlar | Kampanya süresi |
+| Raf Talker | 10x15cm | Raf kenarı | Promosyon bitene kadar |
+
+### Dijital İçerik Kuralları
+
+1. **Yanıt Süresi:** Sosyal medya yorumlarına 4 saat içinde
+2. **İçerik Onayı:** Tüm paylaşımlar yayınlanmadan önce incelenmeli
+3. **Hashtag Kullanımı:** Yalnızca resmi marka hashtaglerini kullanın
+4. **Influencer Ortaklığı:** Merkez onayı gerekli
+5. **Kriz Yanıtı:** Olumsuz yorumları hemen üst seviyeye iletin
+
+
+## Sık Karşılaşılan Sorunlar ve Çözümler
+
+### Sorun 1: POSM Geç Ulaşıyor
+
+**Belirti:** Pazarlama malzemeleri kampanya başlangıç tarihinden sonra ulaşıyor.
+
+**Olası Nedenler:**
+- Sipariş çok geç verildi
+- Üretim gecikmeleri
+- Sevkiyat sorunları
+
+**Çözüm:**
+1. POSM'u kampanyadan en az 3 hafta önce sipariş edin
+2. Fiziksel malzemeler gecikirse dijital alternatifleri kullanın
+3. Gecikmeleri hemen Bölge Müdürü'ne bildirin
+4. Gelecek planlama iyileştirmeleri için belgeleyin
+
+
+### Sorun 3: Marka Kılavuzu İhlalleri
+
+**Belirti:** Marka varlıklarının veya mesajlaşmanın yetkisiz kullanımı.
+
+**Olası Nedenler:**
+- Personel kılavuzlar konusunda eğitilmedi
+- Yerel tedarikçiler eski varlıkları kullanıyor
+- Aciliyet kısa yollara yol açıyor
+
+**Çözüm:**
+1. Marka kılavuzları eğitimi düzenleyin
+2. Tüm yerel tedarikçi dosyalarını denetleyin
+3. Onay iş akışı uygulayın
+4. İhlalleri ve sonuçlarını belgeleyin
+
+
+## Kontrol Listeleri
+
+### Kampanya Lansman Kontrol Listesi
+
+- [ ] Kampanya brifingi incelendi ve anlaşıldı
+- [ ] Yerel adaptasyon gereksinimleri belirlendi
+- [ ] Pazarlama varlıkları alındı ve doğrulandı
+- [ ] POSM teslim edildi ve kalite kontrol yapıldı
+- [ ] Mağaza ekipleri kampanya hakkında bilgilendirildi
+- [ ] Mağaza içi kurulum tamamlandı
+- [ ] Vitrin displayları güncellendi
+- [ ] Dijital varlıklar planlandı
+- [ ] CRM iletişimleri hazırlandı
+- [ ] İzleme mekanizmaları yerinde
+- [ ] Lansman onayı Merkez'e gönderildi
+
+### Aylık Pazarlama İnceleme Kontrol Listesi
+
+- [ ] Kampanya performansını KPI'lara göre inceleyin
+- [ ] Rakip faaliyetlerini analiz edin
+- [ ] Sosyal medya takvimini güncelleyin
+- [ ] Mağazalar arasında marka uyumluluğunu kontrol edin
+- [ ] Pazarlama bütçesi kullanımını inceleyin
+- [ ] Yaklaşan kampanya faaliyetlerini planlayın
+- [ ] Öğrenimleri ve önerileri belgeleyin
+
+
+## Revizyon Geçmişi
+
+| Versiyon | Tarih | Değişiklikler | Hazırlayan |
+|----------|-------|---------------|------------|
+| 1.0 | 01 Aralık 2025 | İlk versiyon oluşturuldu | Aydınlı Grup Pazarlama Ops |
+
+
+---
+
+## SECTION 2: BRAND-GUIDELINE-TR
 
 ﻿---
 layout: default
@@ -553,7 +896,383 @@ Uygulama
 
 ---
 
-## SECTION 2: CAMPAIGN-EXECUTION-GUIDE-TR
+## SECTION 3: SEASONAL-MARKETING-CALENDAR-TR
+
+﻿---
+layout: default
+title: "Sezonluk Pazarlama Takvimi"
+parent: Marketing
+
+## İçindekiler
+
+1. [Amaç](#amaç)
+2. [Kapsam](#kapsam)
+3. [Tanımlar](#tanımlar)
+4. [Sorumluluklar](#sorumluluklar)
+5. [Yıllık Takvim Genel Bakış](#yıllık-takvim-genel-bakış)
+6. [İlkbahar/Yaz Sezonu](#ilkbaharyaz-sezonu)
+7. [Sonbahar/Kış Sezonu](#sonbaharkış-sezonu)
+8. [Önemli Ticari Anlar](#önemli-ticari-anlar)
+9. [Bölgesel Değerlendirmeler](#bölgesel-değerlendirmeler)
+10. [Planlama Zaman Çizelgesi](#planlama-zaman-çizelgesi)
+11. [Kampanya Entegrasyonu](#kampanya-entegrasyonu)
+12. [Süreç Adımları](#süreç-adımları)
+13. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
+14. [KPI'lar](#kpilar)
+15. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+16. [Revizyon Geçmişi](#revizyon-geçmişi)
+
+
+## Kapsam
+
+### Kapsanan Markalar
+
+Üç marka da markaya özgü adaptasyonlarla temel takvimi takip eder:
+- U.S. Polo Assn.
+- Pierre Cardin
+- Cacharel
+
+
+## Sorumluluklar
+
+### Mağaza Personeli
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| Takvim İncelemesi | Yaklaşan kampanyaları anlamak | Haftalık |
+| Uygulama | Mağaza içi faaliyetleri zamanında yürütmek | Etkinlik başına |
+| Müşteri İletişimi | Müşterileri yaklaşan etkinlikler hakkında bilgilendirmek | Günlük |
+
+### Mağaza Müdürü
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| Takvim Planlaması | Önemli tarihler için personel ve envanter planlamak | Aylık |
+| Kampanya Hazırlığı | Her kampanya için hazırlığı sağlamak | Etkinlik başına |
+| Performans Takibi | Kampanya sonuçlarını izlemek | Kampanya başına |
+| Geri Bildirim Raporlaması | Takvim uygulama sorunlarını bildirmek | Haftalık |
+
+### Bölge Müdürü
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| Bölgesel Adaptasyon | Takvimi bölgesel ihtiyaçlara uyarlamak | Üç ayda bir |
+| Kaynak Tahsisi | Dönem başına yeterli kaynak sağlamak | Aylık |
+| Koordinasyon | Bölge içi mağazaları hizalamak | Sürekli |
+| Performans Analizi | Bölgesel takvim performansını analiz etmek | Aylık |
+
+### Merkez Pazarlama Ekibi
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| Takvim Geliştirme | Yıllık takvim oluşturmak ve güncellemek | Yıllık |
+| Kampanya Oluşturma | Önemli anlar için kampanyalar geliştirmek | Kampanya başına |
+| Varlık Dağıtımı | Pazarlama materyalleri sağlamak | Kampanya başına |
+| Performans İncelemesi | Küresel takvim etkinliğini incelemek | Üç ayda bir |
+
+
+## İlkbahar/Yaz Sezonu
+
+### SS Sezon Zaman Çizelgesi
+
+```
+Hafta -8 ile -4: Koleksiyon Ön İzleme ve Planlama
+        ↓
+Hafta -4 ile -2: Mağaza Kurulum Hazırlığı
+        ↓
+Hafta -2 ile 0: Tam Vitrin ve Mağaza Yenileme
+        ↓
+Hafta 0: SEZON LANSMANI
+        ↓
+Hafta 1-8: Tam Fiyat Satış Dönemi
+        ↓
+Hafta 9-12: Sezon Ortası Aktivitesi
+        ↓
+Hafta 13+: Sezon Sonu İndirimi
+```
+
+### SS Kampanya Takvimi
+
+| Dönem | Kampanya | Süre | Temel Faaliyetler |
+|-------|----------|------|-------------------|
+| **Şub H4 - Mar H1** | SS Ön İzleme | 2 hafta | VIP erişim, erken alım teklifleri |
+| **Mar H2** | SS Lansmanı | 1 hafta | Tam mağaza yenilemesi, lansman etkinliği |
+| **Mar H2 - May H4** | Bahar Odağı | 10 hafta | Yeni gelenler, trend vurguları |
+| **Nis** | Ramazan (Bölgesel) | 4 hafta | Özel koleksiyonlar, hediyeler |
+| **May H2** | Anneler Günü | 1 hafta | Hediye rehberi, özel teklifler |
+| **Haz** | Yaz Koleksiyonu | 4 hafta | Tatil kıyafetleri, mayo |
+| **Tem H1** | Yaz İndirimi Başlangıcı | - | Sezonluk ürünlerde %30-50 indirim |
+
+### Markaya Göre SS Hero Ürünler
+
+| Marka | SS Hero Kategorileri | Pazarlama Odağı |
+|-------|---------------------|-----------------|
+| **U.S. Polo Assn.** | Pololar, Şortlar, Mayo | Aktif yaşam tarzı, tatil |
+| **Pierre Cardin** | Keten takımlar, Hafif gömlekler | İş casual, yaz zarafeti |
+| **Cacharel** | Çiçekli elbiseler, Hafif kumaşlar | Romantik yaz, bahçe partisi |
+
+### SS Görsel Temalar
+
+| Ay | Vitrin Teması | Renk Hikayesi |
+|----|---------------|---------------|
+| Mart | Bahar Uyanışı | Pastel tonlar, Taze yeşiller |
+| Nisan | Çiçeklenme | Çiçekler, Parlak renkler |
+| Mayıs | Bahçe Partisi | Yumuşak pembeler, Doğal tonlar |
+| Haziran | Yaz Kaçamağı | Maviler, Beyazlar, Denizci tarzı |
+| Temmuz | Plaj ve Resort | Canlı renkler, Tropikal |
+
+
+## Önemli Ticari Anlar
+
+### Seviye 1 Ticari Anlar (Zorunlu Uygulama)
+
+| Etkinlik | Tarih | Süre | Öncelik |
+|----------|-------|------|---------|
+| **SS Sezon Lansmanı** | Mart başı | 2 hafta | Kritik |
+| **Kara Cuma** | Kasım 4. Cuma | 4-7 gün | Kritik |
+| **FW Sezon Lansmanı** | Eylül başı | 2 hafta | Kritik |
+| **Tatil/Yıl Sonu** | Ara 15-31 | 2 hafta | Kritik |
+
+### Seviye 2 Ticari Anlar (Önerilen)
+
+| Etkinlik | Tarih | Süre | Öncelik |
+|----------|-------|------|---------|
+| **Sevgililer Günü** | 14 Şubat | 1 hafta | Yüksek |
+| **Anneler Günü** | Mayıs 2. Pazar | 1 hafta | Yüksek |
+| **Yaz İndirimi** | Temmuz başı | 3-4 hafta | Yüksek |
+| **Okula Dönüş** | Ağustos ortası | 3 hafta | Yüksek |
+
+### Seviye 3 Ticari Anlar (İsteğe Bağlı/Bölgesel)
+
+| Etkinlik | Tarih | Bölge | Öncelik |
+|----------|-------|-------|---------|
+| **Ramazan/Bayram** | Değişken | KSA, Fas | Kritik (Bölgesel) |
+| **Bekarlar Günü** | 11 Kasım | Tümü | Orta |
+| **Babalar Günü** | Haziran 3. Pazar | Tümü | Orta |
+| **Halloween** | 31 Ekim | Balkanlar | Düşük |
+
+### Ticari An Planlama Şablonu
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              TİCARİ AN PLANLAMASI                                │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  Etkinlik: _______________________                               │
+│  Tarih(ler): _______________________                             │
+│  Süre: _______________________                                   │
+│                                                                  │
+│  PAZARLAMA UNSURLARI                                             │
+│  □ Vitrin Display Güncellemesi                                   │
+│  □ Mağaza İçi POSM                                               │
+│  □ Dijital/Sosyal Kampanya                                       │
+│  □ E-posta Kampanyası                                            │
+│  □ Özel Promosyon/Teklif                                         │
+│  □ Personel Eğitimi                                              │
+│                                                                  │
+│  HEDEFLER                                                        │
+│  Satış Hedefi: $_____________                                    │
+│  Trafik Hedefi: ____________                                     │
+│  Dönüşüm Hedefi: ________%                                       │
+│                                                                  │
+│  GEREKLİ KAYNAKLAR                                               │
+│  Bütçe: $_____________                                           │
+│  Personel: _______________                                       │
+│  Envanter Odağı: _______________________                         │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+## Planlama Zaman Çizelgesi
+
+### Yıllık Planlama Döngüsü
+
+```
+Ekim-Kasım (Y-1)
+├── Yıllık takvim taslağı
+├── Bütçe planlaması
+└── Ajans briefingleri
+
+Aralık (Y-1)
+├── Takvim finalizasyonu
+├── Varlık üretimi başlangıcı
+└── Bölgesel adaptasyon toplantıları
+
+Ocak
+├── Q1 kampanya materyalleri hazır
+├── SS ön izleme hazırlıkları
+└── Bölgesel takvimler onaylandı
+
+Aylık (Sürekli)
+├── Aylık inceleme toplantıları
+├── Sonraki ay hazırlıkları
+└── Performans takibi
+```
+
+### Kampanya Hazırlık Süreleri
+
+| Kampanya Türü | Hazırlık Süresi | Temel Kilometre Taşları |
+|---------------|-----------------|------------------------|
+| **Sezon Lansmanı** | 12 hafta | Brief → Kreatif → Üretim → Teslimat |
+| **Büyük Promosyon** | 8 hafta | Brief → Onay → Üretim → Dağıtım |
+| **Standart Kampanya** | 6 hafta | Brief → Varlıklar → Mağaza Uygulaması |
+| **Hızlı Yanıt** | 2 hafta | Onay → Yalnızca Dijital Varlıklar |
+
+### Aylık Planlama Kontrol Listesi
+
+- [ ] Sonraki ayın takvim faaliyetlerini incele
+- [ ] POSM teslimat tarihlerini onayla
+- [ ] Mağaza ekiplerini yaklaşan kampanyalar hakkında bilgilendir
+- [ ] Envanterin promosyonlarla uyumunu doğrula
+- [ ] Bölgesel adaptasyonları koordine et
+- [ ] Performans hedeflerini belirle
+- [ ] İnceleme toplantılarını planla
+
+
+## Süreç Adımları
+
+### Yıllık Takvim Oluşturma Süreci
+
+```
+Adım 1: Önceki Yıl Performansını İncele
+        ↓
+Adım 2: Önemli Tarihleri ve Etkinlikleri Belirle
+        ↓
+Adım 3: Takvim Çerçevesi Taslağı Hazırla
+        ↓
+Adım 4: Bölgesel Girdi ve Adaptasyon
+        ↓
+Adım 5: Dönem Bazında Bütçe Tahsisi
+        ↓
+Adım 6: Kampanya Brief Geliştirme
+        ↓
+Adım 7: Varlık Üretim Planlaması
+        ↓
+Adım 8: Final Takvim Onayı
+        ↓
+Adım 9: Tüm Paydaşlara Dağıtım
+        ↓
+Adım 10: Aylık İnceleme ve Ayarlama
+```
+
+### Kampanya Uygulama Süreci
+
+```
+1. Takvim Uyarısı (4 hafta önce)
+       ↓
+2. Kampanya Brifingi Al
+       ↓
+3. Varlıkları ve Materyalleri İncele
+       ↓
+4. Yerel Uygulama Planla
+       ↓
+5. POSM ve Materyalleri Al
+       ↓
+6. Personel Eğitimi ve Brifingi
+       ↓
+7. Mağaza Kurulumu (bir gün önce)
+       ↓
+8. Kampanya Lansmanı
+       ↓
+9. Günlük İzleme
+       ↓
+10. Kampanya Kapanışı ve Raporlama
+```
+
+
+## KPI'lar
+
+### Takvim Performans KPI'ları
+
+| KPI | Formül | Hedef | Sıklık |
+|-----|--------|-------|--------|
+| **Kampanya Uygulama Oranı** | Uygulanan Kampanyalar / Planlanan Kampanyalar × 100 | %100 | Aylık |
+| **Zamanında Lansman Oranı** | Zamanında Lansmanlar / Toplam Lansmanlar × 100 | %95 | Aylık |
+| **Satış vs. Hedef** | Gerçek Satışlar / Hedef Satışlar × 100 | ≥%100 | Kampanya Başına |
+| **Trafik vs. GY** | Bu Yıl Trafik / Geçen Yıl Trafik × 100 | >%100 | Haftalık |
+| **Sezonluk Satış Gerçekleşme** | Satılan Adet / Alınan Adet × 100 | >%70 | Sezon Sonu |
+
+### Ticari An Performansı
+
+| Metrik | Hesaplama | Kıyaslama |
+|--------|-----------|-----------|
+| **Kara Cuma Satış Artışı** | KC Satışları / Normal Hafta Satışları | 3x+ |
+| **Tatil Sezonu Payı** | Aralık Satışları / Yıllık Satışlar | %15+ |
+| **Sezon Lansmanı Haftası** | Lansman Haftası / Normal Hafta | 2x+ |
+| **İndirim Dönemi Verimliliği** | İndirim Marjı / Normal Marj | >%50 |
+
+### Takvim İnceleme Şablonu
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              AYLIK TAKVİM İNCELEMESİ                             │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  Ay: _______________ Yıl: ___________                            │
+│                                                                  │
+│  UYGULANAN KAMPANYALAR                                           │
+│  Planlanan: _____ Uygulanan: _____ Başarı Oranı: _____%          │
+│                                                                  │
+│  SATIŞ PERFORMANSI                                               │
+│  Hedef: $_________ Gerçek: $_________ Başarı: _____%             │
+│                                                                  │
+│  TEMEL ÖĞRENIMLER                                                │
+│  İşe yarayan: _________________________________                  │
+│  İşe yaramayan: _________________________________                │
+│  Öneriler: ____________________________                          │
+│                                                                  │
+│  SONRAKİ AY ÖN İZLEME                                            │
+│  Önemli Etkinlikler: _________________________________           │
+│  Odak Alanları: ________________________________                 │
+│  Hazırlık Durumu: _________________________                      │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+### Sorun 2: Bölgesel Takvim Çatışmaları
+
+**Belirti:** Global kampanya zamanlaması bölgesel etkinliklerle çatışıyor.
+
+**Nedenler:**
+- İslami takvim değişkenliği
+- Yerel tatiller dikkate alınmadı
+- Bölgesel pazar farklılıkları
+
+**Çözüm:**
+1. Bölgesel takvim çatışmalarını erken bildirin (önceki yılın Q4'ü)
+2. Merkez'den zamanlama adaptasyonu talep edin
+3. Alternatif uygulama tarihleri önerin
+4. Gelecek planlama için çatışmaları belgeleyin
+
+
+### Sorun 4: Kampanya Yorgunluğu
+
+**Belirti:** Tekrarlanan promosyonel mesajlara azalan yanıt.
+
+**Nedenler:**
+- Çok fazla kampanya
+- Mesajlaşmada çeşitlilik eksikliği
+- Aşırı iletişim
+
+**Çözüm:**
+1. Kampanyaları uygun şekilde aralayın
+2. Mesajlaşma ve kreatifi çeşitlendirin
+3. Hedefli iletişimler için hedef kitleyi segmente edin
+4. Nicelik yerine kaliteye odaklanın
+
+
+## Revizyon Geçmişi
+
+| Versiyon | Tarih | Değişiklikler | Hazırlayan |
+|----------|-------|---------------|------------|
+| 1.0 | 01 Aralık 2025 | İlk versiyon oluşturuldu | Aydınlı Grup Pazarlama Ops |
+
+
+---
+
+## SECTION 4: CAMPAIGN-EXECUTION-GUIDE-TR
 
 ﻿---
 layout: default
@@ -1020,7 +1739,565 @@ Etkiyi İzle
 
 ---
 
-## SECTION 3: DIGITAL-ASSETS-USAGE-TR
+## SECTION 5: POSM-GUIDELINE-TR
+
+﻿---
+layout: default
+title: "POSM Kılavuzu"
+parent: Marketing
+
+## İçindekiler
+
+1. [Amaç](#amaç)
+2. [Kapsam](#kapsam)
+3. [Tanımlar](#tanımlar)
+4. [Sorumluluklar](#sorumluluklar)
+5. [POSM Kategorileri](#posm-kategorileri)
+6. [Yerleşim Standartları](#yerleşim-standartları)
+7. [Kurulum Kılavuzları](#kurulum-kılavuzları)
+8. [Bakım Standartları](#bakım-standartları)
+9. [Kampanya POSM Yönetimi](#kampanya-posm-yönetimi)
+10. [Kalite Standartları](#kalite-standartları)
+11. [Süreç Adımları](#süreç-adımları)
+12. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
+13. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+14. [Revizyon Geçmişi](#revizyon-geçmişi)
+
+
+## Kapsam
+
+### Bu Belge Kimleri Kapsar
+
+- **Mağaza Personeli:** Kurulum ve günlük bakım
+- **Mağaza Müdürleri:** POSM yönetimi ve uyumluluk
+- **Bölge Müdürleri:** Çok mağazalı POSM koordinasyonu
+- **Ticari Pazarlama Ekibi:** POSM tasarımı ve üretimi
+- **Harici Tedarikçiler:** Üretim ve teslimat ortakları
+
+### Kapsanan POSM Türleri
+
+1. Vitrin displayları
+2. Mağaza içi tabelalar
+3. Tezgah displayları
+4. Zemin grafikleri
+5. Asılı unsurlar
+6. Ürün displayları
+7. Sezonluk dekorasyonlar
+8. Promosyonel materyaller
+
+
+## Sorumluluklar
+
+### Mağaza Personeli
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| Kurulum | Kılavuzlara göre POSM kurmak | Kampanya başına |
+| Günlük Kontrol | POSM'un temiz ve düzgün sergilendiğinden emin olmak | Günlük |
+| Raporlama | Hasarlı veya eksik materyalleri bildirmek | Tespit edildiğinde |
+| Kaldırma | Süresi dolan POSM'u hemen kaldırmak | Yönlendirildiğinde |
+
+### Mağaza Müdürü
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| Envanter Yönetimi | POSM envanterini ve durumunu takip etmek | Haftalık |
+| Kalite Kontrolü | Tüm POSM'un standartları karşıladığından emin olmak | Günlük |
+| Kurulum Gözetimi | Doğru kurulumu denetlemek | Kampanya başına |
+| Sipariş Yönetimi | POSM siparişleri ve talepleri göndermek | Gerektiğinde |
+| Uyumluluk | Marka kılavuzu uyumluluğunu sağlamak | Sürekli |
+
+### Bölge Müdürü
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| Dağıtım Koordinasyonu | Mağazalara POSM teslimatını koordine etmek | Kampanya başına |
+| Uyumluluk Denetimleri | Mağazalarda POSM standartlarını denetlemek | Aylık |
+| Bütçe Yönetimi | Bölgesel POSM bütçesini yönetmek | Üç ayda bir |
+| Performans İncelemesi | POSM etkinliğini analiz etmek | Kampanya başına |
+
+### Merkez Ticari Pazarlama
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| POSM Tasarımı | Kampanya POSM tasarımları oluşturmak | Kampanya başına |
+| Üretim Yönetimi | Tedarikçilerle koordinasyon | Kampanya başına |
+| Kalite Güvencesi | Üretim kalitesini sağlamak | Sipariş başına |
+| Dağıtım Planlaması | Mağazalara POSM tahsisi planlamak | Kampanya başına |
+| Kılavuz Güncellemeleri | POSM standartlarını güncellemek | Gerektiğinde |
+
+
+## Yerleşim Standartları
+
+### Vitrin Display Düzeni
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                     VİTRİN DISPLAY BÖLGELERİ                     │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  ┌─────────────────────────────────────────────────────────┐    │
+│  │                                                         │    │
+│  │    ÜST BÖLGE (Marka/Kampanya Başlığı)                   │    │
+│  │    └── Logo, Kampanya adı, Slogan                       │    │
+│  │        Yükseklik: Vitrinin üst %20'si                   │    │
+│  │                                                         │    │
+│  ├─────────────────────────────────────────────────────────┤    │
+│  │                                                         │    │
+│  │    ODAK BÖLGESİ (Ana Görsel)                            │    │
+│  │    └── Hero görsel, Anahtar mesaj                       │    │
+│  │        Yükseklik: Orta %50 (yerden 145-175cm)           │    │
+│  │                                                         │    │
+│  ├─────────────────────────────────────────────────────────┤    │
+│  │                                                         │    │
+│  │    ÜRÜN BÖLGESİ (Öne Çıkan Ürünler)                     │    │
+│  │    └── Mankenler, Ürün displayları                      │    │
+│  │        Yükseklik: Alt %30                               │    │
+│  │                                                         │    │
+│  └─────────────────────────────────────────────────────────┘    │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Mağaza İçi POSM Yerleşimi
+
+| POSM Türü | Konum | Yükseklik | Miktar |
+|-----------|-------|-----------|--------|
+| **Tavan Danglerları** | Hero ürün alanlarının üstü | Yerden 2.2-2.5m | Bölge başına 2-4 |
+| **Zemin Stickerları** | Giriş yolu, önemli lokasyonlar | Zemin seviyesi | Mağaza başına 3-5 |
+| **Raf Talkerları** | Promosyonel ürün rafları | Ürün seviyesinde | Tüm promosyonel SKU'lar |
+| **Başlık Panoları** | Önemli fikstürlerin üstü | Fikstür üstü | Tanıtılan fikstür başına 1 |
+| **Tezgah Display** | Kasa alanı | Tezgah yüksekliği | Kasa başına 1-2 |
+
+
+## Bakım Standartları
+
+### Günlük Bakım Rutini
+
+| Görev | Sorumluluk | Kontrol Öğesi |
+|-------|------------|---------------|
+| Görsel Kontrol | Açılış personeli | Tüm POSM görünür ve düzenli |
+| Temizlik | Gerektiğinde | Toz, parmak izleri temizlendi |
+| Hizalama | Gerektiğinde | Kaymış materyalleri düzelt |
+| Hasar Kontrolü | Tüm personel | Herhangi bir hasarı hemen bildir |
+| Envanter | Mağaza Müdürü | Tüm POSM mevcut ve hesapta |
+
+### Haftalık Bakım Görevleri
+
+- [ ] Tüm POSM'un kapsamlı temizliği
+- [ ] Solma veya aşınma kontrolü
+- [ ] Tüm materyallerin hala güvenli kurulu olduğunu doğrula
+- [ ] Zemin stickerlarını kalkan kenarlar açısından kontrol et
+- [ ] Dangler asma bütünlüğünü kontrol et
+- [ ] Tezgah display durumunu incele
+- [ ] Zamana duyarlı mesajlaşmayı güncelle
+
+### POSM Durum Değerlendirmesi
+
+| Durum | Eylem | Zaman Çizelgesi |
+|-------|-------|-----------------|
+| **İyi** | Mevcut durumu koru | Kullanmaya devam |
+| **Küçük aşınma** | Mümkünse temizle/onar | 24 saat içinde |
+| **Önemli hasar** | Değiştir | Hemen talep et |
+| **Güvenlik endişesi** | Hemen kaldır | Anında |
+| **Güncel olmayan içerik** | Değiştir/kaldır | Aynı gün |
+
+
+## Kalite Standartları
+
+### Görsel Kalite Gereksinimleri
+
+| Husus | Standart |
+|-------|----------|
+| **Baskı Kalitesi** | Net, berrak görseller; pikselleşme yok |
+| **Renk Doğruluğu** | Marka renk özelliklerine uygun |
+| **Metin Okunabilirliği** | Hedeflenen mesafeden okunabilir |
+| **Malzeme Kalitesi** | Uygun ağırlık ve finish |
+| **Son İşlem** | Temiz kesimler, uygun laminasyon |
+
+### Marka Uyumluluk Gereksinimleri
+
+- Doğru logo yerleşimi ve boyutu
+- Yalnızca onaylı marka renkleri
+- Yetkili tipografi
+- Onaylı mesajlaşma ve kopya
+- Gerektiğinde uygun yasal feragatnameler
+
+### Güvenlik Standartları
+
+| POSM Türü | Güvenlik Gereksinimi |
+|-----------|---------------------|
+| **Zemin Grafikleri** | Kaymaz laminat gerekli |
+| **Asılı Unsurlar** | Güvenli bağlantı, ağırlık sınırına uyulmalı |
+| **Serbest Duran Displaylar** | Sabit taban, devrilme tehlikesi yok |
+| **Vitrin Unsurları** | Göz seviyesinde görüş engeli yok |
+| **Tezgah Displayları** | Sabit, engel oluşturmayan |
+
+
+## Standartlar ve Kurallar
+
+### Zorunlu POSM Kuralları
+
+1. **Kurulum:** Tüm kampanya POSM'u lansman tarihine kadar kurulmalı
+2. **Eksiksizlik:** Tüm kit öğeleri sergilenmeli (kısmi uygulama yok)
+3. **Yerleşim:** Verilen yerleşim kılavuzlarını tam olarak takip et
+4. **Kalite:** Hasarlı veya bozulmuş POSM sergilenmemeli
+5. **Güncellik:** Yalnızca mevcut kampanya POSM'u gösterilmeli
+6. **Kaldırma:** Önceki kampanya POSM'u yeni kurulumdan önce kaldırılmalı
+7. **Güvenlik:** Tüm güvenlik standartları karşılanmalı
+
+### Yasaklanan Eylemler
+
+- POSM tasarımını veya mesajlaşmasını değiştirme
+- POSM'u yetkisiz lokasyonlara kurma
+- Diğer markalardan veya kampanyalardan POSM kullanma
+- Süresi dolan POSM'u sergilemeye devam etme
+- POSM'a zarar verme veya bozma
+- Kişisel veya el yazısı tabela kullanma
+- POSM ile güvenlik özelliklerini engelleme
+
+### POSM İmha Kılavuzları
+
+| Malzeme Türü | İmha Yöntemi |
+|--------------|--------------|
+| Kağıt/karton | Geri dönüşüm |
+| Vinil/plastik | Yerel düzenlemelere göre imha |
+| Foamboard | Yerel düzenlemelere göre imha |
+| Yeniden kullanılabilir çerçeveler | Depoya iade |
+| Donanım (kancalar, standlar) | Yeniden kullanım için sakla |
+
+
+### Sorun 2: POSM Mağaza Düzenine Uymuyor
+
+**Belirti:** Standart POSM boyutu mağazada çalışmıyor.
+
+**Çözümler:**
+1. Alternatifler için yerleşim kılavuzlarını incele
+2. Özel boyutlu POSM talep et (4+ hafta süre)
+3. Kitten daha küçük alternatifi kullan
+4. Onaylı ayarlamalar için Bölge Müdürü'ne danış
+
+
+### Sorun 4: Mağazalar Arasında Tutarsız Kurulum
+
+**Belirti:** Bölgesel denetim değişen POSM kalitesi gösteriyor.
+
+**Çözümler:**
+1. Yeniden eğitim oturumu düzenle
+2. Fotoğraflı örnekler sağla
+3. Kurulum kontrol listesi uygula
+4. Takip uyumluluk kontrolü planla
+
+
+## Revizyon Geçmişi
+
+| Versiyon | Tarih | Değişiklikler | Hazırlayan |
+|----------|-------|---------------|------------|
+| 1.0 | 01 Aralık 2025 | İlk versiyon oluşturuldu | Aydınlı Grup Ticari Pazarlama |
+
+
+---
+
+## SECTION 6: IN-STORE-COMMUNICATION-GUIDE-TR
+
+﻿---
+layout: default
+title: "Mağaza İçi İletişim Rehberi"
+parent: Marketing
+
+## İçindekiler
+
+1. [Amaç](#amaç)
+2. [Kapsam](#kapsam)
+3. [Tanımlar](#tanımlar)
+4. [Sorumluluklar](#sorumluluklar)
+5. [İletişim Hiyerarşisi](#iletişim-hiyerarşisi)
+6. [Tabela Standartları](#tabela-standartları)
+7. [Fiyat İletişimi](#fiyat-iletişimi)
+8. [Promosyonel Mesajlaşma](#promosyonel-mesajlaşma)
+9. [Dijital Mağaza İçi İletişim](#dijital-mağaza-içi-iletişim)
+10. [Personel İletişim Kılavuzları](#personel-iletişim-kılavuzları)
+11. [Süreç Adımları](#süreç-adımları)
+12. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
+13. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+14. [Revizyon Geçmişi](#revizyon-geçmişi)
+
+
+## Kapsam
+
+### Bu Belge Kimleri Kapsar
+
+- **Mağaza Personeli:** Sözlü müşteri iletişimi
+- **Mağaza Müdürleri:** İletişim gözetimi ve uyumluluk
+- **Görsel Mağazacılık:** Tabela kurulumu ve yerleşimi
+- **Pazarlama Ekipleri:** İletişim içeriği oluşturma
+- **Bölge Müdürleri:** Çok mağazalı iletişim standartları
+
+### Kapsanan İletişim Türleri
+
+1. Kalıcı tabelalar
+2. Promosyonel tabelalar
+3. Fiyat iletişimi
+4. Dijital displaylar
+5. Personel sözlü iletişimi
+6. Sesli duyurular
+7. Fiş mesajlaşması
+8. Giyinme odası iletişimi
+
+
+## Sorumluluklar
+
+### Mağaza Personeli
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| Sözlü İletişim | Müşterilere tutarlı marka mesajlaşması sunmak | Her etkileşim |
+| Tabela Bakımı | Tüm tabelaları temiz ve düzgün konumda tutmak | Günlük |
+| Bilgi Doğruluğu | Sergilenen bilgilerin güncel olduğundan emin olmak | Günlük |
+| Müşteri Soruları | Onaylı bilgileri kullanarak soruları yanıtlamak | Gerektiğinde |
+
+### Mağaza Müdürü
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| İletişim Denetimi | Tüm mağaza içi iletişimi incelemek | Haftalık |
+| Personel Eğitimi | Ekibi iletişim standartları konusunda eğitmek | Sürekli |
+| Güncelleme Uygulaması | Zamanında iletişim güncellemelerini sağlamak | Kampanya başına |
+| Uyumluluk Kontrolü | Tüm mesajlaşmanın standartları karşıladığını doğrulamak | Günlük |
+
+### Bölge Müdürü
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| Standart Uygulaması | İletişim tutarlılığını sağlamak | Aylık |
+| Eğitim Koordinasyonu | Bölgesel iletişim eğitimini koordine etmek | Üç ayda bir |
+| Sorun Çözümü | İletişimle ilgili sorunları ele almak | Gerektiğinde |
+| Performans İncelemesi | İletişim etkinliğini değerlendirmek | Aylık |
+
+### Merkez Pazarlama Ekibi
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| İçerik Geliştirme | Tüm iletişim içeriğini oluşturmak | Kampanya başına |
+| Kılavuz Güncellemesi | İletişim standartlarını sürdürmek | Sürekli |
+| Eğitim Materyalleri | İletişim eğitimi geliştirmek | Gerektiğinde |
+| Kalite Güvencesi | İletişim uyumluluğunu incelemek | Aylık |
+
+
+## Tabela Standartları
+
+### Kalıcı Tabelalar
+
+| Unsur | Özellikler | Yerleşim |
+|-------|------------|----------|
+| **Mağaza Cephesi** | Marka adı + logo | Dış, giriş üstü |
+| **Departman Başlıkları** | Kategori adı | İlgili bölümlerin üstü |
+| **Giyinme Odası Tabelası** | "Giyinme Odası" | Giyinme odası girişinde |
+| **Kasa Tabelası** | "Kasa" / "Ödeme" | Kasa tezgahı üstü |
+| **Çıkış Tabelası** | Acil çıkış işareti | Bina koduna göre |
+
+### Promosyonel Tabelalar
+
+| Tür | Standart Boyut | Malzeme | Süre |
+|-----|----------------|---------|------|
+| **Kampanya Posteri** | A1, A2 | Kuşe kağıt | Kampanya dönemi |
+| **İndirim Banner** | Özel | Vinil/kumaş | İndirim dönemi |
+| **Raf Talker** | 10×15cm | Karton | Promosyon dönemi |
+| **Zemin Sticker** | 50×50cm | Kaymaz vinil | 4-6 hafta |
+| **Tezgah Kartı** | A5 | Karton | Promosyon dönemi |
+
+### Tabela Tasarım Standartları
+
+**Tipografi:**
+- Birincil font: Marka onaylı yazı karakteri
+- Minimum boyut: Gövde için 14pt, başlıklar için 24pt
+- Okunabilirlik için yüksek kontrast
+
+**Renkler:**
+- Önemli mesajlaşma için marka ana renkleri
+- Promosyonel teklifler için yüksek görünürlük
+- Mesaj türüne göre tutarlı renk kodlaması
+
+**Düzen:**
+```
+┌─────────────────────────────────────────┐
+│ [LOGO]                    [KAMPANYA]    │
+├─────────────────────────────────────────┤
+│                                         │
+│         ANA MESAJ                       │
+│         (En büyük unsur)                │
+│                                         │
+├─────────────────────────────────────────┤
+│     Destekleyici bilgi                  │
+│     Şartlar ve koşullar (daha küçük)    │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+
+## Promosyonel Mesajlaşma
+
+### Promosyonel Mesaj Türleri
+
+| Mesaj Türü | Amaç | Örnek |
+|------------|------|-------|
+| **İndirim** | Tasarruf iletmek | "Seçili Ürünlerde %30 İNDİRİM" |
+| **Paket** | Çoklu satın almayı teşvik etmek | "2 Al, 1 Bedava" |
+| **Alışverişe Hediye** | Değer katmak | "100 TL Alışverişe Hediye" |
+| **Sınırlı Süre** | Aciliyet yaratmak | "Sadece Bu Hafta Sonu" |
+| **Yeni Gelen** | Yeniliği vurgulamak | "Yeni Gelen" |
+| **Sadakat** | Üyeleri ödüllendirmek | "Üyelere Ekstra %10 İndirim" |
+
+### Promosyonel Mesajlaşma Kılavuzları
+
+**Yapılması Gerekenler:**
+- Net, basit dil
+- Belirgin fiyatlandırma/indirim gösterimi
+- Şartlar ve koşullar görünür
+- Tüm temas noktalarında tutarlı mesajlaşma
+- Başlangıç ve bitiş tarihleri görüntülenmeli
+
+**Yapılmaması Gerekenler:**
+- Yanıltıcı iddialar
+- Gizli şartlar
+- Çelişen mesajlar
+- El yazısı promosyonel tabelalar
+- Süresi dolmuş promosyonel materyaller
+
+### Promosyonel Display Hiyerarşisi
+
+```
+1. BİRİNCİL: İndirim/Teklif (En Büyük)
+   └── "%50 İNDİRİM"
+
+2. İKİNCİL: Ürün/Kategori
+   └── "Tüm Kış Ceketleri"
+
+3. ÜÇÜNCÜL: Şartlar/Koşullar
+   └── "Seçili modeller. Stoklar tükenene kadar."
+
+4. GEÇERLİLİK: Tarihler
+   └── "25 Kas - 3 Ara"
+```
+
+
+## Personel İletişim Kılavuzları
+
+### Müşteri Karşılama
+
+**Standart Karşılama:**
+```
+"[Marka Adı]'na hoş geldiniz! 
+Bugün size bir konuda yardımcı olabilir miyim?"
+```
+
+**Bölgesel Adaptasyonlar:**
+- KSA: Arapça karşılama, uygun resmiyet
+- Fas: İki dilli seçenek (Arapça/Fransızca)
+- Balkanlar: Yerel dil, yedek olarak İngilizce
+
+### Temel Konuşma Noktaları
+
+| Konu | Temel Mesaj |
+|------|-------------|
+| **Marka Hikayesi** | [Hedef müşteri] için miras, kalite, stil |
+| **Mevcut Kampanya** | [Kampanya adı] - önemli ürünler ve teklifler |
+| **Sadakat Programı** | Avantajlar, kayıt, mevcut üye teklifleri |
+| **Hizmetler** | Tadilat, hediye paketleme, teslimat seçenekleri |
+| **İade Politikası** | Fişle 14 günlük iade |
+
+### Müşteri Sorularını Ele Alma
+
+**Ürün Soruları:**
+- Ürün bilgisi eğitimini kullan
+- Detaylar için ürün etiketlerine bak
+- Mevcudiyet için stok sistemini kontrol et
+- Ürün mevcut değilse alternatifler sun
+
+**Fiyat Soruları:**
+- Yalnızca sergilenen/POS fiyatlarını söyle
+- Promosyonel şartları net açıkla
+- Fiyat anlaşmazlıklarını müdüre ilet
+
+**Şikayet Ele Alma:**
+- Sözünü kesmeden dinle
+- Rahatsızlık için özür dile
+- Yetki dahilinde çözüm sun
+- Çözemezsen üst seviyeye ilet
+
+
+## Standartlar ve Kurallar
+
+### İletişim Standartları
+
+| Husus | Standart |
+|-------|----------|
+| **Dil** | Net, profesyonel, marka uygun |
+| **Doğruluk** | Tüm bilgiler doğrulanmış ve güncel olmalı |
+| **Tutarlılık** | Tüm temas noktalarında aynı mesaj |
+| **Zamanlılık** | Güncellemeler belirtilen tarihlerde uygulanmalı |
+| **Uyumluluk** | Tüm düzenleyici ve marka gereksinimlerini karşıla |
+
+### Yasaklanan İletişimler
+
+| Kategori | Yasaklanan Unsurlar |
+|----------|---------------------|
+| **Yanlış** | Hatalı fiyatlar, süresi dolmuş teklifler, yanlış iddialar |
+| **Profesyonel Olmayan** | El yazısı tabelalar, hasarlı materyaller |
+| **Yetkisiz** | Onaylanmamış mesajlaşma veya tasarımlar |
+| **Rahatsız Edici** | Herhangi bir ayrımcı veya uygunsuz içerik |
+| **Rakip** | Rakip markalara referanslar |
+
+### Düzenleyici Uyumluluk
+
+| Bölge | Temel Gereksinimler |
+|-------|---------------------|
+| **Tüm Bölgeler** | Fiyat doğruluğu, net şartlar, adil reklamcılık |
+| **KSA** | Arapça dil zorunlu, tesettürlü görseller |
+| **Fas** | Uygulandığında iki dil gereksinimleri |
+| **Balkanlar** | Yerel dil gereksinimleri, AB standartları |
+
+
+### Sorun 2: Eski Promosyonel Materyaller
+
+**Belirti:** Süresi dolmuş kampanya materyalleri hala sergileniyor.
+
+**Önleme:**
+- Kampanya bitiş tarihi kontrol listesi
+- Materyal kaldırma için takvim hatırlatıcıları
+- Net saklama vs. imha kılavuzları
+
+**Çözümler:**
+1. Tespit edildiğinde hemen kaldır
+2. Tüm promosyonel materyalleri denetle
+3. Kaldırma doğrulama süreci uygula
+
+
+### Sorun 4: Dijital Tabela Çalışmıyor
+
+**Belirti:** Ekranlar boş veya yanlış içerik gösteriyor.
+
+**Acil Eylemler:**
+1. Güç bağlantısını kontrol et
+2. Displayı yeniden başlat
+3. Ağ bağlantısını doğrula
+4. IT desteğine bildir
+
+**Yedek:**
+- Basılı yedek materyalleri hazır bulundur
+- Mevcutsa statik display modunu kullan
+
+
+## Revizyon Geçmişi
+
+| Versiyon | Tarih | Değişiklikler | Hazırlayan |
+|----------|-------|---------------|------------|
+| 1.0 | 01 Aralık 2025 | İlk versiyon oluşturuldu | Aydınlı Grup Perakende Pazarlama |
+
+
+---
+
+## SECTION 7: DIGITAL-ASSETS-USAGE-TR
 
 ﻿---
 layout: default
@@ -1370,11 +2647,11 @@ Adım 10: Varlığı Kılavuzlara Göre Kullan
 
 ---
 
-## SECTION 4: IN-STORE-COMMUNICATION-GUIDE-TR
+## SECTION 8: SOCIAL-MEDIA-LOCALIZATION-GUIDE-TR
 
 ﻿---
 layout: default
-title: "Mağaza İçi İletişim Rehberi"
+title: "Sosyal Medya Lokalizasyon Rehberi"
 parent: Marketing
 
 ## İçindekiler
@@ -1383,293 +2660,290 @@ parent: Marketing
 2. [Kapsam](#kapsam)
 3. [Tanımlar](#tanımlar)
 4. [Sorumluluklar](#sorumluluklar)
-5. [İletişim Hiyerarşisi](#iletişim-hiyerarşisi)
-6. [Tabela Standartları](#tabela-standartları)
-7. [Fiyat İletişimi](#fiyat-iletişimi)
-8. [Promosyonel Mesajlaşma](#promosyonel-mesajlaşma)
-9. [Dijital Mağaza İçi İletişim](#dijital-mağaza-içi-iletişim)
-10. [Personel İletişim Kılavuzları](#personel-iletişim-kılavuzları)
+5. [Bölgeye Göre Platform Stratejisi](#bölgeye-göre-platform-stratejisi)
+6. [İçerik Lokalizasyonu](#içerik-lokalizasyonu)
+7. [Dil Kılavuzları](#dil-kılavuzları)
+8. [Kültürel Değerlendirmeler](#kültürel-değerlendirmeler)
+9. [Hashtag Stratejisi](#hashtag-stratejisi)
+10. [Topluluk Yönetimi](#topluluk-yönetimi)
 11. [Süreç Adımları](#süreç-adımları)
 12. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-13. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-14. [Revizyon Geçmişi](#revizyon-geçmişi)
+13. [KPI'lar](#kpilar)
+14. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+15. [Revizyon Geçmişi](#revizyon-geçmişi)
 
 
 ## Kapsam
 
-### Bu Belge Kimleri Kapsar
+### Kapsanan Markalar
 
-- **Mağaza Personeli:** Sözlü müşteri iletişimi
-- **Mağaza Müdürleri:** İletişim gözetimi ve uyumluluk
-- **Görsel Mağazacılık:** Tabela kurulumu ve yerleşimi
-- **Pazarlama Ekipleri:** İletişim içeriği oluşturma
-- **Bölge Müdürleri:** Çok mağazalı iletişim standartları
-
-### Kapsanan İletişim Türleri
-
-1. Kalıcı tabelalar
-2. Promosyonel tabelalar
-3. Fiyat iletişimi
-4. Dijital displaylar
-5. Personel sözlü iletişimi
-6. Sesli duyurular
-7. Fiş mesajlaşması
-8. Giyinme odası iletişimi
+- U.S. Polo Assn.
+- Pierre Cardin
+- Cacharel
 
 
 ## Sorumluluklar
-
-### Mağaza Personeli
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| Sözlü İletişim | Müşterilere tutarlı marka mesajlaşması sunmak | Her etkileşim |
-| Tabela Bakımı | Tüm tabelaları temiz ve düzgün konumda tutmak | Günlük |
-| Bilgi Doğruluğu | Sergilenen bilgilerin güncel olduğundan emin olmak | Günlük |
-| Müşteri Soruları | Onaylı bilgileri kullanarak soruları yanıtlamak | Gerektiğinde |
 
 ### Mağaza Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
-| İletişim Denetimi | Tüm mağaza içi iletişimi incelemek | Haftalık |
-| Personel Eğitimi | Ekibi iletişim standartları konusunda eğitmek | Sürekli |
-| Güncelleme Uygulaması | Zamanında iletişim güncellemelerini sağlamak | Kampanya başına |
-| Uyumluluk Kontrolü | Tüm mesajlaşmanın standartları karşıladığını doğrulamak | Günlük |
+| Yerel İzleme | Mağaza etiketli içeriği izlemek | Günlük |
+| İçerik Desteği | Yerel içerik oluşturma taleplerini desteklemek | Gerektiğinde |
+| Geri Bildirim | Yerel etkileşim trendlerini raporlamak | Haftalık |
 
-### Bölge Müdürü
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| Standart Uygulaması | İletişim tutarlılığını sağlamak | Aylık |
-| Eğitim Koordinasyonu | Bölgesel iletişim eğitimini koordine etmek | Üç ayda bir |
-| Sorun Çözümü | İletişimle ilgili sorunları ele almak | Gerektiğinde |
-| Performans İncelemesi | İletişim etkinliğini değerlendirmek | Aylık |
-
-### Merkez Pazarlama Ekibi
+### Bölge Pazarlama Müdürü
 
 | Görev | Açıklama | Sıklık |
 |-------|----------|--------|
-| İçerik Geliştirme | Tüm iletişim içeriğini oluşturmak | Kampanya başına |
-| Kılavuz Güncellemesi | İletişim standartlarını sürdürmek | Sürekli |
-| Eğitim Materyalleri | İletişim eğitimi geliştirmek | Gerektiğinde |
-| Kalite Güvencesi | İletişim uyumluluğunu incelemek | Aylık |
+| İçerik Lokalizasyonu | Global içeriği bölge için uyarlamak | Kampanya başına |
+| Topluluk Yönetimi | Bölgesel sosyal hesapları denetlemek | Günlük |
+| Influencer Koordinasyonu | Bölgesel influencer ortaklıklarını yönetmek | Sürekli |
+| Performans Analizi | Bölgesel sosyal metrikleri analiz etmek | Haftalık |
+
+### Merkez Sosyal Medya Ekibi
+
+| Görev | Açıklama | Sıklık |
+|-------|----------|--------|
+| Global Strateji | Global sosyal medya yönünü belirlemek | Üç ayda bir |
+| İçerik Oluşturma | Global içerik şablonları oluşturmak | Kampanya başına |
+| Marka Kılavuzları | Sosyal marka kılavuzlarını sürdürmek | Sürekli |
+| Performans İncelemesi | Global sosyal performansı incelemek | Aylık |
 
 
-## Tabela Standartları
+## İçerik Lokalizasyonu
 
-### Kalıcı Tabelalar
-
-| Unsur | Özellikler | Yerleşim |
-|-------|------------|----------|
-| **Mağaza Cephesi** | Marka adı + logo | Dış, giriş üstü |
-| **Departman Başlıkları** | Kategori adı | İlgili bölümlerin üstü |
-| **Giyinme Odası Tabelası** | "Giyinme Odası" | Giyinme odası girişinde |
-| **Kasa Tabelası** | "Kasa" / "Ödeme" | Kasa tezgahı üstü |
-| **Çıkış Tabelası** | Acil çıkış işareti | Bina koduna göre |
-
-### Promosyonel Tabelalar
-
-| Tür | Standart Boyut | Malzeme | Süre |
-|-----|----------------|---------|------|
-| **Kampanya Posteri** | A1, A2 | Kuşe kağıt | Kampanya dönemi |
-| **İndirim Banner** | Özel | Vinil/kumaş | İndirim dönemi |
-| **Raf Talker** | 10×15cm | Karton | Promosyon dönemi |
-| **Zemin Sticker** | 50×50cm | Kaymaz vinil | 4-6 hafta |
-| **Tezgah Kartı** | A5 | Karton | Promosyon dönemi |
-
-### Tabela Tasarım Standartları
-
-**Tipografi:**
-- Birincil font: Marka onaylı yazı karakteri
-- Minimum boyut: Gövde için 14pt, başlıklar için 24pt
-- Okunabilirlik için yüksek kontrast
-
-**Renkler:**
-- Önemli mesajlaşma için marka ana renkleri
-- Promosyonel teklifler için yüksek görünürlük
-- Mesaj türüne göre tutarlı renk kodlaması
-
-**Düzen:**
-```
-┌─────────────────────────────────────────┐
-│ [LOGO]                    [KAMPANYA]    │
-├─────────────────────────────────────────┤
-│                                         │
-│         ANA MESAJ                       │
-│         (En büyük unsur)                │
-│                                         │
-├─────────────────────────────────────────┤
-│     Destekleyici bilgi                  │
-│     Şartlar ve koşullar (daha küçük)    │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-
-## Promosyonel Mesajlaşma
-
-### Promosyonel Mesaj Türleri
-
-| Mesaj Türü | Amaç | Örnek |
-|------------|------|-------|
-| **İndirim** | Tasarruf iletmek | "Seçili Ürünlerde %30 İNDİRİM" |
-| **Paket** | Çoklu satın almayı teşvik etmek | "2 Al, 1 Bedava" |
-| **Alışverişe Hediye** | Değer katmak | "100 TL Alışverişe Hediye" |
-| **Sınırlı Süre** | Aciliyet yaratmak | "Sadece Bu Hafta Sonu" |
-| **Yeni Gelen** | Yeniliği vurgulamak | "Yeni Gelen" |
-| **Sadakat** | Üyeleri ödüllendirmek | "Üyelere Ekstra %10 İndirim" |
-
-### Promosyonel Mesajlaşma Kılavuzları
-
-**Yapılması Gerekenler:**
-- Net, basit dil
-- Belirgin fiyatlandırma/indirim gösterimi
-- Şartlar ve koşullar görünür
-- Tüm temas noktalarında tutarlı mesajlaşma
-- Başlangıç ve bitiş tarihleri görüntülenmeli
-
-**Yapılmaması Gerekenler:**
-- Yanıltıcı iddialar
-- Gizli şartlar
-- Çelişen mesajlar
-- El yazısı promosyonel tabelalar
-- Süresi dolmuş promosyonel materyaller
-
-### Promosyonel Display Hiyerarşisi
+### Lokalizasyon Çerçevesi
 
 ```
-1. BİRİNCİL: İndirim/Teklif (En Büyük)
-   └── "%50 İNDİRİM"
-
-2. İKİNCİL: Ürün/Kategori
-   └── "Tüm Kış Ceketleri"
-
-3. ÜÇÜNCÜL: Şartlar/Koşullar
-   └── "Seçili modeller. Stoklar tükenene kadar."
-
-4. GEÇERLİLİK: Tarihler
-   └── "25 Kas - 3 Ara"
+┌─────────────────────────────────────────────────────────────────┐
+│                 İÇERİK LOKALİZASYON SÜRECİ                       │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  GLOBAL İÇERİK                                                   │
+│  ├── Temel mesaj ve görseller                                    │
+│  ├── Marka kılavuzları uyumluluğu                                │
+│  └── Kampanya hedefleri                                          │
+│           ↓                                                      │
+│  BÖLGESEL ADAPTASYON                                             │
+│  ├── Dil çevirisi/transkreasyon                                  │
+│  ├── Kültürel değişiklikler                                      │
+│  ├── Yerel referans eklemeleri                                   │
+│  └── Zamanlama ayarlamaları                                      │
+│           ↓                                                      │
+│  YEREL UYGULAMA                                                  │
+│  ├── Platforma özgü formatlama                                   │
+│  ├── Yerel hashtagler                                            │
+│  ├── Topluluk etkileşimi                                         │
+│  └── Performans takibi                                           │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
+### İçerik Türleri ve Lokalizasyon Seviyesi
 
-## Personel İletişim Kılavuzları
+| İçerik Türü | Lokalizasyon Seviyesi | Onay Gerekli |
+|-------------|----------------------|--------------|
+| Marka kampanyası | Çeviri + kültürel inceleme | Merkez |
+| Ürün lansmanı | Çeviri + yerel fiyatlandırma | Bölgesel |
+| Sezonluk içerik | Tam lokalizasyon | Bölgesel |
+| Promosyonel teklifler | Çeviri + yasal uyumluluk | Bölgesel |
+| UGC yeniden paylaşımları | Açıklama lokalizasyonu | Mağaza/Bölgesel |
+| Stories/Reels | Şablon adaptasyonu | Bölgesel |
 
-### Müşteri Karşılama
+### Görsel Lokalizasyon
 
-**Standart Karşılama:**
+| Unsur | Lokalizasyon Yaklaşımı |
+|-------|------------------------|
+| **Ürün Görselleri** | Yerel tercihlere göre ayarlama (stil) |
+| **Yaşam Tarzı Görselleri** | Kültürel olarak uygun ortamlar kullan |
+| **Modeller** | Temsilin pazarla eşleştiğinden emin ol |
+| **Metin Bindirmeleri** | Çevir ve gerekirse RTL için ayarla |
+| **Renkler** | Kültürel renk çağrışımlarını kontrol et |
+
+
+## Kültürel Değerlendirmeler
+
+### KSA Kültürel Kılavuzları
+
+| Alan | Kılavuz |
+|------|---------|
+| **Görsellik** | Tesettürlü giyim kodları; aşırı cilt açıklığı yok |
+| **Din** | İslami pratiklere saygı; Ramazan hassasiyeti |
+| **Cinsiyet** | Cinsiyet temsil normlarını göz önünde bulundur |
+| **Tatiller** | İslami tatilleri belirgin şekilde öne çıkar |
+| **Değerler** | Aile, gelenek, kalite vurgulanan |
+
+**İçerik Yapılması Gerekenler:**
+✓ Aile odaklı içerik öne çıkar
+✓ Tesettürlü moda standartlarına saygı göster
+✓ İslami vesileri kutla
+✓ Özendirici yaşam tarzı görselleri kullan
+✓ Kalite ve mirası vurgula
+
+**İçerik Yapılmaması Gerekenler:**
+✗ Açık giyim görselleri
+✗ Namaz vakitlerinde içerik
+✗ Alkol veya uygunsuz referanslar
+✗ Politik içerik
+✗ İslami değerlerle çelişen içerik
+
+### Fas Kültürel Kılavuzları
+
+| Alan | Kılavuz |
+|------|---------|
+| **Görsellik** | Yerel tesettür standartlarına saygı |
+| **Din** | İslami değerlendirmeler geçerli |
+| **Dil** | Arapça-Fransızca dengesi |
+| **Tatiller** | İslami ve ulusal tatiller |
+| **Stil** | Avrupa etkisi takdir edilen |
+
+### Balkanlar Kültürel Kılavuzları
+
+| Alan | Kılavuz |
+|------|---------|
+| **Görsellik** | Avrupa moda standartları |
+| **Din** | Farklı dini arka planlara saygı |
+| **Dil** | Yerel dil önceliği, İngilizce ikincil |
+| **Tatiller** | Ortodoks, Katolik ve Müslüman tatillerini göz önünde bulundur |
+| **Milliyetçilik** | Politik hassas konulardan kaçın |
+
+
+## Topluluk Yönetimi
+
+### Yanıt Süresi Standartları
+
+| Mesaj Türü | Hedef Yanıt Süresi |
+|------------|-------------------|
+| **Şikayetler** | 2 saat içinde |
+| **Sorular** | 4 saat içinde |
+| **Yorumlar (olumlu)** | 24 saat içinde |
+| **Yorumlar (nötr)** | 24 saat içinde |
+| **DM'ler** | 4 saat içinde |
+
+### Yanıt Dili Kılavuzları
+
+**Genel Prensipler:**
+- Müşterinin kullandığı dilde yanıt ver
+- Samimi olurken marka tonunu koru
+- Asla halka açık tartışma yapma
+- Hassas konuları DM'ye taşı
+
+**Yanıt Şablonları (Dil için uyarla):**
+
+| Durum | Yanıt Şablonu |
+|-------|---------------|
+| **Teşekkür** | "Güzel sözleriniz için teşekkürler! [Ürünü] sevmenize çok sevindik. 💙" |
+| **Soru** | "Harika soru! [Cevap]. Daha fazla bilgi için DM atabilirsiniz!" |
+| **Şikayet** | "Bunu duyduğumuz için üzgünüz. Çözmemize yardımcı olması için lütfen detaylarınızı DM olarak gönderin." |
+| **Mağaza Sorusu** | "Bizi [konum] adresinde bulabilirsiniz. Bugün ziyaret edin! [Mağaza saatleri]" |
+
+### Eskalasyon Protokolü
+
 ```
-"[Marka Adı]'na hoş geldiniz! 
-Bugün size bir konuda yardımcı olabilir miyim?"
+Seviye 1: Standart Yanıt (Mağaza/Bölge Ekibi)
+├── Ürün soruları
+├── Mağaza bilgileri
+├── Genel iltifatlar
+└── Basit şikayetler
+
+Seviye 2: Bölge Müdürü İncelemesi
+├── Kalıcı şikayetler
+├── Olumsuz yorumlar
+├── Influencer etkileşimleri
+└── Hassas konular
+
+Seviye 3: Merkez Eskalasyonu
+├── Marka itibar sorunları
+├── Yasal endişeler
+├── PR krizleri
+└── Influencer ortaklıkları
 ```
-
-**Bölgesel Adaptasyonlar:**
-- KSA: Arapça karşılama, uygun resmiyet
-- Fas: İki dilli seçenek (Arapça/Fransızca)
-- Balkanlar: Yerel dil, yedek olarak İngilizce
-
-### Temel Konuşma Noktaları
-
-| Konu | Temel Mesaj |
-|------|-------------|
-| **Marka Hikayesi** | [Hedef müşteri] için miras, kalite, stil |
-| **Mevcut Kampanya** | [Kampanya adı] - önemli ürünler ve teklifler |
-| **Sadakat Programı** | Avantajlar, kayıt, mevcut üye teklifleri |
-| **Hizmetler** | Tadilat, hediye paketleme, teslimat seçenekleri |
-| **İade Politikası** | Fişle 14 günlük iade |
-
-### Müşteri Sorularını Ele Alma
-
-**Ürün Soruları:**
-- Ürün bilgisi eğitimini kullan
-- Detaylar için ürün etiketlerine bak
-- Mevcudiyet için stok sistemini kontrol et
-- Ürün mevcut değilse alternatifler sun
-
-**Fiyat Soruları:**
-- Yalnızca sergilenen/POS fiyatlarını söyle
-- Promosyonel şartları net açıkla
-- Fiyat anlaşmazlıklarını müdüre ilet
-
-**Şikayet Ele Alma:**
-- Sözünü kesmeden dinle
-- Rahatsızlık için özür dile
-- Yetki dahilinde çözüm sun
-- Çözemezsen üst seviyeye ilet
 
 
 ## Standartlar ve Kurallar
 
-### İletişim Standartları
+### İçerik Standartları
 
 | Husus | Standart |
 |-------|----------|
-| **Dil** | Net, profesyonel, marka uygun |
-| **Doğruluk** | Tüm bilgiler doğrulanmış ve güncel olmalı |
-| **Tutarlılık** | Tüm temas noktalarında aynı mesaj |
-| **Zamanlılık** | Güncellemeler belirtilen tarihlerde uygulanmalı |
-| **Uyumluluk** | Tüm düzenleyici ve marka gereksinimlerini karşıla |
+| **Marka Sesi** | Global kılavuzlarla tutarlı, yerel olarak adapte edilmiş |
+| **Görsel Kalite** | Yüksek çözünürlük, iyi kompozisyon |
+| **Dil Kalitesi** | Dilbilgisi doğru, uygun ton |
+| **Doğruluk** | Tüm bilgiler doğrulanmış, fiyatlar doğru |
+| **Zamanlama** | Optimal yerel saatlerde yayınlanmış |
 
-### Yasaklanan İletişimler
+### Yasaklanan İçerik
 
-| Kategori | Yasaklanan Unsurlar |
-|----------|---------------------|
-| **Yanlış** | Hatalı fiyatlar, süresi dolmuş teklifler, yanlış iddialar |
-| **Profesyonel Olmayan** | El yazısı tabelalar, hasarlı materyaller |
-| **Yetkisiz** | Onaylanmamış mesajlaşma veya tasarımlar |
-| **Rahatsız Edici** | Herhangi bir ayrımcı veya uygunsuz içerik |
-| **Rakip** | Rakip markalara referanslar |
+| Kategori | Örnekler |
+|----------|----------|
+| **Politik** | Politik açıklamalar, destekler |
+| **Dini** | Herhangi bir dini rahatsız edebilecek içerik |
+| **Tartışmalı** | Bölücü sosyal konular |
+| **Rakip** | Rakiplerden bahsetme veya karşılaştırma |
+| **Doğrulanmamış** | Kanıt olmadan iddialar |
+| **Kişisel** | Personel kişisel bilgileri |
 
-### Düzenleyici Uyumluluk
+### Onay Matrisi
 
-| Bölge | Temel Gereksinimler |
-|-------|---------------------|
-| **Tüm Bölgeler** | Fiyat doğruluğu, net şartlar, adil reklamcılık |
-| **KSA** | Arapça dil zorunlu, tesettürlü görseller |
-| **Fas** | Uygulandığında iki dil gereksinimleri |
-| **Balkanlar** | Yerel dil gereksinimleri, AB standartları |
+| İçerik Türü | Mağaza | Bölgesel | Merkez |
+|-------------|--------|----------|--------|
+| Global içeriği yeniden paylaş | ✓ | İnceleme | - |
+| Yerel promosyonel paylaşım | - | ✓ | İnceleme |
+| Influencer içeriği | - | ✓ | ✓ |
+| Kriz yanıtı | - | İnceleme | ✓ |
+| Yeni içerik türü | - | Talep | ✓ |
 
 
-### Sorun 2: Eski Promosyonel Materyaller
+## Sık Karşılaşılan Sorunlar ve Çözümler
 
-**Belirti:** Süresi dolmuş kampanya materyalleri hala sergileniyor.
+### Sorun 1: Lokalize İçerikte Düşük Etkileşim
 
-**Önleme:**
-- Kampanya bitiş tarihi kontrol listesi
-- Materyal kaldırma için takvim hatırlatıcıları
-- Net saklama vs. imha kılavuzları
+**Belirti:** Lokalize paylaşımlar ortalamanın altında performans gösteriyor.
+
+**Nedenler:**
+- Çeviri rezonans kurmuyor
+- Kültürel uyumsuzluk
+- Zayıf zamanlama
+- Alakasız içerik
 
 **Çözümler:**
-1. Tespit edildiğinde hemen kaldır
-2. Tüm promosyonel materyalleri denetle
-3. Kaldırma doğrulama süreci uygula
+1. Transkreasyon kalitesini inceleyin
+2. Yerel kitle araştırması yapın
+3. Farklı paylaşım saatlerini test edin
+4. En iyi performans gösteren yerel içeriği analiz edin
+5. Daha fazla UGC dahil edin
 
 
-### Sorun 4: Dijital Tabela Çalışmıyor
+### Sorun 3: Kültürel Hata
 
-**Belirti:** Ekranlar boş veya yanlış içerik gösteriyor.
+**Belirti:** İçerik kültürel nedenlerle olumsuz geri bildirim alıyor.
 
 **Acil Eylemler:**
-1. Güç bağlantısını kontrol et
-2. Displayı yeniden başlat
-3. Ağ bağlantısını doğrula
-4. IT desteğine bildir
+1. İçeriği hemen kaldırın
+2. Ciddiyeti ve erişimi değerlendirin
+3. Uygun yanıt hazırlayın
+4. Önemliyse Merkez'e iletin
+5. Öğrenimleri belgeleyin
 
-**Yedek:**
-- Basılı yedek materyalleri hazır bulundur
-- Mevcutsa statik display modunu kullan
+**Önleme:**
+- Geliştirilmiş kültürel inceleme süreci
+- Yerel ekip danışmanlığı
+- Kültürel takvim farkındalığı
+- Düzenli ekip eğitimi
 
 
 ## Revizyon Geçmişi
 
 | Versiyon | Tarih | Değişiklikler | Hazırlayan |
 |----------|-------|---------------|------------|
-| 1.0 | 01 Aralık 2025 | İlk versiyon oluşturuldu | Aydınlı Grup Perakende Pazarlama |
+| 1.0 | 01 Aralık 2025 | İlk versiyon oluşturuldu | Aydınlı Grup Dijital Pazarlama |
 
 
 ---
+---
 
-## SECTION 5: MARKETING-APPROVAL-PROCESS-TR
+## SECTION 9: MARKETING-APPROVAL-PROCESS-TR
 
 ﻿---
 layout: default
@@ -1984,1277 +3258,3 @@ Adım 10: Uygula (onaylandıysa)
 
 
 
----
-
-## SECTION 6: MARKETING-OVERVIEW-TR
-
-﻿---
-layout: default
-title: "Pazarlama Genel Bakış"
-parent: Marketing
-
-## İçindekiler
-
-1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
-2. [Amaç](#amaç)
-3. [Kapsam](#kapsam)
-4. [Tanımlar](#tanımlar)
-5. [Sorumluluklar](#sorumluluklar)
-6. [Pazarlama Yapısı](#pazarlama-yapısı)
-7. [Marka Pazarlama Sütunları](#marka-pazarlama-sütunları)
-8. [Pazarlama Takvimi Çerçevesi](#pazarlama-takvimi-çerçevesi)
-9. [Kampanya Türleri](#kampanya-türleri)
-10. [Pazarlama Kanalları](#pazarlama-kanalları)
-11. [Bütçe Planlaması](#bütçe-planlaması)
-12. [Performans Ölçümü](#performans-ölçümü)
-13. [Süreç Adımları](#süreç-adımları)
-14. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-15. [KPI'lar](#kpilar)
-16. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-17. [Revizyon Geçmişi](#revizyon-geçmişi)
-
-
-## Amaç
-
-Bu belge, U.S. Polo Assn., Pierre Cardin ve Cacharel markalarını yöneten Aydınlı Grup franchise ortakları için pazarlama operasyonlarının kapsamlı bir genel görünümünü sunar. Tüm franchise bölgelerinde marka tutarlılığı, operasyonel verimlilik ve ölçülebilir sonuçlar sağlamak için tüm pazarlama faaliyetlerinin çerçevesini oluşturur.
-
-### Pazarlama Vizyonu
-
-- Tüm pazarlarda güçlü marka değeri oluşturmak ve sürdürmek
-- Hedefli kampanyalar aracılığıyla müşteri kazanımı ve elde tutmayı sağlamak
-- Tüm temas noktalarında tutarlı marka mesajlaşması sağlamak
-- Franchise ortaklarını etkili pazarlama araçları ve kaynaklarla desteklemek
-- Pazarlama yatırım getirisini (ROMI) maksimize etmek
-
-### Pazarlama Hedefleri
-
-| Hedef | Açıklama | Target |
-|-------|----------|--------|
-| Marka Bilinirliği | Hedef pazarlarda marka tanınırlığını artırmak | Yıllık +%15 |
-| Müşteri Kazanımı | Mağazalara yeni müşteri trafiği çekmek | Yıllık +%10 |
-| Müşteri Elde Tutma | Tekrar satın alma oranını artırmak | %35+ |
-| Satış Desteği | Sezonluk ve promosyonel satış hedeflerini desteklemek | Kampanya ROI 3:1 |
-| Dijital Etkileşim | Sosyal medya ve dijital varlığı büyütmek | %25 etkileşim artışı |
-
-
-## Tanımlar
-
-### Temel Pazarlama Terimleri
-
-| Terim | Tanım |
-|-------|-------|
-| **ATL (Above The Line)** | TV, radyo, açık hava ve basılı medya dahil kitle iletişim reklamcılığı |
-| **BTL (Below The Line)** | Mağaza içi promosyonlar, etkinlikler ve doğrudan posta dahil doğrudan pazarlama faaliyetleri |
-| **POSM (Point of Sale Materials)** | Posterler, danglerlar, standlar dahil satış noktasında sergilenen pazarlama malzemeleri |
-| **Kampanya** | Belirli hedeflere ulaşmak için tasarlanmış koordineli pazarlama faaliyetleri serisi |
-| **Hero Ürün** | Trafik ve satış artırmak için pazarlama iletişimlerinde öne çıkarılan anahtar ürün |
-| **Pazarlama Karması** | Ürün, fiyat, yer ve promosyon stratejilerinin kombinasyonu |
-| **Marka Kılavuzu** | Marka varlıkları ve mesajlaşmasının kullanımını yöneten resmi kurallar |
-| **Ortak Pazarlama** | Merkez ve franchise ortaklar arasında paylaşılan pazarlama yatırımı |
-| **ROMI** | Pazarlama Yatırım Getirisi - harcanan pazarlama doları başına üretilen gelir |
-| **Erişim** | Pazarlama iletişimine maruz kalan toplam benzersiz birey sayısı |
-| **Frekans** | Bir bireyin pazarlama iletişimine maruz kaldığı ortalama sayı |
-| **Gösterim** | Pazarlama içeriğinin tek bir görüntülenme örneği |
-| **TO (Tıklama Oranı)** | Dijital bir reklama tıklayan kişilerin yüzdesi |
-| **Dönüşüm Oranı** | Pazarlama etkisiyle gelen ziyaretçilerden satın alma yapanların yüzdesi |
-| **Müşteri Yaşam Boyu Değeri (CLV)** | Bir müşterinin tüm ilişkisi boyunca beklenen toplam gelir |
-
-### Kampanya Türleri
-
-| Tür | Tanım | Tipik Süre |
-|-----|-------|------------|
-| **Sezonluk Kampanya** | Moda sezonlarıyla (SS/FW) uyumlu ana kampanya | 8-12 hafta |
-| **Promosyonel Kampanya** | Kısa vadeli indirim veya teklif tabanlı kampanya | 1-4 hafta |
-| **Marka Kampanyası** | İmaj ve bilinirlik odaklı kampanya | 4-8 hafta |
-| **Etkinlik Kampanyası** | Belirli etkinlikler veya tatillerle bağlantılı kampanya | 1-2 hafta |
-| **Sürekli Aktif** | Sürekli arka plan pazarlama faaliyeti | Devam eden |
-
-
-## Pazarlama Yapısı
-
-### Organizasyonel Hiyerarşi
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    MERKEZ PAZARLAMA DEPARTMANI                   │
-├─────────────────────────────────────────────────────────────────┤
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐              │
-│  │    Marka    │  │   Dijital   │  │   Ticari    │              │
-│  │  Pazarlama  │  │  Pazarlama  │  │  Pazarlama  │              │
-│  └──────┬──────┘  └──────┬──────┘  └──────┬──────┘              │
-│         │                │                │                      │
-│         └────────────────┼────────────────┘                      │
-│                          │                                       │
-│               ┌──────────┴──────────┐                            │
-│               │  Kampanya Yöneticisi│                            │
-│               └──────────┬──────────┘                            │
-└──────────────────────────┼──────────────────────────────────────┘
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-┌───────┴───────┐  ┌───────┴───────┐  ┌───────┴───────┐
-│  KSA Bölgesi  │  │  Fas Bölgesi  │  │ Balkan Bölgesi│
-│   Pazarlama   │  │   Pazarlama   │  │   Pazarlama   │
-└───────┬───────┘  └───────┬───────┘  └───────┬───────┘
-        │                  │                  │
-   Mağaza Düzeyi      Mağaza Düzeyi      Mağaza Düzeyi
-   Uygulama           Uygulama           Uygulama
-```
-
-### İletişim Akışı
-
-```
-1. Merkez Kampanya Brifingi
-       ↓
-2. Bölgesel Adaptasyon Toplantısı
-       ↓
-3. Yerel Pazar Planlaması
-       ↓
-4. Mağaza Uygulama Brifingi
-       ↓
-5. Kampanya Uygulaması
-       ↓
-6. Performans Raporlaması (Mağaza → Bölge → Merkez)
-```
-
-
-### Pierre Cardin
-
-**Marka Konumlandırması:** Fransız sofistikasyonu ile modern zarafet
-
-| Sütun | Açıklama | Anahtar Mesajlar |
-|-------|----------|------------------|
-| **Zarafet** | Rafine Fransız tarzı | "Zamansız Zarafet" |
-| **Yenilik** | Moda-ilerici tasarım | "Modern Tasarım" |
-| **Kalite** | Premium malzemeler ve işçilik | "Üstün Kalite" |
-| **Sofistikasyon** | Gösterişsiz lüks | "Zahmetsiz Stil" |
-
-**Pazarlama Tonu:**
-- Sofistike ve rafine
-- Özgüvenli ve emin
-- Modern ama zamansız
-- Premium ama erişilebilir
-
-**Görsel Kimlik:**
-- Ana Renkler: Siyah, Gri, Lacivert
-- İkincil Renkler: Bordo, Altın
-- Görseller: Kentsel sofistikasyon, iş ortamları, akşam etkinlikleri
-
-
-## Pazarlama Takvimi Çerçevesi
-
-### Yıllık Planlama Döngüsü
-
-| Ay | Planlama Faaliyeti | Kampanya Odağı |
-|----|-------------------|----------------|
-| Ocak | Q1 İnceleme, SS Kampanya Lansmanı | Kış İndirimi, Sevgililer Günü Ön İzleme |
-| Şubat | Sevgililer Günü Kampanyası | Sevgililer Günü |
-| Mart | SS Tam Lansman | İlkbahar/Yaz Sezonu Açılışı |
-| Nisan | Ramazan Planlaması (Bölgesel) | Ramazan Kampanyası |
-| Mayıs | Anneler Günü, FW Planlama Başlangıcı | Anneler Günü |
-| Haziran | Yaz Kampanyası Zirvesi | Yaz Koleksiyonu |
-| Temmuz | Yaz İndirimi, FW Geliştirme | Sezon Sonu İndirimi |
-| Ağustos | Okula Dönüş | Okula Dönüş Kampanyası |
-| Eylül | FW Kampanya Lansmanı | Sonbahar/Kış Sezonu Açılışı |
-| Ekim | Q4 Planlaması | Halloween (Seçili Pazarlar) |
-| Kasım | Kara Cuma | Kara Cuma/Siber Pazartesi |
-| Aralık | Tatil Sezonu | Noel/Yeni Yıl |
-
-### Kampanya Planlama Zaman Çizelgesi
-
-```
-Hafta -8: Merkez'den Kampanya Brifingi
-    ↓
-Hafta -6: Bölgesel Adaptasyon Planları
-    ↓
-Hafta -4: Varlık Lokalizasyonu Tamamlandı
-    ↓
-Hafta -2: POSM Üretimi ve Dağıtımı
-    ↓
-Hafta -1: Mağaza Uygulama Brifingi
-    ↓
-Hafta 0: Kampanya Lansmanı
-    ↓
-Hafta +1 - +N: Kampanya Yürütme ve Optimizasyon
-    ↓
-Kampanya Sonu: Kampanya Sonrası Analiz (2 hafta içinde)
-```
-
-
-## Pazarlama Kanalları
-
-### Kanal Genel Görünümü
-
-| Kanal | Birincil Kullanım | Bütçe Payı |
-|-------|-------------------|------------|
-| **Dijital/Sosyal Medya** | Bilinirlik, etkileşim, trafik | %35 |
-| **Mağaza İçi/POSM** | Dönüşüm, promosyon iletişimi | %25 |
-| **Açık Hava/OOH** | Önemli lokasyonlarda bilinirlik | %15 |
-| **Basılı Medya** | Marka bilinirliği (seçili pazarlar) | %10 |
-| **Etkinlikler/Aktivasyonlar** | Etkileşim, marka deneyimi | %10 |
-| **CRM/Doğrudan** | Elde tutma, kişiselleştirilmiş teklifler | %5 |
-
-### Dijital Kanal Stratejisi
-
-| Platform | Amaç | İçerik Türü | Paylaşım Sıklığı |
-|----------|------|-------------|------------------|
-| **Instagram** | Marka bilinirliği, etkileşim | Yaşam tarzı görselleri, hikayeler | Günlük |
-| **Facebook** | Topluluk, promosyonlar | Teklifler, etkinlikler, topluluk | Haftada 3-5 |
-| **TikTok** | Gençlik etkileşimi | Trendler, meydan okumalar | Haftada 3-5 |
-| **Web Sitesi** | Bilgi, e-ticaret | Ürünler, kampanyalar | Sürekli |
-| **E-posta** | CRM, kişiselleştirilmiş teklifler | Bültenler, teklifler | Ayda 2-4 |
-| **WhatsApp** | Doğrudan müşteri hizmeti | Destek, bildirimler | Gerektiğinde |
-
-
-## Performans Ölçümü
-
-### Pazarlama Gösterge Tablosu
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                 PAZARLAMA PERFORMANS GÖSTERGE TABLOSU            │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  BİLİNİRLİK METRİKLERİ       │  ETKİLEŞİM METRİKLERİ            │
-│  ├── Erişim: ___________     │  ├── Sosyal Etkileşim: ________   │
-│  ├── Gösterimler: ______     │  ├── E-posta Açılma Oranı: ____%  │
-│  └── Marka Hatırlanırlığı: % │  └── TO: ____%                    │
-│                              │                                    │
-│  DÖNÜŞÜM METRİKLERİ          │  GELİR METRİKLERİ                  │
-│  ├── Trafik Artışı: ___%     │  ├── Kampanya Satışları: $_______  │
-│  ├── Dönüşüm Oranı: ____%    │  ├── ROMI: ____:1                  │
-│  └── Yeni Müşteriler: ______ │  └── Artan Gelir: $______          │
-│                                                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-## Standartlar ve Kurallar
-
-### Marka Uyumluluk Kuralları
-
-1. **Logo Kullanımı:** Yalnızca Marka Portalı'ndan onaylı logo dosyalarını kullanın
-2. **Renk Doğruluğu:** Yalnızca marka kılavuzlarındaki Pantone/CMYK/RGB değerlerini kullanın
-3. **Tipografi:** Yalnızca onaylı marka fontlarını kullanın
-4. **Görsellik:** Yalnızca lisanslı veya onaylı görselleri kullanın
-5. **Mesajlaşma:** Tüm metin marka ses tonu kılavuzlarıyla uyumlu olmalı
-6. **Onay:** Tüm harici iletişimler Merkez onayı gerektirir
-
-### POSM Standartları
-
-| Malzeme | Boyut | Yerleşim | Dayanıklılık |
-|---------|-------|----------|--------------|
-| Vitrin Posteri | A1/A2 | Vitrin içi | Kampanya süresi |
-| Tezgah Displayi | A4/A5 | Kasa alanı | Kampanya süresi |
-| Tavan Dangler | 30x50cm | Önemli alanların üstü | Kampanya süresi |
-| Zemin Sticker | 50x50cm | Giriş/önemli alanlar | Kampanya süresi |
-| Raf Talker | 10x15cm | Raf kenarı | Promosyon bitene kadar |
-
-### Dijital İçerik Kuralları
-
-1. **Yanıt Süresi:** Sosyal medya yorumlarına 4 saat içinde
-2. **İçerik Onayı:** Tüm paylaşımlar yayınlanmadan önce incelenmeli
-3. **Hashtag Kullanımı:** Yalnızca resmi marka hashtaglerini kullanın
-4. **Influencer Ortaklığı:** Merkez onayı gerekli
-5. **Kriz Yanıtı:** Olumsuz yorumları hemen üst seviyeye iletin
-
-
-## Sık Karşılaşılan Sorunlar ve Çözümler
-
-### Sorun 1: POSM Geç Ulaşıyor
-
-**Belirti:** Pazarlama malzemeleri kampanya başlangıç tarihinden sonra ulaşıyor.
-
-**Olası Nedenler:**
-- Sipariş çok geç verildi
-- Üretim gecikmeleri
-- Sevkiyat sorunları
-
-**Çözüm:**
-1. POSM'u kampanyadan en az 3 hafta önce sipariş edin
-2. Fiziksel malzemeler gecikirse dijital alternatifleri kullanın
-3. Gecikmeleri hemen Bölge Müdürü'ne bildirin
-4. Gelecek planlama iyileştirmeleri için belgeleyin
-
-
-### Sorun 3: Marka Kılavuzu İhlalleri
-
-**Belirti:** Marka varlıklarının veya mesajlaşmanın yetkisiz kullanımı.
-
-**Olası Nedenler:**
-- Personel kılavuzlar konusunda eğitilmedi
-- Yerel tedarikçiler eski varlıkları kullanıyor
-- Aciliyet kısa yollara yol açıyor
-
-**Çözüm:**
-1. Marka kılavuzları eğitimi düzenleyin
-2. Tüm yerel tedarikçi dosyalarını denetleyin
-3. Onay iş akışı uygulayın
-4. İhlalleri ve sonuçlarını belgeleyin
-
-
-## Kontrol Listeleri
-
-### Kampanya Lansman Kontrol Listesi
-
-- [ ] Kampanya brifingi incelendi ve anlaşıldı
-- [ ] Yerel adaptasyon gereksinimleri belirlendi
-- [ ] Pazarlama varlıkları alındı ve doğrulandı
-- [ ] POSM teslim edildi ve kalite kontrol yapıldı
-- [ ] Mağaza ekipleri kampanya hakkında bilgilendirildi
-- [ ] Mağaza içi kurulum tamamlandı
-- [ ] Vitrin displayları güncellendi
-- [ ] Dijital varlıklar planlandı
-- [ ] CRM iletişimleri hazırlandı
-- [ ] İzleme mekanizmaları yerinde
-- [ ] Lansman onayı Merkez'e gönderildi
-
-### Aylık Pazarlama İnceleme Kontrol Listesi
-
-- [ ] Kampanya performansını KPI'lara göre inceleyin
-- [ ] Rakip faaliyetlerini analiz edin
-- [ ] Sosyal medya takvimini güncelleyin
-- [ ] Mağazalar arasında marka uyumluluğunu kontrol edin
-- [ ] Pazarlama bütçesi kullanımını inceleyin
-- [ ] Yaklaşan kampanya faaliyetlerini planlayın
-- [ ] Öğrenimleri ve önerileri belgeleyin
-
-
-## Revizyon Geçmişi
-
-| Versiyon | Tarih | Değişiklikler | Hazırlayan |
-|----------|-------|---------------|------------|
-| 1.0 | 01 Aralık 2025 | İlk versiyon oluşturuldu | Aydınlı Grup Pazarlama Ops |
-
-
----
-
-## SECTION 7: POSM-GUIDELINE-TR
-
-﻿---
-layout: default
-title: "POSM Kılavuzu"
-parent: Marketing
-
-## İçindekiler
-
-1. [Amaç](#amaç)
-2. [Kapsam](#kapsam)
-3. [Tanımlar](#tanımlar)
-4. [Sorumluluklar](#sorumluluklar)
-5. [POSM Kategorileri](#posm-kategorileri)
-6. [Yerleşim Standartları](#yerleşim-standartları)
-7. [Kurulum Kılavuzları](#kurulum-kılavuzları)
-8. [Bakım Standartları](#bakım-standartları)
-9. [Kampanya POSM Yönetimi](#kampanya-posm-yönetimi)
-10. [Kalite Standartları](#kalite-standartları)
-11. [Süreç Adımları](#süreç-adımları)
-12. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-13. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-14. [Revizyon Geçmişi](#revizyon-geçmişi)
-
-
-## Kapsam
-
-### Bu Belge Kimleri Kapsar
-
-- **Mağaza Personeli:** Kurulum ve günlük bakım
-- **Mağaza Müdürleri:** POSM yönetimi ve uyumluluk
-- **Bölge Müdürleri:** Çok mağazalı POSM koordinasyonu
-- **Ticari Pazarlama Ekibi:** POSM tasarımı ve üretimi
-- **Harici Tedarikçiler:** Üretim ve teslimat ortakları
-
-### Kapsanan POSM Türleri
-
-1. Vitrin displayları
-2. Mağaza içi tabelalar
-3. Tezgah displayları
-4. Zemin grafikleri
-5. Asılı unsurlar
-6. Ürün displayları
-7. Sezonluk dekorasyonlar
-8. Promosyonel materyaller
-
-
-## Sorumluluklar
-
-### Mağaza Personeli
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| Kurulum | Kılavuzlara göre POSM kurmak | Kampanya başına |
-| Günlük Kontrol | POSM'un temiz ve düzgün sergilendiğinden emin olmak | Günlük |
-| Raporlama | Hasarlı veya eksik materyalleri bildirmek | Tespit edildiğinde |
-| Kaldırma | Süresi dolan POSM'u hemen kaldırmak | Yönlendirildiğinde |
-
-### Mağaza Müdürü
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| Envanter Yönetimi | POSM envanterini ve durumunu takip etmek | Haftalık |
-| Kalite Kontrolü | Tüm POSM'un standartları karşıladığından emin olmak | Günlük |
-| Kurulum Gözetimi | Doğru kurulumu denetlemek | Kampanya başına |
-| Sipariş Yönetimi | POSM siparişleri ve talepleri göndermek | Gerektiğinde |
-| Uyumluluk | Marka kılavuzu uyumluluğunu sağlamak | Sürekli |
-
-### Bölge Müdürü
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| Dağıtım Koordinasyonu | Mağazalara POSM teslimatını koordine etmek | Kampanya başına |
-| Uyumluluk Denetimleri | Mağazalarda POSM standartlarını denetlemek | Aylık |
-| Bütçe Yönetimi | Bölgesel POSM bütçesini yönetmek | Üç ayda bir |
-| Performans İncelemesi | POSM etkinliğini analiz etmek | Kampanya başına |
-
-### Merkez Ticari Pazarlama
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| POSM Tasarımı | Kampanya POSM tasarımları oluşturmak | Kampanya başına |
-| Üretim Yönetimi | Tedarikçilerle koordinasyon | Kampanya başına |
-| Kalite Güvencesi | Üretim kalitesini sağlamak | Sipariş başına |
-| Dağıtım Planlaması | Mağazalara POSM tahsisi planlamak | Kampanya başına |
-| Kılavuz Güncellemeleri | POSM standartlarını güncellemek | Gerektiğinde |
-
-
-## Yerleşim Standartları
-
-### Vitrin Display Düzeni
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     VİTRİN DISPLAY BÖLGELERİ                     │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  ┌─────────────────────────────────────────────────────────┐    │
-│  │                                                         │    │
-│  │    ÜST BÖLGE (Marka/Kampanya Başlığı)                   │    │
-│  │    └── Logo, Kampanya adı, Slogan                       │    │
-│  │        Yükseklik: Vitrinin üst %20'si                   │    │
-│  │                                                         │    │
-│  ├─────────────────────────────────────────────────────────┤    │
-│  │                                                         │    │
-│  │    ODAK BÖLGESİ (Ana Görsel)                            │    │
-│  │    └── Hero görsel, Anahtar mesaj                       │    │
-│  │        Yükseklik: Orta %50 (yerden 145-175cm)           │    │
-│  │                                                         │    │
-│  ├─────────────────────────────────────────────────────────┤    │
-│  │                                                         │    │
-│  │    ÜRÜN BÖLGESİ (Öne Çıkan Ürünler)                     │    │
-│  │    └── Mankenler, Ürün displayları                      │    │
-│  │        Yükseklik: Alt %30                               │    │
-│  │                                                         │    │
-│  └─────────────────────────────────────────────────────────┘    │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Mağaza İçi POSM Yerleşimi
-
-| POSM Türü | Konum | Yükseklik | Miktar |
-|-----------|-------|-----------|--------|
-| **Tavan Danglerları** | Hero ürün alanlarının üstü | Yerden 2.2-2.5m | Bölge başına 2-4 |
-| **Zemin Stickerları** | Giriş yolu, önemli lokasyonlar | Zemin seviyesi | Mağaza başına 3-5 |
-| **Raf Talkerları** | Promosyonel ürün rafları | Ürün seviyesinde | Tüm promosyonel SKU'lar |
-| **Başlık Panoları** | Önemli fikstürlerin üstü | Fikstür üstü | Tanıtılan fikstür başına 1 |
-| **Tezgah Display** | Kasa alanı | Tezgah yüksekliği | Kasa başına 1-2 |
-
-
-## Bakım Standartları
-
-### Günlük Bakım Rutini
-
-| Görev | Sorumluluk | Kontrol Öğesi |
-|-------|------------|---------------|
-| Görsel Kontrol | Açılış personeli | Tüm POSM görünür ve düzenli |
-| Temizlik | Gerektiğinde | Toz, parmak izleri temizlendi |
-| Hizalama | Gerektiğinde | Kaymış materyalleri düzelt |
-| Hasar Kontrolü | Tüm personel | Herhangi bir hasarı hemen bildir |
-| Envanter | Mağaza Müdürü | Tüm POSM mevcut ve hesapta |
-
-### Haftalık Bakım Görevleri
-
-- [ ] Tüm POSM'un kapsamlı temizliği
-- [ ] Solma veya aşınma kontrolü
-- [ ] Tüm materyallerin hala güvenli kurulu olduğunu doğrula
-- [ ] Zemin stickerlarını kalkan kenarlar açısından kontrol et
-- [ ] Dangler asma bütünlüğünü kontrol et
-- [ ] Tezgah display durumunu incele
-- [ ] Zamana duyarlı mesajlaşmayı güncelle
-
-### POSM Durum Değerlendirmesi
-
-| Durum | Eylem | Zaman Çizelgesi |
-|-------|-------|-----------------|
-| **İyi** | Mevcut durumu koru | Kullanmaya devam |
-| **Küçük aşınma** | Mümkünse temizle/onar | 24 saat içinde |
-| **Önemli hasar** | Değiştir | Hemen talep et |
-| **Güvenlik endişesi** | Hemen kaldır | Anında |
-| **Güncel olmayan içerik** | Değiştir/kaldır | Aynı gün |
-
-
-## Kalite Standartları
-
-### Görsel Kalite Gereksinimleri
-
-| Husus | Standart |
-|-------|----------|
-| **Baskı Kalitesi** | Net, berrak görseller; pikselleşme yok |
-| **Renk Doğruluğu** | Marka renk özelliklerine uygun |
-| **Metin Okunabilirliği** | Hedeflenen mesafeden okunabilir |
-| **Malzeme Kalitesi** | Uygun ağırlık ve finish |
-| **Son İşlem** | Temiz kesimler, uygun laminasyon |
-
-### Marka Uyumluluk Gereksinimleri
-
-- Doğru logo yerleşimi ve boyutu
-- Yalnızca onaylı marka renkleri
-- Yetkili tipografi
-- Onaylı mesajlaşma ve kopya
-- Gerektiğinde uygun yasal feragatnameler
-
-### Güvenlik Standartları
-
-| POSM Türü | Güvenlik Gereksinimi |
-|-----------|---------------------|
-| **Zemin Grafikleri** | Kaymaz laminat gerekli |
-| **Asılı Unsurlar** | Güvenli bağlantı, ağırlık sınırına uyulmalı |
-| **Serbest Duran Displaylar** | Sabit taban, devrilme tehlikesi yok |
-| **Vitrin Unsurları** | Göz seviyesinde görüş engeli yok |
-| **Tezgah Displayları** | Sabit, engel oluşturmayan |
-
-
-## Standartlar ve Kurallar
-
-### Zorunlu POSM Kuralları
-
-1. **Kurulum:** Tüm kampanya POSM'u lansman tarihine kadar kurulmalı
-2. **Eksiksizlik:** Tüm kit öğeleri sergilenmeli (kısmi uygulama yok)
-3. **Yerleşim:** Verilen yerleşim kılavuzlarını tam olarak takip et
-4. **Kalite:** Hasarlı veya bozulmuş POSM sergilenmemeli
-5. **Güncellik:** Yalnızca mevcut kampanya POSM'u gösterilmeli
-6. **Kaldırma:** Önceki kampanya POSM'u yeni kurulumdan önce kaldırılmalı
-7. **Güvenlik:** Tüm güvenlik standartları karşılanmalı
-
-### Yasaklanan Eylemler
-
-- POSM tasarımını veya mesajlaşmasını değiştirme
-- POSM'u yetkisiz lokasyonlara kurma
-- Diğer markalardan veya kampanyalardan POSM kullanma
-- Süresi dolan POSM'u sergilemeye devam etme
-- POSM'a zarar verme veya bozma
-- Kişisel veya el yazısı tabela kullanma
-- POSM ile güvenlik özelliklerini engelleme
-
-### POSM İmha Kılavuzları
-
-| Malzeme Türü | İmha Yöntemi |
-|--------------|--------------|
-| Kağıt/karton | Geri dönüşüm |
-| Vinil/plastik | Yerel düzenlemelere göre imha |
-| Foamboard | Yerel düzenlemelere göre imha |
-| Yeniden kullanılabilir çerçeveler | Depoya iade |
-| Donanım (kancalar, standlar) | Yeniden kullanım için sakla |
-
-
-### Sorun 2: POSM Mağaza Düzenine Uymuyor
-
-**Belirti:** Standart POSM boyutu mağazada çalışmıyor.
-
-**Çözümler:**
-1. Alternatifler için yerleşim kılavuzlarını incele
-2. Özel boyutlu POSM talep et (4+ hafta süre)
-3. Kitten daha küçük alternatifi kullan
-4. Onaylı ayarlamalar için Bölge Müdürü'ne danış
-
-
-### Sorun 4: Mağazalar Arasında Tutarsız Kurulum
-
-**Belirti:** Bölgesel denetim değişen POSM kalitesi gösteriyor.
-
-**Çözümler:**
-1. Yeniden eğitim oturumu düzenle
-2. Fotoğraflı örnekler sağla
-3. Kurulum kontrol listesi uygula
-4. Takip uyumluluk kontrolü planla
-
-
-## Revizyon Geçmişi
-
-| Versiyon | Tarih | Değişiklikler | Hazırlayan |
-|----------|-------|---------------|------------|
-| 1.0 | 01 Aralık 2025 | İlk versiyon oluşturuldu | Aydınlı Grup Ticari Pazarlama |
-
-
----
-
-## SECTION 8: SEASONAL-MARKETING-CALENDAR-TR
-
-﻿---
-layout: default
-title: "Sezonluk Pazarlama Takvimi"
-parent: Marketing
-
-## İçindekiler
-
-1. [Amaç](#amaç)
-2. [Kapsam](#kapsam)
-3. [Tanımlar](#tanımlar)
-4. [Sorumluluklar](#sorumluluklar)
-5. [Yıllık Takvim Genel Bakış](#yıllık-takvim-genel-bakış)
-6. [İlkbahar/Yaz Sezonu](#ilkbaharyaz-sezonu)
-7. [Sonbahar/Kış Sezonu](#sonbaharkış-sezonu)
-8. [Önemli Ticari Anlar](#önemli-ticari-anlar)
-9. [Bölgesel Değerlendirmeler](#bölgesel-değerlendirmeler)
-10. [Planlama Zaman Çizelgesi](#planlama-zaman-çizelgesi)
-11. [Kampanya Entegrasyonu](#kampanya-entegrasyonu)
-12. [Süreç Adımları](#süreç-adımları)
-13. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-14. [KPI'lar](#kpilar)
-15. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-16. [Revizyon Geçmişi](#revizyon-geçmişi)
-
-
-## Kapsam
-
-### Kapsanan Markalar
-
-Üç marka da markaya özgü adaptasyonlarla temel takvimi takip eder:
-- U.S. Polo Assn.
-- Pierre Cardin
-- Cacharel
-
-
-## Sorumluluklar
-
-### Mağaza Personeli
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| Takvim İncelemesi | Yaklaşan kampanyaları anlamak | Haftalık |
-| Uygulama | Mağaza içi faaliyetleri zamanında yürütmek | Etkinlik başına |
-| Müşteri İletişimi | Müşterileri yaklaşan etkinlikler hakkında bilgilendirmek | Günlük |
-
-### Mağaza Müdürü
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| Takvim Planlaması | Önemli tarihler için personel ve envanter planlamak | Aylık |
-| Kampanya Hazırlığı | Her kampanya için hazırlığı sağlamak | Etkinlik başına |
-| Performans Takibi | Kampanya sonuçlarını izlemek | Kampanya başına |
-| Geri Bildirim Raporlaması | Takvim uygulama sorunlarını bildirmek | Haftalık |
-
-### Bölge Müdürü
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| Bölgesel Adaptasyon | Takvimi bölgesel ihtiyaçlara uyarlamak | Üç ayda bir |
-| Kaynak Tahsisi | Dönem başına yeterli kaynak sağlamak | Aylık |
-| Koordinasyon | Bölge içi mağazaları hizalamak | Sürekli |
-| Performans Analizi | Bölgesel takvim performansını analiz etmek | Aylık |
-
-### Merkez Pazarlama Ekibi
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| Takvim Geliştirme | Yıllık takvim oluşturmak ve güncellemek | Yıllık |
-| Kampanya Oluşturma | Önemli anlar için kampanyalar geliştirmek | Kampanya başına |
-| Varlık Dağıtımı | Pazarlama materyalleri sağlamak | Kampanya başına |
-| Performans İncelemesi | Küresel takvim etkinliğini incelemek | Üç ayda bir |
-
-
-## İlkbahar/Yaz Sezonu
-
-### SS Sezon Zaman Çizelgesi
-
-```
-Hafta -8 ile -4: Koleksiyon Ön İzleme ve Planlama
-        ↓
-Hafta -4 ile -2: Mağaza Kurulum Hazırlığı
-        ↓
-Hafta -2 ile 0: Tam Vitrin ve Mağaza Yenileme
-        ↓
-Hafta 0: SEZON LANSMANI
-        ↓
-Hafta 1-8: Tam Fiyat Satış Dönemi
-        ↓
-Hafta 9-12: Sezon Ortası Aktivitesi
-        ↓
-Hafta 13+: Sezon Sonu İndirimi
-```
-
-### SS Kampanya Takvimi
-
-| Dönem | Kampanya | Süre | Temel Faaliyetler |
-|-------|----------|------|-------------------|
-| **Şub H4 - Mar H1** | SS Ön İzleme | 2 hafta | VIP erişim, erken alım teklifleri |
-| **Mar H2** | SS Lansmanı | 1 hafta | Tam mağaza yenilemesi, lansman etkinliği |
-| **Mar H2 - May H4** | Bahar Odağı | 10 hafta | Yeni gelenler, trend vurguları |
-| **Nis** | Ramazan (Bölgesel) | 4 hafta | Özel koleksiyonlar, hediyeler |
-| **May H2** | Anneler Günü | 1 hafta | Hediye rehberi, özel teklifler |
-| **Haz** | Yaz Koleksiyonu | 4 hafta | Tatil kıyafetleri, mayo |
-| **Tem H1** | Yaz İndirimi Başlangıcı | - | Sezonluk ürünlerde %30-50 indirim |
-
-### Markaya Göre SS Hero Ürünler
-
-| Marka | SS Hero Kategorileri | Pazarlama Odağı |
-|-------|---------------------|-----------------|
-| **U.S. Polo Assn.** | Pololar, Şortlar, Mayo | Aktif yaşam tarzı, tatil |
-| **Pierre Cardin** | Keten takımlar, Hafif gömlekler | İş casual, yaz zarafeti |
-| **Cacharel** | Çiçekli elbiseler, Hafif kumaşlar | Romantik yaz, bahçe partisi |
-
-### SS Görsel Temalar
-
-| Ay | Vitrin Teması | Renk Hikayesi |
-|----|---------------|---------------|
-| Mart | Bahar Uyanışı | Pastel tonlar, Taze yeşiller |
-| Nisan | Çiçeklenme | Çiçekler, Parlak renkler |
-| Mayıs | Bahçe Partisi | Yumuşak pembeler, Doğal tonlar |
-| Haziran | Yaz Kaçamağı | Maviler, Beyazlar, Denizci tarzı |
-| Temmuz | Plaj ve Resort | Canlı renkler, Tropikal |
-
-
-## Önemli Ticari Anlar
-
-### Seviye 1 Ticari Anlar (Zorunlu Uygulama)
-
-| Etkinlik | Tarih | Süre | Öncelik |
-|----------|-------|------|---------|
-| **SS Sezon Lansmanı** | Mart başı | 2 hafta | Kritik |
-| **Kara Cuma** | Kasım 4. Cuma | 4-7 gün | Kritik |
-| **FW Sezon Lansmanı** | Eylül başı | 2 hafta | Kritik |
-| **Tatil/Yıl Sonu** | Ara 15-31 | 2 hafta | Kritik |
-
-### Seviye 2 Ticari Anlar (Önerilen)
-
-| Etkinlik | Tarih | Süre | Öncelik |
-|----------|-------|------|---------|
-| **Sevgililer Günü** | 14 Şubat | 1 hafta | Yüksek |
-| **Anneler Günü** | Mayıs 2. Pazar | 1 hafta | Yüksek |
-| **Yaz İndirimi** | Temmuz başı | 3-4 hafta | Yüksek |
-| **Okula Dönüş** | Ağustos ortası | 3 hafta | Yüksek |
-
-### Seviye 3 Ticari Anlar (İsteğe Bağlı/Bölgesel)
-
-| Etkinlik | Tarih | Bölge | Öncelik |
-|----------|-------|-------|---------|
-| **Ramazan/Bayram** | Değişken | KSA, Fas | Kritik (Bölgesel) |
-| **Bekarlar Günü** | 11 Kasım | Tümü | Orta |
-| **Babalar Günü** | Haziran 3. Pazar | Tümü | Orta |
-| **Halloween** | 31 Ekim | Balkanlar | Düşük |
-
-### Ticari An Planlama Şablonu
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              TİCARİ AN PLANLAMASI                                │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  Etkinlik: _______________________                               │
-│  Tarih(ler): _______________________                             │
-│  Süre: _______________________                                   │
-│                                                                  │
-│  PAZARLAMA UNSURLARI                                             │
-│  □ Vitrin Display Güncellemesi                                   │
-│  □ Mağaza İçi POSM                                               │
-│  □ Dijital/Sosyal Kampanya                                       │
-│  □ E-posta Kampanyası                                            │
-│  □ Özel Promosyon/Teklif                                         │
-│  □ Personel Eğitimi                                              │
-│                                                                  │
-│  HEDEFLER                                                        │
-│  Satış Hedefi: $_____________                                    │
-│  Trafik Hedefi: ____________                                     │
-│  Dönüşüm Hedefi: ________%                                       │
-│                                                                  │
-│  GEREKLİ KAYNAKLAR                                               │
-│  Bütçe: $_____________                                           │
-│  Personel: _______________                                       │
-│  Envanter Odağı: _______________________                         │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-## Planlama Zaman Çizelgesi
-
-### Yıllık Planlama Döngüsü
-
-```
-Ekim-Kasım (Y-1)
-├── Yıllık takvim taslağı
-├── Bütçe planlaması
-└── Ajans briefingleri
-
-Aralık (Y-1)
-├── Takvim finalizasyonu
-├── Varlık üretimi başlangıcı
-└── Bölgesel adaptasyon toplantıları
-
-Ocak
-├── Q1 kampanya materyalleri hazır
-├── SS ön izleme hazırlıkları
-└── Bölgesel takvimler onaylandı
-
-Aylık (Sürekli)
-├── Aylık inceleme toplantıları
-├── Sonraki ay hazırlıkları
-└── Performans takibi
-```
-
-### Kampanya Hazırlık Süreleri
-
-| Kampanya Türü | Hazırlık Süresi | Temel Kilometre Taşları |
-|---------------|-----------------|------------------------|
-| **Sezon Lansmanı** | 12 hafta | Brief → Kreatif → Üretim → Teslimat |
-| **Büyük Promosyon** | 8 hafta | Brief → Onay → Üretim → Dağıtım |
-| **Standart Kampanya** | 6 hafta | Brief → Varlıklar → Mağaza Uygulaması |
-| **Hızlı Yanıt** | 2 hafta | Onay → Yalnızca Dijital Varlıklar |
-
-### Aylık Planlama Kontrol Listesi
-
-- [ ] Sonraki ayın takvim faaliyetlerini incele
-- [ ] POSM teslimat tarihlerini onayla
-- [ ] Mağaza ekiplerini yaklaşan kampanyalar hakkında bilgilendir
-- [ ] Envanterin promosyonlarla uyumunu doğrula
-- [ ] Bölgesel adaptasyonları koordine et
-- [ ] Performans hedeflerini belirle
-- [ ] İnceleme toplantılarını planla
-
-
-## Süreç Adımları
-
-### Yıllık Takvim Oluşturma Süreci
-
-```
-Adım 1: Önceki Yıl Performansını İncele
-        ↓
-Adım 2: Önemli Tarihleri ve Etkinlikleri Belirle
-        ↓
-Adım 3: Takvim Çerçevesi Taslağı Hazırla
-        ↓
-Adım 4: Bölgesel Girdi ve Adaptasyon
-        ↓
-Adım 5: Dönem Bazında Bütçe Tahsisi
-        ↓
-Adım 6: Kampanya Brief Geliştirme
-        ↓
-Adım 7: Varlık Üretim Planlaması
-        ↓
-Adım 8: Final Takvim Onayı
-        ↓
-Adım 9: Tüm Paydaşlara Dağıtım
-        ↓
-Adım 10: Aylık İnceleme ve Ayarlama
-```
-
-### Kampanya Uygulama Süreci
-
-```
-1. Takvim Uyarısı (4 hafta önce)
-       ↓
-2. Kampanya Brifingi Al
-       ↓
-3. Varlıkları ve Materyalleri İncele
-       ↓
-4. Yerel Uygulama Planla
-       ↓
-5. POSM ve Materyalleri Al
-       ↓
-6. Personel Eğitimi ve Brifingi
-       ↓
-7. Mağaza Kurulumu (bir gün önce)
-       ↓
-8. Kampanya Lansmanı
-       ↓
-9. Günlük İzleme
-       ↓
-10. Kampanya Kapanışı ve Raporlama
-```
-
-
-## KPI'lar
-
-### Takvim Performans KPI'ları
-
-| KPI | Formül | Hedef | Sıklık |
-|-----|--------|-------|--------|
-| **Kampanya Uygulama Oranı** | Uygulanan Kampanyalar / Planlanan Kampanyalar × 100 | %100 | Aylık |
-| **Zamanında Lansman Oranı** | Zamanında Lansmanlar / Toplam Lansmanlar × 100 | %95 | Aylık |
-| **Satış vs. Hedef** | Gerçek Satışlar / Hedef Satışlar × 100 | ≥%100 | Kampanya Başına |
-| **Trafik vs. GY** | Bu Yıl Trafik / Geçen Yıl Trafik × 100 | >%100 | Haftalık |
-| **Sezonluk Satış Gerçekleşme** | Satılan Adet / Alınan Adet × 100 | >%70 | Sezon Sonu |
-
-### Ticari An Performansı
-
-| Metrik | Hesaplama | Kıyaslama |
-|--------|-----------|-----------|
-| **Kara Cuma Satış Artışı** | KC Satışları / Normal Hafta Satışları | 3x+ |
-| **Tatil Sezonu Payı** | Aralık Satışları / Yıllık Satışlar | %15+ |
-| **Sezon Lansmanı Haftası** | Lansman Haftası / Normal Hafta | 2x+ |
-| **İndirim Dönemi Verimliliği** | İndirim Marjı / Normal Marj | >%50 |
-
-### Takvim İnceleme Şablonu
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              AYLIK TAKVİM İNCELEMESİ                             │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  Ay: _______________ Yıl: ___________                            │
-│                                                                  │
-│  UYGULANAN KAMPANYALAR                                           │
-│  Planlanan: _____ Uygulanan: _____ Başarı Oranı: _____%          │
-│                                                                  │
-│  SATIŞ PERFORMANSI                                               │
-│  Hedef: $_________ Gerçek: $_________ Başarı: _____%             │
-│                                                                  │
-│  TEMEL ÖĞRENIMLER                                                │
-│  İşe yarayan: _________________________________                  │
-│  İşe yaramayan: _________________________________                │
-│  Öneriler: ____________________________                          │
-│                                                                  │
-│  SONRAKİ AY ÖN İZLEME                                            │
-│  Önemli Etkinlikler: _________________________________           │
-│  Odak Alanları: ________________________________                 │
-│  Hazırlık Durumu: _________________________                      │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-### Sorun 2: Bölgesel Takvim Çatışmaları
-
-**Belirti:** Global kampanya zamanlaması bölgesel etkinliklerle çatışıyor.
-
-**Nedenler:**
-- İslami takvim değişkenliği
-- Yerel tatiller dikkate alınmadı
-- Bölgesel pazar farklılıkları
-
-**Çözüm:**
-1. Bölgesel takvim çatışmalarını erken bildirin (önceki yılın Q4'ü)
-2. Merkez'den zamanlama adaptasyonu talep edin
-3. Alternatif uygulama tarihleri önerin
-4. Gelecek planlama için çatışmaları belgeleyin
-
-
-### Sorun 4: Kampanya Yorgunluğu
-
-**Belirti:** Tekrarlanan promosyonel mesajlara azalan yanıt.
-
-**Nedenler:**
-- Çok fazla kampanya
-- Mesajlaşmada çeşitlilik eksikliği
-- Aşırı iletişim
-
-**Çözüm:**
-1. Kampanyaları uygun şekilde aralayın
-2. Mesajlaşma ve kreatifi çeşitlendirin
-3. Hedefli iletişimler için hedef kitleyi segmente edin
-4. Nicelik yerine kaliteye odaklanın
-
-
-## Revizyon Geçmişi
-
-| Versiyon | Tarih | Değişiklikler | Hazırlayan |
-|----------|-------|---------------|------------|
-| 1.0 | 01 Aralık 2025 | İlk versiyon oluşturuldu | Aydınlı Grup Pazarlama Ops |
-
-
----
-
-## SECTION 9: SOCIAL-MEDIA-LOCALIZATION-GUIDE-TR
-
-﻿---
-layout: default
-title: "Sosyal Medya Lokalizasyon Rehberi"
-parent: Marketing
-
-## İçindekiler
-
-1. [Amaç](#amaç)
-2. [Kapsam](#kapsam)
-3. [Tanımlar](#tanımlar)
-4. [Sorumluluklar](#sorumluluklar)
-5. [Bölgeye Göre Platform Stratejisi](#bölgeye-göre-platform-stratejisi)
-6. [İçerik Lokalizasyonu](#içerik-lokalizasyonu)
-7. [Dil Kılavuzları](#dil-kılavuzları)
-8. [Kültürel Değerlendirmeler](#kültürel-değerlendirmeler)
-9. [Hashtag Stratejisi](#hashtag-stratejisi)
-10. [Topluluk Yönetimi](#topluluk-yönetimi)
-11. [Süreç Adımları](#süreç-adımları)
-12. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-13. [KPI'lar](#kpilar)
-14. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-15. [Revizyon Geçmişi](#revizyon-geçmişi)
-
-
-## Kapsam
-
-### Kapsanan Markalar
-
-- U.S. Polo Assn.
-- Pierre Cardin
-- Cacharel
-
-
-## Sorumluluklar
-
-### Mağaza Müdürü
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| Yerel İzleme | Mağaza etiketli içeriği izlemek | Günlük |
-| İçerik Desteği | Yerel içerik oluşturma taleplerini desteklemek | Gerektiğinde |
-| Geri Bildirim | Yerel etkileşim trendlerini raporlamak | Haftalık |
-
-### Bölge Pazarlama Müdürü
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| İçerik Lokalizasyonu | Global içeriği bölge için uyarlamak | Kampanya başına |
-| Topluluk Yönetimi | Bölgesel sosyal hesapları denetlemek | Günlük |
-| Influencer Koordinasyonu | Bölgesel influencer ortaklıklarını yönetmek | Sürekli |
-| Performans Analizi | Bölgesel sosyal metrikleri analiz etmek | Haftalık |
-
-### Merkez Sosyal Medya Ekibi
-
-| Görev | Açıklama | Sıklık |
-|-------|----------|--------|
-| Global Strateji | Global sosyal medya yönünü belirlemek | Üç ayda bir |
-| İçerik Oluşturma | Global içerik şablonları oluşturmak | Kampanya başına |
-| Marka Kılavuzları | Sosyal marka kılavuzlarını sürdürmek | Sürekli |
-| Performans İncelemesi | Global sosyal performansı incelemek | Aylık |
-
-
-## İçerik Lokalizasyonu
-
-### Lokalizasyon Çerçevesi
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                 İÇERİK LOKALİZASYON SÜRECİ                       │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  GLOBAL İÇERİK                                                   │
-│  ├── Temel mesaj ve görseller                                    │
-│  ├── Marka kılavuzları uyumluluğu                                │
-│  └── Kampanya hedefleri                                          │
-│           ↓                                                      │
-│  BÖLGESEL ADAPTASYON                                             │
-│  ├── Dil çevirisi/transkreasyon                                  │
-│  ├── Kültürel değişiklikler                                      │
-│  ├── Yerel referans eklemeleri                                   │
-│  └── Zamanlama ayarlamaları                                      │
-│           ↓                                                      │
-│  YEREL UYGULAMA                                                  │
-│  ├── Platforma özgü formatlama                                   │
-│  ├── Yerel hashtagler                                            │
-│  ├── Topluluk etkileşimi                                         │
-│  └── Performans takibi                                           │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### İçerik Türleri ve Lokalizasyon Seviyesi
-
-| İçerik Türü | Lokalizasyon Seviyesi | Onay Gerekli |
-|-------------|----------------------|--------------|
-| Marka kampanyası | Çeviri + kültürel inceleme | Merkez |
-| Ürün lansmanı | Çeviri + yerel fiyatlandırma | Bölgesel |
-| Sezonluk içerik | Tam lokalizasyon | Bölgesel |
-| Promosyonel teklifler | Çeviri + yasal uyumluluk | Bölgesel |
-| UGC yeniden paylaşımları | Açıklama lokalizasyonu | Mağaza/Bölgesel |
-| Stories/Reels | Şablon adaptasyonu | Bölgesel |
-
-### Görsel Lokalizasyon
-
-| Unsur | Lokalizasyon Yaklaşımı |
-|-------|------------------------|
-| **Ürün Görselleri** | Yerel tercihlere göre ayarlama (stil) |
-| **Yaşam Tarzı Görselleri** | Kültürel olarak uygun ortamlar kullan |
-| **Modeller** | Temsilin pazarla eşleştiğinden emin ol |
-| **Metin Bindirmeleri** | Çevir ve gerekirse RTL için ayarla |
-| **Renkler** | Kültürel renk çağrışımlarını kontrol et |
-
-
-## Kültürel Değerlendirmeler
-
-### KSA Kültürel Kılavuzları
-
-| Alan | Kılavuz |
-|------|---------|
-| **Görsellik** | Tesettürlü giyim kodları; aşırı cilt açıklığı yok |
-| **Din** | İslami pratiklere saygı; Ramazan hassasiyeti |
-| **Cinsiyet** | Cinsiyet temsil normlarını göz önünde bulundur |
-| **Tatiller** | İslami tatilleri belirgin şekilde öne çıkar |
-| **Değerler** | Aile, gelenek, kalite vurgulanan |
-
-**İçerik Yapılması Gerekenler:**
-✓ Aile odaklı içerik öne çıkar
-✓ Tesettürlü moda standartlarına saygı göster
-✓ İslami vesileri kutla
-✓ Özendirici yaşam tarzı görselleri kullan
-✓ Kalite ve mirası vurgula
-
-**İçerik Yapılmaması Gerekenler:**
-✗ Açık giyim görselleri
-✗ Namaz vakitlerinde içerik
-✗ Alkol veya uygunsuz referanslar
-✗ Politik içerik
-✗ İslami değerlerle çelişen içerik
-
-### Fas Kültürel Kılavuzları
-
-| Alan | Kılavuz |
-|------|---------|
-| **Görsellik** | Yerel tesettür standartlarına saygı |
-| **Din** | İslami değerlendirmeler geçerli |
-| **Dil** | Arapça-Fransızca dengesi |
-| **Tatiller** | İslami ve ulusal tatiller |
-| **Stil** | Avrupa etkisi takdir edilen |
-
-### Balkanlar Kültürel Kılavuzları
-
-| Alan | Kılavuz |
-|------|---------|
-| **Görsellik** | Avrupa moda standartları |
-| **Din** | Farklı dini arka planlara saygı |
-| **Dil** | Yerel dil önceliği, İngilizce ikincil |
-| **Tatiller** | Ortodoks, Katolik ve Müslüman tatillerini göz önünde bulundur |
-| **Milliyetçilik** | Politik hassas konulardan kaçın |
-
-
-## Topluluk Yönetimi
-
-### Yanıt Süresi Standartları
-
-| Mesaj Türü | Hedef Yanıt Süresi |
-|------------|-------------------|
-| **Şikayetler** | 2 saat içinde |
-| **Sorular** | 4 saat içinde |
-| **Yorumlar (olumlu)** | 24 saat içinde |
-| **Yorumlar (nötr)** | 24 saat içinde |
-| **DM'ler** | 4 saat içinde |
-
-### Yanıt Dili Kılavuzları
-
-**Genel Prensipler:**
-- Müşterinin kullandığı dilde yanıt ver
-- Samimi olurken marka tonunu koru
-- Asla halka açık tartışma yapma
-- Hassas konuları DM'ye taşı
-
-**Yanıt Şablonları (Dil için uyarla):**
-
-| Durum | Yanıt Şablonu |
-|-------|---------------|
-| **Teşekkür** | "Güzel sözleriniz için teşekkürler! [Ürünü] sevmenize çok sevindik. 💙" |
-| **Soru** | "Harika soru! [Cevap]. Daha fazla bilgi için DM atabilirsiniz!" |
-| **Şikayet** | "Bunu duyduğumuz için üzgünüz. Çözmemize yardımcı olması için lütfen detaylarınızı DM olarak gönderin." |
-| **Mağaza Sorusu** | "Bizi [konum] adresinde bulabilirsiniz. Bugün ziyaret edin! [Mağaza saatleri]" |
-
-### Eskalasyon Protokolü
-
-```
-Seviye 1: Standart Yanıt (Mağaza/Bölge Ekibi)
-├── Ürün soruları
-├── Mağaza bilgileri
-├── Genel iltifatlar
-└── Basit şikayetler
-
-Seviye 2: Bölge Müdürü İncelemesi
-├── Kalıcı şikayetler
-├── Olumsuz yorumlar
-├── Influencer etkileşimleri
-└── Hassas konular
-
-Seviye 3: Merkez Eskalasyonu
-├── Marka itibar sorunları
-├── Yasal endişeler
-├── PR krizleri
-└── Influencer ortaklıkları
-```
-
-
-## Standartlar ve Kurallar
-
-### İçerik Standartları
-
-| Husus | Standart |
-|-------|----------|
-| **Marka Sesi** | Global kılavuzlarla tutarlı, yerel olarak adapte edilmiş |
-| **Görsel Kalite** | Yüksek çözünürlük, iyi kompozisyon |
-| **Dil Kalitesi** | Dilbilgisi doğru, uygun ton |
-| **Doğruluk** | Tüm bilgiler doğrulanmış, fiyatlar doğru |
-| **Zamanlama** | Optimal yerel saatlerde yayınlanmış |
-
-### Yasaklanan İçerik
-
-| Kategori | Örnekler |
-|----------|----------|
-| **Politik** | Politik açıklamalar, destekler |
-| **Dini** | Herhangi bir dini rahatsız edebilecek içerik |
-| **Tartışmalı** | Bölücü sosyal konular |
-| **Rakip** | Rakiplerden bahsetme veya karşılaştırma |
-| **Doğrulanmamış** | Kanıt olmadan iddialar |
-| **Kişisel** | Personel kişisel bilgileri |
-
-### Onay Matrisi
-
-| İçerik Türü | Mağaza | Bölgesel | Merkez |
-|-------------|--------|----------|--------|
-| Global içeriği yeniden paylaş | ✓ | İnceleme | - |
-| Yerel promosyonel paylaşım | - | ✓ | İnceleme |
-| Influencer içeriği | - | ✓ | ✓ |
-| Kriz yanıtı | - | İnceleme | ✓ |
-| Yeni içerik türü | - | Talep | ✓ |
-
-
-## Sık Karşılaşılan Sorunlar ve Çözümler
-
-### Sorun 1: Lokalize İçerikte Düşük Etkileşim
-
-**Belirti:** Lokalize paylaşımlar ortalamanın altında performans gösteriyor.
-
-**Nedenler:**
-- Çeviri rezonans kurmuyor
-- Kültürel uyumsuzluk
-- Zayıf zamanlama
-- Alakasız içerik
-
-**Çözümler:**
-1. Transkreasyon kalitesini inceleyin
-2. Yerel kitle araştırması yapın
-3. Farklı paylaşım saatlerini test edin
-4. En iyi performans gösteren yerel içeriği analiz edin
-5. Daha fazla UGC dahil edin
-
-
-### Sorun 3: Kültürel Hata
-
-**Belirti:** İçerik kültürel nedenlerle olumsuz geri bildirim alıyor.
-
-**Acil Eylemler:**
-1. İçeriği hemen kaldırın
-2. Ciddiyeti ve erişimi değerlendirin
-3. Uygun yanıt hazırlayın
-4. Önemliyse Merkez'e iletin
-5. Öğrenimleri belgeleyin
-
-**Önleme:**
-- Geliştirilmiş kültürel inceleme süreci
-- Yerel ekip danışmanlığı
-- Kültürel takvim farkındalığı
-- Düzenli ekip eğitimi
-
-
-## Revizyon Geçmişi
-
-| Versiyon | Tarih | Değişiklikler | Hazırlayan |
-|----------|-------|---------------|------------|
-| 1.0 | 01 Aralık 2025 | İlk versiyon oluşturuldu | Aydınlı Grup Dijital Pazarlama |
-
-
----

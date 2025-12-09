@@ -17,83 +17,27 @@ nav_order: 9
 
 ## Document Overview
 
-This comprehensive guidelines and training documentation covers operational standards, communication protocols, brand-specific guidelines, and staff development frameworks for Aydınlı Group franchise stores. The document is organized into 10 major sections:
+This comprehensive guidelines and training documentation covers operational standards, communication protocols, brand-specific guidelines, and staff development frameworks for Aydınlı Group franchise stores. The document is organized into 8 major sections:
 
-**Section 1: Documentation Style Guide** - Establishes standards for creating and maintaining documentation including page structure, formatting conventions, bilingual content management, revision tracking, and consistency requirements across all FR Portal documents.
+**Section 1: Franchise Communication Protocol** - Details communication channels, escalation procedures, reporting standards, meeting protocols, and coordination processes between franchise stores, regional management, and headquarters across all operational areas.
 
-**Section 2: Franchise Communication Protocol** - Details communication channels, escalation procedures, reporting standards, meeting protocols, and coordination processes between franchise stores, regional management, and headquarters across all operational areas.
+**Section 2: Customer Experience Standards** - Establishes service excellence benchmarks including greeting protocols, engagement standards, problem resolution procedures, and quality metrics for delivering consistent premium customer experiences.
 
-**Section 3: Store Operations Guidelines** - Provides comprehensive operational standards covering daily procedures, management responsibilities, staff protocols, quality standards, and performance expectations for consistent store operations across the franchise network.
+**Section 3: Competency Framework** - Defines role-based competency requirements, skill levels, performance standards, career progression paths, and evaluation criteria for all franchise store positions from sales associates to store managers.
 
-**Section 4: VM Guidelines** - Explains visual merchandising principles and standards including display techniques, seasonal updates, brand presentation requirements, and quality control processes specific to franchise store implementation.
+**Section 4: Brand Supplement - U.S. Polo Assn.** - Covers U.S. Polo Assn. brand guidelines including sporty lifestyle positioning, visual presentation standards, customer engagement approach, and brand-specific operational requirements.
 
-**Section 5: Brand Supplement - Cacharel** - Contains Cacharel-specific guidelines including brand positioning, target customer profile, product presentation standards, visual identity requirements, and unique brand characteristics for proper representation.
+**Section 5: Brand Supplement - Pierre Cardin** - Details Pierre Cardin brand-specific requirements including heritage positioning, customer service approach, visual merchandising standards, and brand voice guidelines for maintaining brand integrity.
 
-**Section 6: Brand Supplement - Pierre Cardin** - Details Pierre Cardin brand-specific requirements including heritage positioning, customer service approach, visual merchandising standards, and brand voice guidelines for maintaining brand integrity.
+**Section 6: Brand Supplement - Cacharel** - Contains Cacharel-specific guidelines including brand positioning, target customer profile, product presentation standards, visual identity requirements, and unique brand characteristics for proper representation.
 
-**Section 7: Brand Supplement - U.S. Polo Assn.** - Covers U.S. Polo Assn. brand guidelines including sporty lifestyle positioning, visual presentation standards, customer engagement approach, and brand-specific operational requirements.
+**Section 7: Customer Interaction Scenarios** - Provides practical examples and scripts for common customer situations including sales interactions, complaint handling, special requests, and challenging scenarios with recommended responses and approaches.
 
-**Section 8: Competency Framework** - Defines role-based competency requirements, skill levels, performance standards, career progression paths, and evaluation criteria for all franchise store positions from sales associates to store managers.
-
-**Section 9: Customer Experience Standards** - Establishes service excellence benchmarks including greeting protocols, engagement standards, problem resolution procedures, and quality metrics for delivering consistent premium customer experiences.
-
-**Section 10: Customer Interaction Scenarios** - Provides practical examples and scripts for common customer situations including sales interactions, complaint handling, special requests, and challenging scenarios with recommended responses and approaches.
+**Section 8: Documentation Style Guide** - Establishes standards for creating and maintaining documentation including page structure, formatting conventions, bilingual content management, revision tracking, and consistency requirements across all FR Portal documents.
 
 ---
 
-## SECTION 1: DOCUMENTATION-STYLE-GUIDE-EN
-
-
-# Documentation Style Guide
-
-> **Purpose:** Ensure every FR Portal document is consistent, scannable, and bilingual-friendly.  
-> **Who should use this:** Anyone authoring or updating pages in this repository.
-
-
-## Standard Page Skeleton
-
-1. Front matter:
-```yaml
-```
-2. Title block with metadata (last updated, owner, version).
-3. **Summary** (1–2 paragraphs) + quick bullets for objectives and outcomes.
-4. **Scope**: who is covered / not covered; regions if relevant.
-5. **Roles & Responsibilities**: compact tables grouped by role.
-6. **Process / Steps**: numbered steps; add expected inputs/outputs where helpful.
-7. **Standards & Rules**: short list or table.
-8. **KPIs / Acceptance Criteria**: table with formula/target/owner/frequency.
-9. **Common Issues & Fixes**: short table of problems and actions.
-10. **Revision History**: date, version, editor, change note.
-
-
-## Bilingual Toggle Pattern (EN/TR)
-
-Use the shared include to present both languages on one page without duplication in navigation.
-
-1) Insert the toggle where the bilingual content begins:
-```
-```
-2) Wrap each language block with `lang-section` and the same `data-group`:
-```
-<!-- English content -->
-</div>
-
-<!-- Türkçe içerik -->
-</div>
-```
-3) Only one group per toggle. Reuse the include with a new `group` value if you need multiple toggled sections on a page.
-
-
-## Revision History Template
-
-| Date | Version | Editor | Change |
-|------|---------|--------|--------|
-| 2025-12-08 | 1.0 | Docs Team | Initial publication |
-
-
----
-
-## SECTION 2: FRANCHISE-COMMUNICATION-PROTOCOL-EN
+## SECTION 1: FRANCHISE-COMMUNICATION-PROTOCOL-EN
 
 ﻿---
 layout: default
@@ -327,1661 +271,7 @@ WhatsApp: +90 XXX XXX XX XX
 
 ---
 
-## SECTION 3: STORE-OPERATIONS-GUIDELINE-EN
-
-﻿---
-layout: default
-title: "Store Operations Guidelines"
-parent: Guidelines
-permalink: /guidelines/store-operations-guideline-en/
-
-## Table of Contents
-
-1. [Daily Operation Procedures](#daily-operation-procedures)
-2. [Store Opening Procedure](#store-opening-procedure)
-3. [Store Closing Procedure](#store-closing-procedure)
-4. [Return and Exchange Procedures](#return-and-exchange-procedures)
-5. [Damage and Rejection Procedures](#damage-and-rejection-procedures)
-6. [Price Change Procedures](#price-change-procedures)
-7. [Inventory Management Procedures](#inventory-management-procedures)
-8. [Cash Management](#cash-management)
-9. [Customer Service Standards](#customer-service-standards)
-10. [Emergency Procedures](#emergency-procedures)
-
-
-## Store Opening Procedure
-
-### Opening Checklist (30 mins before opening)
-
-#### 1. Security Checks
-- [ ] Disable alarm system
-- [ ] Check all entry/exit points
-- [ ] Any overnight abnormalities?
-- [ ] Check security cameras
-
-#### 2. Physical Preparation
-- [ ] Turn on all lights
-- [ ] Adjust AC/heating
-- [ ] Check floor cleanliness
-- [ ] Check windows
-
-#### 3. Store Layout
-- [ ] Window display check
-- [ ] Fixture arrangement check
-- [ ] Mannequin check
-- [ ] Signage check
-- [ ] Price tag check
-
-#### 4. Cash Register Preparation
-- [ ] Opening cash count
-- [ ] Turn on and test POS devices
-- [ ] Sufficient change available?
-- [ ] Receipt roll check
-
-#### 5. Stock Preparation
-- [ ] Any overnight deliveries?
-- [ ] Replenish missing sizes/colors
-- [ ] Check products for return
-
-### Opening Count Form
-
-```
-┌─────────────────────────────────────┐
-│    OPENING CASH COUNT FORM          │
-├─────────────────────────────────────┤
-│ Date: ___/___/______                │
-│ Staff: _________________            │
-├─────────────────────────────────────┤
-│ Coins                                │
-│   $0.25 × ___ = $_____.___          │
-│   $0.50 × ___ = $_____.___          │
-│   $1.00 × ___ = $_____.___          │
-├─────────────────────────────────────┤
-│ Bills                                │
-│   $5   × ___ = $_____.___           │
-│   $10  × ___ = $_____.___           │
-│   $20  × ___ = $_____.___           │
-│   $50  × ___ = $_____.___           │
-│   $100 × ___ = $_____.___           │
-├─────────────────────────────────────┤
-│ TOTAL: $____________                │
-│ Float: $____________                │
-│ Signature: _______________          │
-└─────────────────────────────────────┘
-```
-
-
-## Return and Exchange Procedures
-
-### Return Policy
-
-| Condition | Period | Requirement | Action |
-|-----------|--------|-------------|--------|
-| Tagged, unused | 14 days | With receipt | Full refund |
-| Tagged, unused | 14-30 days | With receipt | Store credit |
-| Untagged/used | - | - | No return accepted |
-| Defective product | 30 days | With receipt | Exchange or refund |
-
-### Return Process Steps
-
-```
-1. Greet Customer
-   ↓
-2. Receipt/Invoice Check
-   ↓
-3. Product Check (tag, condition)
-   ↓
-4. Determine Return Reason
-   ↓
-5. System Entry (POS)
-   ↓
-6. Complete Return Form
-   ↓
-7. Refund / Exchange
-   ↓
-8. Customer Signature
-```
-
-### Return Reason Codes
-
-| Code | Reason | Description |
-|------|--------|-------------|
-| R01 | Size mismatch | Customer bought wrong size |
-| R02 | Color dissatisfaction | Customer doesn't like color |
-| R03 | Gift return | Gift recipient returning |
-| R04 | Manufacturing defect | Product is defective |
-| R05 | Price difference | Found cheaper elsewhere |
-| R06 | Other | Explanation required |
-
-### Return Form
-
-```
-┌─────────────────────────────────────┐
-│       RETURN / EXCHANGE FORM        │
-├─────────────────────────────────────┤
-│ Date: ___/___/______                │
-│ Receipt No: _________________       │
-│ Original Sale Date: ___/___/___     │
-├─────────────────────────────────────┤
-│ CUSTOMER INFORMATION                │
-│ Name: _________________             │
-│ Phone: _________________            │
-├─────────────────────────────────────┤
-│ PRODUCT INFORMATION                 │
-│ SKU: _________________              │
-│ Product Name: _________________     │
-│ Size: ___ Color: ___                │
-│ Amount: $_______                    │
-├─────────────────────────────────────┤
-│ RETURN REASON: [ ] R01 [ ] R02 [ ] R03│
-│                [ ] R04 [ ] R05 [ ] R06│
-│ Notes: _________________            │
-├─────────────────────────────────────┤
-│ TRANSACTION TYPE                    │
-│ [ ] Cash Refund  [ ] Card Refund    │
-│ [ ] Exchange     [ ] Store Credit   │
-├─────────────────────────────────────┤
-│ Customer Signature: _____________   │
-│ Staff: _________________            │
-└─────────────────────────────────────┘
-```
-
-
-## Price Change Procedures
-
-### Price Change Types
-
-| Type | Definition | Authority |
-|------|------------|-----------|
-| **Central Discount** | General campaign | Headquarters |
-| **Regional Discount** | Region-based | Regional Manager |
-| **Markdown** | End of season | HQ approval |
-| **Price Correction** | Error correction | Store Manager |
-
-### Price Update Procedure
-
-```
-1. HQ Price Change Notification
-   ↓
-2. Download Price List
-   ↓
-3. Update System (POS)
-   ↓
-4. Physical Tag Change
-   ↓
-5. Verification (random 10 products)
-   ↓
-6. Completion Notification
-```
-
-### Tag Change Rules
-
-- Old tags must be completely removed
-- No overlapping tags
-- No handwriting on tags
-- All sizes must be updated
-
-### Price Control Form
-
-```
-┌─────────────────────────────────────┐
-│      PRICE CHANGE CONTROL           │
-├─────────────────────────────────────┤
-│ Campaign/Period: ________________   │
-│ Validity: ___/___ - ___/___         │
-├─────────────────────────────────────┤
-│ SKU        Old       New      ✓     │
-│ ________   $_____    $_____   [ ]   │
-│ ________   $_____    $_____   [ ]   │
-│ ________   $_____    $_____   [ ]   │
-├─────────────────────────────────────┤
-│ Checked By: _________________       │
-│ Date/Time: _________________        │
-└─────────────────────────────────────┘
-```
-
-
-## Cash Management
-
-### Payment Types
-
-| Payment | Process | Points of Attention |
-|---------|---------|-------------------|
-| Cash | Count, change | Counterfeit check |
-| Credit Card | POS transaction | Signature/PIN verification |
-| Debit Card | POS transaction | Balance check |
-| Gift Card | System entry | Validity check |
-| Installment | POS installment | Installment options |
-
-### Cash Shortage/Overage Procedure
-
-**In Case of Shortage:**
-1. Recount
-2. Check day's transactions
-3. Review camera footage
-4. Prepare report
-5. Notify store manager
-
-**In Case of Overage:**
-1. Recount
-2. Check return/void transactions
-3. Customer change check
-4. Prepare report
-
-### Daily Cash Limits
-
-| Amount | Action |
-|--------|--------|
-| < $1,000 | Normal operation |
-| $1,000-$2,500 | Intra-shift bank deposit |
-| > $2,500 | Urgent bank transfer |
-
-
-## Emergency Procedures
-
-### Fire
-
-1. Activate fire alarm
-2. Call emergency services
-3. Evacuate customers
-4. Use fire extinguisher (small fire)
-5. Use emergency exits
-6. Go to assembly point
-
-### Theft
-
-1. Notify security
-2. Don't intervene (if dangerous)
-3. Identify the person
-4. Secure camera footage
-5. Prepare report
-6. Call police (if necessary)
-
-### Medical Emergency
-
-1. Call emergency services
-2. Apply first aid (if trained)
-3. Don't move the person
-4. Stay calm
-5. Clear the area
-
-### Emergency Contact Numbers
-
-```
-Fire Department: ___________
-Ambulance: ___________
-Police: ___________
-Company Security: ___________
-Regional Manager: ___________
-```
-
-
-*This document was prepared by Aydınlı Group.*  
-*© 2025 Aydınlı Group - All rights reserved.*
-
-
-
-
----
-
-## SECTION 4: VM-GUIDELINE-EN
-
-﻿---
-layout: default
-title: "Visual Merchandising Guidelines"
-parent: Guidelines
-permalink: /guidelines/vm-guideline-en/
-
-## Table of Contents
-
-1. [Introduction and Purpose](#introduction-and-purpose)
-2. [Core VM Principles](#core-vm-principles)
-3. [Store Zones and Layout](#store-zones-and-layout)
-4. [Window Display Standards](#window-display-standards)
-5. [Fixture and Product Placement](#fixture-and-product-placement)
-6. [Color and Theme Management](#color-and-theme-management)
-7. [Signage and POP Materials](#signage-and-pop-materials)
-8. [Brand-Specific Standards](#brand-specific-standards)
-9. [Seasonal VM Calendar](#seasonal-vm-calendar)
-10. [VM Checklist](#vm-checklist)
-
-
-## Core VM Principles
-
-### 1. Golden Triangle Rule
-
-When viewed from the customer entry point, the most important products should be displayed in the "Golden Triangle" zone.
-
-```
-        [WINDOW]
-           △
-          / \
-         /   \
-        /     \
-       /  ★★★  \    ← Golden Triangle Zone
-      /         \
-     /           \
-    /_____________\
-       [ENTRY]
-```
-
-### 2. Eye Level Rule
-
-- **Premium Zone (145-170 cm):** Most profitable, new season products
-- **Touch Zone (90-145 cm):** Easy access, try-on products
-- **Lower Zone (0-90 cm):** Bulky, heavy items
-- **Upper Zone (170+ cm):** Stock, visual decor
-
-### 3. Right-Turn Principle
-
-90% of customers turn right when entering a store. Therefore:
-- Right side: New season, trend products
-- Left side: Basic products, outlet
-
-### 4. Decompression Zone
-
-The first 1-2 meters of the entrance area is where customers adapt to the store. Do not place critical products in this area.
-
-
-## Window Display Standards
-
-### Window Change Calendar
-
-| Period | Change Frequency |
-|--------|-----------------|
-| New Season Launch | Immediate |
-| Campaign Periods | Campaign start |
-| Normal Period | Every 2 weeks |
-| Special Occasions | Before event |
-
-### Window Composition Rules
-
-#### Pyramid Arrangement
-```
-       ▲
-      /█\
-     / █ \
-    / █ █ \
-   / █ █ █ \
-  ───────────
-```
-- Center point is highest
-- Can be symmetrical or asymmetrical
-- Focal point at 145-165 cm
-
-#### Repetition Arrangement
-```
-  █   █   █   █   █
-  ▼   ▼   ▼   ▼   ▼
-```
-- Same product in different colors
-- Strong visual impact
-
-### Window Lighting
-
-- **General Lighting:** 800-1000 lux
-- **Spot Lighting:** 2000-3000 lux (for hero products)
-- **Color Temperature:** 3000-4000K (warm white)
-
-### Window Mannequin Usage
-
-| Store Size | Mannequin Count |
-|------------|-----------------|
-| < 80 m² | 2-3 |
-| 80-150 m² | 4-6 |
-| > 150 m² | 6-8 |
-
-
-## Color and Theme Management
-
-### Creating Color Blocks
-
-Group products according to color gradients:
-
-```
-LIGHT ──────────────────────────────────► DARK
-
-White → Cream → Yellow → Orange → Red → Burgundy → Navy → Black
-```
-
-### Color Story Telling
-
-Use maximum 3-4 color combinations per fixture:
-
-**Correct:**
-```
-[Navy] [White] [Red]
-```
-
-**Incorrect:**
-```
-[Green] [Yellow] [Purple] [Orange] [Pink] [Blue]
-```
-
-### Seasonal Color Palette
-
-| Season | Main Colors | Accent Colors |
-|--------|-------------|---------------|
-| SS (Spring/Summer) | White, Blue, Mint | Coral, Yellow |
-| FW (Fall/Winter) | Navy, Burgundy, Brown | Mustard, Copper |
-
-
-## Brand-Specific Standards
-
-### U.S. Polo Assn.
-
-**Concept:** American lifestyle, polo heritage, sporty elegance
-
-**Color Palette:**
-- Main: Navy, White, Red
-- Accent: Green, Yellow
-
-**Fixture Style:**
-- Wood + metal combination
-- Classic American style
-
-**Window Themes:**
-- Polo field
-- Campus life
-- Weekend casual
-
-
-### Cacharel
-
-**Concept:** Modern men's wear, French elegance, sophisticated
-
-**Color Palette:**
-- Main: Navy, Grey, Black
-- Accent: Dark tones, classic combinations
-
-**Fixture Style:**
-- Classic lines
-- Modern details
-
-**Window Themes:**
-- Business elegance
-- Urban sophistication
-- French classic style
-
-
-## VM Checklist
-
-### Daily Check
-
-- [ ] Are all products properly hung/folded?
-- [ ] Is size sequencing correct?
-- [ ] Are there empty hangers/shelves?
-- [ ] Are price tags visible?
-- [ ] Is lighting working?
-- [ ] Is floor clean?
-- [ ] Are mannequins properly dressed?
-
-### Weekly Check
-
-- [ ] Are window products current?
-- [ ] Are color blocks organized?
-- [ ] Are fixtures clean?
-- [ ] Is signage up to date?
-- [ ] Is top-bottom ratio balanced?
-- [ ] Are campaign materials in place?
-
-### Monthly Check
-
-- [ ] Is window theme seasonally appropriate?
-- [ ] Is fixture layout optimized?
-- [ ] Is stock distribution balanced?
-- [ ] Was lighting maintenance performed?
-- [ ] Was VM performance analysis conducted?
-
-
-## Revision History
-
-| Version | Date | Change | Prepared By |
-|---------|------|--------|-------------|
-| 1.0 | 2025-12-01 | Initial version created | Aydınlı Group |
-
-
----
-
-## SECTION 5: BRAND-SUPPLEMENT-CACHAREL-EN
-
-﻿---
-layout: default
-title: "Cacharel Brand Training Guide – EN"
-parent: Training
-
-## Training Content
-
-### SECTION 1: BRAND STORY
-
-#### 1.1 History
-
-**Cacharel - French Men's Fashion Icon**
-- **Founded:** 1962, by Jean Bousquet in Paris
-- **First Collection:** Men's shirts and ready-to-wear
-- **Perfume:** 1978 - Anaïs Anaïs (important for brand awareness)
-- **Today:** French men's fashion - business and casual premium
-- **Aydınlı Group:** Turkey license holder
-
-**Key Points:**
-- 60+ years of French fashion heritage
-- Representative of French elegance in men's wear
-- Balance between business and casual
-- Modern classic men's fashion
-- Positioned as men's fashion brand in Turkey
-
-#### 1.2 Brand Values
-
-| Value | Description |
-|-------|-------------|
-| **Elegance** | French men's sophistication |
-| **Versatility** | Versatility for work and everyday life |
-| **Quality** | Premium quality and craftsmanship |
-| **Sophistication** | Refined and sophisticated design |
-| **Modern Classic** | Modern classic men's fashion |
-
-#### 1.3 Brand Story Narrative (For Customers)
-
-```
-"Cacharel has been a pioneer of French men's fashion since 1962. 
-Bringing elegance and sophistication from Paris to men's wear. 
-The choice of the modern man who wants to look elegant 
-both in the business world and in everyday life."
-```
-
-
-### SECTION 3: PRODUCT CATEGORIES
-
-#### 3.1 Men's Collection - Business
-
-| Category | Sub-categories | Key Features |
-|----------|---------------|--------------|
-| **Suit** | Slim, Regular | Business world elegance |
-| **Blazer** | Single Breasted | Smart casual essential |
-| **Trousers** | Classic, Slim | Professional look |
-| **Shirt** | Business, Non-iron | Office standard |
-| **Tie** | Silk, Classic pattern | Elegant accessory |
-
-#### 3.2 Men's Collection - Casual Premium
-
-| Category | Sub-categories | Key Features |
-|----------|---------------|--------------|
-| **Polo** | Premium Pique | Sophisticated casual |
-| **T-shirt** | Basic, Premium | Comfortable elegance |
-| **Shirt** | Casual, Denim | Weekend elegance |
-| **Knitwear** | V-neck, Crew, Cardigan | Layered outfits |
-| **Trousers** | Chino, Premium Denim | Relaxed elegance |
-| **Jacket** | Bomber, Denim, Parka | Premium outerwear |
-
-#### 3.3 Accessories
-
-| Category | Products | Feature |
-|----------|----------|---------|
-| **Tie** | Silk, Classic | Elegant detail |
-| **Belt** | Leather, Metal buckle | Premium material |
-| **Wallet** | Leather, Card holder | Italian leather |
-| **Socks** | Premium cotton | Detail elegance |
-
-#### 3.4 Iconic Products
-
-**1. Business Suit**
-- French elegance
-- Slim fit modern cut
-- Premium fabric
-- Business world standard
-
-**2. Premium Polo T-shirt**
-- Sophisticated casual
-- Premium pique fabric
-- Elegant cut
-- Business casual essential
-
-**3. Non-iron Shirt**
-- Wrinkle-free technology
-- 100% cotton
-- French cut
-- Everyday use
-
-
-### SECTION 5: SALES TECHNIQUES
-
-#### 5.1 Professional Sales Approach
-
-**Difference:**
-```
-U.S. Polo = Casual, product-focused
-Pierre Cardin = Business, consultancy-focused
-Cacharel = Dual approach, style consultancy
-```
-
-**Opening:**
-```
-Staff: "Welcome to Cacharel! Are you looking for work or everyday use today?"
-Customer: "Both could work, need something elegant."
-Staff: "I understand! Cacharel is perfect for you – we offer French elegance 
-for both work and everyday life. What situations are you thinking of?"
-```
-
-#### 5.2 Style Consultancy
-
-**Questions:**
-```
-"What's your work environment like – formal or semi-formal?"
-"How do you like to dress on weekends?"
-"What basic pieces do you currently have in your wardrobe?"
-"What's your color preference – classic or modern?"
-```
-
-#### 5.3 Outfit Suggestions
-
-| Situation | Outfit |
-|-----------|--------|
-| Business meeting | Suit + shirt + tie |
-| Daily office | Blazer + chino + polo |
-| Weekend | Premium polo + chino + sneakers |
-| Dinner | Blazer + shirt + chino |
-| Smart casual | Premium t-shirt + chino + blazer |
-
-#### 5.4 Cross-sell and Upsell
-
-**Cross-sell:**
-```
-Staff: "This blazer is very elegant. I can suggest chino trousers underneath, 
-creates a perfect French smart casual outfit."
-```
-
-**Upsell:**
-```
-Staff: "This suit is nice, but I'd also like to show you our premium series. 
-Fabric quality is higher level, can be worn for years."
-```
-
-
-### SECTION 7: PRODUCT KNOWLEDGE DETAILS
-
-#### 7.1 Fabric Types
-
-| Fabric | Feature | Usage |
-|--------|---------|-------|
-| **Wool** | Premium, breathable | Suit |
-| **Pique Cotton** | Textured, durable | Polo t-shirt |
-| **Poplin** | Smooth, elegant | Shirt |
-| **Twill** | Diagonal texture | Chino |
-| **Premium Denim** | Quality, long-lasting | Jean, jacket |
-| **French Terry** | Soft, comfortable | Sweatshirt |
-
-#### 7.2 Fit Guide
-
-| Fit Type | Feature | Suitable For |
-|----------|---------|--------------|
-| **Slim Fit** | Narrow cut, modern | Young professional |
-| **Regular Fit** | Standard cut | General use |
-| **Classic Fit** | Comfortable, traditional | Mature customer |
-
-#### 7.3 Size Chart
-
-| Size | Chest (cm) | Waist (cm) |
-|------|------------|------------|
-| XS | 88-92 | 72-76 |
-| S | 92-96 | 76-80 |
-| M | 96-100 | 80-84 |
-| L | 100-104 | 84-88 |
-| XL | 104-108 | 88-92 |
-| XXL | 108-112 | 92-96 |
-
-#### 7.4 Care Instructions
-
-| Product | Wash | Dry | Iron |
-|---------|------|-----|------|
-| Suit | Dry clean | - | - |
-| Polo | 30°C | Hang dry cool | Low |
-| Shirt | 40°C | Hang dry cool | Medium |
-| Chino | 30°C | Hang dry cool | Low |
-| Denim | 30°C inside out | Hang dry cool | Steam |
-
-
-### SECTION 9: FREQUENTLY ASKED QUESTIONS
-
-| Question | Answer |
-|----------|--------|
-| "Is Cacharel only business wear?" | "No, we have both business and casual premium collections. We help you look elegant from the business world to weekends." |
-| "What's the difference with Pierre Cardin?" | "Cacharel focuses more on casual premium while Pierre Cardin is more business-focused. Both are French elegance but different segments." |
-| "Do you do suit alterations?" | "Yes, we offer professional alteration service in our store. Hem and sleeve shortening are free on certain products." |
-| "What does French cut mean?" | "French cut is a narrower, body-fitting, modern cut. It looks more elegant and contemporary than classic cut." |
-
-
-## Tools & Resources
-
-| Resource | Usage |
-|----------|-------|
-| Fabric Swatch Book | Fabric demonstration to customers |
-| Style Guide | Business and casual outfit suggestions |
-| Size Measurement Tool | Professional measuring |
-| Lookbook | Seasonal style suggestions |
-| Lookbook | Seasonal style suggestions |
-| Care Cards | Information cards to give customers |
-
-
-## Assessment Methods
-
-### Brand Knowledge Quiz
-- 20 questions
-- Brand story, values, product knowledge
-- Passing grade: 80%
-
-### Style Consultancy Evaluation
-- Customer profile analysis
-- Outfit suggestion scenario
-- Business/Casual guidance
-
-### Product Knowledge Test
-- Fabric recognition
-- Fit type determination
-- Care instruction knowledge
-
-
----
-
-## SECTION 6: BRAND-SUPPLEMENT-PIERRE-CARDIN-EN
-
-﻿---
-layout: default
-title: "Pierre Cardin Brand Training Guide – EN"
-parent: Training
-
-## Training Content
-
-### SECTION 1: BRAND STORY
-
-#### 1.1 History
-
-**Pierre Cardin - Fashion Icon**
-- **Birth:** 1922, Italy (San Biagio di Callalta)
-- **Career Start:** 1945, Paris - Worked at Christian Dior
-- **Own Brand:** 1950, Founded Pierre Cardin house in Paris
-- **Revolution:** 1960s - Pioneer of ready-to-wear
-- **Legacy:** Passed away in 2020, left lasting mark on fashion world
-
-**Key Points:**
-- Pioneer of transition from haute couture to ready-to-wear
-- Known for space-age designs
-- Inventor of licensing model
-- Globally recognized French fashion icon
-- Aydınlı Group holds Turkey license
-
-#### 1.2 Brand Values
-
-| Value | Description |
-|-------|-------------|
-| **Innovation** | Fashion innovation and trend-setting |
-| **Elegance** | The essence of French sophistication |
-| **Quality** | Premium materials and craftsmanship |
-| **Sophistication** | Refined and sophisticated design |
-| **Versatility** | Versatility for work and everyday life |
-
-#### 1.3 Brand Story Narrative (For Customers)
-
-```
-"Pierre Cardin has been the symbol of French fashion since 1950. Our founder 
-changed fashion history as the pioneer of ready-to-wear. Every piece we offer 
-you today brings together French elegance with modern living."
-```
-
-
-### SECTION 3: PRODUCT CATEGORIES
-
-#### 3.1 Men's Collection - Business
-
-| Category | Sub-categories | Key Features |
-|----------|---------------|--------------|
-| **Suit** | Slim, Regular, Classic | Business world standard |
-| **Blazer** | Single, Double Breasted | Smart casual |
-| **Trousers** | Classic, Slim, Pleated | Professional look |
-| **Shirt** | Business, Ceremony | Non-iron technology |
-| **Tie** | Silk, Micro pattern | Elegant accessory |
-
-#### 3.2 Men's Collection - Casual Premium
-
-| Category | Sub-categories | Key Features |
-|----------|---------------|--------------|
-| **Polo** | Premium Pique | Sophisticated casual |
-| **Shirt** | Casual, Denim | Weekend elegance |
-| **Knitwear** | V-neck, Crew, Cardigan | Layered outfits |
-| **Trousers** | Chino, Premium Denim | Relaxed elegance |
-| **Jacket** | Leather, Blazer, Parka | Premium outerwear |
-
-#### 3.3 Women's Collection
-
-| Category | Sub-categories | Key Features |
-|----------|---------------|--------------|
-| **Blazer** | Classic, Oversize | Office elegance |
-| **Trousers** | Classic, Wide Leg | Professional cut |
-| **Shirt** | Satin, Poplin | Feminine details |
-| **Dress** | Business, Cocktail | Versatile |
-| **Knitwear** | Fine Knit | Elegant layer |
-
-#### 3.4 Accessories
-
-| Category | Products | Feature |
-|----------|----------|---------|
-| **Tie** | Silk, Micro pattern | Handmade |
-| **Belt** | Leather, Metal buckle | Premium material |
-| **Wallet** | Leather, Card holder | Italian leather |
-| **Cufflinks** | Metal, Stone | Detail elegance |
-
-#### 3.5 Iconic Products
-
-**1. Business Suit**
-- Brand signature
-- 100% wool, Italian fabric
-- Modern slim fit
-- Fully lined
-
-**2. Non-iron Shirt**
-- Wrinkle-free technology
-- 100% cotton
-- Spread collar
-- Businessman favorite
-
-**3. Silk Tie**
-- 100% pure silk
-- Hand-stitched
-- Italian design
-- Timeless patterns
-
-
-### SECTION 5: SALES TECHNIQUES
-
-#### 5.1 Consultative Sales
-
-**Approach Difference:**
-```
-U.S. Polo = Product-focused, quick
-Pierre Cardin = Consultancy-focused, detailed
-```
-
-**Opening:**
-```
-Staff: "Welcome to Pierre Cardin. Do you have a specific need today, 
-or would you like to browse our collection in general?"
-Customer: "I have an important meeting, need something elegant."
-Staff: "I understand. What kind of setting is the meeting? 
-Formal or semi-formal? I can recommend the most suitable combination for you."
-```
-
-#### 5.2 Wardrobe Consultancy
-
-**Questions:**
-```
-"What basic pieces do you currently have in your wardrobe?"
-"Which colors do you prefer more?"
-"Are you thinking everyday or special occasion?"
-"Your preference for fit – fitted or regular?"
-```
-
-#### 5.3 Outfit Sales
-
-| Situation | Outfit Suggestion |
-|-----------|------------------|
-| Business meeting | Suit + shirt + tie |
-| Daily office | Blazer + trousers + polo |
-| Dinner | Blazer + shirt + chino |
-| Formal event | Dark suit + white shirt + silk tie |
-
-#### 5.4 Premium Sales Techniques
-
-**Value Narration:**
-```
-Staff: "The fabric used in this suit is from Italy, 100% wool. 
-Tailored in Turkey, with handcraft details. You can wear it for years, 
-so think of it as an investment piece."
-```
-
-**Price Objection Handling:**
-```
-Customer: "Isn't it a bit expensive?"
-Staff: "I understand. However, consider the lifetime value of this piece. 
-A quality suit can be worn for 10 years. If you calculate the annual cost, 
-it's actually a very reasonable investment."
-```
-
-
-### SECTION 7: PRODUCT KNOWLEDGE DETAILS
-
-#### 7.1 Fabric Types - Suits
-
-| Fabric | Feature | Usage |
-|--------|---------|-------|
-| **100% Wool** | Premium, breathable | 4-season business |
-| **Wool-Silk** | Shiny finish, soft | Special occasions |
-| **Wool-Cashmere** | Luxury, warm | Winter business |
-| **Stretch Wool** | Flexible, comfortable | Modern business |
-| **Tropical Wool** | Light, cool | Summer business |
-
-#### 7.2 Fabric Types - Shirts
-
-| Fabric | Feature | Usage |
-|--------|---------|-------|
-| **Poplin** | Smooth, elegant | Formal |
-| **Twill** | Diagonal texture | Business casual |
-| **Oxford** | Textured | Smart casual |
-| **Satin** | Shiny | Special occasion |
-| **Non-iron** | Wrinkle-free | Daily business |
-
-#### 7.3 Suit Fit Guide
-
-| Fit Type | Feature | Suitable For |
-|----------|---------|--------------|
-| **Slim Fit** | Narrow cut, modern | Young professional |
-| **Regular Fit** | Standard cut | General use |
-| **Classic Fit** | Comfortable, traditional | Mature customer |
-| **Athletic Fit** | Wide shoulders, narrow waist | Athletic build |
-
-#### 7.4 Shirt Collar Types
-
-| Collar | Feature | Usage |
-|--------|---------|-------|
-| **Spread** | Wide angle | With tie |
-| **Kent** | Medium angle | Any situation |
-| **Button-down** | Buttoned | Casual |
-| **Cutaway** | Very wide | Thick tie |
-
-#### 7.5 Care Instructions - Premium Products
-
-| Product | Care | Storage |
-|---------|------|---------|
-| Suit | Dry clean | Garment bag, wooden hanger |
-| Silk Tie | Dry clean | Lay flat |
-| Leather Belt | Moisturizer | Flat, no buckle |
-| Non-iron Shirt | 40°C wash | Hanging |
-
-
-### SECTION 9: FREQUENTLY ASKED QUESTIONS
-
-| Question | Answer |
-|----------|--------|
-| "Is Pierre Cardin still managed by the designer himself?" | "Unfortunately Pierre Cardin passed away in 2020, but his legacy and design philosophy continue to live in our brand." |
-| "Do you do suit alterations?" | "Yes, we offer professional alteration service in our store. Hem and sleeve shortening are free on certain products." |
-| "Can silk tie be washed?" | "Silk tie should be dry cleaned. We don't recommend washing at home, professional cleaning is essential for stains." |
-| "How to choose suit size?" | "Jacket size is determined by your chest measurement, trousers by your waist measurement. I recommend we take professional measurements for you." |
-
-
-## Tools & Resources
-
-| Resource | Usage |
-|----------|-------|
-| Fabric Swatch Book | Fabric demonstration to customers |
-| Style Guide | Business dress code information |
-| Size Measurement Tool | Professional measuring |
-| Lookbook | Seasonal style suggestions |
-| Care Cards | Information cards to give customers |
-
-
-## Assessment Methods
-
-### Premium Sales Quiz
-- 20 questions
-- Fabric knowledge, fit, style recommendations
-- Passing grade: 85%
-
-### Style Consultancy Evaluation
-- Customer profile analysis
-- Outfit recommendation scenario
-- Wardrobe consultancy role-play
-
-### Product Knowledge Test
-- Fabric recognition (by touch)
-- Fit type determination
-- Care instruction knowledge
-
-
----
-
-## SECTION 7: BRAND-SUPPLEMENT-USPA-EN
-
-﻿---
-layout: default
-title: "U.S. Polo Assn. Brand Training Guide – EN"
-parent: Training
-
-## Training Content
-
-### SECTION 1: BRAND STORY
-
-#### 1.1 History
-
-**United States Polo Association (USPA)**
-- **Founded:** 1890, USA
-- **Mission:** To promote and expand polo sport in America
-- **Status:** Official governing body of polo sport in the USA
-- **License:** U.S. Polo Assn. clothing brand is USPA's official licensed product
-
-**Key Points:**
-- 130+ years of polo heritage
-- Official brand of a real sports organization
-- Sales in 180+ countries worldwide
-- Aydınlı Group holds Turkey license
-
-#### 1.2 Brand Values
-
-| Value | Description |
-|-------|-------------|
-| **Authenticity** | Originality based on real polo heritage |
-| **Quality** | Premium quality, affordable price |
-| **Heritage** | American sports tradition |
-| **Lifestyle** | Active, dynamic lifestyle |
-| **Accessibility** | Accessible luxury for everyone |
-
-#### 1.3 Brand Story Narrative (For Customers)
-
-```
-"U.S. Polo Assn. has been the official polo sport institution in America since 1890. 
-This brand brings the elegance of polo sport and American lifestyle to everyday life. 
-With over 130 years of heritage, we offer quality and authentic pieces."
-```
-
-
-### SECTION 3: PRODUCT CATEGORIES
-
-#### 3.1 Men's Collection
-
-| Category | Sub-categories | Key Features |
-|----------|---------------|--------------|
-| **Polo T-shirt** | Classic, Slim Fit, Big Horse | Iconic product, brand DNA |
-| **T-shirt** | Basic, Graphic, V-neck | Everyday use, comfortable cut |
-| **Shirt** | Oxford, Casual, Denim | Smart casual style |
-| **Pants** | Chino, Denim, Jogger | Stylish and comfortable |
-| **Sweatshirt** | Hoodie, Crew neck, Zip-up | Sporty elegance |
-| **Coat/Jacket** | Bomber, Denim, Parka | Seasonal outerwear |
-| **Accessories** | Hat, Belt, Socks, Bag | Outfit complementers |
-
-#### 3.2 Women's Collection
-
-| Category | Sub-categories | Key Features |
-|----------|---------------|--------------|
-| **Polo T-shirt** | Classic, Fitted | Feminine cuts |
-| **T-shirt** | Basic, Crop, Oversized | Trendy models |
-| **Shirt** | Oxford, Casual | Smart casual |
-| **Pants** | Chino, Denim | Slim and regular fit |
-| **Dress** | Polo Dress, Casual | Sport chic |
-| **Knitwear** | V-neck, Crew | Layered dressing |
-| **Accessories** | Bag, Scarf | Style completers |
-
-#### 3.3 Kids Collection
-
-| Category | Age Group | Features |
-|----------|-----------|----------|
-| **Boys** | 4-14 years | Mini men's collection |
-| **Girls** | 4-14 years | Mini women's collection |
-| **Baby** | 0-3 years | Baby sets |
-
-#### 3.4 Iconic Products
-
-**1. Classic Polo T-shirt**
-- Brand signature product
-- 100% cotton pique fabric
-- Embroidered logo
-- Contrast collar detail
-
-**2. Big Horse Polo**
-- Large logo version
-- Statement piece
-- Young target group favorite
-
-**3. Oxford Shirt**
-- Smart casual essential
-- Button-down collar
-- Matches any outfit
-
-
-### SECTION 5: SALES TECHNIQUES
-
-#### 5.1 Brand Story Selling
-
-**Opening:**
-```
-Staff: "U.S. Polo Assn. is the official polo sport brand in America, 
-did you know? With 130 years of heritage, we offer authentic American style."
-```
-
-**Product Narration:**
-```
-Staff: "This polo t-shirt is our brand's iconic product. Real polo players 
-wear this logo. The fabric is pique cotton, breathable and shape-retaining."
-```
-
-#### 5.2 Cross-sell Recommendations
-
-| Main Product | Cross-sell Suggestion |
-|--------------|----------------------|
-| Polo T-shirt | Chino pants, belt |
-| Oxford Shirt | Chino, denim jacket |
-| Jogger | Sweatshirt, sneaker |
-| Denim | Basic t-shirt, polo |
-
-#### 5.3 Upsell Opportunities
-
-| Basic Product | Premium Alternative |
-|---------------|---------------------|
-| Basic Polo | Big Horse Polo |
-| Regular T-shirt | Premium Cotton T-shirt |
-| Basic Chino | Stretch Chino |
-
-#### 5.4 Seasonal Sales Highlights
-
-| Season | Featured Products | Key Message |
-|--------|------------------|-------------|
-| Spring | Polo, Oxford, Chino | "New season, new beginning" |
-| Summer | Polo, T-shirt, Shorts | "Summer energy" |
-| Fall | Sweatshirt, Denim | "Layered dressing" |
-| Winter | Coat, Knitwear, Scarf | "Warm and stylish" |
-
-
-### SECTION 7: PRODUCT KNOWLEDGE DETAILS
-
-#### 7.1 Fabric Types
-
-| Fabric | Usage | Feature |
-|--------|-------|---------|
-| **Pique Cotton** | Polo t-shirt | Breathable, durable |
-| **Jersey** | T-shirt | Soft, flexible |
-| **Oxford** | Shirt | Textured, elegant |
-| **Twill** | Chino | Durable, structured |
-| **French Terry** | Sweatshirt | Keeps warm, comfortable |
-| **Denim** | Jean, jacket | Classic, long-lasting |
-
-#### 7.2 Fit Guide
-
-| Fit Type | Feature | Suitable For |
-|----------|---------|--------------|
-| **Slim Fit** | Body-hugging | Athletic build |
-| **Regular Fit** | Standard cut | Everyone |
-| **Relaxed Fit** | Loose cut | Comfort seekers |
-| **Classic Fit** | Traditional | Mature customer |
-
-#### 7.3 Size Chart
-
-| Size | Chest (cm) | Waist (cm) |
-|------|------------|------------|
-| XS | 88-92 | 72-76 |
-| S | 92-96 | 76-80 |
-| M | 96-100 | 80-84 |
-| L | 100-104 | 84-88 |
-| XL | 104-108 | 88-92 |
-| XXL | 108-112 | 92-96 |
-
-#### 7.4 Care Instructions
-
-| Product | Wash | Dry | Iron |
-|---------|------|-----|------|
-| Polo | 30°C | Hang dry cool | Low heat |
-| T-shirt | 30°C | Hang dry cool | Low if needed |
-| Shirt | 40°C | Hang dry cool | Medium heat |
-| Denim | 30°C inside out | Hang dry cool | Steam |
-| Knitwear | Hand wash or 30°C | Flat dry | Steam |
-
-
-### SECTION 9: FREQUENTLY ASKED QUESTIONS
-
-| Question | Answer |
-|----------|--------|
-| "Is this brand the same as Polo Ralph Lauren?" | "No, U.S. Polo Assn. is the official brand of the US Polo Association, while Polo RL is a designer brand. They are different companies." |
-| "Why is there a two-horse logo?" | "The two-horse logo is the polo match symbol, representing the game. The single-horse logo only shows the player." |
-| "Is it made in Turkey?" | "Production is done in various countries including Turkey. Quality standards are global." |
-| "Does it go on sale?" | "We have end-of-season sales and special campaigns. With CRM membership, you'll be the first to know about campaigns." |
-
-
-## Tools & Resources
-
-| Resource | Usage |
-|----------|-------|
-| Brand Booklet | Brand story and values |
-| Product Catalog | Seasonal product information |
-| Fit Guide Poster | In-store size guide |
-| Training Video | Brand introduction video |
-| Fabric Samples | Tactile training set |
-
-
-## Assessment Methods
-
-### Brand Knowledge Quiz
-- 20 questions, multiple choice
-- Brand story, values, product knowledge
-- Passing grade: 80%
-
-### Product Recognition Test
-- 10 product images
-- Fabric, fit, feature identification
-- Practical evaluation
-
-### Role-Play
-- Customer scenario
-- Brand story narration
-- Cross-sell/Upsell application
-
-
----
-
-## SECTION 8: COMPETENCY-FRAMEWORK-EN
-
-﻿---
-layout: default
-title: "Competency Framework"
-parent: Training
-
-## Table of Contents
-
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Learning Objectives](#learning-objectives)
-4. [Competency Levels](#competency-levels)
-5. [Competency Areas](#competency-areas)
-6. [Skills Matrix](#skills-matrix)
-7. [Level Progression Criteria](#level-progression-criteria)
-8. [Assessment Process](#assessment-process)
-9. [Career Path](#career-path)
-10. [Role Responsibilities](#role-responsibilities)
-11. [KPIs and Performance Indicators](#kpis-and-performance-indicators)
-12. [Common Mistakes and Coaching Notes](#common-mistakes-and-coaching-notes)
-13. [Revision History](#revision-history)
-
-
-## Scope
-
-### Target Audience
-
-| Role | Starting Level | Target Level |
-|------|----------------|--------------|
-| **Sales Associate** | Level 1 | Level 3-5 |
-| **Assistant Store Manager** | Level 3 | Level 4-5 |
-| **Store Manager** | Level 4 | Level 5 |
-
-### Competency System Overview
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              5-LEVEL COMPETENCY SYSTEM                          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  LEVEL 5: EXPERT (12+ months)                                  │
-│     ████████████████████████████████████████  100%             │
-│     Trainer, leader, excellence model                          │
-│                                                                 │
-│  LEVEL 4: SENIOR (6-12 months)                                 │
-│     ██████████████████████████████  80%                        │
-│     Mentor, difficult scenarios, autonomous                    │
-│                                                                 │
-│  LEVEL 3: PROFICIENT (3-6 months)                              │
-│     ████████████████████████  60%                              │
-│     Independent, cross-selling, CRM                            │
-│                                                                 │
-│  LEVEL 2: JUNIOR (1-3 months)                                  │
-│     ████████████████  40%                                      │
-│     Basic sales, product knowledge                             │
-│                                                                 │
-│  LEVEL 1: TRAINEE (0-30 days)                                  │
-│     ████████  20%                                              │
-│     Orientation, observation, learning                         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-## Competency Levels
-
-### Level 1: Trainee
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              LEVEL 1: TRAINEE                                   │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  DURATION: 0-30 days                                           │
-│                                                                 │
-│  DEFINITION:                                                   │
-│  Newly hired personnel in orientation process.                 │
-│  In observation and learning phase.                            │
-│                                                                 │
-│  EXPECTATIONS:                                                 │
-│  ✓ Learn store rules                                           │
-│  ✓ Recognize product categories                                │
-│  ✓ Understand POS system basics                                │
-│  ✓ Know customer greeting standard                             │
-│  ✓ Work under Buddy guidance                                   │
-│                                                                 │
-│  LIMITATIONS:                                                  │
-│  ✗ Cannot make independent sales                               │
-│  ✗ Cannot do register operations (without supervision)         │
-│  ✗ Cannot resolve complaints                                   │
-│                                                                 │
-│  COMPLETION CRITERIA:                                          │
-│  • Complete 30-day orientation                                 │
-│  • Certification exam 70%+                                     │
-│  • Store Manager approval                                      │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Level 2: Junior
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              LEVEL 2: JUNIOR                                    │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  DURATION: 1-3 months                                          │
-│                                                                 │
-│  DEFINITION:                                                   │
-│  Personnel who gained basic competencies and can make          │
-│  independent sales. Still needs support.                       │
-│                                                                 │
-│  EXPECTATIONS:                                                 │
-│  ✓ Independent customer greeting                               │
-│  ✓ Basic sales conversation                                    │
-│  ✓ Product knowledge presentation                              │
-│  ✓ Fitting room service                                        │
-│  ✓ POS operations (sales, returns)                            │
-│  ✓ Stock checking                                              │
-│                                                                 │
-│  DEVELOPMENT AREAS:                                            │
-│  → Objection handling                                          │
-│  → Add-on sales techniques                                     │
-│  → Difficult customer management                               │
-│                                                                 │
-│  COMPLETION CRITERIA:                                          │
-│  • Minimum 3 months experience                                 │
-│  • Achieving 80% of monthly targets                            │
-│  • Practical assessment "Good" or above                        │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Level 3: Proficient
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              LEVEL 3: PROFICIENT                                │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  DURATION: 3-6 months                                          │
-│                                                                 │
-│  DEFINITION:                                                   │
-│  Personnel who can work fully independently, achieve targets,  │
-│  and perform cross-selling.                                    │
-│                                                                 │
-│  EXPECTATIONS:                                                 │
-│  ✓ Fully independent sales                                     │
-│  ✓ Objection handling                                          │
-│  ✓ Cross-selling and add-on sales                             │
-│  ✓ CRM data collection and usage                              │
-│  ✓ Complaint resolution (basic level)                         │
-│  ✓ VM support                                                  │
-│  ✓ Stock management participation                              │
-│                                                                 │
-│  DEVELOPMENT AREAS:                                            │
-│  → Mentoring skills                                            │
-│  → Leadership fundamentals                                     │
-│  → Advanced sales techniques                                   │
-│                                                                 │
-│  COMPLETION CRITERIA:                                          │
-│  • Minimum 6 months experience                                 │
-│  • Achieving 100% of monthly targets                           │
-│  • Success in UPT and ATV targets                             │
-│  • 360° assessment "Good" or above                            │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Level 4: Senior
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              LEVEL 4: SENIOR                                    │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  DURATION: 6-12 months                                         │
-│                                                                 │
-│  DEFINITION:                                                   │
-│  Personnel showing excellent performance, taking mentor role,  │
-│  capable of managing difficult situations.                     │
-│                                                                 │
-│  EXPECTATIONS:                                                 │
-│  ✓ Excellent sales performance                                 │
-│  ✓ Mentoring new staff                                         │
-│  ✓ Difficult customer/scenario management                      │
-│  ✓ Shift responsibility                                        │
-│  ✓ Complaint management (advanced level)                       │
-│  ✓ VM implementation                                           │
-│  ✓ Opening/closing responsibility                              │
-│                                                                 │
-│  ADDITIONAL RESPONSIBILITIES:                                  │
-│  → Coaching Level 1-2 staff                                    │
-│  → Daily operations support                                    │
-│  → Represent in manager's absence                             │
-│                                                                 │
-│  COMPLETION CRITERIA:                                          │
-│  • Minimum 12 months experience                                │
-│  • Achieving 110%+ of targets (consistently)                   │
-│  • Mentored at least 2 personnel                              │
-│  • Leadership assessment "Good" or above                       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Level 5: Expert
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              LEVEL 5: EXPERT                                    │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  DURATION: 12+ months                                          │
-│                                                                 │
-│  DEFINITION:                                                   │
-│  Excellence model, trainer level, capable of                   │
-│  store leadership.                                             │
-│                                                                 │
-│  EXPECTATIONS:                                                 │
-│  ✓ Consistently superior performance                           │
-│  ✓ Official trainer role                                       │
-│  ✓ Store leadership capacity                                   │
-│  ✓ Strategic thinking                                          │
-│  ✓ Problem-solving expertise                                   │
-│  ✓ Best practice development                                   │
-│  ✓ Regional level contribution                                 │
-│                                                                 │
-│  LEADERSHIP AREAS:                                             │
-│  → In-store training leadership                                │
-│  → New store opening support                                   │
-│  → Pilot program participation                                 │
-│  → HQ coordination                                             │
-│                                                                 │
-│  CAREER OPTIONS:                                               │
-│  → Assistant Store Manager                                     │
-│  → Store Manager                                               │
-│  → Regional Trainer                                            │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-## Skills Matrix
-
-### Sales Skills Matrix
-
-| Skill | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-|-------|---------|---------|---------|---------|---------|
-| **Greeting** | Learning | Can do | Mastered | Excellent | Can train |
-| **Needs Analysis** | Observing | Basic questions | In-depth | Expert | Can train |
-| **Product Presentation** | Learning | Basic | Storytelling | Excellent | Can train |
-| **Objection Handling** | - | Learning | Can do | Mastered | Can train |
-| **Closing** | - | Basic | Advanced | Excellent | Can train |
-| **Add-on Sales** | - | Learning | Can do | Mastered | Can train |
-
-### Customer Service Matrix
-
-| Skill | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-|-------|---------|---------|---------|---------|---------|
-| **Fitting Room** | Observing | Can do | Excellent | Excellent | Can train |
-| **Complaints** | - | Observing | Basic | Advanced | Expert |
-| **CRM** | Learning | Basic | Full usage | Analysis | Strategy |
-| **Problem Solving** | - | Basic | Intermediate | Advanced | Expert |
-
-### Operational Skills Matrix
-
-| Skill | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-|-------|---------|---------|---------|---------|---------|
-| **POS Usage** | Learning | Can do | Full | Full | Can train |
-| **Cash Management** | - | Supervised | Independent | Responsibility | Can train |
-| **Stock Operations** | Basic | Can do | Full | Management | Can train |
-| **Opening/Closing** | Observing | Participation | Can do | Responsibility | Can train |
-| **VM** | Observing | Support | Implementation | Management | Can train |
-
-
-## Assessment Process
-
-### Assessment Calendar
-
-| Assessment | Frequency | Responsible | Purpose |
-|------------|-----------|-------------|---------|
-| **Daily Observation** | Daily | Shift Lead | Instant feedback |
-| **Weekly Check-in** | Weekly | Store Manager | Progress tracking |
-| **Monthly Performance** | Monthly | Store Manager | KPI assessment |
-| **Quarterly 360°** | Every 3 months | Regional Manager | Comprehensive assessment |
-| **Level Assessment** | As needed | Relevant manager | Level transition |
-
-### Competency Assessment Form
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              COMPETENCY ASSESSMENT FORM                         │
-├─────────────────────────────────────────────────────────────────┤
-│ Staff: _________________  Current Level: ___                   │
-│ Assessor: _____________  Date: ___/___/______                  │
-│ Assessment Type: [ ] Routine [ ] Level Transition             │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│ SALES SKILLS                        1  2  3  4  5              │
-│ Customer greeting                  [ ][ ][ ][ ][ ]             │
-│ Needs analysis                     [ ][ ][ ][ ][ ]             │
-│ Product presentation               [ ][ ][ ][ ][ ]             │
-│ Objection handling                 [ ][ ][ ][ ][ ]             │
-│ Closing sales                      [ ][ ][ ][ ][ ]             │
-│ Add-on sales                       [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ PRODUCT KNOWLEDGE                   1  2  3  4  5              │
-│ Fabric knowledge                   [ ][ ][ ][ ][ ]             │
-│ Fit knowledge                      [ ][ ][ ][ ][ ]             │
-│ Brand knowledge                    [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ CUSTOMER SERVICE                    1  2  3  4  5              │
-│ Fitting room service               [ ][ ][ ][ ][ ]             │
-│ Complaint management               [ ][ ][ ][ ][ ]             │
-│ CRM management                     [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ OPERATIONS                          1  2  3  4  5              │
-│ POS usage                          [ ][ ][ ][ ][ ]             │
-│ Stock operations                   [ ][ ][ ][ ][ ]             │
-│ VM implementation                  [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ TEAMWORK                            1  2  3  4  5              │
-│ Collaboration                      [ ][ ][ ][ ][ ]             │
-│ Communication                      [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ LEADERSHIP (Level 4-5)              1  2  3  4  5              │
-│ Mentoring                          [ ][ ][ ][ ][ ]             │
-│ Coaching                           [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ OVERALL SCORE: _____/100                                       │
-│                                                                 │
-│ STRENGTHS:                                                     │
-│ ______________________________________________________________ │
-│                                                                 │
-│ DEVELOPMENT AREAS:                                             │
-│ ______________________________________________________________ │
-│                                                                 │
-│ LEVEL TRANSITION RECOMMENDATION: [ ] Yes [ ] No               │
-│ Justification: _______________________________________________ │
-│                                                                 │
-│ Assessor Sign: _____________                                   │
-│ Staff Sign: _____________                                      │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-## Role Responsibilities
-
-### Staff
-
-| Responsibility | Detail |
-|----------------|--------|
-| Self-assessment | Know own level |
-| Development plan | Identify development areas |
-| Training participation | Complete required training |
-| Performance | Achieve targets |
-
-### Store Manager
-
-| Responsibility | Detail |
-|----------------|--------|
-| Assessment | Regular competency assessment |
-| Coaching | Provide development support |
-| Recommendation | Level transition recommendation |
-| Tracking | Monitor progress |
-
-### Regional Manager
-
-| Responsibility | Detail |
-|----------------|--------|
-| Approval | Level 4-5 transition approval |
-| Audit | Monitor assessment quality |
-| Standard | Consistency across region |
-
-
-## Common Mistakes and Coaching Notes
-
-### Common Mistakes in Competency Development
-
-| Mistake | Result | Correction |
-|---------|--------|------------|
-| Trying to skip levels | Failure | Step-by-step progression |
-| Not getting feedback | Development slows | Request regular feedback |
-| Focusing only on sales | One-dimensional | Develop all competencies |
-| Refusing mentorship | Missing opportunity | Be open to learning |
-
-### Coaching Tips
-
-```
-FOR LEVEL 1-2:
-• Focus on basic skills
-• Be patient, turn mistakes into learning
-• Celebrate small wins
-• Give regular feedback
-
-FOR LEVEL 3-4:
-• Set advanced goals
-• Create mentorship opportunities
-• Develop leadership skills
-• Give challenging tasks
-
-FOR LEVEL 5:
-• Encourage strategic thinking
-• Offer training opportunities
-• Do career planning
-• Assign regional level projects
-```
-
-
-*This document was prepared by Aydınlı Group Franchise Operations.*  
-*© 2025 Aydınlı Group - All rights reserved.*
-
-
-
-
----
-
-## SECTION 9: CUSTOMER-EXPERIENCE-STANDARDS-EN
+## SECTION 2: CUSTOMER-EXPERIENCE-STANDARDS-EN
 
 ﻿---
 layout: default
@@ -2415,7 +705,1145 @@ RESULT: Lost sale recovered, customer leaves satisfied
 
 ---
 
-## SECTION 10: CUSTOMER-INTERACTION-SCENARIOS-EN
+## SECTION 3: COMPETENCY-FRAMEWORK-EN
+
+﻿---
+layout: default
+title: "Competency Framework"
+parent: Training
+
+## Table of Contents
+
+1. [Purpose](#purpose)
+2. [Scope](#scope)
+3. [Learning Objectives](#learning-objectives)
+4. [Competency Levels](#competency-levels)
+5. [Competency Areas](#competency-areas)
+6. [Skills Matrix](#skills-matrix)
+7. [Level Progression Criteria](#level-progression-criteria)
+8. [Assessment Process](#assessment-process)
+9. [Career Path](#career-path)
+10. [Role Responsibilities](#role-responsibilities)
+11. [KPIs and Performance Indicators](#kpis-and-performance-indicators)
+12. [Common Mistakes and Coaching Notes](#common-mistakes-and-coaching-notes)
+13. [Revision History](#revision-history)
+
+
+## Scope
+
+### Target Audience
+
+| Role | Starting Level | Target Level |
+|------|----------------|--------------|
+| **Sales Associate** | Level 1 | Level 3-5 |
+| **Assistant Store Manager** | Level 3 | Level 4-5 |
+| **Store Manager** | Level 4 | Level 5 |
+
+### Competency System Overview
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              5-LEVEL COMPETENCY SYSTEM                          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  LEVEL 5: EXPERT (12+ months)                                  │
+│     ████████████████████████████████████████  100%             │
+│     Trainer, leader, excellence model                          │
+│                                                                 │
+│  LEVEL 4: SENIOR (6-12 months)                                 │
+│     ██████████████████████████████  80%                        │
+│     Mentor, difficult scenarios, autonomous                    │
+│                                                                 │
+│  LEVEL 3: PROFICIENT (3-6 months)                              │
+│     ████████████████████████  60%                              │
+│     Independent, cross-selling, CRM                            │
+│                                                                 │
+│  LEVEL 2: JUNIOR (1-3 months)                                  │
+│     ████████████████  40%                                      │
+│     Basic sales, product knowledge                             │
+│                                                                 │
+│  LEVEL 1: TRAINEE (0-30 days)                                  │
+│     ████████  20%                                              │
+│     Orientation, observation, learning                         │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+## Competency Levels
+
+### Level 1: Trainee
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              LEVEL 1: TRAINEE                                   │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  DURATION: 0-30 days                                           │
+│                                                                 │
+│  DEFINITION:                                                   │
+│  Newly hired personnel in orientation process.                 │
+│  In observation and learning phase.                            │
+│                                                                 │
+│  EXPECTATIONS:                                                 │
+│  ✓ Learn store rules                                           │
+│  ✓ Recognize product categories                                │
+│  ✓ Understand POS system basics                                │
+│  ✓ Know customer greeting standard                             │
+│  ✓ Work under Buddy guidance                                   │
+│                                                                 │
+│  LIMITATIONS:                                                  │
+│  ✗ Cannot make independent sales                               │
+│  ✗ Cannot do register operations (without supervision)         │
+│  ✗ Cannot resolve complaints                                   │
+│                                                                 │
+│  COMPLETION CRITERIA:                                          │
+│  • Complete 30-day orientation                                 │
+│  • Certification exam 70%+                                     │
+│  • Store Manager approval                                      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Level 2: Junior
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              LEVEL 2: JUNIOR                                    │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  DURATION: 1-3 months                                          │
+│                                                                 │
+│  DEFINITION:                                                   │
+│  Personnel who gained basic competencies and can make          │
+│  independent sales. Still needs support.                       │
+│                                                                 │
+│  EXPECTATIONS:                                                 │
+│  ✓ Independent customer greeting                               │
+│  ✓ Basic sales conversation                                    │
+│  ✓ Product knowledge presentation                              │
+│  ✓ Fitting room service                                        │
+│  ✓ POS operations (sales, returns)                            │
+│  ✓ Stock checking                                              │
+│                                                                 │
+│  DEVELOPMENT AREAS:                                            │
+│  → Objection handling                                          │
+│  → Add-on sales techniques                                     │
+│  → Difficult customer management                               │
+│                                                                 │
+│  COMPLETION CRITERIA:                                          │
+│  • Minimum 3 months experience                                 │
+│  • Achieving 80% of monthly targets                            │
+│  • Practical assessment "Good" or above                        │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Level 3: Proficient
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              LEVEL 3: PROFICIENT                                │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  DURATION: 3-6 months                                          │
+│                                                                 │
+│  DEFINITION:                                                   │
+│  Personnel who can work fully independently, achieve targets,  │
+│  and perform cross-selling.                                    │
+│                                                                 │
+│  EXPECTATIONS:                                                 │
+│  ✓ Fully independent sales                                     │
+│  ✓ Objection handling                                          │
+│  ✓ Cross-selling and add-on sales                             │
+│  ✓ CRM data collection and usage                              │
+│  ✓ Complaint resolution (basic level)                         │
+│  ✓ VM support                                                  │
+│  ✓ Stock management participation                              │
+│                                                                 │
+│  DEVELOPMENT AREAS:                                            │
+│  → Mentoring skills                                            │
+│  → Leadership fundamentals                                     │
+│  → Advanced sales techniques                                   │
+│                                                                 │
+│  COMPLETION CRITERIA:                                          │
+│  • Minimum 6 months experience                                 │
+│  • Achieving 100% of monthly targets                           │
+│  • Success in UPT and ATV targets                             │
+│  • 360° assessment "Good" or above                            │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Level 4: Senior
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              LEVEL 4: SENIOR                                    │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  DURATION: 6-12 months                                         │
+│                                                                 │
+│  DEFINITION:                                                   │
+│  Personnel showing excellent performance, taking mentor role,  │
+│  capable of managing difficult situations.                     │
+│                                                                 │
+│  EXPECTATIONS:                                                 │
+│  ✓ Excellent sales performance                                 │
+│  ✓ Mentoring new staff                                         │
+│  ✓ Difficult customer/scenario management                      │
+│  ✓ Shift responsibility                                        │
+│  ✓ Complaint management (advanced level)                       │
+│  ✓ VM implementation                                           │
+│  ✓ Opening/closing responsibility                              │
+│                                                                 │
+│  ADDITIONAL RESPONSIBILITIES:                                  │
+│  → Coaching Level 1-2 staff                                    │
+│  → Daily operations support                                    │
+│  → Represent in manager's absence                             │
+│                                                                 │
+│  COMPLETION CRITERIA:                                          │
+│  • Minimum 12 months experience                                │
+│  • Achieving 110%+ of targets (consistently)                   │
+│  • Mentored at least 2 personnel                              │
+│  • Leadership assessment "Good" or above                       │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Level 5: Expert
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              LEVEL 5: EXPERT                                    │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  DURATION: 12+ months                                          │
+│                                                                 │
+│  DEFINITION:                                                   │
+│  Excellence model, trainer level, capable of                   │
+│  store leadership.                                             │
+│                                                                 │
+│  EXPECTATIONS:                                                 │
+│  ✓ Consistently superior performance                           │
+│  ✓ Official trainer role                                       │
+│  ✓ Store leadership capacity                                   │
+│  ✓ Strategic thinking                                          │
+│  ✓ Problem-solving expertise                                   │
+│  ✓ Best practice development                                   │
+│  ✓ Regional level contribution                                 │
+│                                                                 │
+│  LEADERSHIP AREAS:                                             │
+│  → In-store training leadership                                │
+│  → New store opening support                                   │
+│  → Pilot program participation                                 │
+│  → HQ coordination                                             │
+│                                                                 │
+│  CAREER OPTIONS:                                               │
+│  → Assistant Store Manager                                     │
+│  → Store Manager                                               │
+│  → Regional Trainer                                            │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+## Skills Matrix
+
+### Sales Skills Matrix
+
+| Skill | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+|-------|---------|---------|---------|---------|---------|
+| **Greeting** | Learning | Can do | Mastered | Excellent | Can train |
+| **Needs Analysis** | Observing | Basic questions | In-depth | Expert | Can train |
+| **Product Presentation** | Learning | Basic | Storytelling | Excellent | Can train |
+| **Objection Handling** | - | Learning | Can do | Mastered | Can train |
+| **Closing** | - | Basic | Advanced | Excellent | Can train |
+| **Add-on Sales** | - | Learning | Can do | Mastered | Can train |
+
+### Customer Service Matrix
+
+| Skill | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+|-------|---------|---------|---------|---------|---------|
+| **Fitting Room** | Observing | Can do | Excellent | Excellent | Can train |
+| **Complaints** | - | Observing | Basic | Advanced | Expert |
+| **CRM** | Learning | Basic | Full usage | Analysis | Strategy |
+| **Problem Solving** | - | Basic | Intermediate | Advanced | Expert |
+
+### Operational Skills Matrix
+
+| Skill | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+|-------|---------|---------|---------|---------|---------|
+| **POS Usage** | Learning | Can do | Full | Full | Can train |
+| **Cash Management** | - | Supervised | Independent | Responsibility | Can train |
+| **Stock Operations** | Basic | Can do | Full | Management | Can train |
+| **Opening/Closing** | Observing | Participation | Can do | Responsibility | Can train |
+| **VM** | Observing | Support | Implementation | Management | Can train |
+
+
+## Assessment Process
+
+### Assessment Calendar
+
+| Assessment | Frequency | Responsible | Purpose |
+|------------|-----------|-------------|---------|
+| **Daily Observation** | Daily | Shift Lead | Instant feedback |
+| **Weekly Check-in** | Weekly | Store Manager | Progress tracking |
+| **Monthly Performance** | Monthly | Store Manager | KPI assessment |
+| **Quarterly 360°** | Every 3 months | Regional Manager | Comprehensive assessment |
+| **Level Assessment** | As needed | Relevant manager | Level transition |
+
+### Competency Assessment Form
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              COMPETENCY ASSESSMENT FORM                         │
+├─────────────────────────────────────────────────────────────────┤
+│ Staff: _________________  Current Level: ___                   │
+│ Assessor: _____________  Date: ___/___/______                  │
+│ Assessment Type: [ ] Routine [ ] Level Transition             │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│ SALES SKILLS                        1  2  3  4  5              │
+│ Customer greeting                  [ ][ ][ ][ ][ ]             │
+│ Needs analysis                     [ ][ ][ ][ ][ ]             │
+│ Product presentation               [ ][ ][ ][ ][ ]             │
+│ Objection handling                 [ ][ ][ ][ ][ ]             │
+│ Closing sales                      [ ][ ][ ][ ][ ]             │
+│ Add-on sales                       [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ PRODUCT KNOWLEDGE                   1  2  3  4  5              │
+│ Fabric knowledge                   [ ][ ][ ][ ][ ]             │
+│ Fit knowledge                      [ ][ ][ ][ ][ ]             │
+│ Brand knowledge                    [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ CUSTOMER SERVICE                    1  2  3  4  5              │
+│ Fitting room service               [ ][ ][ ][ ][ ]             │
+│ Complaint management               [ ][ ][ ][ ][ ]             │
+│ CRM management                     [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ OPERATIONS                          1  2  3  4  5              │
+│ POS usage                          [ ][ ][ ][ ][ ]             │
+│ Stock operations                   [ ][ ][ ][ ][ ]             │
+│ VM implementation                  [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ TEAMWORK                            1  2  3  4  5              │
+│ Collaboration                      [ ][ ][ ][ ][ ]             │
+│ Communication                      [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ LEADERSHIP (Level 4-5)              1  2  3  4  5              │
+│ Mentoring                          [ ][ ][ ][ ][ ]             │
+│ Coaching                           [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ OVERALL SCORE: _____/100                                       │
+│                                                                 │
+│ STRENGTHS:                                                     │
+│ ______________________________________________________________ │
+│                                                                 │
+│ DEVELOPMENT AREAS:                                             │
+│ ______________________________________________________________ │
+│                                                                 │
+│ LEVEL TRANSITION RECOMMENDATION: [ ] Yes [ ] No               │
+│ Justification: _______________________________________________ │
+│                                                                 │
+│ Assessor Sign: _____________                                   │
+│ Staff Sign: _____________                                      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+## Role Responsibilities
+
+### Staff
+
+| Responsibility | Detail |
+|----------------|--------|
+| Self-assessment | Know own level |
+| Development plan | Identify development areas |
+| Training participation | Complete required training |
+| Performance | Achieve targets |
+
+### Store Manager
+
+| Responsibility | Detail |
+|----------------|--------|
+| Assessment | Regular competency assessment |
+| Coaching | Provide development support |
+| Recommendation | Level transition recommendation |
+| Tracking | Monitor progress |
+
+### Regional Manager
+
+| Responsibility | Detail |
+|----------------|--------|
+| Approval | Level 4-5 transition approval |
+| Audit | Monitor assessment quality |
+| Standard | Consistency across region |
+
+
+## Common Mistakes and Coaching Notes
+
+### Common Mistakes in Competency Development
+
+| Mistake | Result | Correction |
+|---------|--------|------------|
+| Trying to skip levels | Failure | Step-by-step progression |
+| Not getting feedback | Development slows | Request regular feedback |
+| Focusing only on sales | One-dimensional | Develop all competencies |
+| Refusing mentorship | Missing opportunity | Be open to learning |
+
+### Coaching Tips
+
+```
+FOR LEVEL 1-2:
+• Focus on basic skills
+• Be patient, turn mistakes into learning
+• Celebrate small wins
+• Give regular feedback
+
+FOR LEVEL 3-4:
+• Set advanced goals
+• Create mentorship opportunities
+• Develop leadership skills
+• Give challenging tasks
+
+FOR LEVEL 5:
+• Encourage strategic thinking
+• Offer training opportunities
+• Do career planning
+• Assign regional level projects
+```
+
+
+*This document was prepared by Aydınlı Group Franchise Operations.*  
+*© 2025 Aydınlı Group - All rights reserved.*
+
+
+
+
+---
+
+## SECTION 4: BRAND-SUPPLEMENT-USPA-EN
+
+﻿---
+layout: default
+title: "U.S. Polo Assn. Brand Training Guide – EN"
+parent: Training
+
+## Training Content
+
+### SECTION 1: BRAND STORY
+
+#### 1.1 History
+
+**United States Polo Association (USPA)**
+- **Founded:** 1890, USA
+- **Mission:** To promote and expand polo sport in America
+- **Status:** Official governing body of polo sport in the USA
+- **License:** U.S. Polo Assn. clothing brand is USPA's official licensed product
+
+**Key Points:**
+- 130+ years of polo heritage
+- Official brand of a real sports organization
+- Sales in 180+ countries worldwide
+- Aydınlı Group holds Turkey license
+
+#### 1.2 Brand Values
+
+| Value | Description |
+|-------|-------------|
+| **Authenticity** | Originality based on real polo heritage |
+| **Quality** | Premium quality, affordable price |
+| **Heritage** | American sports tradition |
+| **Lifestyle** | Active, dynamic lifestyle |
+| **Accessibility** | Accessible luxury for everyone |
+
+#### 1.3 Brand Story Narrative (For Customers)
+
+```
+"U.S. Polo Assn. has been the official polo sport institution in America since 1890. 
+This brand brings the elegance of polo sport and American lifestyle to everyday life. 
+With over 130 years of heritage, we offer quality and authentic pieces."
+```
+
+
+### SECTION 3: PRODUCT CATEGORIES
+
+#### 3.1 Men's Collection
+
+| Category | Sub-categories | Key Features |
+|----------|---------------|--------------|
+| **Polo T-shirt** | Classic, Slim Fit, Big Horse | Iconic product, brand DNA |
+| **T-shirt** | Basic, Graphic, V-neck | Everyday use, comfortable cut |
+| **Shirt** | Oxford, Casual, Denim | Smart casual style |
+| **Pants** | Chino, Denim, Jogger | Stylish and comfortable |
+| **Sweatshirt** | Hoodie, Crew neck, Zip-up | Sporty elegance |
+| **Coat/Jacket** | Bomber, Denim, Parka | Seasonal outerwear |
+| **Accessories** | Hat, Belt, Socks, Bag | Outfit complementers |
+
+#### 3.2 Women's Collection
+
+| Category | Sub-categories | Key Features |
+|----------|---------------|--------------|
+| **Polo T-shirt** | Classic, Fitted | Feminine cuts |
+| **T-shirt** | Basic, Crop, Oversized | Trendy models |
+| **Shirt** | Oxford, Casual | Smart casual |
+| **Pants** | Chino, Denim | Slim and regular fit |
+| **Dress** | Polo Dress, Casual | Sport chic |
+| **Knitwear** | V-neck, Crew | Layered dressing |
+| **Accessories** | Bag, Scarf | Style completers |
+
+#### 3.3 Kids Collection
+
+| Category | Age Group | Features |
+|----------|-----------|----------|
+| **Boys** | 4-14 years | Mini men's collection |
+| **Girls** | 4-14 years | Mini women's collection |
+| **Baby** | 0-3 years | Baby sets |
+
+#### 3.4 Iconic Products
+
+**1. Classic Polo T-shirt**
+- Brand signature product
+- 100% cotton pique fabric
+- Embroidered logo
+- Contrast collar detail
+
+**2. Big Horse Polo**
+- Large logo version
+- Statement piece
+- Young target group favorite
+
+**3. Oxford Shirt**
+- Smart casual essential
+- Button-down collar
+- Matches any outfit
+
+
+### SECTION 5: SALES TECHNIQUES
+
+#### 5.1 Brand Story Selling
+
+**Opening:**
+```
+Staff: "U.S. Polo Assn. is the official polo sport brand in America, 
+did you know? With 130 years of heritage, we offer authentic American style."
+```
+
+**Product Narration:**
+```
+Staff: "This polo t-shirt is our brand's iconic product. Real polo players 
+wear this logo. The fabric is pique cotton, breathable and shape-retaining."
+```
+
+#### 5.2 Cross-sell Recommendations
+
+| Main Product | Cross-sell Suggestion |
+|--------------|----------------------|
+| Polo T-shirt | Chino pants, belt |
+| Oxford Shirt | Chino, denim jacket |
+| Jogger | Sweatshirt, sneaker |
+| Denim | Basic t-shirt, polo |
+
+#### 5.3 Upsell Opportunities
+
+| Basic Product | Premium Alternative |
+|---------------|---------------------|
+| Basic Polo | Big Horse Polo |
+| Regular T-shirt | Premium Cotton T-shirt |
+| Basic Chino | Stretch Chino |
+
+#### 5.4 Seasonal Sales Highlights
+
+| Season | Featured Products | Key Message |
+|--------|------------------|-------------|
+| Spring | Polo, Oxford, Chino | "New season, new beginning" |
+| Summer | Polo, T-shirt, Shorts | "Summer energy" |
+| Fall | Sweatshirt, Denim | "Layered dressing" |
+| Winter | Coat, Knitwear, Scarf | "Warm and stylish" |
+
+
+### SECTION 7: PRODUCT KNOWLEDGE DETAILS
+
+#### 7.1 Fabric Types
+
+| Fabric | Usage | Feature |
+|--------|-------|---------|
+| **Pique Cotton** | Polo t-shirt | Breathable, durable |
+| **Jersey** | T-shirt | Soft, flexible |
+| **Oxford** | Shirt | Textured, elegant |
+| **Twill** | Chino | Durable, structured |
+| **French Terry** | Sweatshirt | Keeps warm, comfortable |
+| **Denim** | Jean, jacket | Classic, long-lasting |
+
+#### 7.2 Fit Guide
+
+| Fit Type | Feature | Suitable For |
+|----------|---------|--------------|
+| **Slim Fit** | Body-hugging | Athletic build |
+| **Regular Fit** | Standard cut | Everyone |
+| **Relaxed Fit** | Loose cut | Comfort seekers |
+| **Classic Fit** | Traditional | Mature customer |
+
+#### 7.3 Size Chart
+
+| Size | Chest (cm) | Waist (cm) |
+|------|------------|------------|
+| XS | 88-92 | 72-76 |
+| S | 92-96 | 76-80 |
+| M | 96-100 | 80-84 |
+| L | 100-104 | 84-88 |
+| XL | 104-108 | 88-92 |
+| XXL | 108-112 | 92-96 |
+
+#### 7.4 Care Instructions
+
+| Product | Wash | Dry | Iron |
+|---------|------|-----|------|
+| Polo | 30°C | Hang dry cool | Low heat |
+| T-shirt | 30°C | Hang dry cool | Low if needed |
+| Shirt | 40°C | Hang dry cool | Medium heat |
+| Denim | 30°C inside out | Hang dry cool | Steam |
+| Knitwear | Hand wash or 30°C | Flat dry | Steam |
+
+
+### SECTION 9: FREQUENTLY ASKED QUESTIONS
+
+| Question | Answer |
+|----------|--------|
+| "Is this brand the same as Polo Ralph Lauren?" | "No, U.S. Polo Assn. is the official brand of the US Polo Association, while Polo RL is a designer brand. They are different companies." |
+| "Why is there a two-horse logo?" | "The two-horse logo is the polo match symbol, representing the game. The single-horse logo only shows the player." |
+| "Is it made in Turkey?" | "Production is done in various countries including Turkey. Quality standards are global." |
+| "Does it go on sale?" | "We have end-of-season sales and special campaigns. With CRM membership, you'll be the first to know about campaigns." |
+
+
+## Tools & Resources
+
+| Resource | Usage |
+|----------|-------|
+| Brand Booklet | Brand story and values |
+| Product Catalog | Seasonal product information |
+| Fit Guide Poster | In-store size guide |
+| Training Video | Brand introduction video |
+| Fabric Samples | Tactile training set |
+
+
+## Assessment Methods
+
+### Brand Knowledge Quiz
+- 20 questions, multiple choice
+- Brand story, values, product knowledge
+- Passing grade: 80%
+
+### Product Recognition Test
+- 10 product images
+- Fabric, fit, feature identification
+- Practical evaluation
+
+### Role-Play
+- Customer scenario
+- Brand story narration
+- Cross-sell/Upsell application
+
+
+---
+
+## SECTION 5: BRAND-SUPPLEMENT-PIERRE-CARDIN-EN
+
+﻿---
+layout: default
+title: "Pierre Cardin Brand Training Guide – EN"
+parent: Training
+
+## Training Content
+
+### SECTION 1: BRAND STORY
+
+#### 1.1 History
+
+**Pierre Cardin - Fashion Icon**
+- **Birth:** 1922, Italy (San Biagio di Callalta)
+- **Career Start:** 1945, Paris - Worked at Christian Dior
+- **Own Brand:** 1950, Founded Pierre Cardin house in Paris
+- **Revolution:** 1960s - Pioneer of ready-to-wear
+- **Legacy:** Passed away in 2020, left lasting mark on fashion world
+
+**Key Points:**
+- Pioneer of transition from haute couture to ready-to-wear
+- Known for space-age designs
+- Inventor of licensing model
+- Globally recognized French fashion icon
+- Aydınlı Group holds Turkey license
+
+#### 1.2 Brand Values
+
+| Value | Description |
+|-------|-------------|
+| **Innovation** | Fashion innovation and trend-setting |
+| **Elegance** | The essence of French sophistication |
+| **Quality** | Premium materials and craftsmanship |
+| **Sophistication** | Refined and sophisticated design |
+| **Versatility** | Versatility for work and everyday life |
+
+#### 1.3 Brand Story Narrative (For Customers)
+
+```
+"Pierre Cardin has been the symbol of French fashion since 1950. Our founder 
+changed fashion history as the pioneer of ready-to-wear. Every piece we offer 
+you today brings together French elegance with modern living."
+```
+
+
+### SECTION 3: PRODUCT CATEGORIES
+
+#### 3.1 Men's Collection - Business
+
+| Category | Sub-categories | Key Features |
+|----------|---------------|--------------|
+| **Suit** | Slim, Regular, Classic | Business world standard |
+| **Blazer** | Single, Double Breasted | Smart casual |
+| **Trousers** | Classic, Slim, Pleated | Professional look |
+| **Shirt** | Business, Ceremony | Non-iron technology |
+| **Tie** | Silk, Micro pattern | Elegant accessory |
+
+#### 3.2 Men's Collection - Casual Premium
+
+| Category | Sub-categories | Key Features |
+|----------|---------------|--------------|
+| **Polo** | Premium Pique | Sophisticated casual |
+| **Shirt** | Casual, Denim | Weekend elegance |
+| **Knitwear** | V-neck, Crew, Cardigan | Layered outfits |
+| **Trousers** | Chino, Premium Denim | Relaxed elegance |
+| **Jacket** | Leather, Blazer, Parka | Premium outerwear |
+
+#### 3.3 Women's Collection
+
+| Category | Sub-categories | Key Features |
+|----------|---------------|--------------|
+| **Blazer** | Classic, Oversize | Office elegance |
+| **Trousers** | Classic, Wide Leg | Professional cut |
+| **Shirt** | Satin, Poplin | Feminine details |
+| **Dress** | Business, Cocktail | Versatile |
+| **Knitwear** | Fine Knit | Elegant layer |
+
+#### 3.4 Accessories
+
+| Category | Products | Feature |
+|----------|----------|---------|
+| **Tie** | Silk, Micro pattern | Handmade |
+| **Belt** | Leather, Metal buckle | Premium material |
+| **Wallet** | Leather, Card holder | Italian leather |
+| **Cufflinks** | Metal, Stone | Detail elegance |
+
+#### 3.5 Iconic Products
+
+**1. Business Suit**
+- Brand signature
+- 100% wool, Italian fabric
+- Modern slim fit
+- Fully lined
+
+**2. Non-iron Shirt**
+- Wrinkle-free technology
+- 100% cotton
+- Spread collar
+- Businessman favorite
+
+**3. Silk Tie**
+- 100% pure silk
+- Hand-stitched
+- Italian design
+- Timeless patterns
+
+
+### SECTION 5: SALES TECHNIQUES
+
+#### 5.1 Consultative Sales
+
+**Approach Difference:**
+```
+U.S. Polo = Product-focused, quick
+Pierre Cardin = Consultancy-focused, detailed
+```
+
+**Opening:**
+```
+Staff: "Welcome to Pierre Cardin. Do you have a specific need today, 
+or would you like to browse our collection in general?"
+Customer: "I have an important meeting, need something elegant."
+Staff: "I understand. What kind of setting is the meeting? 
+Formal or semi-formal? I can recommend the most suitable combination for you."
+```
+
+#### 5.2 Wardrobe Consultancy
+
+**Questions:**
+```
+"What basic pieces do you currently have in your wardrobe?"
+"Which colors do you prefer more?"
+"Are you thinking everyday or special occasion?"
+"Your preference for fit – fitted or regular?"
+```
+
+#### 5.3 Outfit Sales
+
+| Situation | Outfit Suggestion |
+|-----------|------------------|
+| Business meeting | Suit + shirt + tie |
+| Daily office | Blazer + trousers + polo |
+| Dinner | Blazer + shirt + chino |
+| Formal event | Dark suit + white shirt + silk tie |
+
+#### 5.4 Premium Sales Techniques
+
+**Value Narration:**
+```
+Staff: "The fabric used in this suit is from Italy, 100% wool. 
+Tailored in Turkey, with handcraft details. You can wear it for years, 
+so think of it as an investment piece."
+```
+
+**Price Objection Handling:**
+```
+Customer: "Isn't it a bit expensive?"
+Staff: "I understand. However, consider the lifetime value of this piece. 
+A quality suit can be worn for 10 years. If you calculate the annual cost, 
+it's actually a very reasonable investment."
+```
+
+
+### SECTION 7: PRODUCT KNOWLEDGE DETAILS
+
+#### 7.1 Fabric Types - Suits
+
+| Fabric | Feature | Usage |
+|--------|---------|-------|
+| **100% Wool** | Premium, breathable | 4-season business |
+| **Wool-Silk** | Shiny finish, soft | Special occasions |
+| **Wool-Cashmere** | Luxury, warm | Winter business |
+| **Stretch Wool** | Flexible, comfortable | Modern business |
+| **Tropical Wool** | Light, cool | Summer business |
+
+#### 7.2 Fabric Types - Shirts
+
+| Fabric | Feature | Usage |
+|--------|---------|-------|
+| **Poplin** | Smooth, elegant | Formal |
+| **Twill** | Diagonal texture | Business casual |
+| **Oxford** | Textured | Smart casual |
+| **Satin** | Shiny | Special occasion |
+| **Non-iron** | Wrinkle-free | Daily business |
+
+#### 7.3 Suit Fit Guide
+
+| Fit Type | Feature | Suitable For |
+|----------|---------|--------------|
+| **Slim Fit** | Narrow cut, modern | Young professional |
+| **Regular Fit** | Standard cut | General use |
+| **Classic Fit** | Comfortable, traditional | Mature customer |
+| **Athletic Fit** | Wide shoulders, narrow waist | Athletic build |
+
+#### 7.4 Shirt Collar Types
+
+| Collar | Feature | Usage |
+|--------|---------|-------|
+| **Spread** | Wide angle | With tie |
+| **Kent** | Medium angle | Any situation |
+| **Button-down** | Buttoned | Casual |
+| **Cutaway** | Very wide | Thick tie |
+
+#### 7.5 Care Instructions - Premium Products
+
+| Product | Care | Storage |
+|---------|------|---------|
+| Suit | Dry clean | Garment bag, wooden hanger |
+| Silk Tie | Dry clean | Lay flat |
+| Leather Belt | Moisturizer | Flat, no buckle |
+| Non-iron Shirt | 40°C wash | Hanging |
+
+
+### SECTION 9: FREQUENTLY ASKED QUESTIONS
+
+| Question | Answer |
+|----------|--------|
+| "Is Pierre Cardin still managed by the designer himself?" | "Unfortunately Pierre Cardin passed away in 2020, but his legacy and design philosophy continue to live in our brand." |
+| "Do you do suit alterations?" | "Yes, we offer professional alteration service in our store. Hem and sleeve shortening are free on certain products." |
+| "Can silk tie be washed?" | "Silk tie should be dry cleaned. We don't recommend washing at home, professional cleaning is essential for stains." |
+| "How to choose suit size?" | "Jacket size is determined by your chest measurement, trousers by your waist measurement. I recommend we take professional measurements for you." |
+
+
+## Tools & Resources
+
+| Resource | Usage |
+|----------|-------|
+| Fabric Swatch Book | Fabric demonstration to customers |
+| Style Guide | Business dress code information |
+| Size Measurement Tool | Professional measuring |
+| Lookbook | Seasonal style suggestions |
+| Care Cards | Information cards to give customers |
+
+
+## Assessment Methods
+
+### Premium Sales Quiz
+- 20 questions
+- Fabric knowledge, fit, style recommendations
+- Passing grade: 85%
+
+### Style Consultancy Evaluation
+- Customer profile analysis
+- Outfit recommendation scenario
+- Wardrobe consultancy role-play
+
+### Product Knowledge Test
+- Fabric recognition (by touch)
+- Fit type determination
+- Care instruction knowledge
+
+
+---
+
+## SECTION 6: BRAND-SUPPLEMENT-CACHAREL-EN
+
+﻿---
+layout: default
+title: "Cacharel Brand Training Guide – EN"
+parent: Training
+
+## Training Content
+
+### SECTION 1: BRAND STORY
+
+#### 1.1 History
+
+**Cacharel - French Men's Fashion Icon**
+- **Founded:** 1962, by Jean Bousquet in Paris
+- **First Collection:** Men's shirts and ready-to-wear
+- **Perfume:** 1978 - Anaïs Anaïs (important for brand awareness)
+- **Today:** French men's fashion - business and casual premium
+- **Aydınlı Group:** Turkey license holder
+
+**Key Points:**
+- 60+ years of French fashion heritage
+- Representative of French elegance in men's wear
+- Balance between business and casual
+- Modern classic men's fashion
+- Positioned as men's fashion brand in Turkey
+
+#### 1.2 Brand Values
+
+| Value | Description |
+|-------|-------------|
+| **Elegance** | French men's sophistication |
+| **Versatility** | Versatility for work and everyday life |
+| **Quality** | Premium quality and craftsmanship |
+| **Sophistication** | Refined and sophisticated design |
+| **Modern Classic** | Modern classic men's fashion |
+
+#### 1.3 Brand Story Narrative (For Customers)
+
+```
+"Cacharel has been a pioneer of French men's fashion since 1962. 
+Bringing elegance and sophistication from Paris to men's wear. 
+The choice of the modern man who wants to look elegant 
+both in the business world and in everyday life."
+```
+
+
+### SECTION 3: PRODUCT CATEGORIES
+
+#### 3.1 Men's Collection - Business
+
+| Category | Sub-categories | Key Features |
+|----------|---------------|--------------|
+| **Suit** | Slim, Regular | Business world elegance |
+| **Blazer** | Single Breasted | Smart casual essential |
+| **Trousers** | Classic, Slim | Professional look |
+| **Shirt** | Business, Non-iron | Office standard |
+| **Tie** | Silk, Classic pattern | Elegant accessory |
+
+#### 3.2 Men's Collection - Casual Premium
+
+| Category | Sub-categories | Key Features |
+|----------|---------------|--------------|
+| **Polo** | Premium Pique | Sophisticated casual |
+| **T-shirt** | Basic, Premium | Comfortable elegance |
+| **Shirt** | Casual, Denim | Weekend elegance |
+| **Knitwear** | V-neck, Crew, Cardigan | Layered outfits |
+| **Trousers** | Chino, Premium Denim | Relaxed elegance |
+| **Jacket** | Bomber, Denim, Parka | Premium outerwear |
+
+#### 3.3 Accessories
+
+| Category | Products | Feature |
+|----------|----------|---------|
+| **Tie** | Silk, Classic | Elegant detail |
+| **Belt** | Leather, Metal buckle | Premium material |
+| **Wallet** | Leather, Card holder | Italian leather |
+| **Socks** | Premium cotton | Detail elegance |
+
+#### 3.4 Iconic Products
+
+**1. Business Suit**
+- French elegance
+- Slim fit modern cut
+- Premium fabric
+- Business world standard
+
+**2. Premium Polo T-shirt**
+- Sophisticated casual
+- Premium pique fabric
+- Elegant cut
+- Business casual essential
+
+**3. Non-iron Shirt**
+- Wrinkle-free technology
+- 100% cotton
+- French cut
+- Everyday use
+
+
+### SECTION 5: SALES TECHNIQUES
+
+#### 5.1 Professional Sales Approach
+
+**Difference:**
+```
+U.S. Polo = Casual, product-focused
+Pierre Cardin = Business, consultancy-focused
+Cacharel = Dual approach, style consultancy
+```
+
+**Opening:**
+```
+Staff: "Welcome to Cacharel! Are you looking for work or everyday use today?"
+Customer: "Both could work, need something elegant."
+Staff: "I understand! Cacharel is perfect for you – we offer French elegance 
+for both work and everyday life. What situations are you thinking of?"
+```
+
+#### 5.2 Style Consultancy
+
+**Questions:**
+```
+"What's your work environment like – formal or semi-formal?"
+"How do you like to dress on weekends?"
+"What basic pieces do you currently have in your wardrobe?"
+"What's your color preference – classic or modern?"
+```
+
+#### 5.3 Outfit Suggestions
+
+| Situation | Outfit |
+|-----------|--------|
+| Business meeting | Suit + shirt + tie |
+| Daily office | Blazer + chino + polo |
+| Weekend | Premium polo + chino + sneakers |
+| Dinner | Blazer + shirt + chino |
+| Smart casual | Premium t-shirt + chino + blazer |
+
+#### 5.4 Cross-sell and Upsell
+
+**Cross-sell:**
+```
+Staff: "This blazer is very elegant. I can suggest chino trousers underneath, 
+creates a perfect French smart casual outfit."
+```
+
+**Upsell:**
+```
+Staff: "This suit is nice, but I'd also like to show you our premium series. 
+Fabric quality is higher level, can be worn for years."
+```
+
+
+### SECTION 7: PRODUCT KNOWLEDGE DETAILS
+
+#### 7.1 Fabric Types
+
+| Fabric | Feature | Usage |
+|--------|---------|-------|
+| **Wool** | Premium, breathable | Suit |
+| **Pique Cotton** | Textured, durable | Polo t-shirt |
+| **Poplin** | Smooth, elegant | Shirt |
+| **Twill** | Diagonal texture | Chino |
+| **Premium Denim** | Quality, long-lasting | Jean, jacket |
+| **French Terry** | Soft, comfortable | Sweatshirt |
+
+#### 7.2 Fit Guide
+
+| Fit Type | Feature | Suitable For |
+|----------|---------|--------------|
+| **Slim Fit** | Narrow cut, modern | Young professional |
+| **Regular Fit** | Standard cut | General use |
+| **Classic Fit** | Comfortable, traditional | Mature customer |
+
+#### 7.3 Size Chart
+
+| Size | Chest (cm) | Waist (cm) |
+|------|------------|------------|
+| XS | 88-92 | 72-76 |
+| S | 92-96 | 76-80 |
+| M | 96-100 | 80-84 |
+| L | 100-104 | 84-88 |
+| XL | 104-108 | 88-92 |
+| XXL | 108-112 | 92-96 |
+
+#### 7.4 Care Instructions
+
+| Product | Wash | Dry | Iron |
+|---------|------|-----|------|
+| Suit | Dry clean | - | - |
+| Polo | 30°C | Hang dry cool | Low |
+| Shirt | 40°C | Hang dry cool | Medium |
+| Chino | 30°C | Hang dry cool | Low |
+| Denim | 30°C inside out | Hang dry cool | Steam |
+
+
+### SECTION 9: FREQUENTLY ASKED QUESTIONS
+
+| Question | Answer |
+|----------|--------|
+| "Is Cacharel only business wear?" | "No, we have both business and casual premium collections. We help you look elegant from the business world to weekends." |
+| "What's the difference with Pierre Cardin?" | "Cacharel focuses more on casual premium while Pierre Cardin is more business-focused. Both are French elegance but different segments." |
+| "Do you do suit alterations?" | "Yes, we offer professional alteration service in our store. Hem and sleeve shortening are free on certain products." |
+| "What does French cut mean?" | "French cut is a narrower, body-fitting, modern cut. It looks more elegant and contemporary than classic cut." |
+
+
+## Tools & Resources
+
+| Resource | Usage |
+|----------|-------|
+| Fabric Swatch Book | Fabric demonstration to customers |
+| Style Guide | Business and casual outfit suggestions |
+| Size Measurement Tool | Professional measuring |
+| Lookbook | Seasonal style suggestions |
+| Lookbook | Seasonal style suggestions |
+| Care Cards | Information cards to give customers |
+
+
+## Assessment Methods
+
+### Brand Knowledge Quiz
+- 20 questions
+- Brand story, values, product knowledge
+- Passing grade: 80%
+
+### Style Consultancy Evaluation
+- Customer profile analysis
+- Outfit suggestion scenario
+- Business/Casual guidance
+
+### Product Knowledge Test
+- Fabric recognition
+- Fit type determination
+- Care instruction knowledge
+
+
+---
+
+## SECTION 7: CUSTOMER-INTERACTION-SCENARIOS-EN
 
 ﻿---
 layout: default
@@ -2685,3 +2113,55 @@ I can also suggest a shirt from the Executive series."
 
 
 ---
+---
+
+## SECTION 8: DOCUMENTATION-STYLE-GUIDE-EN
+
+
+# Documentation Style Guide
+
+> **Purpose:** Ensure every FR Portal document is consistent, scannable, and bilingual-friendly.  
+> **Who should use this:** Anyone authoring or updating pages in this repository.
+
+
+## Standard Page Skeleton
+
+1. Front matter:
+```yaml
+```
+2. Title block with metadata (last updated, owner, version).
+3. **Summary** (1–2 paragraphs) + quick bullets for objectives and outcomes.
+4. **Scope**: who is covered / not covered; regions if relevant.
+5. **Roles & Responsibilities**: compact tables grouped by role.
+6. **Process / Steps**: numbered steps; add expected inputs/outputs where helpful.
+7. **Standards & Rules**: short list or table.
+8. **KPIs / Acceptance Criteria**: table with formula/target/owner/frequency.
+9. **Common Issues & Fixes**: short table of problems and actions.
+10. **Revision History**: date, version, editor, change note.
+
+
+## Bilingual Toggle Pattern (EN/TR)
+
+Use the shared include to present both languages on one page without duplication in navigation.
+
+1) Insert the toggle where the bilingual content begins:
+```
+```
+2) Wrap each language block with `lang-section` and the same `data-group`:
+```
+<!-- English content -->
+</div>
+
+<!-- Türkçe içerik -->
+</div>
+```
+3) Only one group per toggle. Reuse the include with a new `group` value if you need multiple toggled sections on a page.
+
+
+## Revision History Template
+
+| Date | Version | Editor | Change |
+|------|---------|--------|--------|
+| 2025-12-08 | 1.0 | Docs Team | Initial publication |
+
+

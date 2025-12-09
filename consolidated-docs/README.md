@@ -21,43 +21,52 @@ These consolidated files solve these problems by combining all related documents
 
 ## Structure
 
+### Hierarchical Organization
+
+All consolidated documents follow a **logical hierarchy** where:
+1. **Overview sections come first** - providing system-wide context and vision
+2. **Conceptual content follows** - explaining methodology and frameworks
+3. **Procedural content comes last** - detailing step-by-step processes
+
+This organization ensures readers understand the "why" before the "how."
+
 ### Consolidated Files (12 total)
 
 **Customer Management (CRM)**
 - `customer-management-en.md` - English version
 - `customer-management-tr.md` - Turkish version
 - **Source:** 10 CRM documents
-- **Content:** Overview, segmentation, KPIs, data quality, GDPR, loyalty, do's/don'ts, user guide, checklists, ticketing
+- **Sections:** 1. Overview → 2. Segmentation → 3. Loyalty/Campaigns → 4. Dashboard/KPIs → 5. Data Policy → 6. Data Quality → 7. Do's/Don'ts → 8. User Guide → 9. Checklists → 10. Ticketing
 
 **Operations**
 - `operations-en.md` - English version
 - `operations-tr.md` - Turkish version
 - **Source:** 13 documents from Store Operations + Supply Chain
-- **Content:** Store operations overview, opening/closing procedures, cash management, inventory control, customer service, loss prevention, returns/exchanges, order management, delivery/receiving, shipping/logistics, stock transfers, warehouse coordination
+- **Sections:** 1. Store Ops Overview → 2. Supply Chain Overview → 3. Opening/Closing → 4. Cash Management → 5. Customer Service → 6. Inventory Control → 7. Loss Prevention → 8. Returns/Exchanges → 9. Order Management → 10. Delivery/Receiving → 11. Stock Transfers → 12. Shipping/Logistics → 13. Warehouse Coordination
 
 **Marketing**
 - `marketing-en.md` - English version
 - `marketing-tr.md` - Turkish version
 - **Source:** 9 marketing documents
-- **Content:** Marketing overview, brand guidelines, campaign execution, digital assets, in-store communication, approval processes, POSM guidelines, seasonal calendar, social media localization
+- **Sections:** 1. Overview → 2. Brand Guidelines → 3. Seasonal Calendar → 4. Campaign Execution → 5. POSM Guidelines → 6. In-Store Communication → 7. Digital Assets → 8. Social Media → 9. Approval Process
 
 **Visual Merchandising**
 - `visual-merchandising-en.md` - English version
 - `visual-merchandising-tr.md` - Turkish version
-- **Source:** 6 VM documents
-- **Content:** VM overview, general guidelines, window displays, in-store layouts, mannequin styling, seasonal changeovers
+- **Source:** 5 VM documents
+- **Sections:** 1. Overview → 2. In-Store Layout → 3. Window Display → 4. Mannequin Styling → 5. Seasonal Changeover
 
 **Guidelines and Training**
 - `guidelines-and-training-en.md` - English version
 - `guidelines-and-training-tr.md` - Turkish version
-- **Source:** 10 documents from Guidelines + Training
-- **Content:** Documentation style guide, franchise communication protocols, store operations guidelines, VM guidelines, brand supplements (USPA, Pierre Cardin, Cacharel), competency framework, customer experience standards, interaction scenarios
+- **Source:** 7-8 documents from Guidelines + Training
+- **Sections:** 1. Communication Protocol → 2. Customer Experience → 3. Competency Framework → 4-6. Brand Supplements (USPA, Pierre Cardin, Cacharel) → 7. Customer Interaction Scenarios → 8. Documentation Style Guide
 
 **Glossary**
 - `glossary-en.md` - English version
 - `glossary-tr.md` - Turkish version
-- **Source:** 3 glossary documents
-- **Content:** Retail terms, finance KPI formulas, supply chain/logistics terms
+- **Source:** 2 glossary documents
+- **Sections:** 1. Retail Terms → 2. Finance KPI Formulas
 
 ## Format Changes
 
@@ -88,9 +97,9 @@ The consolidated files have been optimized for modern documentation standards:
 | customer-management-*.md | 10 major sections | Large | Complete CRM reference |
 | operations-*.md | 13 major sections | Large | Complete operational procedures |
 | marketing-*.md | 9 major sections | Medium | Complete marketing guidelines |
-| visual-merchandising-*.md | 6 major sections | Medium | Complete VM guidelines |
-| guidelines-and-training-*.md | 10 major sections | Large | Complete training materials |
-| glossary-*.md | 3 major sections | Small | Reference terms and formulas |
+| visual-merchandising-*.md | 5 major sections | Medium | Complete VM guidelines |
+| guidelines-and-training-*.md | 7-8 major sections | Large | Complete training materials |
+| glossary-*.md | 2 major sections | Small | Reference terms and formulas |
 
 ## Usage
 
@@ -159,6 +168,7 @@ When updating documentation:
 - **Line Endings:** LF (Unix-style)
 - **Markdown Flavor:** GitHub-flavored Markdown
 - **Generated:** December 8, 2025
+- **Restructured:** December 9, 2025 (hierarchical ordering applied)
 - **Generator:** `consolidate_script.py`
 
 ## Questions?

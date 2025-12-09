@@ -17,29 +17,397 @@ nav_order: 5
 
 ## Document Overview
 
-This comprehensive marketing documentation covers all aspects of brand management, campaign execution, and marketing communications for Aydınlı Group franchise stores. The document is organized into 9 major sections:
+This comprehensive marketing documentation covers all aspects of brand management, campaign execution, and marketing communications for Aydınlı Group franchise stores. The document is organized into 9 major sections following a logical hierarchy from overview to specific procedures:
 
-**Section 1: Brand Guidelines** - Establishes comprehensive brand identity standards including logo usage, color specifications, typography rules, visual style guidelines, and brand voice principles for U.S. Polo Assn., Pierre Cardin, and Cacharel brands.
+**Section 1: Marketing Overview** - Provides comprehensive view of the marketing ecosystem including organizational structure, brand positioning, target audience definitions, marketing channels, and coordination between headquarters and franchise stores.
 
-**Section 2: Campaign Execution Guide** - Details the complete campaign lifecycle from planning to execution including campaign brief creation, timeline management, asset distribution, in-store implementation, and post-campaign evaluation procedures.
+**Section 2: Brand Guidelines** - Establishes comprehensive brand identity standards including logo usage, color specifications, typography rules, visual style guidelines, and brand voice principles for U.S. Polo Assn., Pierre Cardin, and Cacharel brands.
 
-**Section 3: Digital Assets Usage** - Covers proper handling and usage of digital marketing materials including file formats, resolution requirements, download procedures, storage guidelines, and quality control standards for digital content.
+**Section 3: Seasonal Marketing Calendar** - Presents the annual marketing calendar with key dates, seasonal campaigns, promotional periods, product launches, and coordination timelines for planning and executing seasonal marketing activities.
 
-**Section 4: In-Store Communication Guide** - Explains visual merchandising communication standards including signage placement, promotional material display, window communication, point-of-sale messaging, and seasonal decoration guidelines.
+**Section 4: Campaign Execution Guide** - Details the complete campaign lifecycle from planning to execution including campaign brief creation, timeline management, asset distribution, in-store implementation, and post-campaign evaluation procedures.
 
-**Section 5: Marketing Approval Process** - Outlines the approval workflow for all marketing materials including submission procedures, review timelines, approval authorities, revision processes, and compliance verification requirements.
+**Section 5: POSM Guidelines** - Details point-of-sale materials standards including types of POSM, ordering procedures, installation guidelines, maintenance requirements, and proper disposal of outdated materials.
 
-**Section 6: Marketing Overview** - Provides comprehensive view of the marketing ecosystem including organizational structure, brand positioning, target audience definitions, marketing channels, and coordination between headquarters and franchise stores.
+**Section 6: In-Store Communication Guide** - Explains visual merchandising communication standards including signage placement, promotional material display, window communication, point-of-sale messaging, and seasonal decoration guidelines.
 
-**Section 7: POSM Guidelines** - Details point-of-sale materials standards including types of POSM, ordering procedures, installation guidelines, maintenance requirements, and proper disposal of outdated materials.
+**Section 7: Digital Assets Usage** - Covers proper handling and usage of digital marketing materials including file formats, resolution requirements, download procedures, storage guidelines, and quality control standards for digital content.
 
-**Section 8: Seasonal Marketing Calendar** - Presents the annual marketing calendar with key dates, seasonal campaigns, promotional periods, product launches, and coordination timelines for planning and executing seasonal marketing activities.
+**Section 8: Social Media Localization Guide** - Explains guidelines for local social media activities including content creation rules, posting schedules, brand voice adaptation, engagement protocols, and approval requirements for franchise store social media presence.
 
-**Section 9: Social Media Localization Guide** - Explains guidelines for local social media activities including content creation rules, posting schedules, brand voice adaptation, engagement protocols, and approval requirements for franchise store social media presence.
+**Section 9: Marketing Approval Process** - Outlines the approval workflow for all marketing materials including submission procedures, review timelines, approval authorities, revision processes, and compliance verification requirements.
 
 ---
 
-## SECTION 1: BRAND-GUIDELINE-EN
+## SECTION 1: MARKETING-OVERVIEW-EN
+
+﻿---
+layout: default
+title: "Marketing Overview"
+parent: Marketing
+
+## Table of Contents
+
+1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
+2. [Document Snapshot](#document-snapshot)
+3. [Purpose](#purpose)
+4. [Scope](#scope)
+5. [Definitions](#definitions)
+6. [Responsibilities](#responsibilities)
+7. [Marketing Structure](#marketing-structure)
+8. [Brand Marketing Pillars](#brand-marketing-pillars)
+9. [Marketing Calendar Framework](#marketing-calendar-framework)
+10. [Campaign Types](#campaign-types)
+11. [Marketing Channels](#marketing-channels)
+12. [Budget Planning](#budget-planning)
+13. [Performance Measurement](#performance-measurement)
+14. [Process Steps](#process-steps)
+15. [Standards & Rules](#standards--rules)
+16. [KPIs](#kpis)
+17. [Common Issues & Solutions](#common-issues--solutions)
+18. [Revision History](#revision-history)
+
+
+## Document Snapshot
+
+| Field | Details |
+|-------|---------|
+| Purpose | End-to-end marketing framework for franchise markets (brand consistency, ROI, execution discipline). |
+| Scope | Regions: KSA, Morocco, Balkans. Roles: Store Staff, Store Managers, Regional Managers, Franchise Owners, HQ Marketing. |
+| Owners | HQ Marketing (strategy & assets), Regional Marketing (adaptation), Store Managers (execution). |
+| Outputs | Seasonal/promo campaign packs, POSM kits, channel plans, weekly performance reports. |
+| KPI Targets | Awareness +15% YoY; Acquisition +10% YoY; Retention 35%+; Campaign ROI 3:1; Digital Engagement +25%. |
+| Next Review | Quarterly or when brand guidelines change. |
+
+
+## Scope
+
+### Who This Document Covers
+
+- **Store Staff:** Understanding of marketing campaigns and customer communication
+- **Store Managers:** Campaign execution, local marketing coordination
+- **Regional Managers:** Regional marketing strategy and budget management
+- **Franchise Owners:** Marketing investment decisions and ROI tracking
+- **HQ Marketing Team:** Central campaign development and brand management
+
+### Covered Activities
+
+1. Brand marketing and positioning
+2. Seasonal and promotional campaigns
+3. Digital and social media marketing
+4. In-store marketing and POSM
+5. Local market activation
+6. Marketing performance measurement
+
+
+## Responsibilities
+
+### Store Staff
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| POSM Implementation | Display marketing materials correctly | Per campaign |
+| Customer Communication | Inform customers about current promotions | Daily |
+| Campaign Feedback | Report customer reactions and questions | Weekly |
+| Social Media Support | Support local social media content | As requested |
+| Data Collection | Capture customer information for CRM | Every transaction |
+
+### Store Manager
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Campaign Execution | Ensure all campaign elements are implemented | Per campaign |
+| Staff Training | Train team on campaign messaging | Per campaign |
+| Local Coordination | Coordinate with local media and partners | As needed |
+| Performance Tracking | Monitor campaign sales impact | Daily/Weekly |
+| Feedback Reporting | Submit campaign performance reports | Weekly |
+| Budget Management | Manage local marketing expenses | Monthly |
+
+### Regional Manager
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Strategy Implementation | Execute regional marketing strategy | Ongoing |
+| Budget Allocation | Distribute marketing budget across stores | Quarterly |
+| Performance Analysis | Analyze regional marketing performance | Weekly |
+| Local Adaptation | Adapt campaigns for regional requirements | Per campaign |
+| Agency Management | Coordinate with regional marketing agencies | Ongoing |
+| Compliance Audit | Ensure brand guideline compliance | Monthly |
+
+### HQ Marketing Team
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Campaign Development | Create central marketing campaigns | Seasonal |
+| Brand Management | Maintain and evolve brand guidelines | Ongoing |
+| Asset Creation | Produce marketing materials and assets | Per campaign |
+| Performance Analysis | Analyze global marketing performance | Monthly |
+| Budget Planning | Develop annual marketing budget | Annually |
+| Partner Support | Provide marketing support to franchisees | Ongoing |
+
+
+## Brand Marketing Pillars
+
+### U.S. Polo Assn.
+
+**Brand Positioning:** Authentic American lifestyle brand with polo heritage
+
+| Pillar | Description | Key Messages |
+|--------|-------------|--------------|
+| **Heritage** | Authentic connection to polo sport | "The Official Brand of USPA" |
+| **Lifestyle** | American casual lifestyle | "Live Authentically" |
+| **Quality** | Reliable quality at accessible prices | "Quality You Can Trust" |
+| **Versatility** | From sport to street | "Play Your Way" |
+
+**Marketing Tone:**
+- Confident and authentic
+- Sporty yet sophisticated
+- Inclusive and accessible
+- Energetic and optimistic
+
+**Visual Identity:**
+- Primary Colors: Navy, White, Red
+- Secondary Colors: Green, Yellow
+- Imagery: Active lifestyle, polo references, American landscapes
+
+
+### Cacharel
+
+**Brand Positioning:** Romantic, feminine French bohemian style
+
+| Pillar | Description | Key Messages |
+|--------|-------------|--------------|
+| **Romance** | Romantic French aesthetic | "Simply Romantic" |
+| **Femininity** | Celebrating women | "Modern Femininity" |
+| **Nature** | Floral and natural inspirations | "Natural Beauty" |
+| **Joy** | Playful and optimistic | "Joyful Living" |
+
+**Marketing Tone:**
+- Romantic and dreamy
+- Soft and feminine
+- Playful and optimistic
+- Artistic and creative
+
+**Visual Identity:**
+- Primary Colors: Pastels, White, Pink
+- Secondary Colors: Floral patterns, Soft blues
+- Imagery: Gardens, flowers, romantic settings, artistic expressions
+
+
+## Campaign Types
+
+### Tier 1: Major Seasonal Campaigns
+
+| Characteristic | Details |
+|----------------|---------|
+| **Frequency** | 2 per year (SS, FW) |
+| **Duration** | 8-12 weeks |
+| **Budget Allocation** | 40% of annual marketing budget |
+| **Channels** | ATL + BTL + Digital + In-Store |
+| **HQ Support** | Full campaign kit, media planning |
+
+### Tier 2: Promotional Campaigns
+
+| Characteristic | Details |
+|----------------|---------|
+| **Frequency** | 4-6 per year |
+| **Duration** | 1-4 weeks |
+| **Budget Allocation** | 30% of annual marketing budget |
+| **Channels** | BTL + Digital + In-Store |
+| **HQ Support** | Campaign guidelines, POSM templates |
+
+### Tier 3: Local Activations
+
+| Characteristic | Details |
+|----------------|---------|
+| **Frequency** | As needed |
+| **Duration** | Event-specific |
+| **Budget Allocation** | 20% of annual marketing budget |
+| **Channels** | Local media + In-Store |
+| **HQ Support** | Brand guidelines, approval process |
+
+### Always-On Activities
+
+| Characteristic | Details |
+|----------------|---------|
+| **Frequency** | Continuous |
+| **Duration** | Year-round |
+| **Budget Allocation** | 10% of annual marketing budget |
+| **Channels** | Social media, CRM, SEO |
+| **HQ Support** | Content calendar, templates |
+
+
+## Budget Planning
+
+### Annual Budget Structure
+
+| Category | % of Total | Description |
+|----------|------------|-------------|
+| **Media Buying** | 40% | Paid advertising across channels |
+| **Production** | 25% | Content creation, POSM production |
+| **Events** | 15% | Activations, sponsorships |
+| **Agency Fees** | 10% | Creative, media, PR agencies |
+| **Contingency** | 10% | Unexpected opportunities |
+
+### Co-op Marketing Model
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│              CO-OP MARKETING STRUCTURE                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Central Campaigns (HQ Funded)                               │
+│  ├── Global brand assets                                     │
+│  ├── Campaign creative development                           │
+│  └── Core POSM kit                                           │
+│                                                              │
+│  Regional Adaptation (50/50 Split)                           │
+│  ├── Local language adaptation                               │
+│  ├── Regional media buying                                   │
+│  └── Additional POSM quantities                              │
+│                                                              │
+│  Local Activations (Franchise Funded)                        │
+│  ├── Store-specific promotions                               │
+│  ├── Local events                                            │
+│  └── Local partnerships                                      │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Budget Request Process
+
+1. Submit budget request via Marketing Portal (30 days before)
+2. Regional Manager review (within 5 business days)
+3. HQ approval for requests > $5,000 (within 10 business days)
+4. PO issuance and vendor coordination
+5. Post-activity reconciliation and reporting
+
+
+## Process Steps
+
+### Campaign Execution Process
+
+```
+Step 1: Receive Campaign Brief from HQ
+        ↓
+Step 2: Review Campaign Objectives and KPIs
+        ↓
+Step 3: Assess Local Market Requirements
+        ↓
+Step 4: Submit Localization Requests (if needed)
+        ↓
+Step 5: Receive Marketing Assets and POSM
+        ↓
+Step 6: Brief Store Teams on Campaign
+        ↓
+Step 7: Implement In-Store Setup
+        ↓
+Step 8: Launch Campaign
+        ↓
+Step 9: Monitor Performance Daily
+        ↓
+Step 10: Submit Weekly Performance Reports
+        ↓
+Step 11: Campaign Close and Final Reporting
+```
+
+### Marketing Approval Process
+
+```
+Local Initiative Proposal
+        ↓
+Store Manager Review → Reject → Revise
+        ↓ Approve
+Regional Manager Review → Reject → Revise
+        ↓ Approve
+HQ Marketing Review (if > $5,000) → Reject → Revise
+        ↓ Approve
+Budget Allocation
+        ↓
+Execution
+        ↓
+Post-Activity Report
+```
+
+
+## KPIs
+
+### Marketing Performance KPIs
+
+| KPI | Formula | Target | Frequency |
+|-----|---------|--------|-----------|
+| **ROMI** | (Revenue - Marketing Cost) / Marketing Cost | 3:1 | Per Campaign |
+| **Cost Per Acquisition** | Total Marketing Cost / New Customers | < $25 | Monthly |
+| **Brand Awareness** | Aided Recall % | > 60% | Quarterly |
+| **Social Engagement Rate** | (Likes + Comments + Shares) / Followers × 100 | > 3% | Weekly |
+| **Email Open Rate** | Opens / Delivered × 100 | > 25% | Per Campaign |
+| **CTR** | Clicks / Impressions × 100 | > 2% | Per Campaign |
+| **Conversion Rate** | Conversions / Visitors × 100 | > 3% | Weekly |
+| **Customer Acquisition Cost** | Marketing Spend / New Customers | < $30 | Monthly |
+
+### Campaign ROI Calculation
+
+```
+Campaign ROI = ((Campaign Revenue - Campaign Cost) / Campaign Cost) × 100
+
+Example:
+- Campaign Revenue: $150,000
+- Campaign Cost: $40,000
+- ROI = (($150,000 - $40,000) / $40,000) × 100 = 275%
+```
+
+
+### Issue 2: Low Campaign Awareness
+
+**Symptom:** Customers not aware of ongoing campaign.
+
+**Possible Causes:**
+- Insufficient POSM visibility
+- Staff not briefed properly
+- Marketing reach too limited
+
+**Solution:**
+1. Audit POSM placement and visibility
+2. Re-brief store staff on campaign details
+3. Increase social media promotion
+4. Add window display prominence
+
+
+### Issue 4: Budget Overruns
+
+**Symptom:** Actual marketing spend exceeds budget.
+
+**Possible Causes:**
+- Poor planning
+- Unplanned activities
+- Scope creep
+
+**Solution:**
+1. Review all commitments vs. budget monthly
+2. Require pre-approval for unplanned activities
+3. Build contingency into planning
+4. Track spend weekly during campaigns
+
+
+## Related Documents
+
+- [Brand Guidelines](brand-guideline-en.md)
+- [Seasonal Marketing Calendar](seasonal-marketing-calendar-en.md)
+- [Campaign Execution Guide](campaign-execution-guide-en.md)
+- [Digital Assets Usage](digital-assets-usage-en.md)
+- [POSM Guidelines](posm-guideline-en.md)
+- [Marketing Approval Process](marketing-approval-process-en.md)
+
+
+*This document was prepared by Aydınlı Group.*  
+*© 2025 Aydınlı Group - All rights reserved.*
+
+
+
+
+---
+
+## SECTION 2: BRAND-GUIDELINE-EN
 
 ﻿---
 layout: default
@@ -553,7 +921,383 @@ Implementation
 
 ---
 
-## SECTION 2: CAMPAIGN-EXECUTION-GUIDE-EN
+## SECTION 3: SEASONAL-MARKETING-CALENDAR-EN
+
+﻿---
+layout: default
+title: "Seasonal Marketing Calendar"
+parent: Marketing
+
+## Table of Contents
+
+1. [Purpose](#purpose)
+2. [Scope](#scope)
+3. [Definitions](#definitions)
+4. [Responsibilities](#responsibilities)
+5. [Annual Calendar Overview](#annual-calendar-overview)
+6. [Spring/Summer Season](#springsummer-season)
+7. [Fall/Winter Season](#fallwinter-season)
+8. [Key Commercial Moments](#key-commercial-moments)
+9. [Regional Considerations](#regional-considerations)
+10. [Planning Timeline](#planning-timeline)
+11. [Campaign Integration](#campaign-integration)
+12. [Process Steps](#process-steps)
+13. [Standards & Rules](#standards--rules)
+14. [KPIs](#kpis)
+15. [Common Issues & Solutions](#common-issues--solutions)
+16. [Revision History](#revision-history)
+
+
+## Scope
+
+### Brands Covered
+
+All three brands follow the core calendar with brand-specific adaptations:
+- U.S. Polo Assn.
+- Pierre Cardin
+- Cacharel
+
+
+## Responsibilities
+
+### Store Staff
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Calendar Review | Understand upcoming campaigns | Weekly |
+| Implementation | Execute in-store activities on schedule | Per event |
+| Customer Communication | Inform customers of upcoming events | Daily |
+
+### Store Manager
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Calendar Planning | Plan staff and inventory for key dates | Monthly |
+| Campaign Preparation | Ensure readiness for each campaign | Per event |
+| Performance Tracking | Monitor campaign results | Per campaign |
+| Feedback Reporting | Report calendar execution issues | Weekly |
+
+### Regional Manager
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Regional Adaptation | Adapt calendar for regional needs | Quarterly |
+| Resource Allocation | Ensure adequate resources per period | Monthly |
+| Coordination | Align stores within region | Ongoing |
+| Performance Analysis | Analyze regional calendar performance | Monthly |
+
+### HQ Marketing Team
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Calendar Development | Create and update annual calendar | Annually |
+| Campaign Creation | Develop campaigns for key moments | Per campaign |
+| Asset Distribution | Provide marketing materials | Per campaign |
+| Performance Review | Review global calendar effectiveness | Quarterly |
+
+
+## Spring/Summer Season
+
+### SS Season Timeline
+
+```
+Week -8 to -4: Collection Preview & Planning
+        ↓
+Week -4 to -2: Store Setup Preparation
+        ↓
+Week -2 to 0: Full Window & Store Refresh
+        ↓
+Week 0: SEASON LAUNCH
+        ↓
+Week 1-8: Full Price Selling Period
+        ↓
+Week 9-12: Mid-Season Activity
+        ↓
+Week 13+: End of Season Sale
+```
+
+### SS Campaign Calendar
+
+| Period | Campaign | Duration | Key Activities |
+|--------|----------|----------|----------------|
+| **Feb W4 - Mar W1** | SS Preview | 2 weeks | VIP access, early bird offers |
+| **Mar W2** | SS Launch | 1 week | Full store refresh, launch event |
+| **Mar W2 - May W4** | Spring Focus | 10 weeks | New arrivals, trend highlights |
+| **Apr** | Ramadan (Regional) | 4 weeks | Special collections, gifting |
+| **May W2** | Mother's Day | 1 week | Gift guide, special offers |
+| **Jun** | Summer Collection | 4 weeks | Vacation wear, swimwear |
+| **Jul W1** | Summer Sale Start | - | 30-50% off seasonal items |
+
+### SS Hero Products by Brand
+
+| Brand | SS Hero Categories | Marketing Focus |
+|-------|-------------------|-----------------|
+| **U.S. Polo Assn.** | Polos, Shorts, Swim | Active lifestyle, vacation |
+| **Pierre Cardin** | Linen suits, Light shirts | Business casual, summer elegance |
+| **Cacharel** | Floral dresses, Light fabrics | Romantic summer, garden party |
+
+### SS Visual Themes
+
+| Month | Window Theme | Color Story |
+|-------|--------------|-------------|
+| March | Spring Awakening | Pastels, Fresh greens |
+| April | Bloom | Florals, Bright colors |
+| May | Garden Party | Soft pinks, Natural tones |
+| June | Summer Escape | Blues, Whites, Nautical |
+| July | Beach & Resort | Vibrant colors, Tropical |
+
+
+## Key Commercial Moments
+
+### Tier 1 Commercial Moments (Must Execute)
+
+| Event | Date | Duration | Priority |
+|-------|------|----------|----------|
+| **SS Season Launch** | Early March | 2 weeks | Critical |
+| **Black Friday** | 4th Friday Nov | 4-7 days | Critical |
+| **FW Season Launch** | Early September | 2 weeks | Critical |
+| **Holiday/Year-End** | Dec 15-31 | 2 weeks | Critical |
+
+### Tier 2 Commercial Moments (Recommended)
+
+| Event | Date | Duration | Priority |
+|-------|------|----------|----------|
+| **Valentine's Day** | Feb 14 | 1 week | High |
+| **Mother's Day** | 2nd Sunday May | 1 week | High |
+| **Summer Sale** | Early July | 3-4 weeks | High |
+| **Back to School** | Mid-Aug | 3 weeks | High |
+
+### Tier 3 Commercial Moments (Optional/Regional)
+
+| Event | Date | Region | Priority |
+|-------|------|--------|----------|
+| **Ramadan/Eid** | Varies | KSA, Morocco | Critical (Regional) |
+| **Singles Day** | Nov 11 | All | Medium |
+| **Father's Day** | 3rd Sunday June | All | Medium |
+| **Halloween** | Oct 31 | Balkans | Low |
+
+### Commercial Moment Planning Template
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              COMMERCIAL MOMENT PLANNING                          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  Event: _______________________                                  │
+│  Date(s): _______________________                                │
+│  Duration: _______________________                               │
+│                                                                  │
+│  MARKETING ELEMENTS                                              │
+│  □ Window Display Update                                         │
+│  □ In-Store POSM                                                 │
+│  □ Digital/Social Campaign                                       │
+│  □ Email Campaign                                                │
+│  □ Special Promotion/Offer                                       │
+│  □ Staff Training                                                │
+│                                                                  │
+│  TARGETS                                                         │
+│  Sales Target: $_____________                                    │
+│  Traffic Target: ____________                                    │
+│  Conversion Target: ________%                                    │
+│                                                                  │
+│  RESOURCES NEEDED                                                │
+│  Budget: $_____________                                          │
+│  Staff: _______________                                          │
+│  Inventory Focus: _______________________                        │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+## Planning Timeline
+
+### Annual Planning Cycle
+
+```
+October-November (Y-1)
+├── Annual calendar draft
+├── Budget planning
+└── Agency briefings
+
+December (Y-1)
+├── Calendar finalization
+├── Asset production start
+└── Regional adaptation meetings
+
+January
+├── Q1 campaign materials ready
+├── SS preview preparations
+└── Regional calendars confirmed
+
+Monthly (Ongoing)
+├── Monthly review meetings
+├── Next month preparations
+└── Performance tracking
+```
+
+### Campaign Lead Times
+
+| Campaign Type | Lead Time | Key Milestones |
+|---------------|-----------|----------------|
+| **Season Launch** | 12 weeks | Brief → Creative → Production → Delivery |
+| **Major Promotion** | 8 weeks | Brief → Approval → Production → Distribution |
+| **Standard Campaign** | 6 weeks | Brief → Assets → Store Implementation |
+| **Quick Response** | 2 weeks | Approval → Digital Assets Only |
+
+### Monthly Planning Checklist
+
+- [ ] Review next month's calendar activities
+- [ ] Confirm POSM delivery dates
+- [ ] Brief store teams on upcoming campaigns
+- [ ] Verify inventory alignment with promotions
+- [ ] Coordinate regional adaptations
+- [ ] Set performance targets
+- [ ] Schedule review meetings
+
+
+## Process Steps
+
+### Annual Calendar Creation Process
+
+```
+Step 1: Review Previous Year Performance
+        ↓
+Step 2: Identify Key Dates and Events
+        ↓
+Step 3: Draft Calendar Framework
+        ↓
+Step 4: Regional Input and Adaptation
+        ↓
+Step 5: Budget Allocation by Period
+        ↓
+Step 6: Campaign Brief Development
+        ↓
+Step 7: Asset Production Planning
+        ↓
+Step 8: Final Calendar Approval
+        ↓
+Step 9: Distribution to All Stakeholders
+        ↓
+Step 10: Monthly Review and Adjustment
+```
+
+### Campaign Execution Process
+
+```
+1. Calendar Alert (4 weeks before)
+       ↓
+2. Receive Campaign Brief
+       ↓
+3. Review Assets and Materials
+       ↓
+4. Plan Local Implementation
+       ↓
+5. Receive POSM and Materials
+       ↓
+6. Staff Training and Briefing
+       ↓
+7. Store Setup (day before)
+       ↓
+8. Campaign Launch
+       ↓
+9. Daily Monitoring
+       ↓
+10. Campaign Close and Reporting
+```
+
+
+## KPIs
+
+### Calendar Performance KPIs
+
+| KPI | Formula | Target | Frequency |
+|-----|---------|--------|-----------|
+| **Campaign Execution Rate** | Campaigns Executed / Campaigns Planned × 100 | 100% | Monthly |
+| **On-Time Launch Rate** | On-Time Launches / Total Launches × 100 | 95% | Monthly |
+| **Sales vs. Target** | Actual Sales / Target Sales × 100 | ≥100% | Per Campaign |
+| **Traffic vs. LY** | This Year Traffic / Last Year Traffic × 100 | >100% | Weekly |
+| **Seasonal Sell-Through** | Units Sold / Units Bought × 100 | >70% | End of Season |
+
+### Commercial Moment Performance
+
+| Metric | Calculation | Benchmark |
+|--------|-------------|-----------|
+| **Black Friday Sales Lift** | BF Sales / Normal Week Sales | 3x+ |
+| **Holiday Season Share** | Dec Sales / Annual Sales | 15%+ |
+| **Season Launch Week** | Launch Week / Normal Week | 2x+ |
+| **Sale Period Efficiency** | Sale Margin / Regular Margin | >50% |
+
+### Calendar Review Template
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              MONTHLY CALENDAR REVIEW                             │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  Month: _______________ Year: ___________                        │
+│                                                                  │
+│  CAMPAIGNS EXECUTED                                              │
+│  Planned: _____ Executed: _____ Success Rate: _____%             │
+│                                                                  │
+│  SALES PERFORMANCE                                               │
+│  Target: $_________ Actual: $_________ Achievement: _____%       │
+│                                                                  │
+│  KEY LEARNINGS                                                   │
+│  What worked: _________________________________                  │
+│  What didn't: _________________________________                  │
+│  Recommendations: ____________________________                   │
+│                                                                  │
+│  NEXT MONTH PREVIEW                                              │
+│  Key Events: _________________________________                   │
+│  Focus Areas: ________________________________                   │
+│  Preparation Status: _________________________                   │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+### Issue 2: Regional Calendar Conflicts
+
+**Symptom:** Global campaign timing conflicts with regional events.
+
+**Causes:**
+- Islamic calendar variation
+- Local holidays not considered
+- Regional market differences
+
+**Solution:**
+1. Submit regional calendar conflicts early (Q4 previous year)
+2. Request timing adaptation from HQ
+3. Propose alternative execution dates
+4. Document conflicts for future planning
+
+
+### Issue 4: Campaign Fatigue
+
+**Symptom:** Declining response to repeated promotional messages.
+
+**Causes:**
+- Too many campaigns
+- Lack of variety in messaging
+- Over-communication
+
+**Solution:**
+1. Space campaigns appropriately
+2. Vary messaging and creative
+3. Segment audience for targeted communications
+4. Focus on quality over quantity
+
+
+## Revision History
+
+| Version | Date | Changes | Prepared by |
+|---------|------|---------|-------------|
+| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group |
+
+
+---
+
+## SECTION 4: CAMPAIGN-EXECUTION-GUIDE-EN
 
 ﻿---
 layout: default
@@ -1020,7 +1764,596 @@ Monitor Impact
 
 ---
 
-## SECTION 3: DIGITAL-ASSETS-USAGE-EN
+## SECTION 5: POSM-GUIDELINE-EN
+
+﻿---
+layout: default
+title: "POSM Guidelines"
+parent: Marketing
+
+## Table of Contents
+
+1. [Purpose](#purpose)
+2. [Scope](#scope)
+3. [Definitions](#definitions)
+4. [Responsibilities](#responsibilities)
+5. [POSM Categories](#posm-categories)
+6. [Placement Standards](#placement-standards)
+7. [Installation Guidelines](#installation-guidelines)
+8. [Maintenance Standards](#maintenance-standards)
+9. [Campaign POSM Management](#campaign-posm-management)
+10. [Quality Standards](#quality-standards)
+11. [Process Steps](#process-steps)
+12. [Standards & Rules](#standards--rules)
+13. [Common Issues & Solutions](#common-issues--solutions)
+14. [Revision History](#revision-history)
+
+
+## Scope
+
+### Who This Document Covers
+
+- **Store Staff:** Installation and daily maintenance
+- **Store Managers:** POSM management and compliance
+- **Regional Managers:** Multi-store POSM coordination
+- **Trade Marketing Team:** POSM design and production
+- **External Suppliers:** Production and delivery partners
+
+### POSM Types Covered
+
+1. Window displays
+2. In-store signage
+3. Counter displays
+4. Floor graphics
+5. Hanging elements
+6. Product displays
+7. Seasonal decorations
+8. Promotional materials
+
+
+## Responsibilities
+
+### Store Staff
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Installation | Install POSM according to guidelines | Per campaign |
+| Daily Check | Ensure POSM is clean and properly displayed | Daily |
+| Reporting | Report damaged or missing materials | As identified |
+| Removal | Remove expired POSM promptly | As directed |
+
+### Store Manager
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Inventory Management | Track POSM inventory and condition | Weekly |
+| Quality Control | Ensure all POSM meets standards | Daily |
+| Installation Oversight | Supervise proper installation | Per campaign |
+| Order Management | Submit POSM orders and requests | As needed |
+| Compliance | Ensure brand guideline compliance | Ongoing |
+
+### Regional Manager
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Distribution Coordination | Coordinate POSM delivery to stores | Per campaign |
+| Compliance Audits | Audit POSM standards across stores | Monthly |
+| Budget Management | Manage regional POSM budget | Quarterly |
+| Performance Review | Analyze POSM effectiveness | Per campaign |
+
+### HQ Trade Marketing
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| POSM Design | Create campaign POSM designs | Per campaign |
+| Production Management | Coordinate with suppliers | Per campaign |
+| Quality Assurance | Ensure production quality | Per order |
+| Distribution Planning | Plan POSM allocation to stores | Per campaign |
+| Guidelines Updates | Update POSM standards | As needed |
+
+
+## Placement Standards
+
+### Window Display Layout
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                     WINDOW DISPLAY ZONES                         │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  ┌─────────────────────────────────────────────────────────┐    │
+│  │                                                         │    │
+│  │    UPPER ZONE (Brand/Campaign Header)                   │    │
+│  │    └── Logo, Campaign name, Tagline                     │    │
+│  │        Height: Top 20% of window                        │    │
+│  │                                                         │    │
+│  ├─────────────────────────────────────────────────────────┤    │
+│  │                                                         │    │
+│  │    FOCAL ZONE (Main Visual)                             │    │
+│  │    └── Hero image, Key message                          │    │
+│  │        Height: Middle 50% (145-175cm from ground)       │    │
+│  │                                                         │    │
+│  ├─────────────────────────────────────────────────────────┤    │
+│  │                                                         │    │
+│  │    PRODUCT ZONE (Featured Products)                     │    │
+│  │    └── Mannequins, Product displays                     │    │
+│  │        Height: Lower 30%                                │    │
+│  │                                                         │    │
+│  └─────────────────────────────────────────────────────────┘    │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### In-Store POSM Placement
+
+| POSM Type | Location | Height | Quantity |
+|-----------|----------|--------|----------|
+| **Ceiling Danglers** | Above hero product areas | 2.2-2.5m from floor | 2-4 per zone |
+| **Floor Stickers** | Entry path, key locations | Floor level | 3-5 per store |
+| **Shelf Talkers** | Promotional product shelves | At product level | All promotional SKUs |
+| **Header Boards** | Above key fixtures | Top of fixture | 1 per promoted fixture |
+| **Counter Display** | Checkout area | Counter height | 1-2 per checkout |
+
+### Floor Plan POSM Distribution
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                     TYPICAL STORE LAYOUT                         │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  ┌─────────────────────────────────────────────────────────┐    │
+│  │                    [WINDOW DISPLAY]                      │    │
+│  │                  Poster A1 + Mannequins                  │    │
+│  └─────────────────────────────────────────────────────────┘    │
+│                           │                                      │
+│                     [Floor Sticker]                              │
+│                           │                                      │
+│  ┌──────────┐        ┌────┴────┐        ┌──────────┐            │
+│  │   WALL   │[Dangler]│  MAIN  │[Dangler]│   WALL   │            │
+│  │ FIXTURE  │        │  AISLE  │        │ FIXTURE  │            │
+│  │[Header]  │        │         │        │[Header]  │            │
+│  │[Talkers] │        │         │        │[Talkers] │            │
+│  └──────────┘        └─────────┘        └──────────┘            │
+│                           │                                      │
+│                     [Floor Sticker]                              │
+│                           │                                      │
+│                    ┌──────┴──────┐                               │
+│                    │   CHECKOUT  │                               │
+│                    │ [Counter Display]                           │
+│                    └─────────────┘                               │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+## Maintenance Standards
+
+### Daily Maintenance Routine
+
+| Task | Responsibility | Checklist Item |
+|------|----------------|----------------|
+| Visual Check | Opening staff | All POSM visible and presentable |
+| Cleaning | As needed | Dust, fingerprints removed |
+| Alignment | As needed | Straighten any shifted materials |
+| Damage Check | All staff | Report any damage immediately |
+| Inventory | Store Manager | All POSM present and accounted for |
+
+### Weekly Maintenance Tasks
+
+- [ ] Thorough cleaning of all POSM
+- [ ] Check for fading or wear
+- [ ] Verify all materials still securely installed
+- [ ] Inspect floor stickers for lifting edges
+- [ ] Check dangler suspension integrity
+- [ ] Review counter display condition
+- [ ] Update any time-sensitive messaging
+
+### POSM Condition Assessment
+
+| Condition | Action | Timeline |
+|-----------|--------|----------|
+| **Good** | Maintain current state | Continue use |
+| **Minor wear** | Clean/repair if possible | Within 24 hours |
+| **Significant damage** | Replace | Request immediately |
+| **Safety concern** | Remove immediately | Instant |
+| **Outdated content** | Replace/remove | Same day |
+
+
+## Quality Standards
+
+### Visual Quality Requirements
+
+| Aspect | Standard |
+|--------|----------|
+| **Print Quality** | Sharp, clear images; no pixelation |
+| **Color Accuracy** | Match brand color specifications |
+| **Text Legibility** | Readable from intended distance |
+| **Material Quality** | Appropriate weight and finish |
+| **Finishing** | Clean cuts, proper lamination |
+
+### Brand Compliance Requirements
+
+- Correct logo placement and size
+- Approved brand colors only
+- Authorized typography
+- Approved messaging and copy
+- Proper legal disclaimers where required
+
+### Safety Standards
+
+| POSM Type | Safety Requirement |
+|-----------|-------------------|
+| **Floor Graphics** | Anti-slip laminate required |
+| **Hanging Elements** | Secure attachment, weight limit observed |
+| **Standing Displays** | Stable base, no tip hazard |
+| **Window Elements** | No vision obstruction at eye level |
+| **Counter Displays** | Stable, non-obstructive |
+
+
+## Standards & Rules
+
+### Mandatory POSM Rules
+
+1. **Installation:** All campaign POSM must be installed by launch date
+2. **Completeness:** All kit items must be displayed (no partial execution)
+3. **Placement:** Follow exact placement guidelines provided
+4. **Quality:** No damaged or defaced POSM to be displayed
+5. **Currency:** Only current campaign POSM to be shown
+6. **Removal:** Previous campaign POSM removed before new installation
+7. **Safety:** All safety standards must be met
+
+### Prohibited Actions
+
+- Modifying POSM design or messaging
+- Installing POSM in unauthorized locations
+- Using POSM from other brands or campaigns
+- Keeping expired POSM on display
+- Damaging or defacing POSM
+- Using personal or handwritten signage
+- Blocking safety features with POSM
+
+### POSM Disposal Guidelines
+
+| Material Type | Disposal Method |
+|---------------|-----------------|
+| Paper/cardboard | Recycle |
+| Vinyl/plastic | Dispose per local regulations |
+| Foamboard | Dispose per local regulations |
+| Reusable frames | Return to warehouse |
+| Hardware (hooks, stands) | Keep for reuse |
+
+
+### Issue 2: POSM Doesn't Fit Store Layout
+
+**Symptom:** Standard POSM size doesn't work in store.
+
+**Solutions:**
+1. Review placement guidelines for alternatives
+2. Request custom-sized POSM (4+ weeks lead time)
+3. Use smaller alternative from kit
+4. Consult Regional Manager for approved adjustments
+
+
+### Issue 4: Inconsistent Installation Across Stores
+
+**Symptom:** Regional audit shows varying POSM quality.
+
+**Solutions:**
+1. Conduct retraining session
+2. Provide photographic examples
+3. Implement installation checklist
+4. Schedule follow-up compliance check
+
+
+## Revision History
+
+| Version | Date | Changes | Prepared by |
+|---------|------|---------|-------------|
+| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group Trade Marketing |
+
+
+---
+
+## SECTION 6: IN-STORE-COMMUNICATION-GUIDE-EN
+
+﻿---
+layout: default
+title: "In-Store Communication Guide"
+parent: Marketing
+
+## Table of Contents
+
+1. [Purpose](#purpose)
+2. [Scope](#scope)
+3. [Definitions](#definitions)
+4. [Responsibilities](#responsibilities)
+5. [Communication Hierarchy](#communication-hierarchy)
+6. [Signage Standards](#signage-standards)
+7. [Price Communication](#price-communication)
+8. [Promotional Messaging](#promotional-messaging)
+9. [Digital In-Store Communication](#digital-in-store-communication)
+10. [Staff Communication Guidelines](#staff-communication-guidelines)
+11. [Process Steps](#process-steps)
+12. [Standards & Rules](#standards--rules)
+13. [Common Issues & Solutions](#common-issues--solutions)
+14. [Revision History](#revision-history)
+
+
+## Scope
+
+### Who This Document Covers
+
+- **Store Staff:** Verbal customer communication
+- **Store Managers:** Communication oversight and compliance
+- **Visual Merchandising:** Signage installation and placement
+- **Marketing Teams:** Communication content creation
+- **Regional Managers:** Multi-store communication standards
+
+### Communication Types Covered
+
+1. Permanent signage
+2. Promotional signage
+3. Price communication
+4. Digital displays
+5. Staff verbal communication
+6. Audio announcements
+7. Receipt messaging
+8. Fitting room communication
+
+
+## Responsibilities
+
+### Store Staff
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Verbal Communication | Deliver consistent brand messaging to customers | Every interaction |
+| Signage Maintenance | Keep all signage clean and properly positioned | Daily |
+| Information Accuracy | Ensure displayed information is current | Daily |
+| Customer Queries | Answer questions using approved information | As needed |
+
+### Store Manager
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Communication Audit | Review all in-store communication | Weekly |
+| Staff Training | Train team on communication standards | Ongoing |
+| Update Implementation | Ensure timely communication updates | Per campaign |
+| Compliance Check | Verify all messaging meets standards | Daily |
+
+### Regional Manager
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Standards Enforcement | Ensure communication consistency | Monthly |
+| Training Coordination | Coordinate regional communication training | Quarterly |
+| Issue Resolution | Address communication-related issues | As needed |
+| Performance Review | Assess communication effectiveness | Monthly |
+
+### HQ Marketing Team
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Content Development | Create all communication content | Per campaign |
+| Guidelines Update | Maintain communication standards | Ongoing |
+| Training Materials | Develop communication training | As needed |
+| Quality Assurance | Review communication compliance | Monthly |
+
+
+## Signage Standards
+
+### Permanent Signage
+
+| Element | Specifications | Placement |
+|---------|----------------|-----------|
+| **Store Fascia** | Brand name + logo | External, above entrance |
+| **Department Headers** | Category name | Above relevant sections |
+| **Fitting Room Sign** | "Fitting Room" | At fitting room entrance |
+| **Checkout Sign** | "Cashier" / "Checkout" | Above checkout counter |
+| **Exit Sign** | Emergency exit marking | Per building code |
+
+### Promotional Signage
+
+| Type | Standard Size | Material | Duration |
+|------|---------------|----------|----------|
+| **Campaign Poster** | A1, A2 | Coated paper | Campaign period |
+| **Sale Banner** | Custom | Vinyl/fabric | Sale period |
+| **Shelf Talker** | 10×15cm | Card stock | Promotion period |
+| **Floor Sticker** | 50×50cm | Anti-slip vinyl | 4-6 weeks |
+| **Counter Card** | A5 | Card stock | Promotion period |
+
+### Signage Design Standards
+
+**Typography:**
+- Primary font: Brand-approved typeface
+- Minimum size: 14pt for body, 24pt for headers
+- High contrast for readability
+
+**Colors:**
+- Brand primary colors for key messaging
+- High visibility for promotional offers
+- Consistent color coding per message type
+
+**Layout:**
+```
+┌─────────────────────────────────────────┐
+│ [LOGO]                    [CAMPAIGN]    │
+├─────────────────────────────────────────┤
+│                                         │
+│         MAIN MESSAGE                    │
+│         (Largest element)               │
+│                                         │
+├─────────────────────────────────────────┤
+│     Supporting information              │
+│     Terms & conditions (smaller)        │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+
+## Promotional Messaging
+
+### Promotional Message Types
+
+| Message Type | Purpose | Example |
+|--------------|---------|---------|
+| **Discount** | Communicate savings | "30% OFF Selected Items" |
+| **Bundle** | Encourage multiple purchase | "Buy 2, Get 1 Free" |
+| **Gift with Purchase** | Add value | "Free Gift with $100 Purchase" |
+| **Limited Time** | Create urgency | "This Weekend Only" |
+| **New Arrival** | Highlight newness | "Just Arrived" |
+| **Loyalty** | Reward members | "Members Save Extra 10%" |
+
+### Promotional Messaging Guidelines
+
+**Do's:**
+- Clear, simple language
+- Prominent pricing/discount display
+- Terms and conditions visible
+- Consistent messaging across all touchpoints
+- Start and end dates displayed
+
+**Don'ts:**
+- Misleading claims
+- Hidden terms
+- Conflicting messages
+- Handwritten promotional signs
+- Expired promotional materials
+
+### Promotional Display Hierarchy
+
+```
+1. PRIMARY: Discount/Offer (Largest)
+   └── "50% OFF"
+
+2. SECONDARY: Product/Category
+   └── "All Winter Jackets"
+
+3. TERTIARY: Terms/Conditions
+   └── "Selected styles. While stocks last."
+
+4. VALIDITY: Dates
+   └── "Nov 25 - Dec 3"
+```
+
+
+## Staff Communication Guidelines
+
+### Customer Greeting
+
+**Standard Greeting:**
+```
+"Welcome to [Brand Name]! 
+Is there anything specific I can help you find today?"
+```
+
+**Regional Adaptations:**
+- KSA: Arabic greeting, appropriate formality
+- Morocco: Bilingual option (Arabic/French)
+- Balkans: Local language, English as backup
+
+### Key Talking Points
+
+| Topic | Key Message |
+|-------|-------------|
+| **Brand Story** | Heritage, quality, style for [target customer] |
+| **Current Campaign** | [Campaign name] - key products and offers |
+| **Loyalty Program** | Benefits, sign-up, current member offers |
+| **Services** | Alterations, gift wrapping, delivery options |
+| **Return Policy** | 14-day return with receipt |
+
+### Handling Customer Questions
+
+**Product Questions:**
+- Use product knowledge training
+- Refer to product tags for details
+- Check stock system for availability
+- Offer alternatives if item unavailable
+
+**Pricing Questions:**
+- Only quote displayed/POS prices
+- Explain promotional terms clearly
+- Escalate pricing disputes to manager
+
+**Complaint Handling:**
+- Listen without interrupting
+- Apologize for inconvenience
+- Offer solution within authority
+- Escalate if unable to resolve
+
+
+## Standards & Rules
+
+### Communication Standards
+
+| Aspect | Standard |
+|--------|----------|
+| **Language** | Clear, professional, brand-appropriate |
+| **Accuracy** | All information must be verified and current |
+| **Consistency** | Same message across all touchpoints |
+| **Timeliness** | Updates implemented by specified dates |
+| **Compliance** | Meet all regulatory and brand requirements |
+
+### Prohibited Communications
+
+| Category | Prohibited Elements |
+|----------|---------------------|
+| **Inaccurate** | Wrong prices, expired offers, false claims |
+| **Unprofessional** | Handwritten signs, damaged materials |
+| **Unauthorized** | Non-approved messaging or designs |
+| **Offensive** | Any discriminatory or inappropriate content |
+| **Competitor** | References to competitor brands |
+
+### Regulatory Compliance
+
+| Region | Key Requirements |
+|--------|-----------------|
+| **All Regions** | Price accuracy, clear terms, fair advertising |
+| **KSA** | Arabic language mandatory, modest imagery |
+| **Morocco** | Bilingual requirements where applicable |
+| **Balkans** | Local language requirements, EU standards |
+
+
+### Issue 2: Outdated Promotional Materials
+
+**Symptom:** Expired campaign materials still displayed.
+
+**Prevention:**
+- Campaign end date checklist
+- Calendar reminders for material removal
+- Clear storage vs. disposal guidelines
+
+**Solutions:**
+1. Remove immediately when identified
+2. Audit all promotional materials
+3. Implement removal verification process
+
+
+### Issue 4: Digital Signage Not Working
+
+**Symptom:** Screens blank or showing wrong content.
+
+**Immediate Actions:**
+1. Check power connection
+2. Restart display
+3. Verify network connection
+4. Report to IT support
+
+**Backup:**
+- Have printed backup materials available
+- Use static display mode if available
+
+
+## Revision History
+
+| Version | Date | Changes | Prepared by |
+|---------|------|---------|-------------|
+| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group Retail Marketing |
+
+
+---
+
+## SECTION 7: DIGITAL-ASSETS-USAGE-EN
 
 ﻿---
 layout: default
@@ -1370,11 +2703,11 @@ Step 10: Use Asset per Guidelines
 
 ---
 
-## SECTION 4: IN-STORE-COMMUNICATION-GUIDE-EN
+## SECTION 8: SOCIAL-MEDIA-LOCALIZATION-GUIDE-EN
 
 ﻿---
 layout: default
-title: "In-Store Communication Guide"
+title: "Social Media Localization Guide"
 parent: Marketing
 
 ## Table of Contents
@@ -1383,293 +2716,290 @@ parent: Marketing
 2. [Scope](#scope)
 3. [Definitions](#definitions)
 4. [Responsibilities](#responsibilities)
-5. [Communication Hierarchy](#communication-hierarchy)
-6. [Signage Standards](#signage-standards)
-7. [Price Communication](#price-communication)
-8. [Promotional Messaging](#promotional-messaging)
-9. [Digital In-Store Communication](#digital-in-store-communication)
-10. [Staff Communication Guidelines](#staff-communication-guidelines)
+5. [Platform Strategy by Region](#platform-strategy-by-region)
+6. [Content Localization](#content-localization)
+7. [Language Guidelines](#language-guidelines)
+8. [Cultural Considerations](#cultural-considerations)
+9. [Hashtag Strategy](#hashtag-strategy)
+10. [Community Management](#community-management)
 11. [Process Steps](#process-steps)
 12. [Standards & Rules](#standards--rules)
-13. [Common Issues & Solutions](#common-issues--solutions)
-14. [Revision History](#revision-history)
+13. [KPIs](#kpis)
+14. [Common Issues & Solutions](#common-issues--solutions)
+15. [Revision History](#revision-history)
 
 
 ## Scope
 
-### Who This Document Covers
+### Brands Covered
 
-- **Store Staff:** Verbal customer communication
-- **Store Managers:** Communication oversight and compliance
-- **Visual Merchandising:** Signage installation and placement
-- **Marketing Teams:** Communication content creation
-- **Regional Managers:** Multi-store communication standards
-
-### Communication Types Covered
-
-1. Permanent signage
-2. Promotional signage
-3. Price communication
-4. Digital displays
-5. Staff verbal communication
-6. Audio announcements
-7. Receipt messaging
-8. Fitting room communication
+- U.S. Polo Assn.
+- Pierre Cardin
+- Cacharel
 
 
 ## Responsibilities
-
-### Store Staff
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Verbal Communication | Deliver consistent brand messaging to customers | Every interaction |
-| Signage Maintenance | Keep all signage clean and properly positioned | Daily |
-| Information Accuracy | Ensure displayed information is current | Daily |
-| Customer Queries | Answer questions using approved information | As needed |
 
 ### Store Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
-| Communication Audit | Review all in-store communication | Weekly |
-| Staff Training | Train team on communication standards | Ongoing |
-| Update Implementation | Ensure timely communication updates | Per campaign |
-| Compliance Check | Verify all messaging meets standards | Daily |
+| Local Monitoring | Monitor store-tagged content | Daily |
+| Content Support | Support local content creation requests | As needed |
+| Feedback | Report local engagement trends | Weekly |
 
-### Regional Manager
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Standards Enforcement | Ensure communication consistency | Monthly |
-| Training Coordination | Coordinate regional communication training | Quarterly |
-| Issue Resolution | Address communication-related issues | As needed |
-| Performance Review | Assess communication effectiveness | Monthly |
-
-### HQ Marketing Team
+### Regional Marketing Manager
 
 | Task | Description | Frequency |
 |------|-------------|-----------|
-| Content Development | Create all communication content | Per campaign |
-| Guidelines Update | Maintain communication standards | Ongoing |
-| Training Materials | Develop communication training | As needed |
-| Quality Assurance | Review communication compliance | Monthly |
+| Content Localization | Adapt global content for region | Per campaign |
+| Community Management | Oversee regional social accounts | Daily |
+| Influencer Coordination | Manage regional influencer partnerships | Ongoing |
+| Performance Analysis | Analyze regional social metrics | Weekly |
+
+### HQ Social Media Team
+
+| Task | Description | Frequency |
+|------|-------------|-----------|
+| Global Strategy | Set global social media direction | Quarterly |
+| Content Creation | Create global content templates | Per campaign |
+| Brand Guidelines | Maintain social brand guidelines | Ongoing |
+| Performance Review | Review global social performance | Monthly |
 
 
-## Signage Standards
+## Content Localization
 
-### Permanent Signage
-
-| Element | Specifications | Placement |
-|---------|----------------|-----------|
-| **Store Fascia** | Brand name + logo | External, above entrance |
-| **Department Headers** | Category name | Above relevant sections |
-| **Fitting Room Sign** | "Fitting Room" | At fitting room entrance |
-| **Checkout Sign** | "Cashier" / "Checkout" | Above checkout counter |
-| **Exit Sign** | Emergency exit marking | Per building code |
-
-### Promotional Signage
-
-| Type | Standard Size | Material | Duration |
-|------|---------------|----------|----------|
-| **Campaign Poster** | A1, A2 | Coated paper | Campaign period |
-| **Sale Banner** | Custom | Vinyl/fabric | Sale period |
-| **Shelf Talker** | 10×15cm | Card stock | Promotion period |
-| **Floor Sticker** | 50×50cm | Anti-slip vinyl | 4-6 weeks |
-| **Counter Card** | A5 | Card stock | Promotion period |
-
-### Signage Design Standards
-
-**Typography:**
-- Primary font: Brand-approved typeface
-- Minimum size: 14pt for body, 24pt for headers
-- High contrast for readability
-
-**Colors:**
-- Brand primary colors for key messaging
-- High visibility for promotional offers
-- Consistent color coding per message type
-
-**Layout:**
-```
-┌─────────────────────────────────────────┐
-│ [LOGO]                    [CAMPAIGN]    │
-├─────────────────────────────────────────┤
-│                                         │
-│         MAIN MESSAGE                    │
-│         (Largest element)               │
-│                                         │
-├─────────────────────────────────────────┤
-│     Supporting information              │
-│     Terms & conditions (smaller)        │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-
-## Promotional Messaging
-
-### Promotional Message Types
-
-| Message Type | Purpose | Example |
-|--------------|---------|---------|
-| **Discount** | Communicate savings | "30% OFF Selected Items" |
-| **Bundle** | Encourage multiple purchase | "Buy 2, Get 1 Free" |
-| **Gift with Purchase** | Add value | "Free Gift with $100 Purchase" |
-| **Limited Time** | Create urgency | "This Weekend Only" |
-| **New Arrival** | Highlight newness | "Just Arrived" |
-| **Loyalty** | Reward members | "Members Save Extra 10%" |
-
-### Promotional Messaging Guidelines
-
-**Do's:**
-- Clear, simple language
-- Prominent pricing/discount display
-- Terms and conditions visible
-- Consistent messaging across all touchpoints
-- Start and end dates displayed
-
-**Don'ts:**
-- Misleading claims
-- Hidden terms
-- Conflicting messages
-- Handwritten promotional signs
-- Expired promotional materials
-
-### Promotional Display Hierarchy
+### Localization Framework
 
 ```
-1. PRIMARY: Discount/Offer (Largest)
-   └── "50% OFF"
-
-2. SECONDARY: Product/Category
-   └── "All Winter Jackets"
-
-3. TERTIARY: Terms/Conditions
-   └── "Selected styles. While stocks last."
-
-4. VALIDITY: Dates
-   └── "Nov 25 - Dec 3"
+┌─────────────────────────────────────────────────────────────────┐
+│                 CONTENT LOCALIZATION PROCESS                     │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  GLOBAL CONTENT                                                  │
+│  ├── Core message and visuals                                    │
+│  ├── Brand guidelines compliance                                 │
+│  └── Campaign objectives                                         │
+│           ↓                                                      │
+│  REGIONAL ADAPTATION                                             │
+│  ├── Language translation/transcreation                          │
+│  ├── Cultural modifications                                      │
+│  ├── Local reference additions                                   │
+│  └── Timing adjustments                                          │
+│           ↓                                                      │
+│  LOCAL EXECUTION                                                 │
+│  ├── Platform-specific formatting                                │
+│  ├── Local hashtags                                              │
+│  ├── Community engagement                                        │
+│  └── Performance tracking                                        │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
+### Content Types and Localization Level
 
-## Staff Communication Guidelines
+| Content Type | Localization Level | Approval Required |
+|--------------|-------------------|-------------------|
+| Brand campaign | Translation + cultural review | HQ |
+| Product launch | Translation + local pricing | Regional |
+| Seasonal content | Full localization | Regional |
+| Promotional offers | Translation + legal compliance | Regional |
+| UGC reposts | Caption localization | Store/Regional |
+| Stories/Reels | Template adaptation | Regional |
 
-### Customer Greeting
+### Visual Localization
 
-**Standard Greeting:**
+| Element | Localization Approach |
+|---------|----------------------|
+| **Product Images** | Adjust for local preferences (styling) |
+| **Lifestyle Images** | Use culturally appropriate settings |
+| **Models** | Ensure representation matches market |
+| **Text Overlays** | Translate and adjust for RTL if needed |
+| **Colors** | Check cultural color associations |
+
+
+## Cultural Considerations
+
+### KSA Cultural Guidelines
+
+| Area | Guideline |
+|------|-----------|
+| **Imagery** | Modest dress codes; no excessive skin |
+| **Religion** | Respect Islamic practices; Ramadan sensitivity |
+| **Gender** | Consider gender representation norms |
+| **Holidays** | Feature Islamic holidays prominently |
+| **Values** | Family, tradition, quality emphasized |
+
+**Content Do's:**
+✓ Feature family-oriented content
+✓ Respect modest fashion standards
+✓ Celebrate Islamic occasions
+✓ Use aspirational lifestyle imagery
+✓ Highlight quality and heritage
+
+**Content Don'ts:**
+✗ Revealing clothing imagery
+✗ Content during prayer times
+✗ Alcohol or inappropriate references
+✗ Political content
+✗ Content that contradicts Islamic values
+
+### Morocco Cultural Guidelines
+
+| Area | Guideline |
+|------|-----------|
+| **Imagery** | Respect local modesty standards |
+| **Religion** | Islamic considerations apply |
+| **Language** | Arabic-French balance |
+| **Holidays** | Islamic and national holidays |
+| **Style** | European influence appreciated |
+
+### Balkans Cultural Guidelines
+
+| Area | Guideline |
+|------|-----------|
+| **Imagery** | European fashion standards |
+| **Religion** | Respect diverse religious backgrounds |
+| **Language** | Local language priority, English secondary |
+| **Holidays** | Consider Orthodox, Catholic, and Muslim holidays |
+| **Nationalism** | Avoid politically sensitive topics |
+
+
+## Community Management
+
+### Response Time Standards
+
+| Message Type | Target Response Time |
+|--------------|---------------------|
+| **Complaints** | Within 2 hours |
+| **Questions** | Within 4 hours |
+| **Comments (positive)** | Within 24 hours |
+| **Comments (neutral)** | Within 24 hours |
+| **DMs** | Within 4 hours |
+
+### Response Language Guidelines
+
+**General Principles:**
+- Respond in the language used by the customer
+- Maintain brand tone while being personable
+- Never argue publicly
+- Move sensitive issues to DM
+
+**Response Templates (Adapt for language):**
+
+| Situation | Response Template |
+|-----------|-------------------|
+| **Thank You** | "Thank you for your kind words! We're so happy you love [product]. 💙" |
+| **Question** | "Great question! [Answer]. Feel free to DM us if you need more info!" |
+| **Complaint** | "We're sorry to hear this. Please DM us your details so we can help resolve this." |
+| **Store Inquiry** | "You can find us at [location]. Visit us today! [Store hours]" |
+
+### Escalation Protocol
+
 ```
-"Welcome to [Brand Name]! 
-Is there anything specific I can help you find today?"
+Level 1: Standard Response (Store/Regional Team)
+├── Product questions
+├── Store information
+├── General compliments
+└── Simple complaints
+
+Level 2: Regional Manager Review
+├── Persistent complaints
+├── Negative reviews
+├── Influencer interactions
+└── Sensitive topics
+
+Level 3: HQ Escalation
+├── Brand reputation issues
+├── Legal concerns
+├── PR crises
+└── Influencer partnerships
 ```
-
-**Regional Adaptations:**
-- KSA: Arabic greeting, appropriate formality
-- Morocco: Bilingual option (Arabic/French)
-- Balkans: Local language, English as backup
-
-### Key Talking Points
-
-| Topic | Key Message |
-|-------|-------------|
-| **Brand Story** | Heritage, quality, style for [target customer] |
-| **Current Campaign** | [Campaign name] - key products and offers |
-| **Loyalty Program** | Benefits, sign-up, current member offers |
-| **Services** | Alterations, gift wrapping, delivery options |
-| **Return Policy** | 14-day return with receipt |
-
-### Handling Customer Questions
-
-**Product Questions:**
-- Use product knowledge training
-- Refer to product tags for details
-- Check stock system for availability
-- Offer alternatives if item unavailable
-
-**Pricing Questions:**
-- Only quote displayed/POS prices
-- Explain promotional terms clearly
-- Escalate pricing disputes to manager
-
-**Complaint Handling:**
-- Listen without interrupting
-- Apologize for inconvenience
-- Offer solution within authority
-- Escalate if unable to resolve
 
 
 ## Standards & Rules
 
-### Communication Standards
+### Content Standards
 
 | Aspect | Standard |
 |--------|----------|
-| **Language** | Clear, professional, brand-appropriate |
-| **Accuracy** | All information must be verified and current |
-| **Consistency** | Same message across all touchpoints |
-| **Timeliness** | Updates implemented by specified dates |
-| **Compliance** | Meet all regulatory and brand requirements |
+| **Brand Voice** | Consistent with global guidelines, locally adapted |
+| **Visual Quality** | High resolution, well-composed |
+| **Language Quality** | Grammatically correct, appropriate tone |
+| **Accuracy** | All information verified, prices correct |
+| **Timing** | Posted at optimal local times |
 
-### Prohibited Communications
+### Prohibited Content
 
-| Category | Prohibited Elements |
-|----------|---------------------|
-| **Inaccurate** | Wrong prices, expired offers, false claims |
-| **Unprofessional** | Handwritten signs, damaged materials |
-| **Unauthorized** | Non-approved messaging or designs |
-| **Offensive** | Any discriminatory or inappropriate content |
-| **Competitor** | References to competitor brands |
+| Category | Examples |
+|----------|----------|
+| **Political** | Political statements, endorsements |
+| **Religious** | Content that could offend any religion |
+| **Controversial** | Divisive social issues |
+| **Competitor** | Mentioning or comparing to competitors |
+| **Unverified** | Claims without evidence |
+| **Personal** | Staff personal information |
 
-### Regulatory Compliance
+### Approval Matrix
 
-| Region | Key Requirements |
-|--------|-----------------|
-| **All Regions** | Price accuracy, clear terms, fair advertising |
-| **KSA** | Arabic language mandatory, modest imagery |
-| **Morocco** | Bilingual requirements where applicable |
-| **Balkans** | Local language requirements, EU standards |
+| Content Type | Store | Regional | HQ |
+|--------------|-------|----------|-----|
+| Repost global content | ✓ | Review | - |
+| Local promotional post | - | ✓ | Review |
+| Influencer content | - | ✓ | ✓ |
+| Crisis response | - | Review | ✓ |
+| New content type | - | Request | ✓ |
 
 
-### Issue 2: Outdated Promotional Materials
+## Common Issues & Solutions
 
-**Symptom:** Expired campaign materials still displayed.
+### Issue 1: Low Engagement on Localized Content
 
-**Prevention:**
-- Campaign end date checklist
-- Calendar reminders for material removal
-- Clear storage vs. disposal guidelines
+**Symptom:** Localized posts performing below average.
+
+**Causes:**
+- Translation not resonating
+- Cultural mismatch
+- Poor timing
+- Irrelevant content
 
 **Solutions:**
-1. Remove immediately when identified
-2. Audit all promotional materials
-3. Implement removal verification process
+1. Review transcreation quality
+2. Conduct local audience research
+3. Test different posting times
+4. Analyze top-performing local content
+5. Incorporate more UGC
 
 
-### Issue 4: Digital Signage Not Working
+### Issue 3: Cultural Misstep
 
-**Symptom:** Screens blank or showing wrong content.
+**Symptom:** Content receiving negative feedback for cultural reasons.
 
 **Immediate Actions:**
-1. Check power connection
-2. Restart display
-3. Verify network connection
-4. Report to IT support
+1. Remove content immediately
+2. Assess severity and reach
+3. Prepare appropriate response
+4. Escalate to HQ if significant
+5. Document learnings
 
-**Backup:**
-- Have printed backup materials available
-- Use static display mode if available
+**Prevention:**
+- Enhanced cultural review process
+- Local team consultation
+- Cultural calendar awareness
+- Regular team training
 
 
 ## Revision History
 
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
-| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group Retail Marketing |
+| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group Digital Marketing |
 
 
 ---
+---
 
-## SECTION 5: MARKETING-APPROVAL-PROCESS-EN
+## SECTION 9: MARKETING-APPROVAL-PROCESS-EN
 
 ﻿---
 layout: default
@@ -1984,1333 +3314,3 @@ Step 10: Execute (if approved)
 
 
 
----
-
-## SECTION 6: MARKETING-OVERVIEW-EN
-
-﻿---
-layout: default
-title: "Marketing Overview"
-parent: Marketing
-
-## Table of Contents
-
-1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
-2. [Document Snapshot](#document-snapshot)
-3. [Purpose](#purpose)
-4. [Scope](#scope)
-5. [Definitions](#definitions)
-6. [Responsibilities](#responsibilities)
-7. [Marketing Structure](#marketing-structure)
-8. [Brand Marketing Pillars](#brand-marketing-pillars)
-9. [Marketing Calendar Framework](#marketing-calendar-framework)
-10. [Campaign Types](#campaign-types)
-11. [Marketing Channels](#marketing-channels)
-12. [Budget Planning](#budget-planning)
-13. [Performance Measurement](#performance-measurement)
-14. [Process Steps](#process-steps)
-15. [Standards & Rules](#standards--rules)
-16. [KPIs](#kpis)
-17. [Common Issues & Solutions](#common-issues--solutions)
-18. [Revision History](#revision-history)
-
-
-## Document Snapshot
-
-| Field | Details |
-|-------|---------|
-| Purpose | End-to-end marketing framework for franchise markets (brand consistency, ROI, execution discipline). |
-| Scope | Regions: KSA, Morocco, Balkans. Roles: Store Staff, Store Managers, Regional Managers, Franchise Owners, HQ Marketing. |
-| Owners | HQ Marketing (strategy & assets), Regional Marketing (adaptation), Store Managers (execution). |
-| Outputs | Seasonal/promo campaign packs, POSM kits, channel plans, weekly performance reports. |
-| KPI Targets | Awareness +15% YoY; Acquisition +10% YoY; Retention 35%+; Campaign ROI 3:1; Digital Engagement +25%. |
-| Next Review | Quarterly or when brand guidelines change. |
-
-
-## Scope
-
-### Who This Document Covers
-
-- **Store Staff:** Understanding of marketing campaigns and customer communication
-- **Store Managers:** Campaign execution, local marketing coordination
-- **Regional Managers:** Regional marketing strategy and budget management
-- **Franchise Owners:** Marketing investment decisions and ROI tracking
-- **HQ Marketing Team:** Central campaign development and brand management
-
-### Covered Activities
-
-1. Brand marketing and positioning
-2. Seasonal and promotional campaigns
-3. Digital and social media marketing
-4. In-store marketing and POSM
-5. Local market activation
-6. Marketing performance measurement
-
-
-## Responsibilities
-
-### Store Staff
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| POSM Implementation | Display marketing materials correctly | Per campaign |
-| Customer Communication | Inform customers about current promotions | Daily |
-| Campaign Feedback | Report customer reactions and questions | Weekly |
-| Social Media Support | Support local social media content | As requested |
-| Data Collection | Capture customer information for CRM | Every transaction |
-
-### Store Manager
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Campaign Execution | Ensure all campaign elements are implemented | Per campaign |
-| Staff Training | Train team on campaign messaging | Per campaign |
-| Local Coordination | Coordinate with local media and partners | As needed |
-| Performance Tracking | Monitor campaign sales impact | Daily/Weekly |
-| Feedback Reporting | Submit campaign performance reports | Weekly |
-| Budget Management | Manage local marketing expenses | Monthly |
-
-### Regional Manager
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Strategy Implementation | Execute regional marketing strategy | Ongoing |
-| Budget Allocation | Distribute marketing budget across stores | Quarterly |
-| Performance Analysis | Analyze regional marketing performance | Weekly |
-| Local Adaptation | Adapt campaigns for regional requirements | Per campaign |
-| Agency Management | Coordinate with regional marketing agencies | Ongoing |
-| Compliance Audit | Ensure brand guideline compliance | Monthly |
-
-### HQ Marketing Team
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Campaign Development | Create central marketing campaigns | Seasonal |
-| Brand Management | Maintain and evolve brand guidelines | Ongoing |
-| Asset Creation | Produce marketing materials and assets | Per campaign |
-| Performance Analysis | Analyze global marketing performance | Monthly |
-| Budget Planning | Develop annual marketing budget | Annually |
-| Partner Support | Provide marketing support to franchisees | Ongoing |
-
-
-## Brand Marketing Pillars
-
-### U.S. Polo Assn.
-
-**Brand Positioning:** Authentic American lifestyle brand with polo heritage
-
-| Pillar | Description | Key Messages |
-|--------|-------------|--------------|
-| **Heritage** | Authentic connection to polo sport | "The Official Brand of USPA" |
-| **Lifestyle** | American casual lifestyle | "Live Authentically" |
-| **Quality** | Reliable quality at accessible prices | "Quality You Can Trust" |
-| **Versatility** | From sport to street | "Play Your Way" |
-
-**Marketing Tone:**
-- Confident and authentic
-- Sporty yet sophisticated
-- Inclusive and accessible
-- Energetic and optimistic
-
-**Visual Identity:**
-- Primary Colors: Navy, White, Red
-- Secondary Colors: Green, Yellow
-- Imagery: Active lifestyle, polo references, American landscapes
-
-
-### Cacharel
-
-**Brand Positioning:** Romantic, feminine French bohemian style
-
-| Pillar | Description | Key Messages |
-|--------|-------------|--------------|
-| **Romance** | Romantic French aesthetic | "Simply Romantic" |
-| **Femininity** | Celebrating women | "Modern Femininity" |
-| **Nature** | Floral and natural inspirations | "Natural Beauty" |
-| **Joy** | Playful and optimistic | "Joyful Living" |
-
-**Marketing Tone:**
-- Romantic and dreamy
-- Soft and feminine
-- Playful and optimistic
-- Artistic and creative
-
-**Visual Identity:**
-- Primary Colors: Pastels, White, Pink
-- Secondary Colors: Floral patterns, Soft blues
-- Imagery: Gardens, flowers, romantic settings, artistic expressions
-
-
-## Campaign Types
-
-### Tier 1: Major Seasonal Campaigns
-
-| Characteristic | Details |
-|----------------|---------|
-| **Frequency** | 2 per year (SS, FW) |
-| **Duration** | 8-12 weeks |
-| **Budget Allocation** | 40% of annual marketing budget |
-| **Channels** | ATL + BTL + Digital + In-Store |
-| **HQ Support** | Full campaign kit, media planning |
-
-### Tier 2: Promotional Campaigns
-
-| Characteristic | Details |
-|----------------|---------|
-| **Frequency** | 4-6 per year |
-| **Duration** | 1-4 weeks |
-| **Budget Allocation** | 30% of annual marketing budget |
-| **Channels** | BTL + Digital + In-Store |
-| **HQ Support** | Campaign guidelines, POSM templates |
-
-### Tier 3: Local Activations
-
-| Characteristic | Details |
-|----------------|---------|
-| **Frequency** | As needed |
-| **Duration** | Event-specific |
-| **Budget Allocation** | 20% of annual marketing budget |
-| **Channels** | Local media + In-Store |
-| **HQ Support** | Brand guidelines, approval process |
-
-### Always-On Activities
-
-| Characteristic | Details |
-|----------------|---------|
-| **Frequency** | Continuous |
-| **Duration** | Year-round |
-| **Budget Allocation** | 10% of annual marketing budget |
-| **Channels** | Social media, CRM, SEO |
-| **HQ Support** | Content calendar, templates |
-
-
-## Budget Planning
-
-### Annual Budget Structure
-
-| Category | % of Total | Description |
-|----------|------------|-------------|
-| **Media Buying** | 40% | Paid advertising across channels |
-| **Production** | 25% | Content creation, POSM production |
-| **Events** | 15% | Activations, sponsorships |
-| **Agency Fees** | 10% | Creative, media, PR agencies |
-| **Contingency** | 10% | Unexpected opportunities |
-
-### Co-op Marketing Model
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│              CO-OP MARKETING STRUCTURE                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Central Campaigns (HQ Funded)                               │
-│  ├── Global brand assets                                     │
-│  ├── Campaign creative development                           │
-│  └── Core POSM kit                                           │
-│                                                              │
-│  Regional Adaptation (50/50 Split)                           │
-│  ├── Local language adaptation                               │
-│  ├── Regional media buying                                   │
-│  └── Additional POSM quantities                              │
-│                                                              │
-│  Local Activations (Franchise Funded)                        │
-│  ├── Store-specific promotions                               │
-│  ├── Local events                                            │
-│  └── Local partnerships                                      │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### Budget Request Process
-
-1. Submit budget request via Marketing Portal (30 days before)
-2. Regional Manager review (within 5 business days)
-3. HQ approval for requests > $5,000 (within 10 business days)
-4. PO issuance and vendor coordination
-5. Post-activity reconciliation and reporting
-
-
-## Process Steps
-
-### Campaign Execution Process
-
-```
-Step 1: Receive Campaign Brief from HQ
-        ↓
-Step 2: Review Campaign Objectives and KPIs
-        ↓
-Step 3: Assess Local Market Requirements
-        ↓
-Step 4: Submit Localization Requests (if needed)
-        ↓
-Step 5: Receive Marketing Assets and POSM
-        ↓
-Step 6: Brief Store Teams on Campaign
-        ↓
-Step 7: Implement In-Store Setup
-        ↓
-Step 8: Launch Campaign
-        ↓
-Step 9: Monitor Performance Daily
-        ↓
-Step 10: Submit Weekly Performance Reports
-        ↓
-Step 11: Campaign Close and Final Reporting
-```
-
-### Marketing Approval Process
-
-```
-Local Initiative Proposal
-        ↓
-Store Manager Review → Reject → Revise
-        ↓ Approve
-Regional Manager Review → Reject → Revise
-        ↓ Approve
-HQ Marketing Review (if > $5,000) → Reject → Revise
-        ↓ Approve
-Budget Allocation
-        ↓
-Execution
-        ↓
-Post-Activity Report
-```
-
-
-## KPIs
-
-### Marketing Performance KPIs
-
-| KPI | Formula | Target | Frequency |
-|-----|---------|--------|-----------|
-| **ROMI** | (Revenue - Marketing Cost) / Marketing Cost | 3:1 | Per Campaign |
-| **Cost Per Acquisition** | Total Marketing Cost / New Customers | < $25 | Monthly |
-| **Brand Awareness** | Aided Recall % | > 60% | Quarterly |
-| **Social Engagement Rate** | (Likes + Comments + Shares) / Followers × 100 | > 3% | Weekly |
-| **Email Open Rate** | Opens / Delivered × 100 | > 25% | Per Campaign |
-| **CTR** | Clicks / Impressions × 100 | > 2% | Per Campaign |
-| **Conversion Rate** | Conversions / Visitors × 100 | > 3% | Weekly |
-| **Customer Acquisition Cost** | Marketing Spend / New Customers | < $30 | Monthly |
-
-### Campaign ROI Calculation
-
-```
-Campaign ROI = ((Campaign Revenue - Campaign Cost) / Campaign Cost) × 100
-
-Example:
-- Campaign Revenue: $150,000
-- Campaign Cost: $40,000
-- ROI = (($150,000 - $40,000) / $40,000) × 100 = 275%
-```
-
-
-### Issue 2: Low Campaign Awareness
-
-**Symptom:** Customers not aware of ongoing campaign.
-
-**Possible Causes:**
-- Insufficient POSM visibility
-- Staff not briefed properly
-- Marketing reach too limited
-
-**Solution:**
-1. Audit POSM placement and visibility
-2. Re-brief store staff on campaign details
-3. Increase social media promotion
-4. Add window display prominence
-
-
-### Issue 4: Budget Overruns
-
-**Symptom:** Actual marketing spend exceeds budget.
-
-**Possible Causes:**
-- Poor planning
-- Unplanned activities
-- Scope creep
-
-**Solution:**
-1. Review all commitments vs. budget monthly
-2. Require pre-approval for unplanned activities
-3. Build contingency into planning
-4. Track spend weekly during campaigns
-
-
-## Related Documents
-
-- [Brand Guidelines](brand-guideline-en.md)
-- [Seasonal Marketing Calendar](seasonal-marketing-calendar-en.md)
-- [Campaign Execution Guide](campaign-execution-guide-en.md)
-- [Digital Assets Usage](digital-assets-usage-en.md)
-- [POSM Guidelines](posm-guideline-en.md)
-- [Marketing Approval Process](marketing-approval-process-en.md)
-
-
-*This document was prepared by Aydınlı Group.*  
-*© 2025 Aydınlı Group - All rights reserved.*
-
-
-
-
----
-
-## SECTION 7: POSM-GUIDELINE-EN
-
-﻿---
-layout: default
-title: "POSM Guidelines"
-parent: Marketing
-
-## Table of Contents
-
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Definitions](#definitions)
-4. [Responsibilities](#responsibilities)
-5. [POSM Categories](#posm-categories)
-6. [Placement Standards](#placement-standards)
-7. [Installation Guidelines](#installation-guidelines)
-8. [Maintenance Standards](#maintenance-standards)
-9. [Campaign POSM Management](#campaign-posm-management)
-10. [Quality Standards](#quality-standards)
-11. [Process Steps](#process-steps)
-12. [Standards & Rules](#standards--rules)
-13. [Common Issues & Solutions](#common-issues--solutions)
-14. [Revision History](#revision-history)
-
-
-## Scope
-
-### Who This Document Covers
-
-- **Store Staff:** Installation and daily maintenance
-- **Store Managers:** POSM management and compliance
-- **Regional Managers:** Multi-store POSM coordination
-- **Trade Marketing Team:** POSM design and production
-- **External Suppliers:** Production and delivery partners
-
-### POSM Types Covered
-
-1. Window displays
-2. In-store signage
-3. Counter displays
-4. Floor graphics
-5. Hanging elements
-6. Product displays
-7. Seasonal decorations
-8. Promotional materials
-
-
-## Responsibilities
-
-### Store Staff
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Installation | Install POSM according to guidelines | Per campaign |
-| Daily Check | Ensure POSM is clean and properly displayed | Daily |
-| Reporting | Report damaged or missing materials | As identified |
-| Removal | Remove expired POSM promptly | As directed |
-
-### Store Manager
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Inventory Management | Track POSM inventory and condition | Weekly |
-| Quality Control | Ensure all POSM meets standards | Daily |
-| Installation Oversight | Supervise proper installation | Per campaign |
-| Order Management | Submit POSM orders and requests | As needed |
-| Compliance | Ensure brand guideline compliance | Ongoing |
-
-### Regional Manager
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Distribution Coordination | Coordinate POSM delivery to stores | Per campaign |
-| Compliance Audits | Audit POSM standards across stores | Monthly |
-| Budget Management | Manage regional POSM budget | Quarterly |
-| Performance Review | Analyze POSM effectiveness | Per campaign |
-
-### HQ Trade Marketing
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| POSM Design | Create campaign POSM designs | Per campaign |
-| Production Management | Coordinate with suppliers | Per campaign |
-| Quality Assurance | Ensure production quality | Per order |
-| Distribution Planning | Plan POSM allocation to stores | Per campaign |
-| Guidelines Updates | Update POSM standards | As needed |
-
-
-## Placement Standards
-
-### Window Display Layout
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     WINDOW DISPLAY ZONES                         │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  ┌─────────────────────────────────────────────────────────┐    │
-│  │                                                         │    │
-│  │    UPPER ZONE (Brand/Campaign Header)                   │    │
-│  │    └── Logo, Campaign name, Tagline                     │    │
-│  │        Height: Top 20% of window                        │    │
-│  │                                                         │    │
-│  ├─────────────────────────────────────────────────────────┤    │
-│  │                                                         │    │
-│  │    FOCAL ZONE (Main Visual)                             │    │
-│  │    └── Hero image, Key message                          │    │
-│  │        Height: Middle 50% (145-175cm from ground)       │    │
-│  │                                                         │    │
-│  ├─────────────────────────────────────────────────────────┤    │
-│  │                                                         │    │
-│  │    PRODUCT ZONE (Featured Products)                     │    │
-│  │    └── Mannequins, Product displays                     │    │
-│  │        Height: Lower 30%                                │    │
-│  │                                                         │    │
-│  └─────────────────────────────────────────────────────────┘    │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### In-Store POSM Placement
-
-| POSM Type | Location | Height | Quantity |
-|-----------|----------|--------|----------|
-| **Ceiling Danglers** | Above hero product areas | 2.2-2.5m from floor | 2-4 per zone |
-| **Floor Stickers** | Entry path, key locations | Floor level | 3-5 per store |
-| **Shelf Talkers** | Promotional product shelves | At product level | All promotional SKUs |
-| **Header Boards** | Above key fixtures | Top of fixture | 1 per promoted fixture |
-| **Counter Display** | Checkout area | Counter height | 1-2 per checkout |
-
-### Floor Plan POSM Distribution
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     TYPICAL STORE LAYOUT                         │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  ┌─────────────────────────────────────────────────────────┐    │
-│  │                    [WINDOW DISPLAY]                      │    │
-│  │                  Poster A1 + Mannequins                  │    │
-│  └─────────────────────────────────────────────────────────┘    │
-│                           │                                      │
-│                     [Floor Sticker]                              │
-│                           │                                      │
-│  ┌──────────┐        ┌────┴────┐        ┌──────────┐            │
-│  │   WALL   │[Dangler]│  MAIN  │[Dangler]│   WALL   │            │
-│  │ FIXTURE  │        │  AISLE  │        │ FIXTURE  │            │
-│  │[Header]  │        │         │        │[Header]  │            │
-│  │[Talkers] │        │         │        │[Talkers] │            │
-│  └──────────┘        └─────────┘        └──────────┘            │
-│                           │                                      │
-│                     [Floor Sticker]                              │
-│                           │                                      │
-│                    ┌──────┴──────┐                               │
-│                    │   CHECKOUT  │                               │
-│                    │ [Counter Display]                           │
-│                    └─────────────┘                               │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-## Maintenance Standards
-
-### Daily Maintenance Routine
-
-| Task | Responsibility | Checklist Item |
-|------|----------------|----------------|
-| Visual Check | Opening staff | All POSM visible and presentable |
-| Cleaning | As needed | Dust, fingerprints removed |
-| Alignment | As needed | Straighten any shifted materials |
-| Damage Check | All staff | Report any damage immediately |
-| Inventory | Store Manager | All POSM present and accounted for |
-
-### Weekly Maintenance Tasks
-
-- [ ] Thorough cleaning of all POSM
-- [ ] Check for fading or wear
-- [ ] Verify all materials still securely installed
-- [ ] Inspect floor stickers for lifting edges
-- [ ] Check dangler suspension integrity
-- [ ] Review counter display condition
-- [ ] Update any time-sensitive messaging
-
-### POSM Condition Assessment
-
-| Condition | Action | Timeline |
-|-----------|--------|----------|
-| **Good** | Maintain current state | Continue use |
-| **Minor wear** | Clean/repair if possible | Within 24 hours |
-| **Significant damage** | Replace | Request immediately |
-| **Safety concern** | Remove immediately | Instant |
-| **Outdated content** | Replace/remove | Same day |
-
-
-## Quality Standards
-
-### Visual Quality Requirements
-
-| Aspect | Standard |
-|--------|----------|
-| **Print Quality** | Sharp, clear images; no pixelation |
-| **Color Accuracy** | Match brand color specifications |
-| **Text Legibility** | Readable from intended distance |
-| **Material Quality** | Appropriate weight and finish |
-| **Finishing** | Clean cuts, proper lamination |
-
-### Brand Compliance Requirements
-
-- Correct logo placement and size
-- Approved brand colors only
-- Authorized typography
-- Approved messaging and copy
-- Proper legal disclaimers where required
-
-### Safety Standards
-
-| POSM Type | Safety Requirement |
-|-----------|-------------------|
-| **Floor Graphics** | Anti-slip laminate required |
-| **Hanging Elements** | Secure attachment, weight limit observed |
-| **Standing Displays** | Stable base, no tip hazard |
-| **Window Elements** | No vision obstruction at eye level |
-| **Counter Displays** | Stable, non-obstructive |
-
-
-## Standards & Rules
-
-### Mandatory POSM Rules
-
-1. **Installation:** All campaign POSM must be installed by launch date
-2. **Completeness:** All kit items must be displayed (no partial execution)
-3. **Placement:** Follow exact placement guidelines provided
-4. **Quality:** No damaged or defaced POSM to be displayed
-5. **Currency:** Only current campaign POSM to be shown
-6. **Removal:** Previous campaign POSM removed before new installation
-7. **Safety:** All safety standards must be met
-
-### Prohibited Actions
-
-- Modifying POSM design or messaging
-- Installing POSM in unauthorized locations
-- Using POSM from other brands or campaigns
-- Keeping expired POSM on display
-- Damaging or defacing POSM
-- Using personal or handwritten signage
-- Blocking safety features with POSM
-
-### POSM Disposal Guidelines
-
-| Material Type | Disposal Method |
-|---------------|-----------------|
-| Paper/cardboard | Recycle |
-| Vinyl/plastic | Dispose per local regulations |
-| Foamboard | Dispose per local regulations |
-| Reusable frames | Return to warehouse |
-| Hardware (hooks, stands) | Keep for reuse |
-
-
-### Issue 2: POSM Doesn't Fit Store Layout
-
-**Symptom:** Standard POSM size doesn't work in store.
-
-**Solutions:**
-1. Review placement guidelines for alternatives
-2. Request custom-sized POSM (4+ weeks lead time)
-3. Use smaller alternative from kit
-4. Consult Regional Manager for approved adjustments
-
-
-### Issue 4: Inconsistent Installation Across Stores
-
-**Symptom:** Regional audit shows varying POSM quality.
-
-**Solutions:**
-1. Conduct retraining session
-2. Provide photographic examples
-3. Implement installation checklist
-4. Schedule follow-up compliance check
-
-
-## Revision History
-
-| Version | Date | Changes | Prepared by |
-|---------|------|---------|-------------|
-| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group Trade Marketing |
-
-
----
-
-## SECTION 8: SEASONAL-MARKETING-CALENDAR-EN
-
-﻿---
-layout: default
-title: "Seasonal Marketing Calendar"
-parent: Marketing
-
-## Table of Contents
-
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Definitions](#definitions)
-4. [Responsibilities](#responsibilities)
-5. [Annual Calendar Overview](#annual-calendar-overview)
-6. [Spring/Summer Season](#springsummer-season)
-7. [Fall/Winter Season](#fallwinter-season)
-8. [Key Commercial Moments](#key-commercial-moments)
-9. [Regional Considerations](#regional-considerations)
-10. [Planning Timeline](#planning-timeline)
-11. [Campaign Integration](#campaign-integration)
-12. [Process Steps](#process-steps)
-13. [Standards & Rules](#standards--rules)
-14. [KPIs](#kpis)
-15. [Common Issues & Solutions](#common-issues--solutions)
-16. [Revision History](#revision-history)
-
-
-## Scope
-
-### Brands Covered
-
-All three brands follow the core calendar with brand-specific adaptations:
-- U.S. Polo Assn.
-- Pierre Cardin
-- Cacharel
-
-
-## Responsibilities
-
-### Store Staff
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Calendar Review | Understand upcoming campaigns | Weekly |
-| Implementation | Execute in-store activities on schedule | Per event |
-| Customer Communication | Inform customers of upcoming events | Daily |
-
-### Store Manager
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Calendar Planning | Plan staff and inventory for key dates | Monthly |
-| Campaign Preparation | Ensure readiness for each campaign | Per event |
-| Performance Tracking | Monitor campaign results | Per campaign |
-| Feedback Reporting | Report calendar execution issues | Weekly |
-
-### Regional Manager
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Regional Adaptation | Adapt calendar for regional needs | Quarterly |
-| Resource Allocation | Ensure adequate resources per period | Monthly |
-| Coordination | Align stores within region | Ongoing |
-| Performance Analysis | Analyze regional calendar performance | Monthly |
-
-### HQ Marketing Team
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Calendar Development | Create and update annual calendar | Annually |
-| Campaign Creation | Develop campaigns for key moments | Per campaign |
-| Asset Distribution | Provide marketing materials | Per campaign |
-| Performance Review | Review global calendar effectiveness | Quarterly |
-
-
-## Spring/Summer Season
-
-### SS Season Timeline
-
-```
-Week -8 to -4: Collection Preview & Planning
-        ↓
-Week -4 to -2: Store Setup Preparation
-        ↓
-Week -2 to 0: Full Window & Store Refresh
-        ↓
-Week 0: SEASON LAUNCH
-        ↓
-Week 1-8: Full Price Selling Period
-        ↓
-Week 9-12: Mid-Season Activity
-        ↓
-Week 13+: End of Season Sale
-```
-
-### SS Campaign Calendar
-
-| Period | Campaign | Duration | Key Activities |
-|--------|----------|----------|----------------|
-| **Feb W4 - Mar W1** | SS Preview | 2 weeks | VIP access, early bird offers |
-| **Mar W2** | SS Launch | 1 week | Full store refresh, launch event |
-| **Mar W2 - May W4** | Spring Focus | 10 weeks | New arrivals, trend highlights |
-| **Apr** | Ramadan (Regional) | 4 weeks | Special collections, gifting |
-| **May W2** | Mother's Day | 1 week | Gift guide, special offers |
-| **Jun** | Summer Collection | 4 weeks | Vacation wear, swimwear |
-| **Jul W1** | Summer Sale Start | - | 30-50% off seasonal items |
-
-### SS Hero Products by Brand
-
-| Brand | SS Hero Categories | Marketing Focus |
-|-------|-------------------|-----------------|
-| **U.S. Polo Assn.** | Polos, Shorts, Swim | Active lifestyle, vacation |
-| **Pierre Cardin** | Linen suits, Light shirts | Business casual, summer elegance |
-| **Cacharel** | Floral dresses, Light fabrics | Romantic summer, garden party |
-
-### SS Visual Themes
-
-| Month | Window Theme | Color Story |
-|-------|--------------|-------------|
-| March | Spring Awakening | Pastels, Fresh greens |
-| April | Bloom | Florals, Bright colors |
-| May | Garden Party | Soft pinks, Natural tones |
-| June | Summer Escape | Blues, Whites, Nautical |
-| July | Beach & Resort | Vibrant colors, Tropical |
-
-
-## Key Commercial Moments
-
-### Tier 1 Commercial Moments (Must Execute)
-
-| Event | Date | Duration | Priority |
-|-------|------|----------|----------|
-| **SS Season Launch** | Early March | 2 weeks | Critical |
-| **Black Friday** | 4th Friday Nov | 4-7 days | Critical |
-| **FW Season Launch** | Early September | 2 weeks | Critical |
-| **Holiday/Year-End** | Dec 15-31 | 2 weeks | Critical |
-
-### Tier 2 Commercial Moments (Recommended)
-
-| Event | Date | Duration | Priority |
-|-------|------|----------|----------|
-| **Valentine's Day** | Feb 14 | 1 week | High |
-| **Mother's Day** | 2nd Sunday May | 1 week | High |
-| **Summer Sale** | Early July | 3-4 weeks | High |
-| **Back to School** | Mid-Aug | 3 weeks | High |
-
-### Tier 3 Commercial Moments (Optional/Regional)
-
-| Event | Date | Region | Priority |
-|-------|------|--------|----------|
-| **Ramadan/Eid** | Varies | KSA, Morocco | Critical (Regional) |
-| **Singles Day** | Nov 11 | All | Medium |
-| **Father's Day** | 3rd Sunday June | All | Medium |
-| **Halloween** | Oct 31 | Balkans | Low |
-
-### Commercial Moment Planning Template
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              COMMERCIAL MOMENT PLANNING                          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  Event: _______________________                                  │
-│  Date(s): _______________________                                │
-│  Duration: _______________________                               │
-│                                                                  │
-│  MARKETING ELEMENTS                                              │
-│  □ Window Display Update                                         │
-│  □ In-Store POSM                                                 │
-│  □ Digital/Social Campaign                                       │
-│  □ Email Campaign                                                │
-│  □ Special Promotion/Offer                                       │
-│  □ Staff Training                                                │
-│                                                                  │
-│  TARGETS                                                         │
-│  Sales Target: $_____________                                    │
-│  Traffic Target: ____________                                    │
-│  Conversion Target: ________%                                    │
-│                                                                  │
-│  RESOURCES NEEDED                                                │
-│  Budget: $_____________                                          │
-│  Staff: _______________                                          │
-│  Inventory Focus: _______________________                        │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-## Planning Timeline
-
-### Annual Planning Cycle
-
-```
-October-November (Y-1)
-├── Annual calendar draft
-├── Budget planning
-└── Agency briefings
-
-December (Y-1)
-├── Calendar finalization
-├── Asset production start
-└── Regional adaptation meetings
-
-January
-├── Q1 campaign materials ready
-├── SS preview preparations
-└── Regional calendars confirmed
-
-Monthly (Ongoing)
-├── Monthly review meetings
-├── Next month preparations
-└── Performance tracking
-```
-
-### Campaign Lead Times
-
-| Campaign Type | Lead Time | Key Milestones |
-|---------------|-----------|----------------|
-| **Season Launch** | 12 weeks | Brief → Creative → Production → Delivery |
-| **Major Promotion** | 8 weeks | Brief → Approval → Production → Distribution |
-| **Standard Campaign** | 6 weeks | Brief → Assets → Store Implementation |
-| **Quick Response** | 2 weeks | Approval → Digital Assets Only |
-
-### Monthly Planning Checklist
-
-- [ ] Review next month's calendar activities
-- [ ] Confirm POSM delivery dates
-- [ ] Brief store teams on upcoming campaigns
-- [ ] Verify inventory alignment with promotions
-- [ ] Coordinate regional adaptations
-- [ ] Set performance targets
-- [ ] Schedule review meetings
-
-
-## Process Steps
-
-### Annual Calendar Creation Process
-
-```
-Step 1: Review Previous Year Performance
-        ↓
-Step 2: Identify Key Dates and Events
-        ↓
-Step 3: Draft Calendar Framework
-        ↓
-Step 4: Regional Input and Adaptation
-        ↓
-Step 5: Budget Allocation by Period
-        ↓
-Step 6: Campaign Brief Development
-        ↓
-Step 7: Asset Production Planning
-        ↓
-Step 8: Final Calendar Approval
-        ↓
-Step 9: Distribution to All Stakeholders
-        ↓
-Step 10: Monthly Review and Adjustment
-```
-
-### Campaign Execution Process
-
-```
-1. Calendar Alert (4 weeks before)
-       ↓
-2. Receive Campaign Brief
-       ↓
-3. Review Assets and Materials
-       ↓
-4. Plan Local Implementation
-       ↓
-5. Receive POSM and Materials
-       ↓
-6. Staff Training and Briefing
-       ↓
-7. Store Setup (day before)
-       ↓
-8. Campaign Launch
-       ↓
-9. Daily Monitoring
-       ↓
-10. Campaign Close and Reporting
-```
-
-
-## KPIs
-
-### Calendar Performance KPIs
-
-| KPI | Formula | Target | Frequency |
-|-----|---------|--------|-----------|
-| **Campaign Execution Rate** | Campaigns Executed / Campaigns Planned × 100 | 100% | Monthly |
-| **On-Time Launch Rate** | On-Time Launches / Total Launches × 100 | 95% | Monthly |
-| **Sales vs. Target** | Actual Sales / Target Sales × 100 | ≥100% | Per Campaign |
-| **Traffic vs. LY** | This Year Traffic / Last Year Traffic × 100 | >100% | Weekly |
-| **Seasonal Sell-Through** | Units Sold / Units Bought × 100 | >70% | End of Season |
-
-### Commercial Moment Performance
-
-| Metric | Calculation | Benchmark |
-|--------|-------------|-----------|
-| **Black Friday Sales Lift** | BF Sales / Normal Week Sales | 3x+ |
-| **Holiday Season Share** | Dec Sales / Annual Sales | 15%+ |
-| **Season Launch Week** | Launch Week / Normal Week | 2x+ |
-| **Sale Period Efficiency** | Sale Margin / Regular Margin | >50% |
-
-### Calendar Review Template
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              MONTHLY CALENDAR REVIEW                             │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  Month: _______________ Year: ___________                        │
-│                                                                  │
-│  CAMPAIGNS EXECUTED                                              │
-│  Planned: _____ Executed: _____ Success Rate: _____%             │
-│                                                                  │
-│  SALES PERFORMANCE                                               │
-│  Target: $_________ Actual: $_________ Achievement: _____%       │
-│                                                                  │
-│  KEY LEARNINGS                                                   │
-│  What worked: _________________________________                  │
-│  What didn't: _________________________________                  │
-│  Recommendations: ____________________________                   │
-│                                                                  │
-│  NEXT MONTH PREVIEW                                              │
-│  Key Events: _________________________________                   │
-│  Focus Areas: ________________________________                   │
-│  Preparation Status: _________________________                   │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-### Issue 2: Regional Calendar Conflicts
-
-**Symptom:** Global campaign timing conflicts with regional events.
-
-**Causes:**
-- Islamic calendar variation
-- Local holidays not considered
-- Regional market differences
-
-**Solution:**
-1. Submit regional calendar conflicts early (Q4 previous year)
-2. Request timing adaptation from HQ
-3. Propose alternative execution dates
-4. Document conflicts for future planning
-
-
-### Issue 4: Campaign Fatigue
-
-**Symptom:** Declining response to repeated promotional messages.
-
-**Causes:**
-- Too many campaigns
-- Lack of variety in messaging
-- Over-communication
-
-**Solution:**
-1. Space campaigns appropriately
-2. Vary messaging and creative
-3. Segment audience for targeted communications
-4. Focus on quality over quantity
-
-
-## Revision History
-
-| Version | Date | Changes | Prepared by |
-|---------|------|---------|-------------|
-| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group |
-
-
----
-
-## SECTION 9: SOCIAL-MEDIA-LOCALIZATION-GUIDE-EN
-
-﻿---
-layout: default
-title: "Social Media Localization Guide"
-parent: Marketing
-
-## Table of Contents
-
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Definitions](#definitions)
-4. [Responsibilities](#responsibilities)
-5. [Platform Strategy by Region](#platform-strategy-by-region)
-6. [Content Localization](#content-localization)
-7. [Language Guidelines](#language-guidelines)
-8. [Cultural Considerations](#cultural-considerations)
-9. [Hashtag Strategy](#hashtag-strategy)
-10. [Community Management](#community-management)
-11. [Process Steps](#process-steps)
-12. [Standards & Rules](#standards--rules)
-13. [KPIs](#kpis)
-14. [Common Issues & Solutions](#common-issues--solutions)
-15. [Revision History](#revision-history)
-
-
-## Scope
-
-### Brands Covered
-
-- U.S. Polo Assn.
-- Pierre Cardin
-- Cacharel
-
-
-## Responsibilities
-
-### Store Manager
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Local Monitoring | Monitor store-tagged content | Daily |
-| Content Support | Support local content creation requests | As needed |
-| Feedback | Report local engagement trends | Weekly |
-
-### Regional Marketing Manager
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Content Localization | Adapt global content for region | Per campaign |
-| Community Management | Oversee regional social accounts | Daily |
-| Influencer Coordination | Manage regional influencer partnerships | Ongoing |
-| Performance Analysis | Analyze regional social metrics | Weekly |
-
-### HQ Social Media Team
-
-| Task | Description | Frequency |
-|------|-------------|-----------|
-| Global Strategy | Set global social media direction | Quarterly |
-| Content Creation | Create global content templates | Per campaign |
-| Brand Guidelines | Maintain social brand guidelines | Ongoing |
-| Performance Review | Review global social performance | Monthly |
-
-
-## Content Localization
-
-### Localization Framework
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                 CONTENT LOCALIZATION PROCESS                     │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  GLOBAL CONTENT                                                  │
-│  ├── Core message and visuals                                    │
-│  ├── Brand guidelines compliance                                 │
-│  └── Campaign objectives                                         │
-│           ↓                                                      │
-│  REGIONAL ADAPTATION                                             │
-│  ├── Language translation/transcreation                          │
-│  ├── Cultural modifications                                      │
-│  ├── Local reference additions                                   │
-│  └── Timing adjustments                                          │
-│           ↓                                                      │
-│  LOCAL EXECUTION                                                 │
-│  ├── Platform-specific formatting                                │
-│  ├── Local hashtags                                              │
-│  ├── Community engagement                                        │
-│  └── Performance tracking                                        │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Content Types and Localization Level
-
-| Content Type | Localization Level | Approval Required |
-|--------------|-------------------|-------------------|
-| Brand campaign | Translation + cultural review | HQ |
-| Product launch | Translation + local pricing | Regional |
-| Seasonal content | Full localization | Regional |
-| Promotional offers | Translation + legal compliance | Regional |
-| UGC reposts | Caption localization | Store/Regional |
-| Stories/Reels | Template adaptation | Regional |
-
-### Visual Localization
-
-| Element | Localization Approach |
-|---------|----------------------|
-| **Product Images** | Adjust for local preferences (styling) |
-| **Lifestyle Images** | Use culturally appropriate settings |
-| **Models** | Ensure representation matches market |
-| **Text Overlays** | Translate and adjust for RTL if needed |
-| **Colors** | Check cultural color associations |
-
-
-## Cultural Considerations
-
-### KSA Cultural Guidelines
-
-| Area | Guideline |
-|------|-----------|
-| **Imagery** | Modest dress codes; no excessive skin |
-| **Religion** | Respect Islamic practices; Ramadan sensitivity |
-| **Gender** | Consider gender representation norms |
-| **Holidays** | Feature Islamic holidays prominently |
-| **Values** | Family, tradition, quality emphasized |
-
-**Content Do's:**
-✓ Feature family-oriented content
-✓ Respect modest fashion standards
-✓ Celebrate Islamic occasions
-✓ Use aspirational lifestyle imagery
-✓ Highlight quality and heritage
-
-**Content Don'ts:**
-✗ Revealing clothing imagery
-✗ Content during prayer times
-✗ Alcohol or inappropriate references
-✗ Political content
-✗ Content that contradicts Islamic values
-
-### Morocco Cultural Guidelines
-
-| Area | Guideline |
-|------|-----------|
-| **Imagery** | Respect local modesty standards |
-| **Religion** | Islamic considerations apply |
-| **Language** | Arabic-French balance |
-| **Holidays** | Islamic and national holidays |
-| **Style** | European influence appreciated |
-
-### Balkans Cultural Guidelines
-
-| Area | Guideline |
-|------|-----------|
-| **Imagery** | European fashion standards |
-| **Religion** | Respect diverse religious backgrounds |
-| **Language** | Local language priority, English secondary |
-| **Holidays** | Consider Orthodox, Catholic, and Muslim holidays |
-| **Nationalism** | Avoid politically sensitive topics |
-
-
-## Community Management
-
-### Response Time Standards
-
-| Message Type | Target Response Time |
-|--------------|---------------------|
-| **Complaints** | Within 2 hours |
-| **Questions** | Within 4 hours |
-| **Comments (positive)** | Within 24 hours |
-| **Comments (neutral)** | Within 24 hours |
-| **DMs** | Within 4 hours |
-
-### Response Language Guidelines
-
-**General Principles:**
-- Respond in the language used by the customer
-- Maintain brand tone while being personable
-- Never argue publicly
-- Move sensitive issues to DM
-
-**Response Templates (Adapt for language):**
-
-| Situation | Response Template |
-|-----------|-------------------|
-| **Thank You** | "Thank you for your kind words! We're so happy you love [product]. 💙" |
-| **Question** | "Great question! [Answer]. Feel free to DM us if you need more info!" |
-| **Complaint** | "We're sorry to hear this. Please DM us your details so we can help resolve this." |
-| **Store Inquiry** | "You can find us at [location]. Visit us today! [Store hours]" |
-
-### Escalation Protocol
-
-```
-Level 1: Standard Response (Store/Regional Team)
-├── Product questions
-├── Store information
-├── General compliments
-└── Simple complaints
-
-Level 2: Regional Manager Review
-├── Persistent complaints
-├── Negative reviews
-├── Influencer interactions
-└── Sensitive topics
-
-Level 3: HQ Escalation
-├── Brand reputation issues
-├── Legal concerns
-├── PR crises
-└── Influencer partnerships
-```
-
-
-## Standards & Rules
-
-### Content Standards
-
-| Aspect | Standard |
-|--------|----------|
-| **Brand Voice** | Consistent with global guidelines, locally adapted |
-| **Visual Quality** | High resolution, well-composed |
-| **Language Quality** | Grammatically correct, appropriate tone |
-| **Accuracy** | All information verified, prices correct |
-| **Timing** | Posted at optimal local times |
-
-### Prohibited Content
-
-| Category | Examples |
-|----------|----------|
-| **Political** | Political statements, endorsements |
-| **Religious** | Content that could offend any religion |
-| **Controversial** | Divisive social issues |
-| **Competitor** | Mentioning or comparing to competitors |
-| **Unverified** | Claims without evidence |
-| **Personal** | Staff personal information |
-
-### Approval Matrix
-
-| Content Type | Store | Regional | HQ |
-|--------------|-------|----------|-----|
-| Repost global content | ✓ | Review | - |
-| Local promotional post | - | ✓ | Review |
-| Influencer content | - | ✓ | ✓ |
-| Crisis response | - | Review | ✓ |
-| New content type | - | Request | ✓ |
-
-
-## Common Issues & Solutions
-
-### Issue 1: Low Engagement on Localized Content
-
-**Symptom:** Localized posts performing below average.
-
-**Causes:**
-- Translation not resonating
-- Cultural mismatch
-- Poor timing
-- Irrelevant content
-
-**Solutions:**
-1. Review transcreation quality
-2. Conduct local audience research
-3. Test different posting times
-4. Analyze top-performing local content
-5. Incorporate more UGC
-
-
-### Issue 3: Cultural Misstep
-
-**Symptom:** Content receiving negative feedback for cultural reasons.
-
-**Immediate Actions:**
-1. Remove content immediately
-2. Assess severity and reach
-3. Prepare appropriate response
-4. Escalate to HQ if significant
-5. Document learnings
-
-**Prevention:**
-- Enhanced cultural review process
-- Local team consultation
-- Cultural calendar awareness
-- Regular team training
-
-
-## Revision History
-
-| Version | Date | Changes | Prepared by |
-|---------|------|---------|-------------|
-| 1.0 | December 01, 2025 | Initial version created | Aydınlı Group Digital Marketing |
-
-
----

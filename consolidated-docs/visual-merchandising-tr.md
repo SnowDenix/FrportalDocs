@@ -17,23 +17,292 @@ nav_order: 8
 
 ## Doküman Genel Bakış
 
-Bu kapsamlı görsel merchandising dokümantasyonu, Aydınlı Grup franchise mağazaları için mağaza sunumu, sergileme teknikleri ve görsel standartların tüm yönlerini kapsamaktadır. Doküman 6 ana bölümden oluşmaktadır:
+Bu kapsamlı görsel merchandising dokümantasyonu, Aydınlı Grup franchise mağazaları için mağaza sunumu, sergileme teknikleri ve görsel standartların tüm yönlerini kapsamaktadır. Doküman, genel bakıştan spesifik yönergelere mantıksal bir hiyerarşi izleyerek 5 ana bölümden oluşmaktadır:
 
-**Bölüm 1: Mağaza İçi Düzen Yönergeleri** - Trafik akışı optimizasyonu, bölge tanımları, fikstür yerleştirme, ürün kategorisi konumlandırma ve müşteri deneyimi ve satışları maksimize etmek için alan kullanım ilkeleri dahil mağaza kat planı standartlarını belirler.
+**Bölüm 1: VM Genel Bakış** - Görsel merchandising felsefesini, organizasyon yapısını, rol ve sorumlulukları, iletişim kanallarını ve merkez VM ekibi ile franchise mağaza uygulaması arasındaki koordinasyonu sunar.
 
-**Bölüm 2: Manken Styling Yönergeleri** - Kıyafet koordinasyonu, styling teknikleri, aksesuar yerleştirme, mevsimsel styling yaklaşımları ve etkileyici ürün sergilemeler oluşturmak için markaya uygun sunum metodları dahil manken sunum standartlarını detaylandırır.
+**Bölüm 2: Mağaza İçi Düzen Yönergeleri** - Trafik akışı optimizasyonu, bölge tanımları, fikstür yerleştirme, ürün kategorisi konumlandırma ve müşteri deneyimi ve satışları maksimize etmek için alan kullanım ilkeleri dahil mağaza kat planı standartlarını belirler.
 
-**Bölüm 3: Mevsimsel VM Değişimi** - Değişim zaman çizelgeleri, planlama prosedürleri, uygulama kontrol listeleri, ekip koordinasyonu ve sorunsuz mevsimsel güncellemeler için kalite kontrol standartları dahil tam mevsimsel geçiş sürecini açıklar.
+**Bölüm 3: Vitrin Sergileme Yönergeleri** - Tema geliştirme, odak noktası oluşturma, aksesuar kullanımı, aydınlatma teknikleri, mevsimsel adaptasyonlar ve etkileyici mağaza cephesi sergilemeler oluşturmak için bakım gereksinimleri dahil vitrin sunum standartlarını kapsar.
 
-**Bölüm 4: VM Genel Yönergeleri** - Renk koordinasyonu, ürün gruplama, görsel hiyerarşi, aydınlatma standartları, temizlik gereksinimleri ve tüm sergileme türlerinde uygulanabilir genel estetik standartları kapsayan kapsamlı görsel merchandising ilkeleri sağlar.
+**Bölüm 4: Manken Styling Yönergeleri** - Kıyafet koordinasyonu, styling teknikleri, aksesuar yerleştirme, mevsimsel styling yaklaşımları ve etkileyici ürün sergilemeler oluşturmak için markaya uygun sunum metodları dahil manken sunum standartlarını detaylandırır.
 
-**Bölüm 5: VM Genel Bakış** - Görsel merchandising felsefesini, organizasyon yapısını, rol ve sorumlulukları, iletişim kanallarını ve merkez VM ekibi ile franchise mağaza uygulaması arasındaki koordinasyonu sunar.
-
-**Bölüm 6: Vitrin Sergileme Yönergeleri** - Tema geliştirme, odak noktası oluşturma, aksesuar kullanımı, aydınlatma teknikleri, mevsimsel adaptasyonlar ve etkileyici mağaza cephesi sergilemeler oluşturmak için bakım gereksinimleri dahil vitrin sunum standartlarını kapsar.
+**Bölüm 5: Mevsimsel VM Değişimi** - Değişim zaman çizelgeleri, planlama prosedürleri, uygulama kontrol listeleri, ekip koordinasyonu ve sorunsuz mevsimsel güncellemeler için kalite kontrol standartları dahil tam mevsimsel geçiş sürecini açıklar.
 
 ---
 
-## SECTION 1: IN-STORE-LAYOUT-GUIDELINE-TR
+## SECTION 1: VM-OVERVIEW-TR
+
+﻿---
+layout: default
+title: "Görsel Mağazacılık Genel Bakış – TR"
+parent: Visual Merchandising
+
+## İçindekiler
+
+1. [Amaç](#amaç)
+2. [Kapsam](#kapsam)
+3. [Tanımlar](#tanımlar)
+4. [Sorumluluklar](#sorumluluklar)
+5. [Süreç Adımları](#süreç-adımları)
+6. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
+7. [Kontrol Listeleri](#kontrol-listeleri)
+8. [Örnekler / Senaryolar](#örnekler--senaryolar)
+9. [KPI'lar](#kpilar)
+10. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+11. [Revizyon Geçmişi](#revizyon-geçmişi)
+
+
+## Kapsam
+
+### Mağaza Formatı Kapsamı
+
+| Format | Boyut Aralığı | VM Karmaşıklığı |
+|--------|---------------|-----------------|
+| Flagship | 300+ m² | Tam VM uygulaması |
+| Standart | 100-300 m² | Standart VM paketi |
+| Kompakt | 50-100 m² | Temel VM öğeleri |
+| Shop-in-Shop | 25-50 m² | Köşe VM adaptasyonu |
+| Outlet | Değişken | Basitleştirilmiş VM yaklaşımı |
+
+### Marka Uygulaması
+
+- **U.S. Polo Assn.:** Tam VM kılavuzları uygulanır
+- **Pierre Cardin:** Tam VM kılavuzları uygulanır
+- **Cacharel:** Tam VM kılavuzları uygulanır
+
+
+## Sorumluluklar
+
+### Mağaza Personeli
+
+| Görev | Sıklık | Standart |
+|-------|--------|----------|
+| Ürün sunumunu koruma | Sürekli | VM kılavuzlarına göre |
+| Ürünleri yeniden katlama/asma | Her 2 saatte | Kalite standardı |
+| Satılan manken ürünlerini değiştirme | Aynı gün | 2 saat içinde |
+| VM sorunlarını raporlama | Gerektiğinde | Mağaza uygulaması üzerinden |
+| Günlük VM kontrol listesini uygulama | Günlük | Sabah açılışta |
+
+### Mağaza Müdürü
+
+| Görev | Sıklık | Standart |
+|-------|--------|----------|
+| Haftalık VM denetimi | Haftalık | VM puan kartı kullanarak |
+| Ekip VM eğitimi | Aylık | Minimum 2 saat |
+| Vitrin değişimi koordinasyonu | Takvime göre | 48 saat uygulama |
+| VM bütçe yönetimi | Aylık | Tahsisat dahilinde |
+| Rekabet analizi | Haftalık | Fotoğraf dokümantasyonu |
+| VM performans değerlendirmesi | Haftalık | Satış korelasyonu |
+
+### Bölge Müdürü
+
+| Görev | Sıklık | Standart |
+|-------|--------|----------|
+| Bölgesel VM denetimi | Aylık | Bölgedeki tüm mağazalar |
+| En iyi uygulama paylaşımı | Aylık | Bölge toplantısı |
+| VM uyum raporlaması | Aylık | HQ VM ekibine |
+| Yeni mağaza VM kurulumu | Gerektiğinde | Açılış öncesi kontrol listesi |
+| VM eğitimi sunumu | Üç aylık | Bölgesel atölyeler |
+
+### Merkez VM Ekibi
+
+| Görev | Sıklık | Standart |
+|-------|--------|----------|
+| Sezonluk VM kılavuzu oluşturma | Üç aylık | Sezondan 60 gün önce |
+| Vitrin kiti geliştirme | Aylık | Pazarlama takvimine göre |
+| VM denetim puanlaması | Üç aylık | Global benchmark |
+| İnovasyon ve trendler | Sürekli | Sektör araştırması |
+| Fikstür tasarımı ve tedarik | Gerektiğinde | Marka standartları |
+| VM eğitim müfredatı | Yıllık | Global sertifikasyon |
+
+
+## Standartlar ve Kurallar
+
+### Temel VM Prensipleri
+
+1. **Altın Üçgen Kuralı**
+   - Ana odak noktası girişten görünür olmalı
+   - Kahraman ürünler premium görüş hatlarında
+   - Görüş başına maksimum 3 odak noktası
+
+2. **Göz Hizası Önceliği**
+   - Premium bölge: 145-170 cm (yetişkin göz hizası)
+   - Dokunma bölgesi: 90-145 cm (kolay erişim)
+   - Alt bölge: 0-90 cm (hacimli ürünler)
+   - Üst bölge: 170+ cm (stok/dekor)
+
+3. **Sağa Dönüş Prensibi**
+   - Müşterilerin %90'ı doğal olarak sağa döner
+   - Yeni sezon/kahraman ürünleri sağa konumlandır
+   - Saat yönünde trafik akışı oluştur
+
+4. **Dekompresyon Bölgesi**
+   - Girişten ilk 1-2 metre
+   - Bu alanda kritik ürün yok
+   - Marka ambiyansı için kullan
+
+### Zorunlu Standartlar
+
+| Standart | Gereksinim | Tolerans |
+|----------|------------|----------|
+| Vitrin değişim sıklığı | Takvime göre | ±2 gün |
+| Manken durumu | Hasar/iz yok | Sıfır tolerans |
+| Aydınlatma işlevselliği | %100 çalışır | 24 saat düzeltme |
+| Fiyat etiketi görünürlüğü | Tüm ürünlerde | Sıfır tolerans |
+| Beden organizasyonu | Soldan sağa XS→XXL | Sıfır tolerans |
+| Fikstür kapasitesi | Ürün tipine göre | ±%10 |
+| Renk bloklama | Gradyan düzenleme | Kılavuza göre |
+| Tabela doğruluğu | Sadece güncel kampanya | Sıfır tolerans |
+
+### Yasaklı Uygulamalar
+
+- ❌ Kapasiteyi aşan aşırı dolu fikstürler
+- ❌ Karışık marka sergileri (onaylı değilse)
+- ❌ El yazısı tabelalar
+- ❌ Hasarlı/kirli fikstürler veya aksesuarlar
+- ❌ Güncelliğini yitirmiş kampanya materyalleri
+- ❌ Boş mankenler veya fikstürler
+- ❌ Tutarsız askı tipleri
+- ❌ Yerdeki ürünler
+- ❌ Engellenmiş görüş hatları
+- ❌ Onaysız fikstürler
+
+
+## Örnekler / Senaryolar
+
+### Senaryo 1: Yeni Sezon Lansmanı
+
+**Durum:** İlkbahar/Yaz koleksiyonu lansman günü
+
+**VM Uygulama Planı:**
+```
+Zaman Çizelgesi: T-7 ila T+1
+
+T-7: VM kitini al, envanteri doğrula
+T-5: Ekip brifingi, rolleri ata
+T-3: Arka ofis hazırlığı, ürünleri ütüle
+T-1: Akşam: Vitrin/mağaza dönüşümüne başla
+T-0: 06:00-09:00 Uygulamayı tamamla
+     09:30 Büyük açılış
+T+1: Fotoğraf dokümantasyonu, sorun çözümü
+```
+
+**Başarı Metrikleri:**
+- Mağaza açılışında vitrin değişimi tamamlanmış
+- Tüm kahraman ürünler A-bölgesinde
+- 24 saat içinde fotoğraf dokümantasyonu yüklenmiş
+- Sıfır VM uyum sorunu
+
+### Senaryo 2: Kampanya Dönemi VM Adaptasyonu
+
+**Durum:** Black Friday promosyonu başlıyor
+
+**Gerekli Değişiklikler:**
+1. Vitrin: Promosyon tabela overlay'i ekle
+2. Giriş: Kampanya zemin grafiklerini kur
+3. Mağaza içi: Promosyon tabelalarını kilit noktalara konumlandır
+4. Kasa: Anlık satın alma sergileri ekle
+5. Kabine: Üst satış tabelası ekle
+
+**Uygulama Zaman Çizelgesi:** Kampanya başlangıcından 24 saat önce
+
+### Senaryo 3: Düşük Stok Durumu
+
+**Durum:** Yeniden stok öncesi önemli ürünler azalıyor
+
+**VM Çözümü:**
+```
+Seçenek A: Konsolidasyon
+- Renkleri daha az fikstürde birleştir
+- Görsel yoğunluğu koru
+- "Özenle seçilmiş koleksiyon" hikayesi oluştur
+
+Seçenek B: İkame
+- Benzer stille değiştir
+- Renk hikayesini koru
+- Mankeni buna göre güncelle
+
+Seçenek C: Yeniden Mağazacılık
+- Komşu kategoriyi genişlet
+- Yeni çapraz mağazacılık fırsatı oluştur
+- Mevcut alternatifleri vurgula
+```
+
+
+## Sık Karşılaşılan Sorunlar ve Çözümler
+
+### Sorun 1: Aşırı Dolu Fikstürler
+
+**Problem:** Ürünler çok sıkışık, görsel çekicilik azalıyor
+
+**Çözüm:**
+- Fazla stoğu arka odaya çıkar
+- Kapasite kılavuzlarına sıkı sıkıya uy
+- Ürünler arasında "nefes alanı" oluştur
+- Negatif alanı bilinçli kullan
+
+**Önleme:** Günlük kapasite kontrolleri, düzgün stok rotasyonu
+
+
+### Sorun 3: Manken Styling Hataları
+
+**Problem:** Yanlış kombin kombinasyonları veya kötü kalıp
+
+**Çözüm:**
+- Look book styling kılavuzunu incele
+- Sadece onaylı kombin kombinasyonlarını kullan
+- Manken tipine uygun bedeni sağla
+- Mükemmel kalıp için iğne/bant kullan
+- Hasarlı manken parçalarını değiştir
+
+**Önleme:** Haftalık manken styling incelemesi
+
+
+### Sorun 5: Tabela Hataları
+
+**Problem:** Yanlış fiyatlar, güncelliğini yitirmiş kampanyalar veya eksik etiketler
+
+**Çözüm:**
+- Acil fiyat denetimi
+- Tüm güncelliğini yitirmiş materyalleri kaldır
+- Güncel kampanya brifingiyle kontrol et
+- Sistematik sorunları HQ'ya raporla
+
+**Önleme:** Kampanya öncesi tabela kontrol listesi, tüm materyalleri tarihle
+
+
+## VM Kaynakları
+
+### Mevcut Destek
+
+| Kaynak | Erişim | Güncelleme Sıklığı |
+|--------|--------|-------------------|
+| VM Portalı | store.aydinli.com/vm | Gerçek zamanlı |
+| Sezonluk Lookbook | Dijital indirme | Üç aylık |
+| Vitrin Kurulum Videoları | YouTube özel kanal | Kampanya başına |
+| VM Yardım Hattı | +90 212 XXX XX XX | İş saatleri |
+| Bölge VM Müdürü | E-posta/WhatsApp | Yanıt <24s |
+
+### Eğitim Takvimi
+
+| Eğitim | Format | Sıklık | Süre |
+|--------|--------|--------|------|
+| Yeni Sezon VM Brifingi | Webinar | Üç aylık | 2 saat |
+| Vitrin Kurulumu | Video | Kampanya başına | 30 dk |
+| VM Temelleri | E-öğrenme | Yıllık | 4 saat |
+| İleri VM Atölyesi | Yüz yüze | Yıllık | 1 gün |
+
+
+*Bu doküman Aydınlı Grup Görsel Mağazacılık Ekibi tarafından hazırlanmıştır.*  
+*© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
+
+
+
+---
+
+## SECTION 2: IN-STORE-LAYOUT-GUIDELINE-TR
 
 ﻿---
 layout: default
@@ -230,7 +499,281 @@ DUVAR FİKSTÜRÜ YÜKSEKLİK BÖLGELERİ
 
 ---
 
-## SECTION 2: MANNEQUIN-STYLING-GUIDELINE-TR
+## SECTION 3: WINDOW-DISPLAY-GUIDELINE-TR
+
+﻿---
+layout: default
+title: "Vitrin Sergileme Kılavuzu – TR"
+parent: Visual Merchandising
+
+## İçindekiler
+
+1. [Amaç](#amaç)
+2. [Kapsam](#kapsam)
+3. [Tanımlar](#tanımlar)
+4. [Sorumluluklar](#sorumluluklar)
+5. [Süreç Adımları](#süreç-adımları)
+6. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
+7. [Kontrol Listeleri](#kontrol-listeleri)
+8. [Örnekler / Senaryolar](#örnekler--senaryolar)
+9. [KPI'lar](#kpilar)
+10. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
+11. [Revizyon Geçmişi](#revizyon-geçmişi)
+
+
+## Kapsam
+
+### Kapsanan Vitrin Tipleri
+
+| Vitrin Tipi | Açıklama | Uygulama |
+|-------------|----------|----------|
+| **Kapalı Vitrin** | Arka duvarla tam kapalı | Geleneksel mağaza önü |
+| **Açık Arkaplanlı** | Arka duvar yok, mağaza içi görünür | Modern AVM mağazaları |
+| **Yarı Kapalı** | Kısmi arka duvar veya paneller | Hibrit formatlar |
+| **Köşe Vitrin** | Bina köşesinde açılı vitrin | Köşe konumları |
+| **Shadow Box** | Küçük yükseltilmiş sergileme kutusu | Aksesuar odaklı |
+| **Ada Sergi** | Serbest duran vitrin yapısı | AVM koridorları |
+
+### Marka Uygulaması
+
+| Marka | Vitrin Stili | Temel Özellikler |
+|-------|--------------|------------------|
+| **U.S. Polo Assn.** | Dinamik, yaşam tarzı | Spor mirası, aktif yaşam |
+| **Pierre Cardin** | Zarif, minimalist | Sofistike, premium |
+| **Cacharel** | Klasik, rafine | Fransız zarafeti, ölçülü |
+
+
+## Sorumluluklar
+
+### Mağaza Personeli
+
+| Sorumluluk | Sıklık | Standart |
+|------------|--------|----------|
+| Günlük vitrin kontrolü | Günlük | Sabah açılış |
+| Vitrin camını temizleme (iç) | Günlük | Açılış öncesi |
+| Manken/aksesuar hasarını raporlama | Hemen | Mağaza uygulaması ile |
+| Satılan sergi ürünlerini değiştirme | Aynı gün | 4 saat içinde |
+| Gerektiğinde aydınlatmayı ayarlama | Günlük | Aydınlatma kılavuzuna göre |
+
+### Mağaza Müdürü
+
+| Sorumluluk | Sıklık | Standart |
+|------------|--------|----------|
+| Vitrin değişimlerini uygulama | Takvime göre | 48 saat içinde |
+| Vitrin kiti envanteri | Teslim alındığında | Tam doğrulama |
+| Değişimler için ekip ataması | Değişim başına | Minimum 2 personel |
+| Fotoğraf dokümantasyonu | Değişim başına | Minimum 3 açı |
+| Rakip vitrin analizi | Haftalık | Fotoğraf raporu |
+
+### Bölge Müdürü
+
+| Sorumluluk | Sıklık | Standart |
+|------------|--------|----------|
+| Bölgesel vitrin denetimi | Aylık | Tüm mağazalar |
+| En iyi uygulama paylaşımı | Aylık | Bölge toplantısı |
+| İstisna onayı | Gerektiğinde | 24 saat içinde |
+| Yeni mağaza vitrin kurulumu | Gerektiğinde | Açılış öncesi |
+
+### Merkez VM Ekibi
+
+| Sorumluluk | Sıklık | Standart |
+|------------|--------|----------|
+| Vitrin kiti tasarımı | Kampanya başına | 60 gün önceden |
+| Kurulum kılavuzu oluşturma | Kit başına | Kit teslimatıyla |
+| Vitrin teması geliştirme | Üç aylık | Sezon uyumu |
+| Manken tedariki | Gerektiğinde | Sadece marka onaylı |
+| Performans analizi | Aylık | Global benchmark |
+
+
+## Standartlar ve Kurallar
+
+### Vitrin Kompozisyon Kuralları
+
+#### Piramit Kompozisyon
+```
+                    ▲
+                   /█\
+                  / █ \
+                 / █ █ \
+                /█  █  █\
+               ───────────
+
+Merkezde yükseklik, yanlara doğru alçalma
+• Doğal odak noktası oluşturur
+• Göz hareketini yönlendirir
+• Profesyonel, dengeli görünüm
+```
+
+#### Asimetrik Kompozisyon
+```
+        █
+        █   ▲
+        █  /█\
+        █ /███\
+       ─────────
+
+Merkez dışı odak noktası
+• Dinamik enerji yaratır
+• Modern, moda odaklı
+• Trend ifadeleri için kullan
+```
+
+#### Tekrar Kompozisyonu
+```
+   █   █   █   █   █
+   ▼   ▼   ▼   ▼   ▼
+
+Aynı ürün farklı renklerde
+• Yüksek görsel etki
+• Net ürün odağı
+• Promosyonlar için etkili
+```
+
+### Manken Gruplama Standartları
+
+| Vitrin Boyutu | Manken Sayısı | Gruplama Stili |
+|---------------|---------------|----------------|
+| Küçük (<3m) | 1-2 | Tekli veya çift |
+| Orta (3-5m) | 2-4 | Üçgen grup |
+| Büyük (5-8m) | 4-6 | Çoklu gruplar |
+| Ekstra Büyük (>8m) | 6+ | Sahne kompozisyonu |
+
+### Manken Konumlandırma
+
+```
+ÖN GÖRÜNÜM - Müşteri Perspektifi
+
+    ┌─────────────────────────────────────────┐
+    │                VİTRİN                   │
+    │                                         │
+    │     ○        ○                          │
+    │    /│\      /│\        ○               │
+    │    / \      / \       /│\              │
+    │  Manken Pozisyonları  / \              │
+    │                                         │
+    │  • Asla doğrudan öne bakan değil        │
+    │  • 15-45° açı tercih edilir             │
+    │  • Figürler arası diyalog oluştur       │
+    │  • Yükseltilerle yükseklikleri değiştir │
+    │                                         │
+    └─────────────────────────────────────────┘
+```
+
+### Aydınlatma Standartları
+
+| Aydınlatma Tipi | Amaç | Spesifikasyon |
+|-----------------|------|---------------|
+| **Genel Yayılım** | Genel aydınlatma | 800-1000 lux |
+| **Vurgu Spotları** | Kahraman ürün vurgulama | 2000-3000 lux |
+| **Renk Sıcaklığı** | Marka ambiyansı | 3000-4000K (sıcak beyaz) |
+| **Arka Işık** | Derinlik ve drama | 500-800 lux |
+
+### Vitrin Temizlik Standartları
+
+| Öğe | Temizlik Sıklığı | Yöntem |
+|-----|------------------|--------|
+| İç cam | Günlük | Cam temizleyici, tüy bırakmayan bez |
+| Dış cam | Günlük (sabah) | Profesyonel temizlik |
+| Zemin/platform | Günlük | Süpürge, leke temizleme |
+| Mankenler | Haftalık | Nemli bez, nazik temizleyici |
+| Aksesuarlar | Haftalık | Malzemeye uygun |
+| Aydınlatma armatürleri | Aylık | Toz alma, ampul kontrolü |
+
+
+## Örnekler / Senaryolar
+
+### Senaryo 1: İlkbahar/Yaz Lansman Vitrini
+
+**Tema:** "Yeni Başlangıç" - Yeni sezon koleksiyon lansmanı
+
+**Kompozisyon:**
+```
+┌─────────────────────────────────────────┐
+│        İLKBAHAR/YAZ VİTRİNİ             │
+├─────────────────────────────────────────┤
+│                                         │
+│    ARKA PLAN: Açık mavi gradyan         │
+│                                         │
+│         [KAHRAMAN KOMBİN]               │
+│             ○                           │
+│            /█\      ○                   │
+│           /███\    /█\                  │
+│            ██      ██                   │
+│           ────    ────                  │
+│         Yükselti  Zemin                 │
+│                                         │
+│    AKSESUARLAR: Beyaz küp yükseltiler   │
+│           Taze çiçekler (yapay)         │
+│           "YENİ KOLEKSİYON" tabelası    │
+│                                         │
+│    RENKLER: Pastel, beyaz, lacivert     │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+**Manken Styling - U.S. Polo Assn.:**
+- Manken 1 (Kahraman): Keten blazer, polo yaka, chino
+- Manken 2: Günlük gömlek, şort, kemer
+
+
+## KPI'lar
+
+### Vitrin Performans Metrikleri
+
+| KPI | Formül | Hedef | Ölçüm |
+|-----|--------|-------|-------|
+| **Vitrin Dönüşüm Oranı** | Mağaza girişleri / Vitrin görüntülemeleri | >%8 | Trafik sayacı |
+| **Vitrin Değişim Uyumu** | Zamanında değişimler / Gerekli değişimler | %100 | Takvim takibi |
+| **Vitrin Kalite Puanı** | Denetim puanları / Toplam puanlar | >%90 | Haftalık denetim |
+| **Kahraman Ürün Satış Oranı** | Satılan adet / Sergilenen adet | 2 haftada >%60 | POS verileri |
+| **Vitrin ROI** | Vitrin ürün satışları / Vitrin maliyeti | >5:1 | Aylık |
+
+
+### Sorun 2: Manken Hasarı
+
+**Problem:** Kırık manken parçaları (el, kol, taban)
+
+**Acil Aksiyon:**
+1. Hasarlı mankeni sergilemeden kaldır
+2. Boşluğu kapatmak için kalan mankenleri yeniden düzenle
+3. Hasarı hemen raporla
+
+**Çözüm:**
+- Envanterden yedek parça kullan
+- Yedek parça sipariş et
+- Kompozisyonu korurken manken sayısını geçici olarak azalt
+
+**Önleme:** Dikkatli kullanım eğitimi, düzgün depolama, düzenli kontrol
+
+
+### Sorun 4: Vitrin Referansla Eşleşmiyor
+
+**Problem:** Kurulu vitrin HQ kılavuzundan önemli ölçüde farklı
+
+**Acil Aksiyon:**
+1. Fotoğraf çek ve nokta nokta karşılaştır
+2. Belirli tutarsızlıkları tespit et
+3. Mümkün olduğunda hemen düzeltmeler yap
+
+**Çözüm:**
+- Kurulum kılavuzunu dikkatle yeniden oku
+- Rehberlik için VM ekibiyle video görüşme talep et
+- Gelecek için doğru süreci belgele
+
+**Önleme:** Kılavuzu takip ederek adım adım kurulum, kurulum sırasında görünür referans fotoğraflar
+
+
+## Revizyon Geçmişi
+
+| Versiyon | Tarih | Değişiklik | Hazırlayan |
+|----------|-------|------------|------------|
+| 1.0 | 2025-12-01 | İlk versiyon oluşturuldu | Aydınlı Grup VM Ekibi |
+
+
+---
+---
+
+## SECTION 4: MANNEQUIN-STYLING-GUIDELINE-TR
 
 ﻿---
 layout: default
@@ -511,7 +1054,7 @@ parent: Visual Merchandising
 
 ---
 
-## SECTION 3: SEASONAL-VM-CHANGEOVER-TR
+## SECTION 5: SEASONAL-VM-CHANGEOVER-TR
 
 ﻿---
 layout: default
@@ -745,906 +1288,3 @@ parent: Visual Merchandising
 
 
 
----
-
-## SECTION 4: VM-GUIDELINE-GENERAL-TR
-
-﻿---
-layout: default
-title: "Görsel Mağazacılık Genel Kılavuzu"
-parent: Visual Merchandising
-
-## İçindekiler
-
-1. [Hızlı Bakış (EN/TR Toggle)](#hızlı-bakış-entr-toggle)
-2. [Amaç](#amaç)
-3. [Kapsam](#kapsam)
-4. [Tanımlar](#tanımlar)
-5. [Sorumluluklar](#sorumluluklar)
-6. [VM İlkeleri](#vm-ilkeleri)
-7. [Mağaza Bölgeleme](#mağaza-bölgeleme)
-8. [Ürün Sunumu](#ürün-sunumu)
-9. [Manken ve Form Standartları](#manken-ve-form-standartları)
-10. [Fikstür Kılavuzları](#fikstür-kılavuzları)
-11. [Renk ve Tema Yönetimi](#renk-ve-tema-yönetimi)
-12. [Aydınlatma Standartları](#aydınlatma-standartları)
-13. [Sezonluk VM Takvimi](#sezonluk-vm-takvimi)
-14. [Süreç Adımları](#süreç-adımları)
-15. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-16. [KPI'lar](#kpilar)
-17. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-18. [Revizyon Geçmişi](#revizyon-geçmişi)
-
-## Amaç
-
-Bu belge, tüm Aydınlı Grup franchise lokasyonları için kapsamlı görsel mağazacılık kılavuzlarını sunar. Tüm mağazalarda tutarlı marka sunumu, optimize edilmiş ürün görünürlüğü ve geliştirilmiş müşteri alışveriş deneyimi sağlar.
-
-### VM Hedefleri
-
-| Hedef | Açıklama |
-|-------|----------|
-| **Marka İfadesi** | Görsel unsurlar aracılığıyla marka kimliğini iletmek |
-| **Ürün Görünürlüğü** | Ürün maruziyetini ve çekiciliğini maksimize etmek |
-| **Müşteri Yolculuğu** | Müşterileri ilgi çekici bir alışveriş deneyimine yönlendirmek |
-| **Satış Optimizasyonu** | Stratejik ürün yerleşimi ile satışları artırmak |
-| **Tutarlılık** | Tüm mağazalarda tek tip standartları korumak |
-
-
-## Tanımlar
-
-| Terim | Tanım |
-|-------|-------|
-| **Görsel Mağazacılık (VM)** | Satışları maksimize etmek için ürünlerin stratejik sunumu |
-| **Kat Seti** | Yeni sezon/kampanya için tam mağaza düzeni değişikliği |
-| **Odak Noktası** | Müşteri dikkatini ilk yakalamak için tasarlanmış alan |
-| **Görüş Hattı** | Önemli bakış noktalarında müşterinin görüş çizgisi |
-| **Kapasite** | Bir fikstürde sergilenen ürün miktarı |
-| **Yüz Görünümü** | Önü gösterecek şekilde yandan asılmış giysi |
-| **Katlı** | Düzgünce katlanmış giysi |
-| **Manken** | Kıyafetleri sergilemek için tam vücut insan figürü |
-| **Büst Formu** | Üst giyim ve aksesuarlar için üst vücut formu |
-| **Gondol** | Serbest duran, çift taraflı display fikstürü |
-| **Sıcak Nokta** | Yüksek görünürlüklü, yüksek trafikli mağaza alanı |
-| **Hız Kesici** | Müşteri hareketini yavaşlatan özellik displayı |
-
-
-## VM İlkeleri
-
-### Temel VM İlkeleri
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    VM TEMEL İLKELERİ                             │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  1. DİKKAT                                                       │
-│     └── Müşteri dikkatini hemen yakalamak                        │
-│         • Güçlü vitrin displayları                               │
-│         • Net odak noktaları                                     │
-│         • Etkileyici giriş deneyimi                              │
-│                                                                  │
-│  2. İLGİ                                                         │
-│     └── Ürünlere ilgi oluşturmak                                 │
-│         • Yaşam tarzı sunumları                                  │
-│         • Hikaye anlatan displaylar                              │
-│         • Öne çıkarılan ürün özellikleri                         │
-│                                                                  │
-│  3. ARZU                                                         │
-│     └── Satın alma arzusu oluşturmak                             │
-│         • Tam kıyafet önerileri                                  │
-│         • Özendirici sunum                                       │
-│         • Dokunma ve hissetme erişilebilirliği                   │
-│                                                                  │
-│  4. EYLEM                                                        │
-│     └── Satın alma kararını kolaylaştırmak                       │
-│         • Net beden mevcudiyeti                                  │
-│         • Kolay navigasyon                                       │
-│         • Rahat ödeme                                            │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### VM Altın Kuralları
-
-1. **Üç Kuralı:** Görsel çekicilik için ürünleri tek sayılarla (tercihen 3) grupla
-2. **Piramit Display:** Denge için ürünleri piramit şeklinde düzenle
-3. **Renk Bloklaması:** Etki için ürünleri renge göre grupla
-4. **Tekrar:** Tutarlılık için kalıpları ve unsurları tekrarla
-5. **Negatif Alan:** Displaylar arasında nefes alma alanı bırak
-6. **Göz Seviyesi Satın Alma Seviyesidir:** Önemli ürünleri göz seviyesine (145-165cm) yerleştir
-7. **Dokunma Bölgesi:** En çok satanları kol erişimi içinde tut
-
-### Müşteri Akış Yönetimi
-
-```
-GİRİŞ ──► DEKOMPRESYON BÖLGESİ ──► KEŞİF ──► ETKİLEŞİM ──► KASA
-  │              │                    │              │            │
-  │              │                    │              │            │
-Vitrin       Karşılama           Ürün            Giyinme      Satın Alma
-Etkisi       Alanı              Keşfi             Odası        Kararı
-             (90-150 cm)        (Ana Kat)
-```
-
-
-## Ürün Sunumu
-
-### Sunum Yöntemleri
-
-| Yöntem | Açıklama | En İyi Kullanım |
-|--------|----------|-----------------|
-| **Yüz Görünümü** | Askılarda önü gösteren | Öne çıkan ürünler, yeni gelenler |
-| **Yan Görünüm** | Rayda yan profil | Kapasite oluşturma |
-| **Katlı** | Yüzeyde düzgünce yığılmış | Temel ürünler, triko |
-| **Manken** | Tam kıyafet displayı | Hero görünümler, yaşam tarzı |
-| **Masa** | Düz düzenlenmiş display | Aksesuarlar, küçük ürünler |
-
-### Asma Standartları
-
-**Tek Ray:**
-```
-┌───────────────────────────────────────┐
-│                                       │
-│   ├──┼──┼──┼──┼──┼──┼──┼──┤          │
-│      │  │  │  │  │  │  │              │
-│      ▼  ▼  ▼  ▼  ▼  ▼  ▼              │
-│                                       │
-│   • Kol başına 4-6 ürün (kapasite)    │
-│   • Askılar arası 2cm boşluk          │
-│   • Tüm askılar aynı yönde            │
-│   • Renk geçişi açık → koyu           │
-│   • Beden geçişi S → L                │
-│                                       │
-└───────────────────────────────────────┘
-```
-
-### Katlama Standartları
-
-| Ürün | Katlama Yöntemi | Yığın Yüksekliği |
-|------|-----------------|------------------|
-| T-Shirt | Tahta katlaması (standart) | Maks 6-8 |
-| Kazaklar | Tahta katlaması (büyük) | Maks 4-6 |
-| Kot Pantolon | Yarım katlama | Maks 6-8 |
-| Şortlar | Üçte bir katlama | Maks 6-8 |
-| Polo Yaka | Yakalı tahta katlaması | 5-6 |
-
-### Beden Sunumu
-
-**Asılı:**
-- Önden arkaya: S, M, L, XL, XXL
-- Soldan sağa: S → XXL
-
-**Katlı:**
-- Yığının üstü: S
-- Yığının altı: XXL
-- Üstteki üründe beden küpü görünür
-
-
-## Fikstür Kılavuzları
-
-### Fikstür Türleri ve Kullanımı
-
-| Fikstür | Kapasite | Kullanım |
-|---------|----------|----------|
-| **4-Yönlü Raf** | 16-20 ürün | Öne çıkan koleksiyonlar |
-| **Düz Ray** | 20-30 ürün | Temel kapasite |
-| **Yuvarlak Raf** | 30-40 ürün | İndirim/yüksek hacim |
-| **Masa** | Değişken | Aksesuarlar, katlı |
-| **Gondol** | Değişken | Çift taraflı display |
-| **Duvar Ünitesi** | Değişken | Arka duvar sunumu |
-
-### Fikstür Yerleşim Kuralları
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    FİKSTÜR YERLEŞİMİ                             │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  MAĞAZA ÖNÜ                                                      │
-│  • Görünürlük için alçak fikstürler                              │
-│  • Öne çıkan ürünler                                             │
-│  • Arkaya açık görüş hatları                                     │
-│                                                                  │
-│  MAĞAZA ORTASI                                                   │
-│  • Orta yükseklikte fikstürler                                   │
-│  • Ana kategori sunumu                                           │
-│  • Net müşteri yolları                                           │
-│                                                                  │
-│  MAĞAZA ARKASI                                                   │
-│  • Uzun fikstürler/duvar üniteleri                               │
-│  • Hedef kategoriler                                             │
-│  • Tam kapasite display                                          │
-│                                                                  │
-│  YOL GEREKSİNİMLERİ                                              │
-│  • Ana koridorlar: minimum 120cm                                 │
-│  • İkincil koridorlar: minimum 90cm                              │
-│  • Fikstürler etrafı: minimum 60cm                               │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-## Aydınlatma Standartları
-
-### Aydınlatma Bölgeleri
-
-| Bölge | Aydınlatma Türü | Amaç |
-|-------|-----------------|------|
-| **Vitrin** | Vurgu + Ambient | Dikkat çekme |
-| **Giriş** | Parlak ambient | Karşılama |
-| **Display Alanları** | Vurgu spot | Ürünleri öne çıkarma |
-| **Satış Alanı** | Düzgün ambient | Alışveriş konforu |
-| **Giyinme Odası** | Flatör, parlak | Dönüşüm |
-| **Kasa** | Fonksiyonel | İşlem |
-
-### Aydınlatma Yapılması ve Yapılmaması Gerekenler
-
-**Yapın:**
-- Spotları odak noktalarına yönlendirin
-- Ürünlerde düzgün kapsam sağlayın
-- Tüm çalışan ışıkları koruyun
-- Günün saatine göre ayarlayın
-
-**Yapmayın:**
-- Ürünlerde karanlık noktalar bırakmak
-- Sert, çirkin ışık kullanmak
-- Yanmış ampulleri değiştirmeden bırakmak
-- Parlamaya neden olacak şekilde aşırı aydınlatmak
-
-
-## Süreç Adımları
-
-### Günlük VM Rutini
-
-```
-AÇILIŞ (Mağaza açılmadan önce):
-├── Tam mağaza turu
-├── Tüm mankenlerin giyindiğini kontrol et
-├── Vitrin displayının sağlam olduğunu doğrula
-├── Bozulmuş displayları sıfırla
-├── Öne çıkan pozisyonları yeniden stokla
-└── Tüm ışıkları aç
-
-GÜN İÇİ (Sürekli):
-├── Saatlik toparlanma turları
-├── Beden aralığı bakımı
-├── Gerektiğinde yeniden katlama
-├── Ürün yenilemesi
-└── Müşteri alanı düzenlemesi
-
-KAPANIŞ:
-├── Final mağaza toparlanması
-├── Ertesi gün hazırlığı
-├── Sorun belgeleme
-└── Işık ayarlama
-```
-
-### Kat Seti Süreci
-
-```
-Hafta -2: Planlama
-├── Kat seti direktifini al
-├── Düzen planlarını incele
-├── VM materyallerini envanter et
-└── Personel planla
-
-Hafta -1: Hazırlık
-├── Yeni POSM'u al
-├── Props ve malzemeleri hazırla
-├── Ekip brifingi
-└── Unsurları önceden konumlandır
-
-Kat Seti Günü:
-├── Bölge bölge uygulama
-├── Vitrin kurulumu
-├── Manken stillendirmesi
-├── Tabela yerleşimi
-└── Kayıtlar için fotoğraflama
-
-Hafta +1: İyileştirme
-├── Uygulamayı incele
-├── Trafiğe göre ayarla
-├── Öğrenimleri belgele
-└── Bölge Müdürü'ne raporla
-```
-
-
-## KPI'lar
-
-### VM Performans Metrikleri
-
-| KPI | Formül | Hedef | Takip |
-|-----|--------|-------|-------|
-| **Dönüşüm Oranı** | İşlem / Trafik × 100 | Öncekine göre iyileştir | Haftalık |
-| **AOD (Ortalama İşlem Değeri)** | Satışlar / İşlemler | Artır | Haftalık |
-| **UPT (İşlem Başı Adet)** | Adet / İşlemler | Artır | Haftalık |
-| **Vitrin Dönüşümü** | Giriş / Geçen Trafik × 100 | >%15 | Aylık |
-| **VM Uyumluluk Puanı** | Denetim Puanları / Toplam Puan | >%90 | Aylık |
-
-
-### Sorun 2: Display'da Stok Tükenmesi
-
-**Belirti:** Önemli fikstürlerde boş alanlar.
-
-**Çözümler:**
-1. Günlük stok seviyesi izleme
-2. Benzer ürünlerle ikame
-3. Dolu fikstürlerde birleştir
-4. Kalıcı tükenmelerı bildir
-
-
-## Kontrol Listeleri
-
-### Günlük VM Kontrol Listesi
-
-- [ ] Tüm mankenler tam giyinmiş ve temiz
-- [ ] Vitrin displayı sağlam
-- [ ] Tüm ışıklar çalışıyor
-- [ ] Tabela doğru ve güncel
-- [ ] Boş fikstür veya display yok
-- [ ] Tüm ürünler temiz ve düzenli
-- [ ] Beden aralıkları korunmuş
-- [ ] Müşteri alanları düzenli ve temiz
-
-### Haftalık VM Kontrol Listesi
-
-- [ ] Manken kıyafet rotasyonu
-- [ ] Tüm fikstürlerin derin temizliği
-- [ ] Tüm aydınlatmayı kontrol et
-- [ ] Tabela doğruluğunu denetle
-- [ ] Promosyonel displayları incele
-- [ ] Önemli fikstürlerde stok seviyelerini değerlendir
-- [ ] Fotoğraf belgeleme
-- [ ] Bölge Müdürü'ne rapor gönderildi
-
-
-*Bu belge Aydınlı Grup Görsel Mağazacılık Operasyonları tarafından hazırlanmıştır.*  
-*© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
-
-
-
-
----
-
-## SECTION 5: VM-OVERVIEW-TR
-
-﻿---
-layout: default
-title: "Görsel Mağazacılık Genel Bakış – TR"
-parent: Visual Merchandising
-
-## İçindekiler
-
-1. [Amaç](#amaç)
-2. [Kapsam](#kapsam)
-3. [Tanımlar](#tanımlar)
-4. [Sorumluluklar](#sorumluluklar)
-5. [Süreç Adımları](#süreç-adımları)
-6. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-7. [Kontrol Listeleri](#kontrol-listeleri)
-8. [Örnekler / Senaryolar](#örnekler--senaryolar)
-9. [KPI'lar](#kpilar)
-10. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-11. [Revizyon Geçmişi](#revizyon-geçmişi)
-
-
-## Kapsam
-
-### Mağaza Formatı Kapsamı
-
-| Format | Boyut Aralığı | VM Karmaşıklığı |
-|--------|---------------|-----------------|
-| Flagship | 300+ m² | Tam VM uygulaması |
-| Standart | 100-300 m² | Standart VM paketi |
-| Kompakt | 50-100 m² | Temel VM öğeleri |
-| Shop-in-Shop | 25-50 m² | Köşe VM adaptasyonu |
-| Outlet | Değişken | Basitleştirilmiş VM yaklaşımı |
-
-### Marka Uygulaması
-
-- **U.S. Polo Assn.:** Tam VM kılavuzları uygulanır
-- **Pierre Cardin:** Tam VM kılavuzları uygulanır
-- **Cacharel:** Tam VM kılavuzları uygulanır
-
-
-## Sorumluluklar
-
-### Mağaza Personeli
-
-| Görev | Sıklık | Standart |
-|-------|--------|----------|
-| Ürün sunumunu koruma | Sürekli | VM kılavuzlarına göre |
-| Ürünleri yeniden katlama/asma | Her 2 saatte | Kalite standardı |
-| Satılan manken ürünlerini değiştirme | Aynı gün | 2 saat içinde |
-| VM sorunlarını raporlama | Gerektiğinde | Mağaza uygulaması üzerinden |
-| Günlük VM kontrol listesini uygulama | Günlük | Sabah açılışta |
-
-### Mağaza Müdürü
-
-| Görev | Sıklık | Standart |
-|-------|--------|----------|
-| Haftalık VM denetimi | Haftalık | VM puan kartı kullanarak |
-| Ekip VM eğitimi | Aylık | Minimum 2 saat |
-| Vitrin değişimi koordinasyonu | Takvime göre | 48 saat uygulama |
-| VM bütçe yönetimi | Aylık | Tahsisat dahilinde |
-| Rekabet analizi | Haftalık | Fotoğraf dokümantasyonu |
-| VM performans değerlendirmesi | Haftalık | Satış korelasyonu |
-
-### Bölge Müdürü
-
-| Görev | Sıklık | Standart |
-|-------|--------|----------|
-| Bölgesel VM denetimi | Aylık | Bölgedeki tüm mağazalar |
-| En iyi uygulama paylaşımı | Aylık | Bölge toplantısı |
-| VM uyum raporlaması | Aylık | HQ VM ekibine |
-| Yeni mağaza VM kurulumu | Gerektiğinde | Açılış öncesi kontrol listesi |
-| VM eğitimi sunumu | Üç aylık | Bölgesel atölyeler |
-
-### Merkez VM Ekibi
-
-| Görev | Sıklık | Standart |
-|-------|--------|----------|
-| Sezonluk VM kılavuzu oluşturma | Üç aylık | Sezondan 60 gün önce |
-| Vitrin kiti geliştirme | Aylık | Pazarlama takvimine göre |
-| VM denetim puanlaması | Üç aylık | Global benchmark |
-| İnovasyon ve trendler | Sürekli | Sektör araştırması |
-| Fikstür tasarımı ve tedarik | Gerektiğinde | Marka standartları |
-| VM eğitim müfredatı | Yıllık | Global sertifikasyon |
-
-
-## Standartlar ve Kurallar
-
-### Temel VM Prensipleri
-
-1. **Altın Üçgen Kuralı**
-   - Ana odak noktası girişten görünür olmalı
-   - Kahraman ürünler premium görüş hatlarında
-   - Görüş başına maksimum 3 odak noktası
-
-2. **Göz Hizası Önceliği**
-   - Premium bölge: 145-170 cm (yetişkin göz hizası)
-   - Dokunma bölgesi: 90-145 cm (kolay erişim)
-   - Alt bölge: 0-90 cm (hacimli ürünler)
-   - Üst bölge: 170+ cm (stok/dekor)
-
-3. **Sağa Dönüş Prensibi**
-   - Müşterilerin %90'ı doğal olarak sağa döner
-   - Yeni sezon/kahraman ürünleri sağa konumlandır
-   - Saat yönünde trafik akışı oluştur
-
-4. **Dekompresyon Bölgesi**
-   - Girişten ilk 1-2 metre
-   - Bu alanda kritik ürün yok
-   - Marka ambiyansı için kullan
-
-### Zorunlu Standartlar
-
-| Standart | Gereksinim | Tolerans |
-|----------|------------|----------|
-| Vitrin değişim sıklığı | Takvime göre | ±2 gün |
-| Manken durumu | Hasar/iz yok | Sıfır tolerans |
-| Aydınlatma işlevselliği | %100 çalışır | 24 saat düzeltme |
-| Fiyat etiketi görünürlüğü | Tüm ürünlerde | Sıfır tolerans |
-| Beden organizasyonu | Soldan sağa XS→XXL | Sıfır tolerans |
-| Fikstür kapasitesi | Ürün tipine göre | ±%10 |
-| Renk bloklama | Gradyan düzenleme | Kılavuza göre |
-| Tabela doğruluğu | Sadece güncel kampanya | Sıfır tolerans |
-
-### Yasaklı Uygulamalar
-
-- ❌ Kapasiteyi aşan aşırı dolu fikstürler
-- ❌ Karışık marka sergileri (onaylı değilse)
-- ❌ El yazısı tabelalar
-- ❌ Hasarlı/kirli fikstürler veya aksesuarlar
-- ❌ Güncelliğini yitirmiş kampanya materyalleri
-- ❌ Boş mankenler veya fikstürler
-- ❌ Tutarsız askı tipleri
-- ❌ Yerdeki ürünler
-- ❌ Engellenmiş görüş hatları
-- ❌ Onaysız fikstürler
-
-
-## Örnekler / Senaryolar
-
-### Senaryo 1: Yeni Sezon Lansmanı
-
-**Durum:** İlkbahar/Yaz koleksiyonu lansman günü
-
-**VM Uygulama Planı:**
-```
-Zaman Çizelgesi: T-7 ila T+1
-
-T-7: VM kitini al, envanteri doğrula
-T-5: Ekip brifingi, rolleri ata
-T-3: Arka ofis hazırlığı, ürünleri ütüle
-T-1: Akşam: Vitrin/mağaza dönüşümüne başla
-T-0: 06:00-09:00 Uygulamayı tamamla
-     09:30 Büyük açılış
-T+1: Fotoğraf dokümantasyonu, sorun çözümü
-```
-
-**Başarı Metrikleri:**
-- Mağaza açılışında vitrin değişimi tamamlanmış
-- Tüm kahraman ürünler A-bölgesinde
-- 24 saat içinde fotoğraf dokümantasyonu yüklenmiş
-- Sıfır VM uyum sorunu
-
-### Senaryo 2: Kampanya Dönemi VM Adaptasyonu
-
-**Durum:** Black Friday promosyonu başlıyor
-
-**Gerekli Değişiklikler:**
-1. Vitrin: Promosyon tabela overlay'i ekle
-2. Giriş: Kampanya zemin grafiklerini kur
-3. Mağaza içi: Promosyon tabelalarını kilit noktalara konumlandır
-4. Kasa: Anlık satın alma sergileri ekle
-5. Kabine: Üst satış tabelası ekle
-
-**Uygulama Zaman Çizelgesi:** Kampanya başlangıcından 24 saat önce
-
-### Senaryo 3: Düşük Stok Durumu
-
-**Durum:** Yeniden stok öncesi önemli ürünler azalıyor
-
-**VM Çözümü:**
-```
-Seçenek A: Konsolidasyon
-- Renkleri daha az fikstürde birleştir
-- Görsel yoğunluğu koru
-- "Özenle seçilmiş koleksiyon" hikayesi oluştur
-
-Seçenek B: İkame
-- Benzer stille değiştir
-- Renk hikayesini koru
-- Mankeni buna göre güncelle
-
-Seçenek C: Yeniden Mağazacılık
-- Komşu kategoriyi genişlet
-- Yeni çapraz mağazacılık fırsatı oluştur
-- Mevcut alternatifleri vurgula
-```
-
-
-## Sık Karşılaşılan Sorunlar ve Çözümler
-
-### Sorun 1: Aşırı Dolu Fikstürler
-
-**Problem:** Ürünler çok sıkışık, görsel çekicilik azalıyor
-
-**Çözüm:**
-- Fazla stoğu arka odaya çıkar
-- Kapasite kılavuzlarına sıkı sıkıya uy
-- Ürünler arasında "nefes alanı" oluştur
-- Negatif alanı bilinçli kullan
-
-**Önleme:** Günlük kapasite kontrolleri, düzgün stok rotasyonu
-
-
-### Sorun 3: Manken Styling Hataları
-
-**Problem:** Yanlış kombin kombinasyonları veya kötü kalıp
-
-**Çözüm:**
-- Look book styling kılavuzunu incele
-- Sadece onaylı kombin kombinasyonlarını kullan
-- Manken tipine uygun bedeni sağla
-- Mükemmel kalıp için iğne/bant kullan
-- Hasarlı manken parçalarını değiştir
-
-**Önleme:** Haftalık manken styling incelemesi
-
-
-### Sorun 5: Tabela Hataları
-
-**Problem:** Yanlış fiyatlar, güncelliğini yitirmiş kampanyalar veya eksik etiketler
-
-**Çözüm:**
-- Acil fiyat denetimi
-- Tüm güncelliğini yitirmiş materyalleri kaldır
-- Güncel kampanya brifingiyle kontrol et
-- Sistematik sorunları HQ'ya raporla
-
-**Önleme:** Kampanya öncesi tabela kontrol listesi, tüm materyalleri tarihle
-
-
-## VM Kaynakları
-
-### Mevcut Destek
-
-| Kaynak | Erişim | Güncelleme Sıklığı |
-|--------|--------|-------------------|
-| VM Portalı | store.aydinli.com/vm | Gerçek zamanlı |
-| Sezonluk Lookbook | Dijital indirme | Üç aylık |
-| Vitrin Kurulum Videoları | YouTube özel kanal | Kampanya başına |
-| VM Yardım Hattı | +90 212 XXX XX XX | İş saatleri |
-| Bölge VM Müdürü | E-posta/WhatsApp | Yanıt <24s |
-
-### Eğitim Takvimi
-
-| Eğitim | Format | Sıklık | Süre |
-|--------|--------|--------|------|
-| Yeni Sezon VM Brifingi | Webinar | Üç aylık | 2 saat |
-| Vitrin Kurulumu | Video | Kampanya başına | 30 dk |
-| VM Temelleri | E-öğrenme | Yıllık | 4 saat |
-| İleri VM Atölyesi | Yüz yüze | Yıllık | 1 gün |
-
-
-*Bu doküman Aydınlı Grup Görsel Mağazacılık Ekibi tarafından hazırlanmıştır.*  
-*© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
-
-
-
-
----
-
-## SECTION 6: WINDOW-DISPLAY-GUIDELINE-TR
-
-﻿---
-layout: default
-title: "Vitrin Sergileme Kılavuzu – TR"
-parent: Visual Merchandising
-
-## İçindekiler
-
-1. [Amaç](#amaç)
-2. [Kapsam](#kapsam)
-3. [Tanımlar](#tanımlar)
-4. [Sorumluluklar](#sorumluluklar)
-5. [Süreç Adımları](#süreç-adımları)
-6. [Standartlar ve Kurallar](#standartlar-ve-kurallar)
-7. [Kontrol Listeleri](#kontrol-listeleri)
-8. [Örnekler / Senaryolar](#örnekler--senaryolar)
-9. [KPI'lar](#kpilar)
-10. [Sık Karşılaşılan Sorunlar ve Çözümler](#sık-karşılaşılan-sorunlar-ve-çözümler)
-11. [Revizyon Geçmişi](#revizyon-geçmişi)
-
-
-## Kapsam
-
-### Kapsanan Vitrin Tipleri
-
-| Vitrin Tipi | Açıklama | Uygulama |
-|-------------|----------|----------|
-| **Kapalı Vitrin** | Arka duvarla tam kapalı | Geleneksel mağaza önü |
-| **Açık Arkaplanlı** | Arka duvar yok, mağaza içi görünür | Modern AVM mağazaları |
-| **Yarı Kapalı** | Kısmi arka duvar veya paneller | Hibrit formatlar |
-| **Köşe Vitrin** | Bina köşesinde açılı vitrin | Köşe konumları |
-| **Shadow Box** | Küçük yükseltilmiş sergileme kutusu | Aksesuar odaklı |
-| **Ada Sergi** | Serbest duran vitrin yapısı | AVM koridorları |
-
-### Marka Uygulaması
-
-| Marka | Vitrin Stili | Temel Özellikler |
-|-------|--------------|------------------|
-| **U.S. Polo Assn.** | Dinamik, yaşam tarzı | Spor mirası, aktif yaşam |
-| **Pierre Cardin** | Zarif, minimalist | Sofistike, premium |
-| **Cacharel** | Klasik, rafine | Fransız zarafeti, ölçülü |
-
-
-## Sorumluluklar
-
-### Mağaza Personeli
-
-| Sorumluluk | Sıklık | Standart |
-|------------|--------|----------|
-| Günlük vitrin kontrolü | Günlük | Sabah açılış |
-| Vitrin camını temizleme (iç) | Günlük | Açılış öncesi |
-| Manken/aksesuar hasarını raporlama | Hemen | Mağaza uygulaması ile |
-| Satılan sergi ürünlerini değiştirme | Aynı gün | 4 saat içinde |
-| Gerektiğinde aydınlatmayı ayarlama | Günlük | Aydınlatma kılavuzuna göre |
-
-### Mağaza Müdürü
-
-| Sorumluluk | Sıklık | Standart |
-|------------|--------|----------|
-| Vitrin değişimlerini uygulama | Takvime göre | 48 saat içinde |
-| Vitrin kiti envanteri | Teslim alındığında | Tam doğrulama |
-| Değişimler için ekip ataması | Değişim başına | Minimum 2 personel |
-| Fotoğraf dokümantasyonu | Değişim başına | Minimum 3 açı |
-| Rakip vitrin analizi | Haftalık | Fotoğraf raporu |
-
-### Bölge Müdürü
-
-| Sorumluluk | Sıklık | Standart |
-|------------|--------|----------|
-| Bölgesel vitrin denetimi | Aylık | Tüm mağazalar |
-| En iyi uygulama paylaşımı | Aylık | Bölge toplantısı |
-| İstisna onayı | Gerektiğinde | 24 saat içinde |
-| Yeni mağaza vitrin kurulumu | Gerektiğinde | Açılış öncesi |
-
-### Merkez VM Ekibi
-
-| Sorumluluk | Sıklık | Standart |
-|------------|--------|----------|
-| Vitrin kiti tasarımı | Kampanya başına | 60 gün önceden |
-| Kurulum kılavuzu oluşturma | Kit başına | Kit teslimatıyla |
-| Vitrin teması geliştirme | Üç aylık | Sezon uyumu |
-| Manken tedariki | Gerektiğinde | Sadece marka onaylı |
-| Performans analizi | Aylık | Global benchmark |
-
-
-## Standartlar ve Kurallar
-
-### Vitrin Kompozisyon Kuralları
-
-#### Piramit Kompozisyon
-```
-                    ▲
-                   /█\
-                  / █ \
-                 / █ █ \
-                /█  █  █\
-               ───────────
-
-Merkezde yükseklik, yanlara doğru alçalma
-• Doğal odak noktası oluşturur
-• Göz hareketini yönlendirir
-• Profesyonel, dengeli görünüm
-```
-
-#### Asimetrik Kompozisyon
-```
-        █
-        █   ▲
-        █  /█\
-        █ /███\
-       ─────────
-
-Merkez dışı odak noktası
-• Dinamik enerji yaratır
-• Modern, moda odaklı
-• Trend ifadeleri için kullan
-```
-
-#### Tekrar Kompozisyonu
-```
-   █   █   █   █   █
-   ▼   ▼   ▼   ▼   ▼
-
-Aynı ürün farklı renklerde
-• Yüksek görsel etki
-• Net ürün odağı
-• Promosyonlar için etkili
-```
-
-### Manken Gruplama Standartları
-
-| Vitrin Boyutu | Manken Sayısı | Gruplama Stili |
-|---------------|---------------|----------------|
-| Küçük (<3m) | 1-2 | Tekli veya çift |
-| Orta (3-5m) | 2-4 | Üçgen grup |
-| Büyük (5-8m) | 4-6 | Çoklu gruplar |
-| Ekstra Büyük (>8m) | 6+ | Sahne kompozisyonu |
-
-### Manken Konumlandırma
-
-```
-ÖN GÖRÜNÜM - Müşteri Perspektifi
-
-    ┌─────────────────────────────────────────┐
-    │                VİTRİN                   │
-    │                                         │
-    │     ○        ○                          │
-    │    /│\      /│\        ○               │
-    │    / \      / \       /│\              │
-    │  Manken Pozisyonları  / \              │
-    │                                         │
-    │  • Asla doğrudan öne bakan değil        │
-    │  • 15-45° açı tercih edilir             │
-    │  • Figürler arası diyalog oluştur       │
-    │  • Yükseltilerle yükseklikleri değiştir │
-    │                                         │
-    └─────────────────────────────────────────┘
-```
-
-### Aydınlatma Standartları
-
-| Aydınlatma Tipi | Amaç | Spesifikasyon |
-|-----------------|------|---------------|
-| **Genel Yayılım** | Genel aydınlatma | 800-1000 lux |
-| **Vurgu Spotları** | Kahraman ürün vurgulama | 2000-3000 lux |
-| **Renk Sıcaklığı** | Marka ambiyansı | 3000-4000K (sıcak beyaz) |
-| **Arka Işık** | Derinlik ve drama | 500-800 lux |
-
-### Vitrin Temizlik Standartları
-
-| Öğe | Temizlik Sıklığı | Yöntem |
-|-----|------------------|--------|
-| İç cam | Günlük | Cam temizleyici, tüy bırakmayan bez |
-| Dış cam | Günlük (sabah) | Profesyonel temizlik |
-| Zemin/platform | Günlük | Süpürge, leke temizleme |
-| Mankenler | Haftalık | Nemli bez, nazik temizleyici |
-| Aksesuarlar | Haftalık | Malzemeye uygun |
-| Aydınlatma armatürleri | Aylık | Toz alma, ampul kontrolü |
-
-
-## Örnekler / Senaryolar
-
-### Senaryo 1: İlkbahar/Yaz Lansman Vitrini
-
-**Tema:** "Yeni Başlangıç" - Yeni sezon koleksiyon lansmanı
-
-**Kompozisyon:**
-```
-┌─────────────────────────────────────────┐
-│        İLKBAHAR/YAZ VİTRİNİ             │
-├─────────────────────────────────────────┤
-│                                         │
-│    ARKA PLAN: Açık mavi gradyan         │
-│                                         │
-│         [KAHRAMAN KOMBİN]               │
-│             ○                           │
-│            /█\      ○                   │
-│           /███\    /█\                  │
-│            ██      ██                   │
-│           ────    ────                  │
-│         Yükselti  Zemin                 │
-│                                         │
-│    AKSESUARLAR: Beyaz küp yükseltiler   │
-│           Taze çiçekler (yapay)         │
-│           "YENİ KOLEKSİYON" tabelası    │
-│                                         │
-│    RENKLER: Pastel, beyaz, lacivert     │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-**Manken Styling - U.S. Polo Assn.:**
-- Manken 1 (Kahraman): Keten blazer, polo yaka, chino
-- Manken 2: Günlük gömlek, şort, kemer
-
-
-## KPI'lar
-
-### Vitrin Performans Metrikleri
-
-| KPI | Formül | Hedef | Ölçüm |
-|-----|--------|-------|-------|
-| **Vitrin Dönüşüm Oranı** | Mağaza girişleri / Vitrin görüntülemeleri | >%8 | Trafik sayacı |
-| **Vitrin Değişim Uyumu** | Zamanında değişimler / Gerekli değişimler | %100 | Takvim takibi |
-| **Vitrin Kalite Puanı** | Denetim puanları / Toplam puanlar | >%90 | Haftalık denetim |
-| **Kahraman Ürün Satış Oranı** | Satılan adet / Sergilenen adet | 2 haftada >%60 | POS verileri |
-| **Vitrin ROI** | Vitrin ürün satışları / Vitrin maliyeti | >5:1 | Aylık |
-
-
-### Sorun 2: Manken Hasarı
-
-**Problem:** Kırık manken parçaları (el, kol, taban)
-
-**Acil Aksiyon:**
-1. Hasarlı mankeni sergilemeden kaldır
-2. Boşluğu kapatmak için kalan mankenleri yeniden düzenle
-3. Hasarı hemen raporla
-
-**Çözüm:**
-- Envanterden yedek parça kullan
-- Yedek parça sipariş et
-- Kompozisyonu korurken manken sayısını geçici olarak azalt
-
-**Önleme:** Dikkatli kullanım eğitimi, düzgün depolama, düzenli kontrol
-
-
-### Sorun 4: Vitrin Referansla Eşleşmiyor
-
-**Problem:** Kurulu vitrin HQ kılavuzundan önemli ölçüde farklı
-
-**Acil Aksiyon:**
-1. Fotoğraf çek ve nokta nokta karşılaştır
-2. Belirli tutarsızlıkları tespit et
-3. Mümkün olduğunda hemen düzeltmeler yap
-
-**Çözüm:**
-- Kurulum kılavuzunu dikkatle yeniden oku
-- Rehberlik için VM ekibiyle video görüşme talep et
-- Gelecek için doğru süreci belgele
-
-**Önleme:** Kılavuzu takip ederek adım adım kurulum, kurulum sırasında görünür referans fotoğraflar
-
-
-## Revizyon Geçmişi
-
-| Versiyon | Tarih | Değişiklik | Hazırlayan |
-|----------|-------|------------|------------|
-| 1.0 | 2025-12-01 | İlk versiyon oluşturuldu | Aydınlı Grup VM Ekibi |
-
-
----

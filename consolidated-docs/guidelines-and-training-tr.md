@@ -17,25 +17,21 @@ nav_order: 10
 
 ## Doküman Genel Bakış
 
-Bu kapsamlı yönergeler ve eğitim dokümantasyonu, Aydınlı Grup franchise mağazaları için operasyonel standartları, iletişim protokollerini, markaya özel yönergeleri ve personel gelişim çerçevelerini kapsamaktadır. Doküman 9 ana bölümden oluşmaktadır:
+Bu kapsamlı yönergeler ve eğitim dokümantasyonu, Aydınlı Grup franchise mağazaları için operasyonel standartları, iletişim protokollerini, markaya özel yönergeleri ve personel gelişim çerçevelerini kapsamaktadır. Doküman 7 ana bölümden oluşmaktadır:
 
 **Bölüm 1: Franchise İletişim Protokolü** - Franchise mağazaları, bölge yönetimi ve merkez arasında tüm operasyonel alanlarda iletişim kanallarını, yükseltme prosedürlerini, raporlama standartlarını, toplantı protokollerini ve koordinasyon süreçlerini detaylandırır.
 
-**Bölüm 2: Mağaza Operasyonları Yönergesi** - Franchise ağı genelinde tutarlı mağaza operasyonları için günlük prosedürleri, yönetim sorumluluklarını, personel protokollerini, kalite standartlarını ve performans beklentilerini kapsayan kapsamlı operasyonel standartlar sağlar.
+**Bölüm 2: Müşteri Deneyimi Standartları** - Karşılama protokolleri, katılım standartları, sorun çözme prosedürleri ve tutarlı premium müşteri deneyimleri sunmak için kalite metrikleri dahil hizmet mükemmelliği kıstaslarını belirler.
 
-**Bölüm 3: VM Yönergesi** - Sergileme teknikleri, mevsimsel güncellemeler, marka sunum gereksinimleri ve franchise mağaza uygulamasına özel kalite kontrol süreçleri dahil görsel merchandising ilkelerini ve standartlarını açıklar.
+**Bölüm 3: Yetkinlik Çerçevesi** - Satış görevlilerinden mağaza müdürlerine kadar tüm franchise mağaza pozisyonları için role dayalı yetkinlik gereksinimlerini, beceri seviyelerini, performans standartlarını, kariyer ilerleme yollarını ve değerlendirme kriterlerini tanımlar.
 
-**Bölüm 4: Marka Eki - Cacharel** - Marka konumlandırması, hedef müşteri profili, ürün sunum standartları, görsel kimlik gereksinimleri ve uygun temsil için benzersiz marka özellikleri dahil Cacharel'e özel yönergeleri içerir.
+**Bölüm 4: Marka Eki - U.S. Polo Assn.** - Sportif yaşam tarzı konumlandırması, görsel sunum standartları, müşteri katılım yaklaşımı ve markaya özel operasyonel gereksinimler dahil U.S. Polo Assn. marka yönergelerini kapsar.
 
 **Bölüm 5: Marka Eki - Pierre Cardin** - Miras konumlandırması, müşteri hizmetleri yaklaşımı, görsel merchandising standartları ve marka bütünlüğünü korumak için marka sesi yönergeleri dahil Pierre Cardin markasına özel gereksinimleri detaylandırır.
 
-**Bölüm 6: Marka Eki - U.S. Polo Assn.** - Sportif yaşam tarzı konumlandırması, görsel sunum standartları, müşteri katılım yaklaşımı ve markaya özel operasyonel gereksinimler dahil U.S. Polo Assn. marka yönergelerini kapsar.
+**Bölüm 6: Marka Eki - Cacharel** - Marka konumlandırması, hedef müşteri profili, ürün sunum standartları, görsel kimlik gereksinimleri ve uygun temsil için benzersiz marka özellikleri dahil Cacharel'e özel yönergeleri içerir.
 
-**Bölüm 7: Yetkinlik Çerçevesi** - Satış görevlilerinden mağaza müdürlerine kadar tüm franchise mağaza pozisyonları için role dayalı yetkinlik gereksinimlerini, beceri seviyelerini, performans standartlarını, kariyer ilerleme yollarını ve değerlendirme kriterlerini tanımlar.
-
-**Bölüm 8: Müşteri Deneyimi Standartları** - Karşılama protokolleri, katılım standartları, sorun çözme prosedürleri ve tutarlı premium müşteri deneyimleri sunmak için kalite metrikleri dahil hizmet mükemmelliği kıstaslarını belirler.
-
-**Bölüm 9: Müşteri Etkileşim Senaryoları** - Satış etkileşimleri, şikayet yönetimi, özel talepler ve önerilen yanıtlar ve yaklaşımlarla zorlayıcı senaryolar dahil yaygın müşteri durumları için pratik örnekler ve senaryolar sağlar.
+**Bölüm 7: Müşteri Etkileşim Senaryoları** - Satış etkileşimleri, şikayet yönetimi, özel talepler ve önerilen yanıtlar ve yaklaşımlarla zorlayıcı senaryolar dahil yaygın müşteri durumları için pratik örnekler ve senaryolar sağlar.
 
 ---
 
@@ -275,1660 +271,7 @@ WhatsApp: +90 XXX XXX XX XX
 
 ---
 
-## SECTION 2: STORE-OPERATIONS-GUIDELINE-TR
-
-﻿---
-layout: default
-title: "Mağaza Operasyonları Rehberi"
-parent: Guidelines
-permalink: /guidelines/store-operations-guideline-tr/
-
-## İçindekiler
-
-1. [Günlük Operasyon Prosedürleri](#günlük-operasyon-prosedürleri)
-2. [Mağaza Açılış Prosedürü](#mağaza-açılış-prosedürü)
-3. [Mağaza Kapanış Prosedürü](#mağaza-kapanış-prosedürü)
-4. [İade ve Değişim Prosedürleri](#iade-ve-değişim-prosedürleri)
-5. [Hasar ve Red Prosedürleri](#hasar-ve-red-prosedürleri)
-6. [Fiyat Değişimi Prosedürleri](#fiyat-değişimi-prosedürleri)
-7. [Stok Yönetimi Prosedürleri](#stok-yönetimi-prosedürleri)
-8. [Kasa Yönetimi](#kasa-yönetimi)
-9. [Müşteri Hizmetleri Standartları](#müşteri-hizmetleri-standartları)
-10. [Acil Durum Prosedürleri](#acil-durum-prosedürleri)
-
-
-## Mağaza Açılış Prosedürü
-
-### Açılış Kontrol Listesi (Açılıştan 30 dk önce)
-
-#### 1. Güvenlik Kontrolleri
-- [ ] Alarm sistemini devre dışı bırak
-- [ ] Tüm giriş/çıkışları kontrol et
-- [ ] Gece boyunca anormallik var mı?
-- [ ] Güvenlik kameralarını kontrol et
-
-#### 2. Fiziksel Hazırlık
-- [ ] Tüm ışıkları aç
-- [ ] Klima/ısıtmayı ayarla
-- [ ] Zemin temizliğini kontrol et
-- [ ] Camları kontrol et
-
-#### 3. Mağaza Düzeni
-- [ ] Vitrin kontrolü
-- [ ] Fixture düzeni kontrolü
-- [ ] Manken kontrolü
-- [ ] Signage kontrolü
-- [ ] Fiyat etiketleri kontrolü
-
-#### 4. Kasa Hazırlığı
-- [ ] Kasa açılış sayımı yap
-- [ ] POS cihazlarını aç ve test et
-- [ ] Yeterli bozuk para var mı?
-- [ ] Fiş rulosu kontrolü
-
-#### 5. Stok Hazırlığı
-- [ ] Gece gelen sevkiyat var mı?
-- [ ] Eksik beden/renk takviyesi
-- [ ] İade edilecek ürün kontrolü
-
-### Açılış Sayım Formu
-
-```
-┌─────────────────────────────────────┐
-│    KASA AÇILIŞ SAYIM FORMU          │
-├─────────────────────────────────────┤
-│ Tarih: ___/___/______               │
-│ Personel: _________________         │
-├─────────────────────────────────────┤
-│ Madeni Para                          │
-│   0,50 TL × ___ = _____ TL          │
-│   1,00 TL × ___ = _____ TL          │
-│   5,00 TL × ___ = _____ TL          │
-├─────────────────────────────────────┤
-│ Kağıt Para                           │
-│   10 TL  × ___ = _____ TL           │
-│   20 TL  × ___ = _____ TL           │
-│   50 TL  × ___ = _____ TL           │
-│   100 TL × ___ = _____ TL           │
-│   200 TL × ___ = _____ TL           │
-├─────────────────────────────────────┤
-│ TOPLAM: _____________ TL            │
-│ Avans: _____________ TL             │
-│ İmza: _______________               │
-└─────────────────────────────────────┘
-```
-
-
-## İade ve Değişim Prosedürleri
-
-### İade Politikası
-
-| Durum | Süre | Koşul | İşlem |
-|-------|------|-------|-------|
-| Etiketli, kullanılmamış | 14 gün | Fatura ile | Tam iade |
-| Etiketli, kullanılmamış | 14-30 gün | Fatura ile | Mağaza kredisi |
-| Etiketsiz/kullanılmış | - | - | İade kabul edilmez |
-| Hatalı ürün | 30 gün | Fatura ile | Değişim veya iade |
-
-### İade İşlem Adımları
-
-```
-1. Müşteri Karşılama
-   ↓
-2. Fatura/Fiş Kontrolü
-   ↓
-3. Ürün Kontrolü (etiket, durum)
-   ↓
-4. İade Sebebi Belirleme
-   ↓
-5. Sistem Kaydı (POS)
-   ↓
-6. İade Formu Doldurma
-   ↓
-7. Para İadesi / Değişim
-   ↓
-8. Müşteri İmzası
-```
-
-### İade Sebep Kodları
-
-| Kod | Sebep | Açıklama |
-|-----|-------|----------|
-| R01 | Beden uyumsuzluğu | Müşteri yanlış beden aldı |
-| R02 | Renk beğenmeme | Müşteri rengi beğenmedi |
-| R03 | Hediye iadesi | Hediye alan kişi iade |
-| R04 | Üretim hatası | Ürün kusurlu |
-| R05 | Fiyat farkı | Başka yerde ucuz bulma |
-| R06 | Diğer | Açıklama gerekli |
-
-### İade Formu
-
-```
-┌─────────────────────────────────────┐
-│       İADE / DEĞİŞİM FORMU          │
-├─────────────────────────────────────┤
-│ Tarih: ___/___/______               │
-│ Fiş No: _________________           │
-│ Orijinal Satış Tarihi: ___/___/___  │
-├─────────────────────────────────────┤
-│ MÜŞTERİ BİLGİLERİ                   │
-│ Ad Soyad: _________________         │
-│ Telefon: _________________          │
-├─────────────────────────────────────┤
-│ ÜRÜN BİLGİLERİ                      │
-│ SKU: _________________              │
-│ Ürün Adı: _________________         │
-│ Beden: ___ Renk: ___                │
-│ Tutar: _______ TL                   │
-├─────────────────────────────────────┤
-│ İADE SEBEBİ: [ ] R01 [ ] R02 [ ] R03│
-│              [ ] R04 [ ] R05 [ ] R06│
-│ Açıklama: _________________         │
-├─────────────────────────────────────┤
-│ İŞLEM TİPİ                          │
-│ [ ] Nakit İade  [ ] Kredi Kartı İade│
-│ [ ] Değişim     [ ] Mağaza Kredisi  │
-├─────────────────────────────────────┤
-│ Müşteri İmza: _________________     │
-│ Personel: _________________         │
-└─────────────────────────────────────┘
-```
-
-
-## Fiyat Değişimi Prosedürleri
-
-### Fiyat Değişim Türleri
-
-| Tür | Tanım | Yetki |
-|-----|-------|-------|
-| **Merkezi İndirim** | Genel kampanya | Merkez |
-| **Bölgesel İndirim** | Bölge bazlı | Bölge Müdürü |
-| **Markdown** | Sezon sonu | Merkez onayı |
-| **Fiyat Düzeltme** | Hata düzeltme | Mağaza Müdürü |
-
-### Fiyat Güncelleme Prosedürü
-
-```
-1. Merkez Fiyat Değişim Bildirimi
-   ↓
-2. Fiyat Listesini İndir
-   ↓
-3. Sistem Güncelle (POS)
-   ↓
-4. Fiziki Etiket Değişimi
-   ↓
-5. Kontrol (rastgele 10 ürün)
-   ↓
-6. Tamamlandı Bildirimi
-```
-
-### Etiket Değişim Kuralları
-
-- Eski etiketler tamamen çıkarılmalı
-- Üst üste etiket yapıştırılmamalı
-- Etiket üstüne el yazısı yazılmamalı
-- Tüm bedenler güncellenmeli
-
-### Fiyat Kontrol Formu
-
-```
-┌─────────────────────────────────────┐
-│      FİYAT DEĞİŞİM KONTROL          │
-├─────────────────────────────────────┤
-│ Kampanya/Dönem: ________________    │
-│ Geçerlilik: ___/___ - ___/___      │
-├─────────────────────────────────────┤
-│ SKU        Eski      Yeni    ✓     │
-│ ________   _____TL   _____TL  [ ]  │
-│ ________   _____TL   _____TL  [ ]  │
-│ ________   _____TL   _____TL  [ ]  │
-├─────────────────────────────────────┤
-│ Kontrol Eden: _________________     │
-│ Tarih/Saat: _________________       │
-└─────────────────────────────────────┘
-```
-
-
-## Kasa Yönetimi
-
-### Ödeme Türleri
-
-| Ödeme | İşlem | Dikkat Edilecekler |
-|-------|-------|-------------------|
-| Nakit | Sayım, para üstü | Sahte para kontrolü |
-| Kredi Kartı | POS işlemi | İmza/PIN kontrolü |
-| Banka Kartı | POS işlemi | Bakiye kontrolü |
-| Hediye Çeki | Sistem girişi | Geçerlilik kontrolü |
-| Taksit | POS taksit | Taksit seçenekleri |
-
-### Kasa Açığı/Fazlası Prosedürü
-
-**Açık Durumunda:**
-1. Yeniden sayım yap
-2. Gün içi işlemleri kontrol et
-3. Kamera kayıtlarını incele
-4. Tutanak hazırla
-5. Mağaza müdürüne bildir
-
-**Fazla Durumunda:**
-1. Yeniden sayım yap
-2. İade/iptal işlemlerini kontrol et
-3. Müşteri para üstü kontrolü
-4. Tutanak hazırla
-
-### Günlük Kasa Limitleri
-
-| Tutar | İşlem |
-|-------|-------|
-| < 10.000 TL | Normal operasyon |
-| 10.000-25.000 TL | Vardiya içi banka |
-| > 25.000 TL | Acil banka transferi |
-
-
-## Acil Durum Prosedürleri
-
-### Yangın
-
-1. Yangın alarmını çalıştır
-2. 110'u ara
-3. Müşterileri tahliye et
-4. Yangın söndürücü kullan (küçük yangın)
-5. Acil çıkışları kullan
-6. Toplanma alanına git
-
-### Hırsızlık
-
-1. Güvenliği bilgilendir
-2. Müdahale etme (tehlike varsa)
-3. Kişiyi tanımla
-4. Kamera kaydı al
-5. Tutanak hazırla
-6. Polisi ara (gerekirse)
-
-### Sağlık Acili
-
-1. 112'yi ara
-2. İlk yardım uygula (eğitimliysen)
-3. Kişiyi hareket ettirme
-4. Sakin ol
-5. Alanı boşalt
-
-### Acil İletişim Numaraları
-
-```
-Yangın: 110
-Ambulans: 112
-Polis: 155
-Şirket Güvenlik: ___________
-Bölge Müdürü: ___________
-```
-
-
-*Bu doküman Aydınlı Grup Franchise Operasyonları tarafından hazırlanmıştır.*  
-*© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
-
-
-
-
----
-
-## SECTION 3: VM-GUIDELINE-TR
-
-﻿---
-layout: default
-title: "Visual Merchandising Rehberi"
-parent: Guidelines
-permalink: /guidelines/vm-guideline-tr/
-
-## İçindekiler
-
-1. [Giriş ve Amaç](#giriş-ve-amaç)
-2. [Temel VM Prensipleri](#temel-vm-prensipleri)
-3. [Mağaza Bölgeleri ve Düzeni](#mağaza-bölgeleri-ve-düzeni)
-4. [Vitrin Standartları](#vitrin-standartları)
-5. [Fixture ve Ürün Yerleşimi](#fixture-ve-ürün-yerleşimi)
-6. [Renk ve Tema Yönetimi](#renk-ve-tema-yönetimi)
-7. [Signage ve POP Malzemeleri](#signage-ve-pop-malzemeleri)
-8. [Marka Bazlı Standartlar](#marka-bazlı-standartlar)
-9. [Sezonsal VM Takvimi](#sezonsal-vm-takvimi)
-10. [VM Kontrol Listesi](#vm-kontrol-listesi)
-
-
-## Temel VM Prensipleri
-
-### 1. Altın Üçgen Kuralı
-
-Müşteri giriş noktasından bakıldığında, en önemli ürünler "Altın Üçgen" bölgesinde sergilenmelidir.
-
-```
-        [VİTRİN]
-           △
-          / \
-         /   \
-        /     \
-       /  ★★★  \    ← Altın Üçgen Bölgesi
-      /         \
-     /           \
-    /_____________\
-       [GİRİŞ]
-```
-
-### 2. Göz Seviyesi Kuralı
-
-- **Premium Zone (145-170 cm):** En karlı, yeni sezon ürünleri
-- **Touch Zone (90-145 cm):** Kolay erişim, deneme ürünleri
-- **Lower Zone (0-90 cm):** Hacimli, ağır ürünler
-- **Upper Zone (170+ cm):** Stok, görsel dekor
-
-### 3. Sağa Dönüş Prensibi
-
-Müşterilerin %90'ı mağazaya girince sağa döner. Bu nedenle:
-- Sağ taraf: Yeni sezon, trend ürünler
-- Sol taraf: Temel ürünler, outlet
-
-### 4. Dekompresson Zone
-
-Giriş alanının ilk 1-2 metresi müşterinin mağazaya adapte olduğu bölgedir. Bu alana kritik ürün yerleştirmeyin.
-
-
-## Vitrin Standartları
-
-### Vitrin Değişim Takvimi
-
-| Dönem | Değişim Sıklığı |
-|-------|-----------------|
-| Yeni Sezon Lansmanı | Anında |
-| Kampanya Dönemleri | Kampanya başı |
-| Normal Dönem | 2 haftada bir |
-| Özel Günler | Etkinlik öncesi |
-
-### Vitrin Kompozisyon Kuralları
-
-#### Piramit Düzeni
-```
-       ▲
-      /█\
-     / █ \
-    / █ █ \
-   / █ █ █ \
-  ───────────
-```
-- Orta nokta en yüksek
-- Simetrik veya asimetrik olabilir
-- Bakış noktası 145-165 cm
-
-#### Repetition (Tekrar) Düzeni
-```
-  █   █   █   █   █
-  ▼   ▼   ▼   ▼   ▼
-```
-- Aynı ürünün farklı renkleri
-- Güçlü görsel etki
-
-### Vitrin Aydınlatma
-
-- **Genel Aydınlatma:** 800-1000 lux
-- **Spot Aydınlatma:** 2000-3000 lux (hero ürünlere)
-- **Renk Sıcaklığı:** 3000-4000K (sıcak beyaz)
-
-### Vitrin Manken Kullanımı
-
-| Mağaza Büyüklüğü | Manken Sayısı |
-|------------------|---------------|
-| < 80 m² | 2-3 |
-| 80-150 m² | 4-6 |
-| > 150 m² | 6-8 |
-
-
-## Renk ve Tema Yönetimi
-
-### Renk Blokları Oluşturma
-
-Ürünleri renk geçişlerine göre gruplandırın:
-
-```
-AÇIK ──────────────────────────────────► KOYU
-
-Beyaz → Krem → Sarı → Turuncu → Kırmızı → Bordo → Lacivert → Siyah
-```
-
-### Renk Hikayesi Anlatımı
-
-Her fixture'da maksimum 3-4 renk kombinasyonu kullanın:
-
-**Doğru:**
-```
-[Lacivert] [Beyaz] [Kırmızı]
-```
-
-**Yanlış:**
-```
-[Yeşil] [Sarı] [Mor] [Turuncu] [Pembe] [Mavi]
-```
-
-### Sezonsal Renk Paleti
-
-| Sezon | Ana Renkler | Aksan Renkler |
-|-------|-------------|---------------|
-| SS (İlkbahar/Yaz) | Beyaz, Mavi, Mint | Coral, Sarı |
-| FW (Sonbahar/Kış) | Lacivert, Bordo, Kahve | Hardal, Bakır |
-
-
-## Marka Bazlı Standartlar
-
-### U.S. Polo Assn.
-
-**Konsept:** Amerikan yaşam tarzı, polo heritage, sportif şıklık
-
-**Renk Paleti:**
-- Ana: Lacivert, Beyaz, Kırmızı
-- Aksan: Yeşil, Sarı
-
-**Fixture Stili:**
-- Ahşap + metal kombinasyonu
-- Klasik Amerikan tarzı
-
-**Vitrin Temaları:**
-- Polo sahası
-- Campus life
-- Weekend casual
-
-
-### Cacharel
-
-**Konsept:** Modern erkek giyim, Fransız şıklığı, sofistike
-
-**Renk Paleti:**
-- Ana: Lacivert, Gri, Siyah
-- Aksan: Koyu tonlar, klasik kombinasyonlar
-
-**Fixture Stili:**
-- Klasik hatlar
-- Modern detaylar
-
-**Vitrin Temaları:**
-- Business elegance
-- Urban sophistication
-- French classic style
-
-
-## VM Kontrol Listesi
-
-### Günlük Kontrol
-
-- [ ] Tüm ürünler düzgün asılı/katlanmış mı?
-- [ ] Beden sıralaması doğru mu?
-- [ ] Boş askı/raf var mı?
-- [ ] Fiyat etiketleri görünür mü?
-- [ ] Aydınlatma çalışıyor mu?
-- [ ] Zemin temiz mi?
-- [ ] Mankenler düzgün mü?
-
-### Haftalık Kontrol
-
-- [ ] Vitrin ürünleri güncel mi?
-- [ ] Renk blokları düzenli mi?
-- [ ] Fixture'lar temiz mi?
-- [ ] Signage güncel mi?
-- [ ] Alt-üst oranı dengeli mi?
-- [ ] Kampanya malzemeleri yerinde mi?
-
-### Aylık Kontrol
-
-- [ ] Vitrin teması sezona uygun mu?
-- [ ] Fixture yerleşimi optimize mi?
-- [ ] Stok dağılımı dengeli mi?
-- [ ] Aydınlatma bakımı yapıldı mı?
-- [ ] VM performans analizi yapıldı mı?
-
-
-## Revision History
-
-| Versiyon | Tarih | Değişiklik | Hazırlayan |
-|----------|-------|------------|------------|
-| 1.0 | 01.12.2025 | İlk sürüm oluşturuldu | Aydınlı Grup Franchise Ops |
-
-
----
-
-## SECTION 4: BRAND-SUPPLEMENT-CACHAREL-TR
-
-﻿---
-layout: default
-title: "Cacharel Marka Eğitim Rehberi – TR"
-parent: Training
-
-## Training Content
-
-### BÖLÜM 1: MARKA HİKAYESİ
-
-#### 1.1 Tarihçe
-
-**Cacharel - Fransız Erkek Moda İkonu**
-- **Kuruluş:** 1962, Jean Bousquet tarafından Paris'te
-- **İlk Koleksiyon:** Erkek gömlekleri ve hazır giyim
-- **Parfüm:** 1978 - Anaïs Anaïs (marka bilinirliği için önemli)
-- **Günümüz:** Fransız erkek modası - business ve casual premium
-- **Aydınlı Grup:** Türkiye lisans sahibi
-
-**Önemli Noktalar:**
-- 60+ yıllık Fransız moda mirası
-- Erkek giyimde Fransız şıklığının temsilcisi
-- Business ve casual arasında denge
-- Modern klasik erkek modası
-- Türkiye'de erkek giyim markası olarak konumlandırılmış
-
-#### 1.2 Marka Değerleri
-
-| Değer | Açıklama |
-|-------|----------|
-| **Elegance** | Fransız erkek şıklığı |
-| **Versatility** | İş ve günlük hayat için çok yönlülük |
-| **Quality** | Premium kalite ve işçilik |
-| **Sophistication** | Rafine ve sofistike tasarım |
-| **Modern Classic** | Modern klasik erkek modası |
-
-#### 1.3 Marka Hikayesi Anlatımı (Müşteriye)
-
-```
-"Cacharel, 1962'den beri Fransız erkek modasının öncüsü. 
-Paris'ten gelen şıklık ve sofistikasyonu erkek giyimine taşıyor. 
-Hem iş dünyasında hem günlük hayatta şık görünmek isteyen 
-modern erkeğin tercihi."
-```
-
-
-### BÖLÜM 3: ÜRÜN KATEGORİLERİ
-
-#### 3.1 Erkek Koleksiyonu - Business
-
-| Kategori | Alt Kategoriler | Anahtar Özellikler |
-|----------|-----------------|-------------------|
-| **Takım Elbise** | Slim, Regular | İş dünyası şıklığı |
-| **Blazer** | Single Breasted | Smart casual temel |
-| **Pantolon** | Klasik, Slim | Profesyonel görünüm |
-| **Gömlek** | Business, Non-iron | Ofis standartı |
-| **Kravat** | İpek, Klasik desen | Şık aksesuar |
-
-#### 3.2 Erkek Koleksiyonu - Casual Premium
-
-| Kategori | Alt Kategoriler | Anahtar Özellikler |
-|----------|-----------------|-------------------|
-| **Polo** | Premium Pique | Sofistike günlük |
-| **T-shirt** | Basic, Premium | Rahat şıklık |
-| **Gömlek** | Casual, Denim | Hafta sonu şıklığı |
-| **Triko** | V-neck, Crew, Cardigan | Katmanlı kombinler |
-| **Pantolon** | Chino, Denim Premium | Rahat elegans |
-| **Ceket** | Bomber, Denim, Parka | Dış giyim premium |
-
-#### 3.3 Aksesuar
-
-| Kategori | Ürünler | Özellik |
-|----------|---------|---------|
-| **Kravat** | İpek, Klasik | Şık detay |
-| **Kemer** | Deri, Metal toka | Premium malzeme |
-| **Cüzdan** | Deri, Kartlık | İtalyan deri |
-| **Çorap** | Premium pamuk | Detay şıklığı |
-
-#### 3.4 İkonik Ürünler
-
-**1. Business Takım Elbise**
-- Fransız şıklığı
-- Slim fit modern kesim
-- Premium kumaş
-- İş dünyası standartı
-
-**2. Premium Polo T-shirt**
-- Sofistike günlük
-- Premium pique kumaş
-- Şık kesim
-- Business casual temel
-
-**3. Non-iron Gömlek**
-- Ütüsüz teknoloji
-- %100 pamuk
-- Fransız kesim
-- Günlük kullanım
-
-
-### BÖLÜM 5: SATIŞ TEKNİKLERİ
-
-#### 5.1 Profesyonel Satış Yaklaşımı
-
-**Fark:**
-```
-U.S. Polo = Casual, ürün odaklı
-Pierre Cardin = Business, danışmanlık odaklı
-Cacharel = Çift yönlü, stil danışmanlığı
-```
-
-**Açılış:**
-```
-Personel: "Hoş geldiniz Cacharel'e! Bugün iş için mi yoksa günlük kullanım için mi bakıyorsunuz?"
-Müşteri: "İkisi de olabilir, şık bir şeyler lazım."
-Personel: "Anladım! Cacharel tam size göre – hem iş hem günlük hayat için 
-Fransız şıklığı sunuyoruz. Hangi durumlar için düşünüyorsunuz?"
-```
-
-#### 5.2 Stil Danışmanlığı
-
-**Sorular:**
-```
-"İş ortamınız nasıl – resmi mi, yarı resmi mi?"
-"Hafta sonları nasıl giyinmeyi seversiniz?"
-"Mevcut gardrobunuzda hangi temel parçalar var?"
-"Renk tercihiniz nedir – klasik mi, modern mi?"
-```
-
-#### 5.3 Kombin Önerileri
-
-| Durum | Kombin |
-|-------|--------|
-| İş toplantısı | Takım elbise + gömlek + kravat |
-| Günlük ofis | Blazer + chino + polo |
-| Hafta sonu | Premium polo + chino + sneaker |
-| Akşam yemeği | Blazer + gömlek + chino |
-| Smart casual | Premium t-shirt + chino + blazer |
-
-#### 5.4 Cross-sell ve Upsell
-
-**Cross-sell:**
-```
-Personel: "Bu blazer çok şık. Altına chino pantolon önerebilirim, 
-tam Fransız smart casual kombin oluşturur."
-```
-
-**Upsell:**
-```
-Personel: "Bu takım elbise güzel, ancak premium serimizi de göstermek isterim. 
-Kumaş kalitesi daha üst seviye, yıllarca giyilebilir."
-```
-
-
-### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARI
-
-#### 7.1 Kumaş Türleri
-
-| Kumaş | Özellik | Kullanım |
-|-------|---------|----------|
-| **Yün** | Premium, nefes alır | Takım elbise |
-| **Pique Pamuk** | Dokulu, dayanıklı | Polo t-shirt |
-| **Poplin** | Düz, şık | Gömlek |
-| **Twill** | Diyagonal doku | Chino |
-| **Denim Premium** | Kaliteli, uzun ömürlü | Jean, ceket |
-| **French Terry** | Yumuşak, rahat | Sweatshirt |
-
-#### 7.2 Fit Rehberi
-
-| Fit Tipi | Özellik | Kime Uygun |
-|----------|---------|------------|
-| **Slim Fit** | Dar kesim, modern | Genç profesyonel |
-| **Regular Fit** | Standart kesim | Genel kullanım |
-| **Classic Fit** | Rahat, geleneksel | Olgun müşteri |
-
-#### 7.3 Beden Tablosu
-
-| Beden | Göğüs (cm) | Bel (cm) |
-|-------|------------|----------|
-| XS | 88-92 | 72-76 |
-| S | 92-96 | 76-80 |
-| M | 96-100 | 80-84 |
-| L | 100-104 | 84-88 |
-| XL | 104-108 | 88-92 |
-| XXL | 108-112 | 92-96 |
-
-#### 7.4 Bakım Talimatları
-
-| Ürün | Yıkama | Kurutma | Ütü |
-|------|--------|---------|-----|
-| Takım Elbise | Kuru temizleme | - | - |
-| Polo | 30°C | Serin asarak | Düşük |
-| Gömlek | 40°C | Serin asarak | Orta |
-| Chino | 30°C | Serin asarak | Düşük |
-| Denim | 30°C ters | Serin asarak | Buharla |
-
-
-### BÖLÜM 9: SIKÇA SORULAN SORULAR
-
-| Soru | Cevap |
-|------|-------|
-| "Cacharel sadece iş kıyafetleri mi?" | "Hayır, hem business hem casual premium koleksiyonumuz var. İş dünyasından hafta sonuna kadar şık görünmenizi sağlıyoruz." |
-| "Pierre Cardin ile farkı nedir?" | "Cacharel daha çok casual premium'a odaklanırken, Pierre Cardin daha business odaklı. İkisi de Fransız şıklığı ama farklı segmentler." |
-| "Takım elbise tadilat yapıyor musunuz?" | "Evet, mağazamızda profesyonel tadilat hizmeti sunuyoruz. Belirli ürünlerde paça ve kol kısaltma ücretsizdir." |
-| "Fransız kesim ne demek?" | "Fransız kesim, daha dar ve vücuda oturan, modern bir kesimdir. Klasik kesimden daha şık ve güncel görünür." |
-
-
-## Tools & Resources
-
-| Kaynak | Kullanım |
-|--------|----------|
-| Kumaş Swatch Kitabı | Müşteriye kumaş gösterimi |
-| Stil Rehberi | Business ve casual kombin önerileri |
-| Beden Ölçüm Aracı | Profesyonel ölçüm |
-| Lookbook | Sezonluk stil önerileri |
-| Bakım Kartları | Müşteriye verilecek bilgi kartları |
-
-
-## Assessment Methods
-
-### Marka Bilgisi Quiz'i
-- 20 soru
-- Marka hikayesi, değerler, ürün bilgisi
-- Geçer not: %80
-
-### Stil Danışmanlığı Değerlendirmesi
-- Müşteri profili analizi
-- Kombin önerisi senaryosu
-- Business/Casual yönlendirme
-
-### Ürün Bilgisi Testi
-- Kumaş tanıma
-- Fit tipi belirleme
-- Bakım talimatı bilgisi
-
-
----
-
-## SECTION 5: BRAND-SUPPLEMENT-PIERRE-CARDIN-TR
-
-﻿---
-layout: default
-title: "Pierre Cardin Marka Eğitim Rehberi – TR"
-parent: Training
-
-## Training Content
-
-### BÖLÜM 1: MARKA HİKAYESİ
-
-#### 1.1 Tarihçe
-
-**Pierre Cardin - Moda İkonu**
-- **Doğum:** 1922, İtalya (San Biagio di Callalta)
-- **Kariyer Başlangıcı:** 1945, Paris - Christian Dior'da çalıştı
-- **Kendi Markası:** 1950, Paris'te Pierre Cardin evini kurdu
-- **Devrim:** 1960'lar - Ready-to-wear (hazır giyim) öncüsü
-- **Miras:** 2020'de vefat etti, moda dünyasında kalıcı iz bıraktı
-
-**Önemli Noktalar:**
-- Haute couture'dan hazır giyime geçişin öncüsü
-- Uzay çağı tasarımları ile tanınır
-- Lisanslama modelinin mucidi
-- Dünya genelinde tanınan Fransız moda ikonu
-- Aydınlı Grup Türkiye lisans sahibi
-
-#### 1.2 Marka Değerleri
-
-| Değer | Açıklama |
-|-------|----------|
-| **Innovation** | Modada yenilikçilik ve trend belirleme |
-| **Elegance** | Fransız şıklığının özü |
-| **Quality** | Premium malzeme ve işçilik |
-| **Sophistication** | Rafine ve sofistike tasarım |
-| **Versatility** | İş ve günlük hayat için çok yönlülük |
-
-#### 1.3 Marka Hikayesi Anlatımı (Müşteriye)
-
-```
-"Pierre Cardin, 1950'den beri Fransız modasının simgesi. Kurucumuz, 
-hazır giyimin öncüsü olarak moda tarihini değiştirdi. Bugün size sunduğumuz 
-her parça, Fransız şıklığını modern yaşamla buluşturuyor."
-```
-
-
-### BÖLÜM 3: ÜRÜN KATEGORİLERİ
-
-#### 3.1 Erkek Koleksiyonu - Business
-
-| Kategori | Alt Kategoriler | Anahtar Özellikler |
-|----------|-----------------|-------------------|
-| **Takım Elbise** | Slim, Regular, Classic | İş dünyası standartı |
-| **Blazer** | Single, Double Breasted | Akıllı günlük |
-| **Pantolon** | Klasik, Slim, Pleated | Profesyonel görünüm |
-| **Gömlek** | Business, Ceremony | Non-iron teknoloji |
-| **Kravat** | İpek, Mikro desen | Şık aksesuar |
-
-#### 3.2 Erkek Koleksiyonu - Casual Premium
-
-| Kategori | Alt Kategoriler | Anahtar Özellikler |
-|----------|-----------------|-------------------|
-| **Polo** | Premium Pique | Sofistike günlük |
-| **Gömlek** | Casual, Denim | Hafta sonu şıklığı |
-| **Triko** | V-neck, Crew, Cardigan | Katmanlı kombinler |
-| **Pantolon** | Chino, Denim Premium | Rahat elegans |
-| **Ceket** | Deri, Blazer, Parka | Dış giyim premium |
-
-#### 3.3 Kadın Koleksiyonu
-
-| Kategori | Alt Kategoriler | Anahtar Özellikler |
-|----------|-----------------|-------------------|
-| **Blazer** | Classic, Oversize | Ofis şıklığı |
-| **Pantolon** | Klasik, Wide Leg | Profesyonel kesim |
-| **Gömlek** | Saten, Poplin | Feminen detaylar |
-| **Elbise** | Business, Cocktail | Çok yönlü |
-| **Triko** | Fine Knit | Zarif katman |
-
-#### 3.4 Aksesuar
-
-| Kategori | Ürünler | Özellik |
-|----------|---------|---------|
-| **Kravat** | İpek, Mikro desen | El yapımı |
-| **Kemer** | Deri, Metal toka | Premium malzeme |
-| **Cüzdan** | Deri, Kartlık | İtalyan deri |
-| **Kol Düğmesi** | Metal, Taşlı | Detay şıklığı |
-
-#### 3.5 İkonik Ürünler
-
-**1. Business Takım Elbise**
-- Marka imzası
-- %100 yün, İtalyan kumaş
-- Modern slim fit
-- Tam astarlı
-
-**2. Non-iron Gömlek**
-- Ütüsüz teknoloji
-- %100 pamuk
-- Spread yaka
-- İş adamı favori
-
-**3. İpek Kravat**
-- %100 saf ipek
-- El dikimi
-- İtalyan tasarım
-- Zamansız desenler
-
-
-### BÖLÜM 5: SATIŞ TEKNİKLERİ
-
-#### 5.1 Danışmanlık Odaklı Satış
-
-**Yaklaşım Farkı:**
-```
-U.S. Polo = Ürün odaklı, hızlı
-Pierre Cardin = Danışmanlık odaklı, detaylı
-```
-
-**Açılış:**
-```
-Personel: "Hoş geldiniz Pierre Cardin'e. Bugün özel bir ihtiyacınız mı var, 
-yoksa koleksiyonumuza genel olarak mı bakmak istersiniz?"
-Müşteri: "Önemli bir toplantım var, şık bir şey lazım."
-Personel: "Anlıyorum. Toplantı nasıl bir ortamda? 
-Resmi mi, yarı resmi mi? Size en uygun kombinasyonu önerebilirim."
-```
-
-#### 5.2 Gardrop Danışmanlığı
-
-**Sorular:**
-```
-"Mevcut gardrobunuzda hangi temel parçalar var?"
-"Hangi renkleri daha çok tercih ediyorsunuz?"
-"Günlük mü yoksa özel gün mü düşünüyorsunuz?"
-"Beden konusunda tercihiniz – fitted mı, regular mı?"
-```
-
-#### 5.3 Kombin Satışı
-
-| Durum | Kombin Önerisi |
-|-------|----------------|
-| İş toplantısı | Takım + gömlek + kravat |
-| Günlük ofis | Blazer + pantolon + polo |
-| Akşam yemeği | Blazer + gömlek + chino |
-| Resmi davet | Koyu takım + beyaz gömlek + ipek kravat |
-
-#### 5.4 Premium Satış Teknikleri
-
-**Değer Anlatımı:**
-```
-Personel: "Bu takım elbisede kullanılan kumaş İtalya'dan, %100 yün. 
-Dikimi Türkiye'de, el işçiliği detaylarla. Yıllarca giyebilirsiniz, 
-bu nedenle yatırım parçası olarak düşünün."
-```
-
-**Fiyat İtirazı Yönetimi:**
-```
-Müşteri: "Biraz pahalı değil mi?"
-Personel: "Anlıyorum. Ancak bu parçanın ömür boyu değerini düşünün. 
-Kaliteli bir takım 10 yıl giyilir. Yıllık maliyeti hesaplarsanız, 
-aslında çok makul bir yatırım."
-```
-
-
-### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARI
-
-#### 7.1 Kumaş Türleri - Takım Elbise
-
-| Kumaş | Özellik | Kullanım |
-|-------|---------|----------|
-| **%100 Yün** | Premium, nefes alır | 4 mevsim business |
-| **Yün-Ipek** | Parlak finish, soft | Özel günler |
-| **Yün-Kaşmir** | Lüks, sıcak | Kış business |
-| **Stretch Yün** | Esnek, rahat | Modern business |
-| **Tropik Yün** | Hafif, serin | Yaz business |
-
-#### 7.2 Kumaş Türleri - Gömlek
-
-| Kumaş | Özellik | Kullanım |
-|-------|---------|----------|
-| **Poplin** | Düz, şık | Resmi |
-| **Twill** | Diyagonal doku | Business casual |
-| **Oxford** | Dokulu | Smart casual |
-| **Saten** | Parlak | Özel gün |
-| **Non-iron** | Ütüsüz | Günlük business |
-
-#### 7.3 Takım Elbise Fit Rehberi
-
-| Fit Tipi | Özellik | Kime Uygun |
-|----------|---------|------------|
-| **Slim Fit** | Dar kesim, modern | Genç profesyonel |
-| **Regular Fit** | Standart kesim | Genel kullanım |
-| **Classic Fit** | Rahat, geleneksel | Olgun müşteri |
-| **Athletic Fit** | Geniş omuz, dar bel | Atletik yapı |
-
-#### 7.4 Gömlek Yaka Türleri
-
-| Yaka | Özellik | Kullanım |
-|------|---------|----------|
-| **Spread** | Geniş açı | Kravat ile |
-| **Kent** | Orta açı | Her durum |
-| **Button-down** | Düğmeli | Casual |
-| **Cutaway** | Çok geniş | Kalın kravat |
-
-#### 7.5 Bakım Talimatları - Premium Ürünler
-
-| Ürün | Bakım | Saklama |
-|------|-------|---------|
-| Takım Elbise | Kuru temizleme | Elbise kılıfı, ahşap askı |
-| İpek Kravat | Kuru temizleme | Düz yatırarak |
-| Deri Kemer | Nemlendirici | Düz, buklet yok |
-| Non-iron Gömlek | 40°C yıkama | Askıda |
-
-
-### BÖLÜM 9: SIKÇA SORULAN SORULAR
-
-| Soru | Cevap |
-|------|-------|
-| "Pierre Cardin hâlâ tasarımcının kendisi mi yönetiyor?" | "Maalesef Pierre Cardin 2020'de aramızdan ayrıldı, ancak mirası ve tasarım felsefesi markamızda yaşamaya devam ediyor." |
-| "Takım elbise tadilat yapıyor musunuz?" | "Evet, mağazamızda profesyonel tadilat hizmeti sunuyoruz. Paça ve kol kısaltma belirli ürünlerde ücretsizdir." |
-| "İpek kravat yıkanır mı?" | "İpek kravat kuru temizlemeye verilmeli. Evde yıkamayı önermiyoruz, leke olursa profesyonel temizlik şart." |
-| "Takım elbise beden nasıl seçilir?" | "Ceket bedeni göğüs ölçünüze göre, pantolon bel ölçünüze göre belirlenir. Size profesyonel ölçü almamızı öneriyorum." |
-
-
-## Tools & Resources
-
-| Kaynak | Kullanım |
-|--------|----------|
-| Kumaş Swatch Kitabı | Müşteriye kumaş gösterimi |
-| Stil Rehberi | Business dress code bilgisi |
-| Beden Ölçüm Aracı | Profesyonel ölçüm |
-| Lookbook | Sezonluk stil önerileri |
-| Bakım Kartları | Müşteriye verilecek bilgi kartları |
-
-
-## Assessment Methods
-
-### Premium Satış Quiz'i
-- 20 soru
-- Kumaş bilgisi, fit, stil önerileri
-- Geçer not: %85
-
-### Stil Danışmanlığı Değerlendirmesi
-- Müşteri profili analizi
-- Kombin önerisi senaryosu
-- Gardrop danışmanlığı rol-play
-
-### Ürün Bilgisi Testi
-- Kumaş tanıma (dokunarak)
-- Fit tipi belirleme
-- Bakım talimatı bilgisi
-
-
----
-
-## SECTION 6: BRAND-SUPPLEMENT-USPA-TR
-
-﻿---
-layout: default
-title: "U.S. Polo Assn. Marka Eğitim Rehberi – TR"
-parent: Training
-
-## Training Content
-
-### BÖLÜM 1: MARKA HİKAYESİ
-
-#### 1.1 Tarihçe
-
-**United States Polo Association (USPA)**
-- **Kuruluş:** 1890, ABD
-- **Misyon:** Polo sporunu Amerika'da tanıtmak ve yaymak
-- **Statü:** ABD'deki polo sporunun resmi yönetim organı
-- **Lisans:** U.S. Polo Assn. giyim markası USPA'nın resmi lisanslı ürünüdür
-
-**Önemli Noktalar:**
-- 130+ yıllık polo mirası
-- Gerçek bir spor kuruluşunun resmi markası
-- Dünya genelinde 180+ ülkede satış
-- Aydınlı Grup Türkiye lisans sahibi
-
-#### 1.2 Marka Değerleri
-
-| Değer | Açıklama |
-|-------|----------|
-| **Authenticity** | Gerçek polo mirasına dayanan özgünlük |
-| **Quality** | Premium kalite, uygun fiyat |
-| **Heritage** | Amerikan spor geleneği |
-| **Lifestyle** | Aktif, dinamik yaşam tarzı |
-| **Accessibility** | Herkes için ulaşılabilir lüks |
-
-#### 1.3 Marka Hikayesi Anlatımı (Müşteriye)
-
-```
-"U.S. Polo Assn., 1890'dan beri Amerika'da polo sporunun resmi kurumudur. 
-Bu marka, polo sporunun şıklığını ve Amerikan yaşam tarzını günlük hayata taşıyor. 
-130 yılı aşan bir mirasla, kaliteli ve özgün parçalar sunuyoruz."
-```
-
-
-### BÖLÜM 3: ÜRÜN KATEGORİLERİ
-
-#### 3.1 Erkek Koleksiyonu
-
-| Kategori | Alt Kategoriler | Anahtar Özellikler |
-|----------|-----------------|-------------------|
-| **Polo T-shirt** | Classic, Slim Fit, Big Horse | İkonik ürün, marka DNA'sı |
-| **T-shirt** | Basic, Graphic, V-neck | Günlük kullanım, rahat kesim |
-| **Gömlek** | Oxford, Casual, Denim | Smart casual stil |
-| **Pantolon** | Chino, Denim, Jogger | Şık ve rahat |
-| **Sweatshirt** | Hoodie, Crew neck, Zip-up | Sportif şıklık |
-| **Mont/Ceket** | Bomber, Denim, Parka | Sezonluk dış giyim |
-| **Aksesuar** | Şapka, Kemer, Çorap, Çanta | Kombin tamamlayıcı |
-
-#### 3.2 Kadın Koleksiyonu
-
-| Kategori | Alt Kategoriler | Anahtar Özellikler |
-|----------|-----------------|-------------------|
-| **Polo T-shirt** | Classic, Fitted | Feminen kesimler |
-| **T-shirt** | Basic, Crop, Oversized | Trendy modeller |
-| **Gömlek** | Oxford, Casual | Şık günlük |
-| **Pantolon** | Chino, Denim | Slim ve regular fit |
-| **Elbise** | Polo Dress, Casual | Spor şık |
-| **Triko** | V-neck, Crew | Katmanlı giyim |
-| **Aksesuar** | Çanta, Fular | Stil tamamlayıcı |
-
-#### 3.3 Çocuk Koleksiyonu
-
-| Kategori | Yaş Grubu | Özellikler |
-|----------|-----------|------------|
-| **Boys** | 4-14 yaş | Mini erkek koleksiyonu |
-| **Girls** | 4-14 yaş | Mini kadın koleksiyonu |
-| **Baby** | 0-3 yaş | Bebek setleri |
-
-#### 3.4 İkonik Ürünler
-
-**1. Classic Polo T-shirt**
-- Marka imzası ürün
-- %100 pamuk pique kumaş
-- Nakışlı logo
-- Kontrast yaka detayı
-
-**2. Big Horse Polo**
-- Büyük logo versiyonu
-- Statement parça
-- Genç hedef kitle favori
-
-**3. Oxford Gömlek**
-- Smart casual temel parça
-- Düğmeli yaka
-- Her kombine uyum
-
-
-### BÖLÜM 5: SATIŞ TEKNİKLERİ
-
-#### 5.1 Marka Hikayesi Satışı
-
-**Açılış:**
-```
-Personel: "U.S. Polo Assn. Amerika'da polo sporunun resmi markası, 
-biliyor muydunuz? 130 yıllık bir mirasla, otantik Amerikan tarzını sunuyoruz."
-```
-
-**Ürün Anlatımı:**
-```
-Personel: "Bu polo t-shirt markamızın ikonik ürünü. Gerçek polo oyuncuları 
-bu logoyu taşıyor. Kumaşı pique pamuk, nefes alıyor ve formunu koruyor."
-```
-
-#### 5.2 Cross-sell Önerileri
-
-| Ana Ürün | Cross-sell Önerisi |
-|----------|-------------------|
-| Polo T-shirt | Chino pantolon, kemer |
-| Oxford Gömlek | Chino, denim ceket |
-| Jogger | Sweatshirt, sneaker |
-| Denim | Basic t-shirt, polo |
-
-#### 5.3 Upsell Fırsatları
-
-| Basic Ürün | Premium Alternatif |
-|------------|-------------------|
-| Basic Polo | Big Horse Polo |
-| Regular T-shirt | Premium Cotton T-shirt |
-| Basic Chino | Stretch Chino |
-
-#### 5.4 Sezonluk Satış Vurguları
-
-| Sezon | Öne Çıkan Ürünler | Anahtar Mesaj |
-|-------|-------------------|---------------|
-| İlkbahar | Polo, Oxford, Chino | "Yeni sezon, yeni başlangıç" |
-| Yaz | Polo, T-shirt, Şort | "Yaz enerjisi" |
-| Sonbahar | Sweatshirt, Denim | "Katmanlı giyim" |
-| Kış | Mont, Triko, Atkı | "Sıcak ve şık" |
-
-
-### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARı
-
-#### 7.1 Kumaş Türleri
-
-| Kumaş | Kullanım | Özellik |
-|-------|----------|---------|
-| **Pique Pamuk** | Polo t-shirt | Nefes alır, dayanıklı |
-| **Jersey** | T-shirt | Yumuşak, esnek |
-| **Oxford** | Gömlek | Dokulu, şık |
-| **Twill** | Chino | Dayanıklı, formlu |
-| **French Terry** | Sweatshirt | Sıcak tutar, rahat |
-| **Denim** | Jean, ceket | Klasik, uzun ömürlü |
-
-#### 7.2 Fit Rehberi
-
-| Fit Tipi | Özellik | Kime Uygun |
-|----------|---------|------------|
-| **Slim Fit** | Vücudu saran | Atletik yapı |
-| **Regular Fit** | Standart kesim | Herkes |
-| **Relaxed Fit** | Bol kesim | Rahat tercih edenler |
-| **Classic Fit** | Geleneksel | Olgun müşteri |
-
-#### 7.3 Beden Tablosu
-
-| Beden | Göğüs (cm) | Bel (cm) |
-|-------|------------|----------|
-| XS | 88-92 | 72-76 |
-| S | 92-96 | 76-80 |
-| M | 96-100 | 80-84 |
-| L | 100-104 | 84-88 |
-| XL | 104-108 | 88-92 |
-| XXL | 108-112 | 92-96 |
-
-#### 7.4 Bakım Talimatları
-
-| Ürün | Yıkama | Kurutma | Ütü |
-|------|--------|---------|-----|
-| Polo | 30°C | Serin asarak | Düşük ısı |
-| T-shirt | 30°C | Serin asarak | Gerekirse düşük |
-| Gömlek | 40°C | Serin asarak | Orta ısı |
-| Denim | 30°C ters | Serin asarak | Buharla |
-| Triko | Elde veya 30°C | Yatay kurutma | Buharla |
-
-
-### BÖLÜM 9: SIKÇA SORULAN SORULAR
-
-| Soru | Cevap |
-|------|-------|
-| "Bu marka Polo Ralph Lauren ile aynı mı?" | "Hayır, U.S. Polo Assn. Amerika Polo Birliği'nin resmi markası, Polo RL ise tasarımcı markasıdır. İkisi farklı şirketlerdir." |
-| "Neden iki atlı logo var?" | "İki atlı logo polo sporunun maç sembolüdür, oyunu temsil eder. Tek atlı logo sadece oyuncuyu gösterir." |
-| "Türkiye'de mi üretiliyor?" | "Türkiye başta olmak üzere çeşitli ülkelerde üretim yapılmaktadır. Kalite standartları globaldir." |
-| "İndirime giriyor mu?" | "Sezon sonu indirimleri ve özel kampanyalarımız oluyor. CRM üyeliğiyle kampanyalardan ilk siz haberdar olursunuz." |
-
-
-## Tools & Resources
-
-| Kaynak | Kullanım |
-|--------|----------|
-| Marka Kitapçığı | Marka hikayesi ve değerler |
-| Ürün Kataloğu | Sezonluk ürün bilgileri |
-| Fit Guide Posteri | Mağaza içi beden rehberi |
-| Training Video | Marka tanıtım videosu |
-| Kumaş Örnekleri | Dokunmatik eğitim seti |
-
-
-## Assessment Methods
-
-### Marka Bilgisi Quiz'i
-- 20 soru, çoktan seçmeli
-- Marka hikayesi, değerler, ürün bilgisi
-- Geçer not: %80
-
-### Ürün Tanıma Testi
-- 10 ürün görseli
-- Kumaş, fit, özellik tanımlama
-- Pratik değerlendirme
-
-### Rol-Play
-- Müşteri senaryosu
-- Marka hikayesi anlatımı
-- Cross-sell/Upsell uygulaması
-
-
----
-
-## SECTION 7: COMPETENCY-FRAMEWORK-TR
-
-﻿---
-layout: default
-title: "Yetkinlik Çerçevesi"
-parent: Training
-
-## İçindekiler
-
-1. [Amaç](#amaç)
-2. [Kapsam](#kapsam)
-3. [Öğrenme Hedefleri](#öğrenme-hedefleri)
-4. [Yetkinlik Seviyeleri](#yetkinlik-seviyeleri)
-5. [Yetkinlik Alanları](#yetkinlik-alanları)
-6. [Beceri Matrisi](#beceri-matrisi)
-7. [Seviye İlerleme Kriterleri](#seviye-ilerleme-kriterleri)
-8. [Değerlendirme Süreci](#değerlendirme-süreci)
-9. [Kariyer Yolu](#kariyer-yolu)
-10. [Rol Sorumlulukları](#rol-sorumlulukları)
-11. [KPI ve Performans Göstergeleri](#kpi-ve-performans-göstergeleri)
-12. [Sık Yapılan Hatalar ve Koçluk Notları](#sık-yapılan-hatalar-ve-koçluk-notları)
-13. [Revizyon Geçmişi](#revizyon-geçmişi)
-
-
-## Kapsam
-
-### Hedef Kitle
-
-| Rol | Başlangıç Seviyesi | Hedef Seviye |
-|-----|-------------------|--------------|
-| **Satış Danışmanı** | Seviye 1 | Seviye 3-5 |
-| **Mağaza Müdür Yardımcısı** | Seviye 3 | Seviye 4-5 |
-| **Mağaza Müdürü** | Seviye 4 | Seviye 5 |
-
-### Yetkinlik Sistemi Genel Bakış
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              5 SEVİYELİ YETKİNLİK SİSTEMİ                       │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  SEVİYE 5: UZMAN (12+ ay)                                      │
-│     ████████████████████████████████████████  100%             │
-│     Eğitmen, lider, mükemmellik örneği                         │
-│                                                                 │
-│  SEVİYE 4: KIDEMLİ (6-12 ay)                                   │
-│     ██████████████████████████████  80%                        │
-│     Mentor, zor senaryolar, özerk                              │
-│                                                                 │
-│  SEVİYE 3: YETKİN (3-6 ay)                                     │
-│     ████████████████████████  60%                              │
-│     Bağımsız, çapraz satış, CRM                                │
-│                                                                 │
-│  SEVİYE 2: JUNİOR (1-3 ay)                                     │
-│     ████████████████  40%                                      │
-│     Temel satış, ürün bilgisi                                  │
-│                                                                 │
-│  SEVİYE 1: STAJYER (0-30 gün)                                  │
-│     ████████  20%                                              │
-│     Oryantasyon, gözlem, öğrenme                               │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-## Yetkinlik Seviyeleri
-
-### Seviye 1: Stajyer (Trainee)
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              SEVİYE 1: STAJYER                                  │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  SÜRE: 0-30 gün                                                │
-│                                                                 │
-│  TANIM:                                                        │
-│  Yeni işe başlamış, oryantasyon sürecinde olan personel.       │
-│  Gözlem ve öğrenme aşamasında.                                 │
-│                                                                 │
-│  BEKLENTİLER:                                                  │
-│  ✓ Mağaza kurallarını öğrenmek                                 │
-│  ✓ Ürün kategorilerini tanımak                                 │
-│  ✓ POS sisteminin temellerini kavramak                         │
-│  ✓ Müşteri karşılama standardını bilmek                        │
-│  ✓ Buddy rehberliğinde çalışmak                                │
-│                                                                 │
-│  SINIRLAMALAR:                                                 │
-│  ✗ Bağımsız satış yapamaz                                      │
-│  ✗ Kasa işlemi yapamaz (gözetim olmadan)                       │
-│  ✗ Şikayet çözemez                                             │
-│                                                                 │
-│  TAMAMLAMA KRİTERİ:                                            │
-│  • 30 günlük oryantasyon tamamlama                             │
-│  • Sertifikasyon sınavı %70+                                   │
-│  • Mağaza Müdürü onayı                                         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Seviye 2: Junior
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              SEVİYE 2: JUNİOR                                   │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  SÜRE: 1-3 ay                                                  │
-│                                                                 │
-│  TANIM:                                                        │
-│  Temel yetkinlikleri kazanmış, bağımsız satış yapabilir        │
-│  hale gelen personel. Hala destek gerektirir.                  │
-│                                                                 │
-│  BEKLENTİLER:                                                  │
-│  ✓ Bağımsız müşteri karşılama                                  │
-│  ✓ Temel satış görüşmesi yapma                                 │
-│  ✓ Ürün bilgisi sunma                                          │
-│  ✓ Kabin hizmeti verme                                         │
-│  ✓ POS işlemleri (satış, iade)                                 │
-│  ✓ Stok kontrolü yapma                                         │
-│                                                                 │
-│  GELİŞİM ALANLARI:                                             │
-│  → İtiraz karşılama                                            │
-│  → Ek satış teknikleri                                         │
-│  → Zor müşteri yönetimi                                        │
-│                                                                 │
-│  TAMAMLAMA KRİTERİ:                                            │
-│  • Minimum 3 ay deneyim                                        │
-│  • Aylık hedeflerin %80'ini tutturma                           │
-│  • Pratik değerlendirme "İyi" veya üzeri                       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Seviye 3: Yetkin (Proficient)
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              SEVİYE 3: YETKİN                                   │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  SÜRE: 3-6 ay                                                  │
-│                                                                 │
-│  TANIM:                                                        │
-│  Tam bağımsız çalışabilen, hedeflerini tutturan,               │
-│  çapraz satış yapabilen personel.                              │
-│                                                                 │
-│  BEKLENTİLER:                                                  │
-│  ✓ Tam bağımsız satış                                          │
-│  ✓ İtiraz karşılama                                            │
-│  ✓ Çapraz satış ve ek satış                                    │
-│  ✓ CRM veri toplama ve kullanma                                │
-│  ✓ Şikayet çözme (temel seviye)                                │
-│  ✓ VM desteği                                                  │
-│  ✓ Stok yönetimi katılımı                                      │
-│                                                                 │
-│  GELİŞİM ALANLARI:                                             │
-│  → Mentorluk becerileri                                        │
-│  → Liderlik temelleri                                          │
-│  → İleri satış teknikleri                                      │
-│                                                                 │
-│  TAMAMLAMA KRİTERİ:                                            │
-│  • Minimum 6 ay deneyim                                        │
-│  • Aylık hedeflerin %100'ünü tutturma                          │
-│  • UPT ve ATV hedeflerinde başarı                              │
-│  • 360° değerlendirme "İyi" veya üzeri                         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Seviye 4: Kıdemli (Senior)
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              SEVİYE 4: KIDEMLİ                                  │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  SÜRE: 6-12 ay                                                 │
-│                                                                 │
-│  TANIM:                                                        │
-│  Mükemmel performans gösteren, mentor rolü üstlenen,           │
-│  zor durumları yönetebilen personel.                           │
-│                                                                 │
-│  BEKLENTİLER:                                                  │
-│  ✓ Mükemmel satış performansı                                  │
-│  ✓ Yeni personele mentorluk                                    │
-│  ✓ Zor müşteri/senaryo yönetimi                                │
-│  ✓ Vardiya sorumluluğu                                         │
-│  ✓ Şikayet yönetimi (ileri seviye)                             │
-│  ✓ VM uygulaması                                               │
-│  ✓ Açılış/kapanış sorumluluğu                                  │
-│                                                                 │
-│  EK SORUMLULUKLAR:                                             │
-│  → Seviye 1-2 personele koçluk                                 │
-│  → Günlük operasyon desteği                                    │
-│  → Müdür yokluğunda temsil                                     │
-│                                                                 │
-│  TAMAMLAMA KRİTERİ:                                            │
-│  • Minimum 12 ay deneyim                                       │
-│  • Hedeflerin %110+ tutturma (sürekli)                         │
-│  • En az 2 personele mentorluk                                 │
-│  • Liderlik değerlendirmesi "İyi" veya üzeri                   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Seviye 5: Uzman (Expert)
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              SEVİYE 5: UZMAN                                    │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  SÜRE: 12+ ay                                                  │
-│                                                                 │
-│  TANIM:                                                        │
-│  Mükemmellik örneği, eğitmen seviyesinde, mağaza               │
-│  liderliği yapabilen personel.                                 │
-│                                                                 │
-│  BEKLENTİLER:                                                  │
-│  ✓ Sürekli üstün performans                                    │
-│  ✓ Resmi eğitmen rolü                                          │
-│  ✓ Mağaza liderliği kapasitesi                                 │
-│  ✓ Stratejik düşünme                                           │
-│  ✓ Problem çözme uzmanlığı                                     │
-│  ✓ Best practice geliştirme                                    │
-│  ✓ Bölge düzeyinde katkı                                       │
-│                                                                 │
-│  ÖNDERLİK ALANLARI:                                            │
-│  → Mağaza içi eğitim liderliği                                 │
-│  → Yeni mağaza açılış desteği                                  │
-│  → Pilot programlara katılım                                   │
-│  → HQ ile koordinasyon                                         │
-│                                                                 │
-│  KARİYER SEÇENEKLERİ:                                          │
-│  → Mağaza Müdür Yardımcısı                                     │
-│  → Mağaza Müdürü                                               │
-│  → Bölge Eğitmeni                                              │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-## Beceri Matrisi
-
-### Satış Becerileri Matrisi
-
-| Beceri | Seviye 1 | Seviye 2 | Seviye 3 | Seviye 4 | Seviye 5 |
-|--------|----------|----------|----------|----------|----------|
-| **Karşılama** | Öğreniyor | Yapabiliyor | Ustalaşmış | Mükemmel | Eğitebilir |
-| **İhtiyaç Analizi** | Gözlemliyor | Temel sorular | Derinlemesine | Uzman | Eğitebilir |
-| **Ürün Sunumu** | Öğreniyor | Temel | Hikayeleştirme | Mükemmel | Eğitebilir |
-| **İtiraz Karşılama** | - | Öğreniyor | Yapabiliyor | Ustalaşmış | Eğitebilir |
-| **Kapanış** | - | Temel | İleri | Mükemmel | Eğitebilir |
-| **Ek Satış** | - | Öğreniyor | Yapabiliyor | Ustalaşmış | Eğitebilir |
-
-### Müşteri Hizmeti Matrisi
-
-| Beceri | Seviye 1 | Seviye 2 | Seviye 3 | Seviye 4 | Seviye 5 |
-|--------|----------|----------|----------|----------|----------|
-| **Kabin Hizmeti** | Gözlemliyor | Yapabiliyor | Mükemmel | Mükemmel | Eğitebilir |
-| **Şikayet Yönetimi** | - | Gözlemliyor | Temel | İleri | Uzman |
-| **CRM** | Öğreniyor | Temel | Tam kullanım | Analiz | Strateji |
-| **Problem Çözme** | - | Temel | Orta | İleri | Uzman |
-
-### Operasyonel Beceriler Matrisi
-
-| Beceri | Seviye 1 | Seviye 2 | Seviye 3 | Seviye 4 | Seviye 5 |
-|--------|----------|----------|----------|----------|----------|
-| **POS Kullanımı** | Öğreniyor | Yapabiliyor | Tam | Tam | Eğitebilir |
-| **Kasa Yönetimi** | - | Gözetimli | Bağımsız | Sorumluluk | Eğitebilir |
-| **Stok İşlemleri** | Temel | Yapabiliyor | Tam | Yönetim | Eğitebilir |
-| **Açılış/Kapanış** | Gözlemliyor | Katılım | Yapabiliyor | Sorumluluk | Eğitebilir |
-| **VM** | Gözlemliyor | Destek | Uygulama | Yönetim | Eğitebilir |
-
-
-## Değerlendirme Süreci
-
-### Değerlendirme Takvimi
-
-| Değerlendirme | Sıklık | Sorumlu | Amaç |
-|---------------|--------|---------|------|
-| **Günlük Gözlem** | Her gün | Vardiya Sorumlusu | Anlık geri bildirim |
-| **Haftalık Check-in** | Haftalık | Mağaza Müdürü | İlerleme takibi |
-| **Aylık Performans** | Aylık | Mağaza Müdürü | KPI değerlendirmesi |
-| **Çeyreklik 360°** | 3 ayda bir | Bölge Müdürü | Kapsamlı değerlendirme |
-| **Seviye Değerlendirme** | İhtiyaç | İlgili yönetici | Seviye geçişi |
-
-### Yetkinlik Değerlendirme Formu
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              YETKİNLİK DEĞERLENDİRME FORMU                     │
-├─────────────────────────────────────────────────────────────────┤
-│ Personel: _________________  Mevcut Seviye: ___                │
-│ Değerlendiren: _____________  Tarih: ___/___/______            │
-│ Değerlendirme Türü: [ ] Rutin [ ] Seviye Geçişi               │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│ SATIŞ BECERİLERİ                    1  2  3  4  5              │
-│ Müşteri karşılama                  [ ][ ][ ][ ][ ]             │
-│ İhtiyaç analizi                    [ ][ ][ ][ ][ ]             │
-│ Ürün sunumu                        [ ][ ][ ][ ][ ]             │
-│ İtiraz karşılama                   [ ][ ][ ][ ][ ]             │
-│ Satış kapama                       [ ][ ][ ][ ][ ]             │
-│ Ek satış                           [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ ÜRÜN BİLGİSİ                        1  2  3  4  5              │
-│ Kumaş bilgisi                      [ ][ ][ ][ ][ ]             │
-│ Fit/kalıp bilgisi                  [ ][ ][ ][ ][ ]             │
-│ Marka bilgisi                      [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ MÜŞTERİ HİZMETİ                     1  2  3  4  5              │
-│ Kabin hizmeti                      [ ][ ][ ][ ][ ]             │
-│ Şikayet yönetimi                   [ ][ ][ ][ ][ ]             │
-│ CRM yönetimi                       [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ OPERASYON                           1  2  3  4  5              │
-│ POS kullanımı                      [ ][ ][ ][ ][ ]             │
-│ Stok işlemleri                     [ ][ ][ ][ ][ ]             │
-│ VM uygulaması                      [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ TAKIM ÇALIŞMASI                     1  2  3  4  5              │
-│ İşbirliği                          [ ][ ][ ][ ][ ]             │
-│ İletişim                           [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ LİDERLİK (Seviye 4-5)               1  2  3  4  5              │
-│ Mentorluk                          [ ][ ][ ][ ][ ]             │
-│ Koçluk                             [ ][ ][ ][ ][ ]             │
-│                                                                 │
-│ GENEL PUAN: _____/100                                          │
-│                                                                 │
-│ GÜÇLÜ YÖNLER:                                                  │
-│ ______________________________________________________________ │
-│                                                                 │
-│ GELİŞİM ALANLARI:                                              │
-│ ______________________________________________________________ │
-│                                                                 │
-│ SEVİYE GEÇİŞ ÖNERİSİ: [ ] Evet [ ] Hayır                      │
-│ Gerekçe: _____________________________________________________ │
-│                                                                 │
-│ Değerlendiren İmza: _____________                              │
-│ Personel İmza: _____________                                   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-
-## Rol Sorumlulukları
-
-### Personel
-
-| Sorumluluk | Detay |
-|------------|-------|
-| Öz değerlendirme | Kendi seviyesini bilme |
-| Gelişim planı | Gelişim alanlarını belirleme |
-| Eğitime katılım | Gerekli eğitimleri tamamlama |
-| Performans | Hedefleri tutturma |
-
-### Mağaza Müdürü
-
-| Sorumluluk | Detay |
-|------------|-------|
-| Değerlendirme | Düzenli yetkinlik değerlendirmesi |
-| Koçluk | Gelişim için destek sağlama |
-| Öneri | Seviye geçişi önerisi |
-| Takip | İlerlemeyi izleme |
-
-### Bölge Müdürü
-
-| Sorumluluk | Detay |
-|------------|-------|
-| Onay | Seviye 4-5 geçiş onayı |
-| Denetim | Değerlendirme kalitesini denetleme |
-| Standart | Bölge genelinde tutarlılık |
-
-
-## Sık Yapılan Hatalar ve Koçluk Notları
-
-### Yetkinlik Gelişiminde Sık Yapılan Hatalar
-
-| Hata | Sonuç | Düzeltme |
-|------|-------|----------|
-| Seviye atlamaya çalışmak | Başarısızlık | Adım adım ilerleme |
-| Geri bildirim almamak | Gelişim yavaşlar | Düzenli feedback isteme |
-| Sadece satışa odaklanmak | Tek boyutlu | Tüm yetkinlikleri geliştirme |
-| Mentorluk reddetmek | Fırsat kaçırma | Öğrenmeye açık olma |
-
-### Koçluk İpuçları
-
-```
-SEVİYE 1-2 İÇİN:
-• Temel becerilere odaklan
-• Sabırlı ol, hatayı öğrenme fırsatı yap
-• Küçük başarıları kutla
-• Düzenli geri bildirim ver
-
-SEVİYE 3-4 İÇİN:
-• İleri hedefler koy
-• Mentorluk fırsatları yarat
-• Liderlik becerilerini geliştir
-• Zorlayıcı görevler ver
-
-SEVİYE 5 İÇİN:
-• Stratejik düşünmeyi teşvik et
-• Eğitmenlik fırsatları sun
-• Kariyer planlaması yap
-• Bölge düzeyinde projeler ver
-```
-
-
-*Bu doküman Aydınlı Grup Franchise Operasyonları tarafından hazırlanmıştır.*  
-*© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
-
-
-
-
----
-
-## SECTION 8: CUSTOMER-EXPERIENCE-STANDARDS-TR
+## SECTION 2: CUSTOMER-EXPERIENCE-STANDARDS-TR
 
 ﻿---
 layout: default
@@ -2361,7 +704,1144 @@ SONUÇ: Kayıp satış kurtarılır, müşteri memnun ayrılır
 
 ---
 
-## SECTION 9: CUSTOMER-INTERACTION-SCENARIOS-TR
+## SECTION 3: COMPETENCY-FRAMEWORK-TR
+
+﻿---
+layout: default
+title: "Yetkinlik Çerçevesi"
+parent: Training
+
+## İçindekiler
+
+1. [Amaç](#amaç)
+2. [Kapsam](#kapsam)
+3. [Öğrenme Hedefleri](#öğrenme-hedefleri)
+4. [Yetkinlik Seviyeleri](#yetkinlik-seviyeleri)
+5. [Yetkinlik Alanları](#yetkinlik-alanları)
+6. [Beceri Matrisi](#beceri-matrisi)
+7. [Seviye İlerleme Kriterleri](#seviye-ilerleme-kriterleri)
+8. [Değerlendirme Süreci](#değerlendirme-süreci)
+9. [Kariyer Yolu](#kariyer-yolu)
+10. [Rol Sorumlulukları](#rol-sorumlulukları)
+11. [KPI ve Performans Göstergeleri](#kpi-ve-performans-göstergeleri)
+12. [Sık Yapılan Hatalar ve Koçluk Notları](#sık-yapılan-hatalar-ve-koçluk-notları)
+13. [Revizyon Geçmişi](#revizyon-geçmişi)
+
+
+## Kapsam
+
+### Hedef Kitle
+
+| Rol | Başlangıç Seviyesi | Hedef Seviye |
+|-----|-------------------|--------------|
+| **Satış Danışmanı** | Seviye 1 | Seviye 3-5 |
+| **Mağaza Müdür Yardımcısı** | Seviye 3 | Seviye 4-5 |
+| **Mağaza Müdürü** | Seviye 4 | Seviye 5 |
+
+### Yetkinlik Sistemi Genel Bakış
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              5 SEVİYELİ YETKİNLİK SİSTEMİ                       │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  SEVİYE 5: UZMAN (12+ ay)                                      │
+│     ████████████████████████████████████████  100%             │
+│     Eğitmen, lider, mükemmellik örneği                         │
+│                                                                 │
+│  SEVİYE 4: KIDEMLİ (6-12 ay)                                   │
+│     ██████████████████████████████  80%                        │
+│     Mentor, zor senaryolar, özerk                              │
+│                                                                 │
+│  SEVİYE 3: YETKİN (3-6 ay)                                     │
+│     ████████████████████████  60%                              │
+│     Bağımsız, çapraz satış, CRM                                │
+│                                                                 │
+│  SEVİYE 2: JUNİOR (1-3 ay)                                     │
+│     ████████████████  40%                                      │
+│     Temel satış, ürün bilgisi                                  │
+│                                                                 │
+│  SEVİYE 1: STAJYER (0-30 gün)                                  │
+│     ████████  20%                                              │
+│     Oryantasyon, gözlem, öğrenme                               │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+## Yetkinlik Seviyeleri
+
+### Seviye 1: Stajyer (Trainee)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              SEVİYE 1: STAJYER                                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  SÜRE: 0-30 gün                                                │
+│                                                                 │
+│  TANIM:                                                        │
+│  Yeni işe başlamış, oryantasyon sürecinde olan personel.       │
+│  Gözlem ve öğrenme aşamasında.                                 │
+│                                                                 │
+│  BEKLENTİLER:                                                  │
+│  ✓ Mağaza kurallarını öğrenmek                                 │
+│  ✓ Ürün kategorilerini tanımak                                 │
+│  ✓ POS sisteminin temellerini kavramak                         │
+│  ✓ Müşteri karşılama standardını bilmek                        │
+│  ✓ Buddy rehberliğinde çalışmak                                │
+│                                                                 │
+│  SINIRLAMALAR:                                                 │
+│  ✗ Bağımsız satış yapamaz                                      │
+│  ✗ Kasa işlemi yapamaz (gözetim olmadan)                       │
+│  ✗ Şikayet çözemez                                             │
+│                                                                 │
+│  TAMAMLAMA KRİTERİ:                                            │
+│  • 30 günlük oryantasyon tamamlama                             │
+│  • Sertifikasyon sınavı %70+                                   │
+│  • Mağaza Müdürü onayı                                         │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Seviye 2: Junior
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              SEVİYE 2: JUNİOR                                   │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  SÜRE: 1-3 ay                                                  │
+│                                                                 │
+│  TANIM:                                                        │
+│  Temel yetkinlikleri kazanmış, bağımsız satış yapabilir        │
+│  hale gelen personel. Hala destek gerektirir.                  │
+│                                                                 │
+│  BEKLENTİLER:                                                  │
+│  ✓ Bağımsız müşteri karşılama                                  │
+│  ✓ Temel satış görüşmesi yapma                                 │
+│  ✓ Ürün bilgisi sunma                                          │
+│  ✓ Kabin hizmeti verme                                         │
+│  ✓ POS işlemleri (satış, iade)                                 │
+│  ✓ Stok kontrolü yapma                                         │
+│                                                                 │
+│  GELİŞİM ALANLARI:                                             │
+│  → İtiraz karşılama                                            │
+│  → Ek satış teknikleri                                         │
+│  → Zor müşteri yönetimi                                        │
+│                                                                 │
+│  TAMAMLAMA KRİTERİ:                                            │
+│  • Minimum 3 ay deneyim                                        │
+│  • Aylık hedeflerin %80'ini tutturma                           │
+│  • Pratik değerlendirme "İyi" veya üzeri                       │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Seviye 3: Yetkin (Proficient)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              SEVİYE 3: YETKİN                                   │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  SÜRE: 3-6 ay                                                  │
+│                                                                 │
+│  TANIM:                                                        │
+│  Tam bağımsız çalışabilen, hedeflerini tutturan,               │
+│  çapraz satış yapabilen personel.                              │
+│                                                                 │
+│  BEKLENTİLER:                                                  │
+│  ✓ Tam bağımsız satış                                          │
+│  ✓ İtiraz karşılama                                            │
+│  ✓ Çapraz satış ve ek satış                                    │
+│  ✓ CRM veri toplama ve kullanma                                │
+│  ✓ Şikayet çözme (temel seviye)                                │
+│  ✓ VM desteği                                                  │
+│  ✓ Stok yönetimi katılımı                                      │
+│                                                                 │
+│  GELİŞİM ALANLARI:                                             │
+│  → Mentorluk becerileri                                        │
+│  → Liderlik temelleri                                          │
+│  → İleri satış teknikleri                                      │
+│                                                                 │
+│  TAMAMLAMA KRİTERİ:                                            │
+│  • Minimum 6 ay deneyim                                        │
+│  • Aylık hedeflerin %100'ünü tutturma                          │
+│  • UPT ve ATV hedeflerinde başarı                              │
+│  • 360° değerlendirme "İyi" veya üzeri                         │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Seviye 4: Kıdemli (Senior)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              SEVİYE 4: KIDEMLİ                                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  SÜRE: 6-12 ay                                                 │
+│                                                                 │
+│  TANIM:                                                        │
+│  Mükemmel performans gösteren, mentor rolü üstlenen,           │
+│  zor durumları yönetebilen personel.                           │
+│                                                                 │
+│  BEKLENTİLER:                                                  │
+│  ✓ Mükemmel satış performansı                                  │
+│  ✓ Yeni personele mentorluk                                    │
+│  ✓ Zor müşteri/senaryo yönetimi                                │
+│  ✓ Vardiya sorumluluğu                                         │
+│  ✓ Şikayet yönetimi (ileri seviye)                             │
+│  ✓ VM uygulaması                                               │
+│  ✓ Açılış/kapanış sorumluluğu                                  │
+│                                                                 │
+│  EK SORUMLULUKLAR:                                             │
+│  → Seviye 1-2 personele koçluk                                 │
+│  → Günlük operasyon desteği                                    │
+│  → Müdür yokluğunda temsil                                     │
+│                                                                 │
+│  TAMAMLAMA KRİTERİ:                                            │
+│  • Minimum 12 ay deneyim                                       │
+│  • Hedeflerin %110+ tutturma (sürekli)                         │
+│  • En az 2 personele mentorluk                                 │
+│  • Liderlik değerlendirmesi "İyi" veya üzeri                   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Seviye 5: Uzman (Expert)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              SEVİYE 5: UZMAN                                    │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  SÜRE: 12+ ay                                                  │
+│                                                                 │
+│  TANIM:                                                        │
+│  Mükemmellik örneği, eğitmen seviyesinde, mağaza               │
+│  liderliği yapabilen personel.                                 │
+│                                                                 │
+│  BEKLENTİLER:                                                  │
+│  ✓ Sürekli üstün performans                                    │
+│  ✓ Resmi eğitmen rolü                                          │
+│  ✓ Mağaza liderliği kapasitesi                                 │
+│  ✓ Stratejik düşünme                                           │
+│  ✓ Problem çözme uzmanlığı                                     │
+│  ✓ Best practice geliştirme                                    │
+│  ✓ Bölge düzeyinde katkı                                       │
+│                                                                 │
+│  ÖNDERLİK ALANLARI:                                            │
+│  → Mağaza içi eğitim liderliği                                 │
+│  → Yeni mağaza açılış desteği                                  │
+│  → Pilot programlara katılım                                   │
+│  → HQ ile koordinasyon                                         │
+│                                                                 │
+│  KARİYER SEÇENEKLERİ:                                          │
+│  → Mağaza Müdür Yardımcısı                                     │
+│  → Mağaza Müdürü                                               │
+│  → Bölge Eğitmeni                                              │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+## Beceri Matrisi
+
+### Satış Becerileri Matrisi
+
+| Beceri | Seviye 1 | Seviye 2 | Seviye 3 | Seviye 4 | Seviye 5 |
+|--------|----------|----------|----------|----------|----------|
+| **Karşılama** | Öğreniyor | Yapabiliyor | Ustalaşmış | Mükemmel | Eğitebilir |
+| **İhtiyaç Analizi** | Gözlemliyor | Temel sorular | Derinlemesine | Uzman | Eğitebilir |
+| **Ürün Sunumu** | Öğreniyor | Temel | Hikayeleştirme | Mükemmel | Eğitebilir |
+| **İtiraz Karşılama** | - | Öğreniyor | Yapabiliyor | Ustalaşmış | Eğitebilir |
+| **Kapanış** | - | Temel | İleri | Mükemmel | Eğitebilir |
+| **Ek Satış** | - | Öğreniyor | Yapabiliyor | Ustalaşmış | Eğitebilir |
+
+### Müşteri Hizmeti Matrisi
+
+| Beceri | Seviye 1 | Seviye 2 | Seviye 3 | Seviye 4 | Seviye 5 |
+|--------|----------|----------|----------|----------|----------|
+| **Kabin Hizmeti** | Gözlemliyor | Yapabiliyor | Mükemmel | Mükemmel | Eğitebilir |
+| **Şikayet Yönetimi** | - | Gözlemliyor | Temel | İleri | Uzman |
+| **CRM** | Öğreniyor | Temel | Tam kullanım | Analiz | Strateji |
+| **Problem Çözme** | - | Temel | Orta | İleri | Uzman |
+
+### Operasyonel Beceriler Matrisi
+
+| Beceri | Seviye 1 | Seviye 2 | Seviye 3 | Seviye 4 | Seviye 5 |
+|--------|----------|----------|----------|----------|----------|
+| **POS Kullanımı** | Öğreniyor | Yapabiliyor | Tam | Tam | Eğitebilir |
+| **Kasa Yönetimi** | - | Gözetimli | Bağımsız | Sorumluluk | Eğitebilir |
+| **Stok İşlemleri** | Temel | Yapabiliyor | Tam | Yönetim | Eğitebilir |
+| **Açılış/Kapanış** | Gözlemliyor | Katılım | Yapabiliyor | Sorumluluk | Eğitebilir |
+| **VM** | Gözlemliyor | Destek | Uygulama | Yönetim | Eğitebilir |
+
+
+## Değerlendirme Süreci
+
+### Değerlendirme Takvimi
+
+| Değerlendirme | Sıklık | Sorumlu | Amaç |
+|---------------|--------|---------|------|
+| **Günlük Gözlem** | Her gün | Vardiya Sorumlusu | Anlık geri bildirim |
+| **Haftalık Check-in** | Haftalık | Mağaza Müdürü | İlerleme takibi |
+| **Aylık Performans** | Aylık | Mağaza Müdürü | KPI değerlendirmesi |
+| **Çeyreklik 360°** | 3 ayda bir | Bölge Müdürü | Kapsamlı değerlendirme |
+| **Seviye Değerlendirme** | İhtiyaç | İlgili yönetici | Seviye geçişi |
+
+### Yetkinlik Değerlendirme Formu
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              YETKİNLİK DEĞERLENDİRME FORMU                     │
+├─────────────────────────────────────────────────────────────────┤
+│ Personel: _________________  Mevcut Seviye: ___                │
+│ Değerlendiren: _____________  Tarih: ___/___/______            │
+│ Değerlendirme Türü: [ ] Rutin [ ] Seviye Geçişi               │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│ SATIŞ BECERİLERİ                    1  2  3  4  5              │
+│ Müşteri karşılama                  [ ][ ][ ][ ][ ]             │
+│ İhtiyaç analizi                    [ ][ ][ ][ ][ ]             │
+│ Ürün sunumu                        [ ][ ][ ][ ][ ]             │
+│ İtiraz karşılama                   [ ][ ][ ][ ][ ]             │
+│ Satış kapama                       [ ][ ][ ][ ][ ]             │
+│ Ek satış                           [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ ÜRÜN BİLGİSİ                        1  2  3  4  5              │
+│ Kumaş bilgisi                      [ ][ ][ ][ ][ ]             │
+│ Fit/kalıp bilgisi                  [ ][ ][ ][ ][ ]             │
+│ Marka bilgisi                      [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ MÜŞTERİ HİZMETİ                     1  2  3  4  5              │
+│ Kabin hizmeti                      [ ][ ][ ][ ][ ]             │
+│ Şikayet yönetimi                   [ ][ ][ ][ ][ ]             │
+│ CRM yönetimi                       [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ OPERASYON                           1  2  3  4  5              │
+│ POS kullanımı                      [ ][ ][ ][ ][ ]             │
+│ Stok işlemleri                     [ ][ ][ ][ ][ ]             │
+│ VM uygulaması                      [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ TAKIM ÇALIŞMASI                     1  2  3  4  5              │
+│ İşbirliği                          [ ][ ][ ][ ][ ]             │
+│ İletişim                           [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ LİDERLİK (Seviye 4-5)               1  2  3  4  5              │
+│ Mentorluk                          [ ][ ][ ][ ][ ]             │
+│ Koçluk                             [ ][ ][ ][ ][ ]             │
+│                                                                 │
+│ GENEL PUAN: _____/100                                          │
+│                                                                 │
+│ GÜÇLÜ YÖNLER:                                                  │
+│ ______________________________________________________________ │
+│                                                                 │
+│ GELİŞİM ALANLARI:                                              │
+│ ______________________________________________________________ │
+│                                                                 │
+│ SEVİYE GEÇİŞ ÖNERİSİ: [ ] Evet [ ] Hayır                      │
+│ Gerekçe: _____________________________________________________ │
+│                                                                 │
+│ Değerlendiren İmza: _____________                              │
+│ Personel İmza: _____________                                   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+## Rol Sorumlulukları
+
+### Personel
+
+| Sorumluluk | Detay |
+|------------|-------|
+| Öz değerlendirme | Kendi seviyesini bilme |
+| Gelişim planı | Gelişim alanlarını belirleme |
+| Eğitime katılım | Gerekli eğitimleri tamamlama |
+| Performans | Hedefleri tutturma |
+
+### Mağaza Müdürü
+
+| Sorumluluk | Detay |
+|------------|-------|
+| Değerlendirme | Düzenli yetkinlik değerlendirmesi |
+| Koçluk | Gelişim için destek sağlama |
+| Öneri | Seviye geçişi önerisi |
+| Takip | İlerlemeyi izleme |
+
+### Bölge Müdürü
+
+| Sorumluluk | Detay |
+|------------|-------|
+| Onay | Seviye 4-5 geçiş onayı |
+| Denetim | Değerlendirme kalitesini denetleme |
+| Standart | Bölge genelinde tutarlılık |
+
+
+## Sık Yapılan Hatalar ve Koçluk Notları
+
+### Yetkinlik Gelişiminde Sık Yapılan Hatalar
+
+| Hata | Sonuç | Düzeltme |
+|------|-------|----------|
+| Seviye atlamaya çalışmak | Başarısızlık | Adım adım ilerleme |
+| Geri bildirim almamak | Gelişim yavaşlar | Düzenli feedback isteme |
+| Sadece satışa odaklanmak | Tek boyutlu | Tüm yetkinlikleri geliştirme |
+| Mentorluk reddetmek | Fırsat kaçırma | Öğrenmeye açık olma |
+
+### Koçluk İpuçları
+
+```
+SEVİYE 1-2 İÇİN:
+• Temel becerilere odaklan
+• Sabırlı ol, hatayı öğrenme fırsatı yap
+• Küçük başarıları kutla
+• Düzenli geri bildirim ver
+
+SEVİYE 3-4 İÇİN:
+• İleri hedefler koy
+• Mentorluk fırsatları yarat
+• Liderlik becerilerini geliştir
+• Zorlayıcı görevler ver
+
+SEVİYE 5 İÇİN:
+• Stratejik düşünmeyi teşvik et
+• Eğitmenlik fırsatları sun
+• Kariyer planlaması yap
+• Bölge düzeyinde projeler ver
+```
+
+
+*Bu doküman Aydınlı Grup Franchise Operasyonları tarafından hazırlanmıştır.*  
+*© 2025 Aydınlı Grup - Tüm hakları saklıdır.*
+
+
+
+
+---
+
+## SECTION 4: BRAND-SUPPLEMENT-USPA-TR
+
+﻿---
+layout: default
+title: "U.S. Polo Assn. Marka Eğitim Rehberi – TR"
+parent: Training
+
+## Training Content
+
+### BÖLÜM 1: MARKA HİKAYESİ
+
+#### 1.1 Tarihçe
+
+**United States Polo Association (USPA)**
+- **Kuruluş:** 1890, ABD
+- **Misyon:** Polo sporunu Amerika'da tanıtmak ve yaymak
+- **Statü:** ABD'deki polo sporunun resmi yönetim organı
+- **Lisans:** U.S. Polo Assn. giyim markası USPA'nın resmi lisanslı ürünüdür
+
+**Önemli Noktalar:**
+- 130+ yıllık polo mirası
+- Gerçek bir spor kuruluşunun resmi markası
+- Dünya genelinde 180+ ülkede satış
+- Aydınlı Grup Türkiye lisans sahibi
+
+#### 1.2 Marka Değerleri
+
+| Değer | Açıklama |
+|-------|----------|
+| **Authenticity** | Gerçek polo mirasına dayanan özgünlük |
+| **Quality** | Premium kalite, uygun fiyat |
+| **Heritage** | Amerikan spor geleneği |
+| **Lifestyle** | Aktif, dinamik yaşam tarzı |
+| **Accessibility** | Herkes için ulaşılabilir lüks |
+
+#### 1.3 Marka Hikayesi Anlatımı (Müşteriye)
+
+```
+"U.S. Polo Assn., 1890'dan beri Amerika'da polo sporunun resmi kurumudur. 
+Bu marka, polo sporunun şıklığını ve Amerikan yaşam tarzını günlük hayata taşıyor. 
+130 yılı aşan bir mirasla, kaliteli ve özgün parçalar sunuyoruz."
+```
+
+
+### BÖLÜM 3: ÜRÜN KATEGORİLERİ
+
+#### 3.1 Erkek Koleksiyonu
+
+| Kategori | Alt Kategoriler | Anahtar Özellikler |
+|----------|-----------------|-------------------|
+| **Polo T-shirt** | Classic, Slim Fit, Big Horse | İkonik ürün, marka DNA'sı |
+| **T-shirt** | Basic, Graphic, V-neck | Günlük kullanım, rahat kesim |
+| **Gömlek** | Oxford, Casual, Denim | Smart casual stil |
+| **Pantolon** | Chino, Denim, Jogger | Şık ve rahat |
+| **Sweatshirt** | Hoodie, Crew neck, Zip-up | Sportif şıklık |
+| **Mont/Ceket** | Bomber, Denim, Parka | Sezonluk dış giyim |
+| **Aksesuar** | Şapka, Kemer, Çorap, Çanta | Kombin tamamlayıcı |
+
+#### 3.2 Kadın Koleksiyonu
+
+| Kategori | Alt Kategoriler | Anahtar Özellikler |
+|----------|-----------------|-------------------|
+| **Polo T-shirt** | Classic, Fitted | Feminen kesimler |
+| **T-shirt** | Basic, Crop, Oversized | Trendy modeller |
+| **Gömlek** | Oxford, Casual | Şık günlük |
+| **Pantolon** | Chino, Denim | Slim ve regular fit |
+| **Elbise** | Polo Dress, Casual | Spor şık |
+| **Triko** | V-neck, Crew | Katmanlı giyim |
+| **Aksesuar** | Çanta, Fular | Stil tamamlayıcı |
+
+#### 3.3 Çocuk Koleksiyonu
+
+| Kategori | Yaş Grubu | Özellikler |
+|----------|-----------|------------|
+| **Boys** | 4-14 yaş | Mini erkek koleksiyonu |
+| **Girls** | 4-14 yaş | Mini kadın koleksiyonu |
+| **Baby** | 0-3 yaş | Bebek setleri |
+
+#### 3.4 İkonik Ürünler
+
+**1. Classic Polo T-shirt**
+- Marka imzası ürün
+- %100 pamuk pique kumaş
+- Nakışlı logo
+- Kontrast yaka detayı
+
+**2. Big Horse Polo**
+- Büyük logo versiyonu
+- Statement parça
+- Genç hedef kitle favori
+
+**3. Oxford Gömlek**
+- Smart casual temel parça
+- Düğmeli yaka
+- Her kombine uyum
+
+
+### BÖLÜM 5: SATIŞ TEKNİKLERİ
+
+#### 5.1 Marka Hikayesi Satışı
+
+**Açılış:**
+```
+Personel: "U.S. Polo Assn. Amerika'da polo sporunun resmi markası, 
+biliyor muydunuz? 130 yıllık bir mirasla, otantik Amerikan tarzını sunuyoruz."
+```
+
+**Ürün Anlatımı:**
+```
+Personel: "Bu polo t-shirt markamızın ikonik ürünü. Gerçek polo oyuncuları 
+bu logoyu taşıyor. Kumaşı pique pamuk, nefes alıyor ve formunu koruyor."
+```
+
+#### 5.2 Cross-sell Önerileri
+
+| Ana Ürün | Cross-sell Önerisi |
+|----------|-------------------|
+| Polo T-shirt | Chino pantolon, kemer |
+| Oxford Gömlek | Chino, denim ceket |
+| Jogger | Sweatshirt, sneaker |
+| Denim | Basic t-shirt, polo |
+
+#### 5.3 Upsell Fırsatları
+
+| Basic Ürün | Premium Alternatif |
+|------------|-------------------|
+| Basic Polo | Big Horse Polo |
+| Regular T-shirt | Premium Cotton T-shirt |
+| Basic Chino | Stretch Chino |
+
+#### 5.4 Sezonluk Satış Vurguları
+
+| Sezon | Öne Çıkan Ürünler | Anahtar Mesaj |
+|-------|-------------------|---------------|
+| İlkbahar | Polo, Oxford, Chino | "Yeni sezon, yeni başlangıç" |
+| Yaz | Polo, T-shirt, Şort | "Yaz enerjisi" |
+| Sonbahar | Sweatshirt, Denim | "Katmanlı giyim" |
+| Kış | Mont, Triko, Atkı | "Sıcak ve şık" |
+
+
+### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARı
+
+#### 7.1 Kumaş Türleri
+
+| Kumaş | Kullanım | Özellik |
+|-------|----------|---------|
+| **Pique Pamuk** | Polo t-shirt | Nefes alır, dayanıklı |
+| **Jersey** | T-shirt | Yumuşak, esnek |
+| **Oxford** | Gömlek | Dokulu, şık |
+| **Twill** | Chino | Dayanıklı, formlu |
+| **French Terry** | Sweatshirt | Sıcak tutar, rahat |
+| **Denim** | Jean, ceket | Klasik, uzun ömürlü |
+
+#### 7.2 Fit Rehberi
+
+| Fit Tipi | Özellik | Kime Uygun |
+|----------|---------|------------|
+| **Slim Fit** | Vücudu saran | Atletik yapı |
+| **Regular Fit** | Standart kesim | Herkes |
+| **Relaxed Fit** | Bol kesim | Rahat tercih edenler |
+| **Classic Fit** | Geleneksel | Olgun müşteri |
+
+#### 7.3 Beden Tablosu
+
+| Beden | Göğüs (cm) | Bel (cm) |
+|-------|------------|----------|
+| XS | 88-92 | 72-76 |
+| S | 92-96 | 76-80 |
+| M | 96-100 | 80-84 |
+| L | 100-104 | 84-88 |
+| XL | 104-108 | 88-92 |
+| XXL | 108-112 | 92-96 |
+
+#### 7.4 Bakım Talimatları
+
+| Ürün | Yıkama | Kurutma | Ütü |
+|------|--------|---------|-----|
+| Polo | 30°C | Serin asarak | Düşük ısı |
+| T-shirt | 30°C | Serin asarak | Gerekirse düşük |
+| Gömlek | 40°C | Serin asarak | Orta ısı |
+| Denim | 30°C ters | Serin asarak | Buharla |
+| Triko | Elde veya 30°C | Yatay kurutma | Buharla |
+
+
+### BÖLÜM 9: SIKÇA SORULAN SORULAR
+
+| Soru | Cevap |
+|------|-------|
+| "Bu marka Polo Ralph Lauren ile aynı mı?" | "Hayır, U.S. Polo Assn. Amerika Polo Birliği'nin resmi markası, Polo RL ise tasarımcı markasıdır. İkisi farklı şirketlerdir." |
+| "Neden iki atlı logo var?" | "İki atlı logo polo sporunun maç sembolüdür, oyunu temsil eder. Tek atlı logo sadece oyuncuyu gösterir." |
+| "Türkiye'de mi üretiliyor?" | "Türkiye başta olmak üzere çeşitli ülkelerde üretim yapılmaktadır. Kalite standartları globaldir." |
+| "İndirime giriyor mu?" | "Sezon sonu indirimleri ve özel kampanyalarımız oluyor. CRM üyeliğiyle kampanyalardan ilk siz haberdar olursunuz." |
+
+
+## Tools & Resources
+
+| Kaynak | Kullanım |
+|--------|----------|
+| Marka Kitapçığı | Marka hikayesi ve değerler |
+| Ürün Kataloğu | Sezonluk ürün bilgileri |
+| Fit Guide Posteri | Mağaza içi beden rehberi |
+| Training Video | Marka tanıtım videosu |
+| Kumaş Örnekleri | Dokunmatik eğitim seti |
+
+
+## Assessment Methods
+
+### Marka Bilgisi Quiz'i
+- 20 soru, çoktan seçmeli
+- Marka hikayesi, değerler, ürün bilgisi
+- Geçer not: %80
+
+### Ürün Tanıma Testi
+- 10 ürün görseli
+- Kumaş, fit, özellik tanımlama
+- Pratik değerlendirme
+
+### Rol-Play
+- Müşteri senaryosu
+- Marka hikayesi anlatımı
+- Cross-sell/Upsell uygulaması
+
+
+---
+
+## SECTION 5: BRAND-SUPPLEMENT-PIERRE-CARDIN-TR
+
+﻿---
+layout: default
+title: "Pierre Cardin Marka Eğitim Rehberi – TR"
+parent: Training
+
+## Training Content
+
+### BÖLÜM 1: MARKA HİKAYESİ
+
+#### 1.1 Tarihçe
+
+**Pierre Cardin - Moda İkonu**
+- **Doğum:** 1922, İtalya (San Biagio di Callalta)
+- **Kariyer Başlangıcı:** 1945, Paris - Christian Dior'da çalıştı
+- **Kendi Markası:** 1950, Paris'te Pierre Cardin evini kurdu
+- **Devrim:** 1960'lar - Ready-to-wear (hazır giyim) öncüsü
+- **Miras:** 2020'de vefat etti, moda dünyasında kalıcı iz bıraktı
+
+**Önemli Noktalar:**
+- Haute couture'dan hazır giyime geçişin öncüsü
+- Uzay çağı tasarımları ile tanınır
+- Lisanslama modelinin mucidi
+- Dünya genelinde tanınan Fransız moda ikonu
+- Aydınlı Grup Türkiye lisans sahibi
+
+#### 1.2 Marka Değerleri
+
+| Değer | Açıklama |
+|-------|----------|
+| **Innovation** | Modada yenilikçilik ve trend belirleme |
+| **Elegance** | Fransız şıklığının özü |
+| **Quality** | Premium malzeme ve işçilik |
+| **Sophistication** | Rafine ve sofistike tasarım |
+| **Versatility** | İş ve günlük hayat için çok yönlülük |
+
+#### 1.3 Marka Hikayesi Anlatımı (Müşteriye)
+
+```
+"Pierre Cardin, 1950'den beri Fransız modasının simgesi. Kurucumuz, 
+hazır giyimin öncüsü olarak moda tarihini değiştirdi. Bugün size sunduğumuz 
+her parça, Fransız şıklığını modern yaşamla buluşturuyor."
+```
+
+
+### BÖLÜM 3: ÜRÜN KATEGORİLERİ
+
+#### 3.1 Erkek Koleksiyonu - Business
+
+| Kategori | Alt Kategoriler | Anahtar Özellikler |
+|----------|-----------------|-------------------|
+| **Takım Elbise** | Slim, Regular, Classic | İş dünyası standartı |
+| **Blazer** | Single, Double Breasted | Akıllı günlük |
+| **Pantolon** | Klasik, Slim, Pleated | Profesyonel görünüm |
+| **Gömlek** | Business, Ceremony | Non-iron teknoloji |
+| **Kravat** | İpek, Mikro desen | Şık aksesuar |
+
+#### 3.2 Erkek Koleksiyonu - Casual Premium
+
+| Kategori | Alt Kategoriler | Anahtar Özellikler |
+|----------|-----------------|-------------------|
+| **Polo** | Premium Pique | Sofistike günlük |
+| **Gömlek** | Casual, Denim | Hafta sonu şıklığı |
+| **Triko** | V-neck, Crew, Cardigan | Katmanlı kombinler |
+| **Pantolon** | Chino, Denim Premium | Rahat elegans |
+| **Ceket** | Deri, Blazer, Parka | Dış giyim premium |
+
+#### 3.3 Kadın Koleksiyonu
+
+| Kategori | Alt Kategoriler | Anahtar Özellikler |
+|----------|-----------------|-------------------|
+| **Blazer** | Classic, Oversize | Ofis şıklığı |
+| **Pantolon** | Klasik, Wide Leg | Profesyonel kesim |
+| **Gömlek** | Saten, Poplin | Feminen detaylar |
+| **Elbise** | Business, Cocktail | Çok yönlü |
+| **Triko** | Fine Knit | Zarif katman |
+
+#### 3.4 Aksesuar
+
+| Kategori | Ürünler | Özellik |
+|----------|---------|---------|
+| **Kravat** | İpek, Mikro desen | El yapımı |
+| **Kemer** | Deri, Metal toka | Premium malzeme |
+| **Cüzdan** | Deri, Kartlık | İtalyan deri |
+| **Kol Düğmesi** | Metal, Taşlı | Detay şıklığı |
+
+#### 3.5 İkonik Ürünler
+
+**1. Business Takım Elbise**
+- Marka imzası
+- %100 yün, İtalyan kumaş
+- Modern slim fit
+- Tam astarlı
+
+**2. Non-iron Gömlek**
+- Ütüsüz teknoloji
+- %100 pamuk
+- Spread yaka
+- İş adamı favori
+
+**3. İpek Kravat**
+- %100 saf ipek
+- El dikimi
+- İtalyan tasarım
+- Zamansız desenler
+
+
+### BÖLÜM 5: SATIŞ TEKNİKLERİ
+
+#### 5.1 Danışmanlık Odaklı Satış
+
+**Yaklaşım Farkı:**
+```
+U.S. Polo = Ürün odaklı, hızlı
+Pierre Cardin = Danışmanlık odaklı, detaylı
+```
+
+**Açılış:**
+```
+Personel: "Hoş geldiniz Pierre Cardin'e. Bugün özel bir ihtiyacınız mı var, 
+yoksa koleksiyonumuza genel olarak mı bakmak istersiniz?"
+Müşteri: "Önemli bir toplantım var, şık bir şey lazım."
+Personel: "Anlıyorum. Toplantı nasıl bir ortamda? 
+Resmi mi, yarı resmi mi? Size en uygun kombinasyonu önerebilirim."
+```
+
+#### 5.2 Gardrop Danışmanlığı
+
+**Sorular:**
+```
+"Mevcut gardrobunuzda hangi temel parçalar var?"
+"Hangi renkleri daha çok tercih ediyorsunuz?"
+"Günlük mü yoksa özel gün mü düşünüyorsunuz?"
+"Beden konusunda tercihiniz – fitted mı, regular mı?"
+```
+
+#### 5.3 Kombin Satışı
+
+| Durum | Kombin Önerisi |
+|-------|----------------|
+| İş toplantısı | Takım + gömlek + kravat |
+| Günlük ofis | Blazer + pantolon + polo |
+| Akşam yemeği | Blazer + gömlek + chino |
+| Resmi davet | Koyu takım + beyaz gömlek + ipek kravat |
+
+#### 5.4 Premium Satış Teknikleri
+
+**Değer Anlatımı:**
+```
+Personel: "Bu takım elbisede kullanılan kumaş İtalya'dan, %100 yün. 
+Dikimi Türkiye'de, el işçiliği detaylarla. Yıllarca giyebilirsiniz, 
+bu nedenle yatırım parçası olarak düşünün."
+```
+
+**Fiyat İtirazı Yönetimi:**
+```
+Müşteri: "Biraz pahalı değil mi?"
+Personel: "Anlıyorum. Ancak bu parçanın ömür boyu değerini düşünün. 
+Kaliteli bir takım 10 yıl giyilir. Yıllık maliyeti hesaplarsanız, 
+aslında çok makul bir yatırım."
+```
+
+
+### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARI
+
+#### 7.1 Kumaş Türleri - Takım Elbise
+
+| Kumaş | Özellik | Kullanım |
+|-------|---------|----------|
+| **%100 Yün** | Premium, nefes alır | 4 mevsim business |
+| **Yün-Ipek** | Parlak finish, soft | Özel günler |
+| **Yün-Kaşmir** | Lüks, sıcak | Kış business |
+| **Stretch Yün** | Esnek, rahat | Modern business |
+| **Tropik Yün** | Hafif, serin | Yaz business |
+
+#### 7.2 Kumaş Türleri - Gömlek
+
+| Kumaş | Özellik | Kullanım |
+|-------|---------|----------|
+| **Poplin** | Düz, şık | Resmi |
+| **Twill** | Diyagonal doku | Business casual |
+| **Oxford** | Dokulu | Smart casual |
+| **Saten** | Parlak | Özel gün |
+| **Non-iron** | Ütüsüz | Günlük business |
+
+#### 7.3 Takım Elbise Fit Rehberi
+
+| Fit Tipi | Özellik | Kime Uygun |
+|----------|---------|------------|
+| **Slim Fit** | Dar kesim, modern | Genç profesyonel |
+| **Regular Fit** | Standart kesim | Genel kullanım |
+| **Classic Fit** | Rahat, geleneksel | Olgun müşteri |
+| **Athletic Fit** | Geniş omuz, dar bel | Atletik yapı |
+
+#### 7.4 Gömlek Yaka Türleri
+
+| Yaka | Özellik | Kullanım |
+|------|---------|----------|
+| **Spread** | Geniş açı | Kravat ile |
+| **Kent** | Orta açı | Her durum |
+| **Button-down** | Düğmeli | Casual |
+| **Cutaway** | Çok geniş | Kalın kravat |
+
+#### 7.5 Bakım Talimatları - Premium Ürünler
+
+| Ürün | Bakım | Saklama |
+|------|-------|---------|
+| Takım Elbise | Kuru temizleme | Elbise kılıfı, ahşap askı |
+| İpek Kravat | Kuru temizleme | Düz yatırarak |
+| Deri Kemer | Nemlendirici | Düz, buklet yok |
+| Non-iron Gömlek | 40°C yıkama | Askıda |
+
+
+### BÖLÜM 9: SIKÇA SORULAN SORULAR
+
+| Soru | Cevap |
+|------|-------|
+| "Pierre Cardin hâlâ tasarımcının kendisi mi yönetiyor?" | "Maalesef Pierre Cardin 2020'de aramızdan ayrıldı, ancak mirası ve tasarım felsefesi markamızda yaşamaya devam ediyor." |
+| "Takım elbise tadilat yapıyor musunuz?" | "Evet, mağazamızda profesyonel tadilat hizmeti sunuyoruz. Paça ve kol kısaltma belirli ürünlerde ücretsizdir." |
+| "İpek kravat yıkanır mı?" | "İpek kravat kuru temizlemeye verilmeli. Evde yıkamayı önermiyoruz, leke olursa profesyonel temizlik şart." |
+| "Takım elbise beden nasıl seçilir?" | "Ceket bedeni göğüs ölçünüze göre, pantolon bel ölçünüze göre belirlenir. Size profesyonel ölçü almamızı öneriyorum." |
+
+
+## Tools & Resources
+
+| Kaynak | Kullanım |
+|--------|----------|
+| Kumaş Swatch Kitabı | Müşteriye kumaş gösterimi |
+| Stil Rehberi | Business dress code bilgisi |
+| Beden Ölçüm Aracı | Profesyonel ölçüm |
+| Lookbook | Sezonluk stil önerileri |
+| Bakım Kartları | Müşteriye verilecek bilgi kartları |
+
+
+## Assessment Methods
+
+### Premium Satış Quiz'i
+- 20 soru
+- Kumaş bilgisi, fit, stil önerileri
+- Geçer not: %85
+
+### Stil Danışmanlığı Değerlendirmesi
+- Müşteri profili analizi
+- Kombin önerisi senaryosu
+- Gardrop danışmanlığı rol-play
+
+### Ürün Bilgisi Testi
+- Kumaş tanıma (dokunarak)
+- Fit tipi belirleme
+- Bakım talimatı bilgisi
+
+
+---
+
+## SECTION 6: BRAND-SUPPLEMENT-CACHAREL-TR
+
+﻿---
+layout: default
+title: "Cacharel Marka Eğitim Rehberi – TR"
+parent: Training
+
+## Training Content
+
+### BÖLÜM 1: MARKA HİKAYESİ
+
+#### 1.1 Tarihçe
+
+**Cacharel - Fransız Erkek Moda İkonu**
+- **Kuruluş:** 1962, Jean Bousquet tarafından Paris'te
+- **İlk Koleksiyon:** Erkek gömlekleri ve hazır giyim
+- **Parfüm:** 1978 - Anaïs Anaïs (marka bilinirliği için önemli)
+- **Günümüz:** Fransız erkek modası - business ve casual premium
+- **Aydınlı Grup:** Türkiye lisans sahibi
+
+**Önemli Noktalar:**
+- 60+ yıllık Fransız moda mirası
+- Erkek giyimde Fransız şıklığının temsilcisi
+- Business ve casual arasında denge
+- Modern klasik erkek modası
+- Türkiye'de erkek giyim markası olarak konumlandırılmış
+
+#### 1.2 Marka Değerleri
+
+| Değer | Açıklama |
+|-------|----------|
+| **Elegance** | Fransız erkek şıklığı |
+| **Versatility** | İş ve günlük hayat için çok yönlülük |
+| **Quality** | Premium kalite ve işçilik |
+| **Sophistication** | Rafine ve sofistike tasarım |
+| **Modern Classic** | Modern klasik erkek modası |
+
+#### 1.3 Marka Hikayesi Anlatımı (Müşteriye)
+
+```
+"Cacharel, 1962'den beri Fransız erkek modasının öncüsü. 
+Paris'ten gelen şıklık ve sofistikasyonu erkek giyimine taşıyor. 
+Hem iş dünyasında hem günlük hayatta şık görünmek isteyen 
+modern erkeğin tercihi."
+```
+
+
+### BÖLÜM 3: ÜRÜN KATEGORİLERİ
+
+#### 3.1 Erkek Koleksiyonu - Business
+
+| Kategori | Alt Kategoriler | Anahtar Özellikler |
+|----------|-----------------|-------------------|
+| **Takım Elbise** | Slim, Regular | İş dünyası şıklığı |
+| **Blazer** | Single Breasted | Smart casual temel |
+| **Pantolon** | Klasik, Slim | Profesyonel görünüm |
+| **Gömlek** | Business, Non-iron | Ofis standartı |
+| **Kravat** | İpek, Klasik desen | Şık aksesuar |
+
+#### 3.2 Erkek Koleksiyonu - Casual Premium
+
+| Kategori | Alt Kategoriler | Anahtar Özellikler |
+|----------|-----------------|-------------------|
+| **Polo** | Premium Pique | Sofistike günlük |
+| **T-shirt** | Basic, Premium | Rahat şıklık |
+| **Gömlek** | Casual, Denim | Hafta sonu şıklığı |
+| **Triko** | V-neck, Crew, Cardigan | Katmanlı kombinler |
+| **Pantolon** | Chino, Denim Premium | Rahat elegans |
+| **Ceket** | Bomber, Denim, Parka | Dış giyim premium |
+
+#### 3.3 Aksesuar
+
+| Kategori | Ürünler | Özellik |
+|----------|---------|---------|
+| **Kravat** | İpek, Klasik | Şık detay |
+| **Kemer** | Deri, Metal toka | Premium malzeme |
+| **Cüzdan** | Deri, Kartlık | İtalyan deri |
+| **Çorap** | Premium pamuk | Detay şıklığı |
+
+#### 3.4 İkonik Ürünler
+
+**1. Business Takım Elbise**
+- Fransız şıklığı
+- Slim fit modern kesim
+- Premium kumaş
+- İş dünyası standartı
+
+**2. Premium Polo T-shirt**
+- Sofistike günlük
+- Premium pique kumaş
+- Şık kesim
+- Business casual temel
+
+**3. Non-iron Gömlek**
+- Ütüsüz teknoloji
+- %100 pamuk
+- Fransız kesim
+- Günlük kullanım
+
+
+### BÖLÜM 5: SATIŞ TEKNİKLERİ
+
+#### 5.1 Profesyonel Satış Yaklaşımı
+
+**Fark:**
+```
+U.S. Polo = Casual, ürün odaklı
+Pierre Cardin = Business, danışmanlık odaklı
+Cacharel = Çift yönlü, stil danışmanlığı
+```
+
+**Açılış:**
+```
+Personel: "Hoş geldiniz Cacharel'e! Bugün iş için mi yoksa günlük kullanım için mi bakıyorsunuz?"
+Müşteri: "İkisi de olabilir, şık bir şeyler lazım."
+Personel: "Anladım! Cacharel tam size göre – hem iş hem günlük hayat için 
+Fransız şıklığı sunuyoruz. Hangi durumlar için düşünüyorsunuz?"
+```
+
+#### 5.2 Stil Danışmanlığı
+
+**Sorular:**
+```
+"İş ortamınız nasıl – resmi mi, yarı resmi mi?"
+"Hafta sonları nasıl giyinmeyi seversiniz?"
+"Mevcut gardrobunuzda hangi temel parçalar var?"
+"Renk tercihiniz nedir – klasik mi, modern mi?"
+```
+
+#### 5.3 Kombin Önerileri
+
+| Durum | Kombin |
+|-------|--------|
+| İş toplantısı | Takım elbise + gömlek + kravat |
+| Günlük ofis | Blazer + chino + polo |
+| Hafta sonu | Premium polo + chino + sneaker |
+| Akşam yemeği | Blazer + gömlek + chino |
+| Smart casual | Premium t-shirt + chino + blazer |
+
+#### 5.4 Cross-sell ve Upsell
+
+**Cross-sell:**
+```
+Personel: "Bu blazer çok şık. Altına chino pantolon önerebilirim, 
+tam Fransız smart casual kombin oluşturur."
+```
+
+**Upsell:**
+```
+Personel: "Bu takım elbise güzel, ancak premium serimizi de göstermek isterim. 
+Kumaş kalitesi daha üst seviye, yıllarca giyilebilir."
+```
+
+
+### BÖLÜM 7: ÜRÜN BİLGİSİ DETAYLARI
+
+#### 7.1 Kumaş Türleri
+
+| Kumaş | Özellik | Kullanım |
+|-------|---------|----------|
+| **Yün** | Premium, nefes alır | Takım elbise |
+| **Pique Pamuk** | Dokulu, dayanıklı | Polo t-shirt |
+| **Poplin** | Düz, şık | Gömlek |
+| **Twill** | Diyagonal doku | Chino |
+| **Denim Premium** | Kaliteli, uzun ömürlü | Jean, ceket |
+| **French Terry** | Yumuşak, rahat | Sweatshirt |
+
+#### 7.2 Fit Rehberi
+
+| Fit Tipi | Özellik | Kime Uygun |
+|----------|---------|------------|
+| **Slim Fit** | Dar kesim, modern | Genç profesyonel |
+| **Regular Fit** | Standart kesim | Genel kullanım |
+| **Classic Fit** | Rahat, geleneksel | Olgun müşteri |
+
+#### 7.3 Beden Tablosu
+
+| Beden | Göğüs (cm) | Bel (cm) |
+|-------|------------|----------|
+| XS | 88-92 | 72-76 |
+| S | 92-96 | 76-80 |
+| M | 96-100 | 80-84 |
+| L | 100-104 | 84-88 |
+| XL | 104-108 | 88-92 |
+| XXL | 108-112 | 92-96 |
+
+#### 7.4 Bakım Talimatları
+
+| Ürün | Yıkama | Kurutma | Ütü |
+|------|--------|---------|-----|
+| Takım Elbise | Kuru temizleme | - | - |
+| Polo | 30°C | Serin asarak | Düşük |
+| Gömlek | 40°C | Serin asarak | Orta |
+| Chino | 30°C | Serin asarak | Düşük |
+| Denim | 30°C ters | Serin asarak | Buharla |
+
+
+### BÖLÜM 9: SIKÇA SORULAN SORULAR
+
+| Soru | Cevap |
+|------|-------|
+| "Cacharel sadece iş kıyafetleri mi?" | "Hayır, hem business hem casual premium koleksiyonumuz var. İş dünyasından hafta sonuna kadar şık görünmenizi sağlıyoruz." |
+| "Pierre Cardin ile farkı nedir?" | "Cacharel daha çok casual premium'a odaklanırken, Pierre Cardin daha business odaklı. İkisi de Fransız şıklığı ama farklı segmentler." |
+| "Takım elbise tadilat yapıyor musunuz?" | "Evet, mağazamızda profesyonel tadilat hizmeti sunuyoruz. Belirli ürünlerde paça ve kol kısaltma ücretsizdir." |
+| "Fransız kesim ne demek?" | "Fransız kesim, daha dar ve vücuda oturan, modern bir kesimdir. Klasik kesimden daha şık ve güncel görünür." |
+
+
+## Tools & Resources
+
+| Kaynak | Kullanım |
+|--------|----------|
+| Kumaş Swatch Kitabı | Müşteriye kumaş gösterimi |
+| Stil Rehberi | Business ve casual kombin önerileri |
+| Beden Ölçüm Aracı | Profesyonel ölçüm |
+| Lookbook | Sezonluk stil önerileri |
+| Bakım Kartları | Müşteriye verilecek bilgi kartları |
+
+
+## Assessment Methods
+
+### Marka Bilgisi Quiz'i
+- 20 soru
+- Marka hikayesi, değerler, ürün bilgisi
+- Geçer not: %80
+
+### Stil Danışmanlığı Değerlendirmesi
+- Müşteri profili analizi
+- Kombin önerisi senaryosu
+- Business/Casual yönlendirme
+
+### Ürün Bilgisi Testi
+- Kumaş tanıma
+- Fit tipi belirleme
+- Bakım talimatı bilgisi
+
+
+---
+
+## SECTION 7: CUSTOMER-INTERACTION-SCENARIOS-TR
 
 ﻿---
 layout: default

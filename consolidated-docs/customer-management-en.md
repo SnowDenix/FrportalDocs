@@ -17,224 +17,171 @@ nav_order: 1
 
 ## Document Overview
 
-This comprehensive CRM documentation covers all aspects of customer relationship management for Aydınlı Group franchise stores. The document is organized into 10 major sections:
+This comprehensive CRM documentation covers all aspects of customer relationship management for Aydınlı Group franchise stores. The document is organized into 10 major sections following a logical hierarchy from overview to procedures:
 
-**Section 1: CRM Customer Data Policy** - Establishes GDPR-compliant data protection policies, defining how customer information should be collected, stored, and managed. Covers legal requirements, consent management, data retention periods, and customer rights including erasure requests.
+**Section 1: CRM Overview** - Presents the system architecture, integration points, and overall CRM vision. Defines core terminology, communication permission types, and data flow between POS systems and central CRM platform.
 
 **Section 2: Customer Segmentation** - Explains RFM (Recency, Frequency, Monetary) segmentation methodology and customer lifecycle stages. Provides strategies for targeting different customer segments from new customers to VIP members, including at-risk and lost customer win-back approaches.
 
-**Section 3: Dashboard and KPI Guide** - Details all CRM key performance indicators including loyalty penetration, customer match rate, average transaction value, and customer lifetime value. Includes formulas, targets, and dashboard usage instructions for tracking store performance.
+**Section 3: Loyalty Program and Campaigns** - Explains the points system structure, earning and redemption rules, coupon management, and campaign execution. Details membership tiers, points validity periods, and various campaign types for customer engagement.
 
-**Section 4: Data Quality Management** - Sets standards for maintaining high-quality customer data with validation rules for phone numbers, emails, names, and dates. Covers correction processes, duplicate management, and data quality KPIs.
+**Section 4: Dashboard and KPI Guide** - Details all CRM key performance indicators including loyalty penetration, customer match rate, average transaction value, and customer lifetime value. Includes formulas, targets, and dashboard usage instructions for tracking store performance.
 
-**Section 5: Do's and Don'ts** - Provides clear guidelines on permitted and prohibited CRM practices covering registration, data security, customer communication, loyalty operations, and system usage. Includes violation consequences and compliance requirements.
+**Section 5: CRM Customer Data Policy** - Establishes GDPR-compliant data protection policies, defining how customer information should be collected, stored, and managed. Covers legal requirements, consent management, data retention periods, and customer rights including erasure requests.
 
-**Section 6: Loyalty Program and Campaigns** - Explains the points system structure, earning and redemption rules, coupon management, and campaign execution. Details membership tiers, points validity periods, and various campaign types for customer engagement.
+**Section 6: Data Quality Management** - Sets standards for maintaining high-quality customer data with validation rules for phone numbers, emails, names, and dates. Covers correction processes, duplicate management, and data quality KPIs.
 
-**Section 7: CRM Overview** - Presents the system architecture, integration points, and overall CRM vision. Defines core terminology, communication permission types, and data flow between POS systems and central CRM platform.
+**Section 7: Do's and Don'ts** - Provides clear guidelines on permitted and prohibited CRM practices covering registration, data security, customer communication, loyalty operations, and system usage. Includes violation consequences and compliance requirements.
 
-**Section 8: Store CRM Checklist** - Offers daily, weekly, and monthly checklists for store staff and managers. Provides systematic task lists for sales processes, customer registration, and ticket management to ensure compliance and consistency.
+**Section 8: Store User Guide** - Step-by-step operational instructions for using the CRM system including login, customer search, new registration, information updates, coupon application, and points operations. Designed for sales associates and cashiers.
 
-**Section 9: Store User Guide** - Step-by-step operational instructions for using the CRM system including login, customer search, new registration, information updates, coupon application, and points operations. Designed for sales associates and cashiers.
+**Section 9: Store CRM Checklist** - Offers daily, weekly, and monthly checklists for store staff and managers. Provides systematic task lists for sales processes, customer registration, and ticket management to ensure compliance and consistency.
 
 **Section 10: Ticketing Process** - Describes the complete customer complaint and ticketing workflow including categorization, priority levels, SLA times, escalation procedures, and resolution tracking. Includes ticket performance KPIs and response time requirements.
 
 ---
 
-## SECTION 1: CRM-CUSTOMER-DATA-POLICY-EN
+## SECTION 1: CRM-OVERVIEW-EN
 
 ﻿---
 layout: default
-title: "CRM Customer Data Policy (GDPR Compliant)"
+title: "CRM Overview"
 parent: CRM
+permalink: /crm/crm-overview-en/
 
 ## Table of Contents
 
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Definitions](#definitions)
-4. [Legal Basis](#legal-basis)
+1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
+2. [Purpose](#purpose)
+3. [Scope](#scope)
+4. [Definitions](#definitions)
 5. [Responsibilities](#responsibilities)
-6. [Data Collection Principles](#data-collection-principles)
-7. [Consent Management](#consent-management)
-8. [Data Retention and Disposal](#data-retention-and-disposal)
-9. [Customer Rights](#customer-rights)
-10. [Process Steps](#process-steps)
-11. [Common Issues & Solutions](#common-issues--solutions)
-12. [Store Tips](#store-tips)
-13. [Revision History](#revision-history)
+6. [CRM System Architecture](#crm-system-architecture)
+7. [Data Flow](#data-flow)
+8. [Common Issues & Solutions](#common-issues--solutions)
+9. [Store Tips](#store-tips)
+10. [Revision History](#revision-history)
 
 
-## Scope
+## Purpose
 
-### Who Does This Policy Cover?
+This document defines the overall structure, objectives, and operation of the CRM (Customer Relationship Management) system for U.S. Polo Assn., Pierre Cardin, and Cacharel franchise stores under the Aydınlı Group umbrella.
 
-| Role | Responsibility |
-|------|----------------|
-| All Store Staff | Comply with data collection and processing rules |
-| Store Manager | Monitor policy compliance |
-| Regional Manager | Ensure regional compliance |
-| CRM Headquarters | Data management and security |
-| Data Protection Officer (DPO) | GDPR compliance oversight |
+### CRM Vision
 
-### Covered Data
+- Deliver a customer-centric retail experience
+- Manage customer data securely and efficiently
+- Optimize sales and marketing strategies based on customer behavior
+- Ensure consistent customer experience across the franchise network
 
-| Data Category | Examples | Sensitivity |
-|---------------|----------|-------------|
-| **Identity Data** | Name, surname, national ID | High |
-| **Contact Data** | Phone, email, address | Medium |
-| **Purchase Data** | Sales history, preferences | Low |
-| **Financial Data** | Payment method (masked) | High |
-| **Demographic Data** | Date of birth, gender | Medium |
-| **Communication Preferences** | SMS/Email permissions | Low |
+### CRM Objectives
 
-
-## Legal Basis
-
-### Relevant Legislation
-
-| Legislation | Subject |
-|-------------|---------|
-| GDPR | General Data Protection Regulation (EU) |
-| Local Data Protection Laws | Country-specific regulations |
-| E-Commerce Regulations | Electronic communications |
-| Consumer Protection Laws | Customer rights |
-
-### Core Principles (GDPR Art. 5)
-
-1. **Lawfulness, fairness, and transparency**
-2. **Purpose limitation**
-3. **Data minimization**
-4. **Accuracy**
-5. **Storage limitation**
-6. **Integrity and confidentiality**
-7. **Accountability**
-
-
-## Data Collection Principles
-
-### Data That May Be Collected
-
-| Data | Purpose | Requirement |
-|------|---------|-------------|
-| First Name, Last Name | Customer identification | Required |
-| Mobile Phone | Communication, verification | Required |
-| Email | Communication, digital services | Recommended |
-| Date of Birth | Birthday campaigns | Optional |
-| Gender | Personalized service | Optional |
-| Address | Delivery services | Optional |
-
-### Data That Must NOT Be Collected
-
-The following data **must never be collected**:
-
-| Data Type | Description |
+| Objective | Description |
 |-----------|-------------|
-| Health information | Illness, medication use, etc. |
-| Religious belief | Religion, denomination |
-| Political opinion | Party membership, etc. |
-| Race/Ethnicity | Ethnic origin |
-| Biometric data | Fingerprint, facial recognition |
-| Criminal conviction | Criminal record |
-| Sexual life | Sexual preference |
-
-> ⚠️ **WARNING:** Asking for, recording, or processing this data is prohibited and subject to severe penalties.
-
-### Data Collection Rules
-
-1. **Collect only necessary data:** Don't collect data beyond purpose
-2. **Provide information:** Explain why data is collected
-3. **Obtain consent:** Document explicit consent
-4. **Verify:** Confirm accuracy of entered data
-5. **Keep secure:** Protect data from unauthorized access
+| Customer Recognition | Uniquely identify each customer and track their purchase history |
+| Personalization | Provide customized communications and offers based on customer preferences |
+| Loyalty Enhancement | Strengthen customer loyalty through the loyalty program |
+| Data Quality | Maintain clean, accurate, and up-to-date customer data |
+| Compliance | Ensure full compliance with GDPR and data protection regulations |
 
 
-## Data Retention and Disposal
+## Definitions
 
-### Retention Periods
+### Core CRM Terms
 
-| Data Category | Retention Period | Basis |
-|---------------|------------------|-------|
-| Customer identity data | Customer relationship + 10 years | Commercial law |
-| Purchase history | 10 years | Tax regulations |
-| Communication consents | Consent withdrawal + 10 years | GDPR |
-| Complaint records | Resolution + 10 years | Commercial law |
-| Loyalty transactions | Last transaction + 5 years | Internal policy |
+| Term | Definition |
+|------|------------|
+| **CRM** | Customer Relationship Management - A system for collecting, analyzing customer data, and managing customer relationships. |
+| **Customer Profile** | The complete set of demographic information, communication preferences, and purchase history belonging to a customer. |
+| **Loyalty Program** | A points/coupon-based reward system designed to increase customer loyalty. |
+| **Opt-in** | Customer's consent to receive marketing communications. Requires explicit consent under GDPR. |
+| **Opt-out** | Customer's request to unsubscribe from marketing communications. |
+| **Ticket** | A work unit where customer complaints, requests, or feedback are recorded in the system. |
+| **RFM Segment** | Customer segment created based on Recency, Frequency, Monetary analysis. |
+| **GDPR** | General Data Protection Regulation - European Union data protection law. |
+| **Duplicate** | Multiple records belonging to the same customer. |
+| **Merge** | The process of combining duplicate customer records into a single profile. |
+| **POS** | Point of Sale - Sales terminal. |
+| **Customer 360** | A screen presenting all customer interactions in a single view. |
 
-### Disposal Methods
+### Communication Permission Types
 
-| Method | Description | Application Area |
-|--------|-------------|------------------|
-| **Deletion** | Irretrievable deletion of data | Digital records |
-| **Destruction** | Physical destruction (shredding, burning) | Printed documents |
-| **Anonymization** | Making data non-identifiable | Analytics purposes |
-
-### Periodic Disposal
-
-- **Frequency:** Every 6 months
-- **Responsible:** CRM Headquarters
-- **Reporting:** Disposal report prepared
-
-
-## Process Steps
-
-### 1. Data Collection at New Customer Registration
-
-**Step 1:** Present privacy notice to customer
-
-**Step 2:** Confirm text has been read/understood
-
-**Step 3:** Obtain data processing consent (required)
-
-**Step 4:** Ask about marketing communication consents (optional)
-
-**Step 5:** Record consents in CRM
-
-**Step 6:** If physical form, have signed and archive
-
-**Step 7:** Inform the customer
-
-> ✅ **Correct:** "Dear customer, we need your consent to process your information to serve you better. This data will be protected under GDPR and used only to provide service. You can also opt-in to receive campaign updates."
-
-> ❌ **Wrong:** "Sign here" (without explanation)
+| Permission Type | Description | Default |
+|-----------------|-------------|---------|
+| SMS Permission | Marketing messages via SMS | Disabled |
+| Email Permission | Marketing communications via email | Disabled |
+| Call Permission | Marketing calls via phone | Disabled |
+| Data Processing Permission | Processing of personal data (mandatory) | Required |
 
 
-### 3. Erasure/Right to be Forgotten Request
+## CRM System Architecture
 
-**Step 1:** Receive written application from customer
+### System Components
 
-**Step 2:** Open ticket (Category: GDPR Request)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                      CRM CENTRAL SYSTEM                         │
+├─────────────────────────────────────────────────────────────────┤
+│  ┌───────────┐  ┌───────────┐  ┌───────────┐  ┌───────────┐    │
+│  │ Customer  │  │ Campaign  │  │ Loyalty   │  │ Ticketing │    │
+│  │ Database  │  │  Engine   │  │  Module   │  │  System   │    │
+│  └─────┬─────┘  └─────┬─────┘  └─────┬─────┘  └─────┬─────┘    │
+│        │              │              │              │           │
+│        └──────────────┴──────────────┴──────────────┘           │
+│                              │                                   │
+│                    ┌─────────┴─────────┐                        │
+│                    │   API Gateway     │                        │
+│                    └─────────┬─────────┘                        │
+└──────────────────────────────┼──────────────────────────────────┘
+                               │
+            ┌──────────────────┼──────────────────┐
+            │                  │                  │
+     ┌──────┴──────┐   ┌──────┴──────┐   ┌──────┴──────┐
+     │   POS #1    │   │   POS #2    │   │   POS #N    │
+     │   (Store)   │   │   (Store)   │   │   (Store)   │
+     └─────────────┘   └─────────────┘   └─────────────┘
+```
 
-**Step 3:** Verify customer identity
+### Integration Points
 
-**Step 4:** Forward to CRM Headquarters
-
-**Step 5:** Check legal retention obligations
-
-**Step 6:** Delete data that can be deleted
-
-**Step 7:** Provide written response within 30 days
-
-> ⚠️ **Note:** Some data cannot be deleted due to legal obligations (e.g., invoice data must be kept for 10 years).
+| System | Integration Type | Data Flow |
+|--------|------------------|-----------|
+| POS System | Bidirectional | Sales → CRM, Coupon → POS |
+| E-commerce | Bidirectional | Online sales → CRM |
+| SMS Gateway | Unidirectional | CRM → SMS |
+| Email Service | Unidirectional | CRM → Email |
+| Inventory Management | Unidirectional | Stock → CRM (product info) |
 
 
-### Issue 2: Customer Wants to Query Their Data
+### Issue 2: Duplicate Customer Record
+
+**Symptom:** Multiple profiles exist for the same customer.
+
+**Possible Causes:**
+- Registered with different phone numbers
+- Email registration vs phone registration
+- Manual entry errors
 
 **Solution:**
-1. Verify customer identity
-2. Extract customer data from CRM
-3. Deliver to customer in writing
-4. Get delivery acknowledgment
+1. Submit duplicate merge request to CRM Headquarters
+2. Note the customer's correct information
+3. Record new sales to the most recent profile
 
 
-### Issue 4: Suspected Data Breach
+### Issue 4: Coupon Not Working
+
+**Symptom:** Customer's coupon shows "not valid" error at POS.
+
+**Possible Causes:**
+- Coupon has expired
+- Minimum cart value not met
+- Coupon already used
+- Product category outside coupon scope
 
 **Solution:**
-1. Don't panic but act quickly
-2. Block unauthorized access
-3. Inform store manager
-4. Call CRM Headquarters
-5. Don't delete/change anything (evidence)
+1. Check coupon details in CRM
+2. Explain conditions to customer
+3. Suggest alternative campaign if available
 
 
 ## Revision History
@@ -435,688 +382,7 @@ parent: CRM
 
 ---
 
-## SECTION 3: CRM-DASHBOARD-KPI-EN
-
-﻿---
-layout: default
-title: "CRM Dashboard and KPI Guide"
-parent: CRM
-
-## Table of Contents
-
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Definitions](#definitions)
-4. [Responsibilities](#responsibilities)
-5. [CRM KPIs](#crm-kpis)
-6. [Dashboard Usage](#dashboard-usage)
-7. [Reporting Periods](#reporting-periods)
-8. [Common Issues & Solutions](#common-issues--solutions)
-9. [Store Tips](#store-tips)
-10. [Revision History](#revision-history)
-
-
-## Scope
-
-### Who Does This Document Cover?
-
-| Role | Purpose of Use |
-|------|----------------|
-| Store Manager | Daily performance tracking |
-| Regional Manager | Regional performance analysis |
-| CRM Headquarters | Global performance and trend analysis |
-| Franchise Owner | Business results tracking |
-
-### Dashboard Types
-
-| Dashboard | User | Content |
-|-----------|------|---------|
-| Store Dashboard | Store Manager | Store KPIs |
-| Regional Dashboard | Regional Manager | Regional summary |
-| Global Dashboard | CRM Headquarters | All stores |
-| Executive Dashboard | Senior Management | Summary metrics |
-
-
-## Responsibilities
-
-### Store Manager
-
-| Task | Frequency |
-|------|-----------|
-| Daily KPI check | Every day |
-| Weekly performance review | Every Monday |
-| Low performance action plan | Immediately |
-| Share KPIs with team | Daily |
-
-### Regional Manager
-
-| Task | Frequency |
-|------|-----------|
-| Regional performance analysis | Weekly |
-| Store comparison | Weekly |
-| Best practice sharing | Continuous |
-| Reporting to headquarters | Monthly |
-
-
-#### Customer Match Rate
-
-**Definition:** Sales matched to registered CRM customers
-
-**Formula:**
-```
-Customer Match Rate % = (Matched Sales / Total Sales) × 100
-```
-
-**Target:** 75% and above
-
-
-#### New Customer Acquisition
-
-**Definition:** Number of new customers acquired during the period
-
-**Formula:**
-```
-New Customer Rate % = (New Customers / Total Customers with Sales) × 100
-```
-
-**Target:** 20-30% range (varies by sector and location)
-
-
-### 3. Customer Value KPIs
-
-#### Average Transaction Value (ATV)
-
-**Definition:** Average basket value
-
-**Formula:**
-```
-ATV = Total Sales Amount / Total Transaction Count
-```
-
-**Example Calculation:**
-- Total sales: 500,000
-- Total transactions: 1,000
-- ATV = 500,000 / 1,000 = **500**
-
-
-#### Customer Lifetime Value (CLV)
-
-**Definition:** Estimated lifetime revenue from a customer
-
-**Formula:**
-```
-CLV = Average Order Value × Annual Purchase Frequency × Customer Lifespan (years)
-```
-
-**Example Calculation:**
-- Average order: 500
-- Annual frequency: 4 times
-- Customer lifespan: 5 years
-- CLV = 500 × 4 × 5 = **10,000**
-
-
-#### Coupon Redemption Rate
-
-**Definition:** Rate of distributed coupons being used
-
-**Formula:**
-```
-Coupon Redemption % = (Coupons Used / Coupons Distributed) × 100
-```
-
-**Target:** 15-25% range
-
-
-### 5. Campaign KPIs
-
-#### Campaign Response Rate
-
-**Definition:** Campaign target audience participation rate
-
-**Formula:**
-```
-Response Rate % = (Campaign Participants / Target Audience) × 100
-```
-
-**Target:** 10-20% range
-
-
-### 6. Customer Acquisition KPIs
-
-#### Customer Acquisition Cost (CAC)
-
-**Definition:** Cost to acquire a new customer
-
-**Formula:**
-```
-CAC = Total Marketing Expense / Number of New Customers Acquired
-```
-
-**Example Calculation:**
-- Marketing expense: 50,000
-- New customers: 500
-- CAC = 50,000 / 500 = **100/customer**
-
-**Target:** Around 10-20% of CLV
-
-
-#### First Contact Resolution (FCR)
-
-**Definition:** Rate of tickets resolved on first contact
-
-**Formula:**
-```
-FCR % = (Resolved on First Contact / Total Tickets) × 100
-```
-
-**Target:** 60% and above
-
-
-## Dashboard Usage
-
-### Main Dashboard Components
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    CRM STORE DASHBOARD                           │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐             │
-│  │  LOYALTY    │  │   ACTIVE    │  │    ATV      │             │
-│  │  PENETR.    │  │  CUSTOMERS  │  │             │             │
-│  │    72%      │  │   12,450    │  │   485       │             │
-│  │   🟢 +2%    │  │   🟡 -1%    │  │   🟢 +5%    │             │
-│  └─────────────┘  └─────────────┘  └─────────────┘             │
-│                                                                 │
-│  ┌─────────────────────────────────────────────────────────┐   │
-│  │  Weekly Trend Graph                                     │   │
-│  │  ▄▄▄▅▅▅▆▆▇▇█                                            │   │
-│  └─────────────────────────────────────────────────────────┘   │
-│                                                                 │
-│  ┌─────────────────────────────────────────────────────────┐   │
-│  │  Open Tickets: 3    |    Pending Coupons: 45            │   │
-│  └─────────────────────────────────────────────────────────┘   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Dashboard Filters
-
-| Filter | Options |
-|--------|---------|
-| Period | Today, This Week, This Month, This Year, Custom Date |
-| Brand | U.S. Polo Assn., Pierre Cardin, Cacharel, All |
-| Store | Single store, Region, All stores |
-| Segment | All customers, RFM segments |
-
-### Dashboard Reading Guide
-
-**Card Structure:**
-- **Title:** KPI name
-- **Main Value:** Current performance
-- **Color:** Performance status
-- **Change:** Difference from previous period
-
-**Trend Reading:**
-- ↑ Up arrow: Improvement
-- ↓ Down arrow: Decline
-- → Horizontal arrow: Stable
-
-
-### Issue 2: Low Loyalty Penetration
-
-**Situation:** Penetration rate below target.
-
-**Possible Causes:**
-- Staff not matching customers
-- Insufficient new registration incentive
-- System usage difficulty
-
-**Solution:**
-1. Set daily penetration target
-2. Explain importance of matching to staff
-3. Ensure customer query at every sale
-
-
-## Store Tips
-
-### Daily KPI Tracking
-
-1. **Morning:** Check dashboard, know your daily target
-2. **During day:** Monitor penetration rate
-3. **Evening:** Evaluate the day, plan for next day
-
-### KPI Improvement Tactics
-
-| KPI | Improvement Tactic |
-|-----|-------------------|
-| Penetration | Ask "Are you a member?" at every sale |
-| UPT | Suggest complementary products |
-| ATV | Suggest premium segment products |
-| Enrollment | Highlight benefits |
-| Redemption | Remind points balance |
-
-### Team Motivation
-
-- Share daily targets with team
-- Celebrate good performance
-- Provide support for low performance
-- Conduct weekly performance reviews
-
-
-*This document was prepared by Aydınlı Group.*  
-*© 2025 Aydınlı Group - All rights reserved.*
-
-
-
-
----
-
-## SECTION 4: CRM-DATA-QUALITY-EN
-
-﻿---
-layout: default
-title: "CRM Data Quality Management"
-parent: CRM
-
-## Table of Contents
-
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [Definitions](#definitions)
-4. [Responsibilities](#responsibilities)
-5. [Data Quality Principles](#data-quality-principles)
-6. [Data Validation Rules](#data-validation-rules)
-7. [Common Data Errors](#common-data-errors)
-8. [Correction Processes](#correction-processes)
-9. [Duplicate Management](#duplicate-management)
-10. [KPIs](#kpis)
-11. [Common Issues & Solutions](#common-issues--solutions)
-12. [Store Tips](#store-tips)
-13. [Revision History](#revision-history)
-
-
-## Scope
-
-### Who Does This Document Cover?
-
-| Role | Responsibility |
-|------|----------------|
-| Store Staff | Enter data correctly |
-| Store Manager | Monitor data quality |
-| Regional Manager | Track regional data quality |
-| CRM Headquarters | Data cleansing and standardization |
-| IT Team | System validation rules |
-
-### Covered Data
-
-| Data Field | Criticality | Validation Level |
-|------------|-------------|------------------|
-| Mobile Phone | High | Automatic + Manual |
-| Email | High | Automatic |
-| First/Last Name | High | Manual |
-| Date of Birth | Medium | Automatic |
-| Address | Low | Manual |
-| Gender | Low | Manual |
-
-
-## Responsibilities
-
-### Store Staff
-
-| Task | Detail | Frequency |
-|------|--------|-----------|
-| Correct entry | Enter customer information correctly | Every transaction |
-| Verification | Confirm entered data with customer | Every transaction |
-| Update | Update changed information | On request |
-| Reporting | Report incorrect data | Upon detection |
-
-### Store Manager
-
-| Task | Detail | Frequency |
-|------|--------|-----------|
-| Audit | Check data entries | Weekly |
-| Training | Train staff on data quality | Continuous |
-| Correction | Correct detected errors | Immediately |
-| Reporting | Monitor data quality KPIs | Monthly |
-
-### CRM Headquarters
-
-| Task | Detail | Frequency |
-|------|--------|-----------|
-| Bulk cleansing | Systematic data cleaning | Monthly |
-| Duplicate management | Merge duplicate records | Continuous |
-| Rule update | Update validation rules | As needed |
-| Analysis | Analyze data quality trends | Monthly |
-
-
-## Data Validation Rules
-
-### Phone Number
-
-| Rule | Valid | Invalid |
-|------|-------|---------|
-| Format | 5XX XXX XXXX | 0532 123 4567 |
-| Length | 10 digits | 9 or 11 digits |
-| Start | Must start with 5 | Must not start with 0 |
-| Uniqueness | Must be unique | Must not be in another customer |
-
-**System Validation:**
-```
-✓ 5321234567 → Valid
-✗ 05321234567 → Invalid (11 digits)
-✗ 4321234567 → Invalid (doesn't start with 5)
-✗ 532123456 → Invalid (9 digits)
-```
-
-### Email Address
-
-| Rule | Valid | Invalid |
-|------|-------|---------|
-| Format | user@domain.com | user@domain |
-| @ symbol | Required | Cannot be missing |
-| Domain | Valid domain | test, asdf |
-| Uniqueness | Must be unique | Must not be in another customer |
-
-**Common Email Errors:**
-
-| Error | Example | Possible Correct |
-|-------|---------|------------------|
-| Special characters | john.smïth@email.com | john.smith@email.com |
-| Space | john smith@email.com | john.smith@email.com |
-| Missing domain | john@gmail | john@gmail.com |
-| Wrong domain | john@gmial.com | john@gmail.com |
-
-### First/Last Name
-
-| Rule | Correct | Wrong |
-|------|---------|-------|
-| Capitalization | John Smith | john smith |
-| Full name | John | J. |
-| No special chars | John Smith | John Smith!!! |
-| No numbers | John Smith | John123 |
-
-**Standard Format:**
-- First name: First letter uppercase, rest lowercase
-- Last name: First letter uppercase, rest lowercase
-- Multiple names: Each word's first letter uppercase
-
-### Date of Birth
-
-| Rule | Valid | Invalid |
-|------|-------|---------|
-| Format | DD/MM/YYYY | YYYY-MM-DD |
-| Age | Between 16-100 | 5 years or 120 years |
-| Future date | Not allowed | Future date |
-| Logical | Realistic | 01/01/1900 |
-
-
-## Correction Processes
-
-### 1. Store Level Correction
-
-**If customer requests:**
-
-**Step 1:** Verify customer identity
-
-**Step 2:** Find customer in CRM
-
-**Step 3:** Click "Edit" button
-
-**Step 4:** Correct the erroneous field
-
-**Step 5:** Save the change
-
-**Step 6:** Inform the customer
-
-### 2. Bulk Correction (CRM Headquarters)
-
-Bulk correction can be done for certain patterns:
-
-| Pattern | Correction |
-|---------|------------|
-| 05XXXXXXXXX | Remove leading 0 |
-| email@gmial.com | Correct to @gmail.com |
-| JOHN SMITH | Format to John Smith |
-
-### 3. Correction Request Process
-
-**If store cannot correct:**
-
-**Step 1:** Open ticket (Category: Data Correction)
-
-**Step 2:** Specify customer information
-- Customer ID
-- Incorrect field
-- Correct value
-- Evidence (if available)
-
-**Step 3:** CRM Headquarters reviews and corrects
-
-**Step 4:** Correction information sent to store
-
-
-## Common Issues & Solutions
-
-### Issue 1: Customer Changed Phone Number
-
-**Situation:** Registered with old number, searching with new number.
-
-**Solution:**
-1. Find record with old number
-2. Verify customer identity
-3. Update phone number
-4. Give customer confirmation
-
-
-### Issue 3: Suspected Duplicate Record
-
-**Situation:** Same customer coming with different numbers.
-
-**Solution:**
-1. Compare both records
-2. Get confirmation from customer
-3. Open merge request to CRM Headquarters
-4. Inform customer about the process
-
-
-## Store Tips
-
-### For Correct Data Entry
-
-| Do | Don't |
-|----|-------|
-| ✅ Confirm phone from customer | ❌ Don't guess |
-| ✅ Verify email letter by letter | ❌ Don't rush |
-| ✅ Search existing customer before registration | ❌ Don't directly create new record |
-| ✅ Leave empty instead of fake info | ❌ Don't accept aaa@aaa.com |
-| ✅ Report suspected duplicates | ❌ Don't ignore |
-
-### Data Quality Checklist
-
-**At Every Customer Registration:**
-- [ ] Is phone 10 digits and starts with 5?
-- [ ] Does email contain @ and .?
-- [ ] Is first/last name in correct format?
-- [ ] Is customer not already registered?
-- [ ] Were GDPR consents obtained?
-
-### Customer Approach
-
-**To get correct information:**
-> "We'll have a special surprise for you on your birthday, so it's important for me to get your date of birth correctly."
-
-> "I need to record your email address correctly so we can inform you about campaigns. Can you spell it out?"
-
-**If they don't want to provide:**
-> "Of course, that's entirely your choice. I'll leave that field empty."
-
-
-*This document was prepared by Aydınlı Group.*  
-*© 2025 Aydınlı Group - All rights reserved.*
-
-
-
-
----
-
-## SECTION 5: CRM-DO-AND-DONT-EN
-
-﻿---
-layout: default
-title: "CRM Do's and Don'ts"
-parent: CRM
-
-## Table of Contents
-
-1. [Purpose](#purpose)
-2. [Scope](#scope)
-3. [General Rules](#general-rules)
-4. [Customer Registration](#customer-registration)
-5. [Data Security and GDPR](#data-security-and-gdpr)
-6. [Customer Communication](#customer-communication)
-7. [Loyalty and Campaigns](#loyalty-and-campaigns)
-8. [Ticketing](#ticketing)
-9. [System Usage](#system-usage)
-10. [Responsibilities](#responsibilities)
-11. [Violation Consequences](#violation-consequences)
-12. [Revision History](#revision-history)
-
-
-## Scope
-
-### Who Does This Document Cover?
-
-| Role | Compliance Requirement |
-|------|------------------------|
-| Store Staff | Mandatory |
-| Store Manager | Mandatory + Oversight |
-| Regional Manager | Oversight |
-
-
-## Customer Registration
-
-### ✅ DO
-
-| Rule | Explanation |
-|------|-------------|
-| ✅ Search for existing customer before registration | To prevent duplicates |
-| ✅ Verify phone number | To prevent incorrect data |
-| ✅ Confirm email letter by letter | To prevent bounces |
-| ✅ Register with customer's consent | For GDPR compliance |
-| ✅ Leave blank if customer won't provide info | Instead of fake data |
-| ✅ Tell customer about welcome bonus | For satisfaction |
-
-### ❌ DON'T
-
-| Rule | Risk |
-|------|------|
-| ❌ Don't directly create new registration | Creates duplicates |
-| ❌ Don't guess phone numbers | Wrong person contacted |
-| ❌ Don't enter fake emails like aaa@aaa.com | Data quality drops |
-| ❌ Don't enter made-up birth dates | Wrong campaign sent |
-| ❌ Don't register without consent | GDPR violation |
-| ❌ Don't force customers to register | You'll lose customers |
-
-
-## Customer Communication
-
-### ✅ DO
-
-| Rule | Explanation |
-|------|-------------|
-| ✅ Ask every customer "Are you a member?" | For matching |
-| ✅ Remind points and coupons | For customer benefit |
-| ✅ Communicate campaigns correctly | For trust |
-| ✅ Listen to customer requests | For satisfaction |
-| ✅ Be professional and courteous | For brand image |
-| ✅ Take complaints seriously | For loyalty |
-
-### ❌ DON'T
-
-| Rule | Risk |
-|------|------|
-| ❌ Don't pressure customers | Customer loss |
-| ❌ Don't give wrong information | Trust loss |
-| ❌ Don't argue with customers | Reputation loss |
-| ❌ Don't give personal contact info | Professionalism |
-| ❌ Don't be condescending to customers | Complaint risk |
-| ❌ Don't blame other departments | Corporate image |
-
-
-## Ticketing
-
-### ✅ DO
-
-| Rule | Explanation |
-|------|-------------|
-| ✅ Record every complaint as a ticket | For tracking |
-| ✅ Select correct category and priority | For proper routing |
-| ✅ Write detailed description | For resolution |
-| ✅ Attach evidence/documents | For verification |
-| ✅ Give customer the ticket number | For tracking |
-| ✅ Pay attention to SLA times | For compliance |
-| ✅ Provide follow-up information | For customer satisfaction |
-
-### ❌ DON'T
-
-| Rule | Risk |
-|------|------|
-| ❌ Don't skip recording complaints | Lost tracking |
-| ❌ Don't leave tickets unanswered | SLA violation |
-| ❌ Don't select wrong category | Delays |
-| ❌ Don't open tickets with incomplete info | Solution delay |
-| ❌ Don't make unrealistic promises to customers | Trust loss |
-| ❌ Don't close tickets without resolution | Will be reopened |
-
-
-## Important Warnings
-
-### 🚨 STRICTLY PROHIBITED
-
-The following actions are **strictly prohibited** and subject to serious sanctions:
-
-| # | Action | Consequence |
-|---|--------|-------------|
-| 1 | Selling/sharing customer data | Contract termination + legal action |
-| 2 | Creating fake customer records | Discipline + financial liability |
-| 3 | Performing transactions with another's account | Disciplinary action |
-| 4 | Deleting/modifying system data | Contract termination |
-| 5 | Applying unauthorized discounts/coupons | Financial liability |
-| 6 | Hiding customer complaints | Disciplinary action |
-| 7 | GDPR violation | Legal sanction + compensation |
-
-
-## Violation Consequences
-
-### Violation Levels
-
-| Level | Example | Consequence |
-|-------|---------|-------------|
-| **Low** | Data format error | Warning + correction |
-| **Medium** | Repeated negligence | Written warning |
-| **High** | GDPR violation, data sharing | Disciplinary action |
-| **Critical** | Intentional abuse | Contract termination + legal action |
-
-### Violation Reporting
-
-When violation detected:
-1. Immediately inform store manager
-2. Preserve evidence
-3. Store manager reports to regional manager
-4. CRM Headquarters is informed
-
-
-## Revision History
-
-| Version | Date | Changes | Prepared by |
-|---------|------|---------|-------------|
-| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Group |
-
-
----
-
-## SECTION 6: CRM-LOYALTY-CAMPAIGNS-EN
+## SECTION 3: CRM-LOYALTY-CAMPAIGNS-EN
 
 ﻿---
 layout: default
@@ -1393,147 +659,477 @@ parent: CRM
 
 ---
 
-## SECTION 7: CRM-OVERVIEW-EN
+## SECTION 4: CRM-DASHBOARD-KPI-EN
 
 ﻿---
 layout: default
-title: "CRM Overview"
+title: "CRM Dashboard and KPI Guide"
 parent: CRM
-permalink: /crm/crm-overview-en/
 
 ## Table of Contents
 
-1. [Quick Reference (EN/TR Toggle)](#quick-reference-entr-toggle)
-2. [Purpose](#purpose)
-3. [Scope](#scope)
-4. [Definitions](#definitions)
-5. [Responsibilities](#responsibilities)
-6. [CRM System Architecture](#crm-system-architecture)
-7. [Data Flow](#data-flow)
+1. [Purpose](#purpose)
+2. [Scope](#scope)
+3. [Definitions](#definitions)
+4. [Responsibilities](#responsibilities)
+5. [CRM KPIs](#crm-kpis)
+6. [Dashboard Usage](#dashboard-usage)
+7. [Reporting Periods](#reporting-periods)
 8. [Common Issues & Solutions](#common-issues--solutions)
 9. [Store Tips](#store-tips)
 10. [Revision History](#revision-history)
 
 
-## Purpose
+## Scope
 
-This document defines the overall structure, objectives, and operation of the CRM (Customer Relationship Management) system for U.S. Polo Assn., Pierre Cardin, and Cacharel franchise stores under the Aydınlı Group umbrella.
+### Who Does This Document Cover?
 
-### CRM Vision
+| Role | Purpose of Use |
+|------|----------------|
+| Store Manager | Daily performance tracking |
+| Regional Manager | Regional performance analysis |
+| CRM Headquarters | Global performance and trend analysis |
+| Franchise Owner | Business results tracking |
 
-- Deliver a customer-centric retail experience
-- Manage customer data securely and efficiently
-- Optimize sales and marketing strategies based on customer behavior
-- Ensure consistent customer experience across the franchise network
+### Dashboard Types
 
-### CRM Objectives
-
-| Objective | Description |
-|-----------|-------------|
-| Customer Recognition | Uniquely identify each customer and track their purchase history |
-| Personalization | Provide customized communications and offers based on customer preferences |
-| Loyalty Enhancement | Strengthen customer loyalty through the loyalty program |
-| Data Quality | Maintain clean, accurate, and up-to-date customer data |
-| Compliance | Ensure full compliance with GDPR and data protection regulations |
-
-
-## Definitions
-
-### Core CRM Terms
-
-| Term | Definition |
-|------|------------|
-| **CRM** | Customer Relationship Management - A system for collecting, analyzing customer data, and managing customer relationships. |
-| **Customer Profile** | The complete set of demographic information, communication preferences, and purchase history belonging to a customer. |
-| **Loyalty Program** | A points/coupon-based reward system designed to increase customer loyalty. |
-| **Opt-in** | Customer's consent to receive marketing communications. Requires explicit consent under GDPR. |
-| **Opt-out** | Customer's request to unsubscribe from marketing communications. |
-| **Ticket** | A work unit where customer complaints, requests, or feedback are recorded in the system. |
-| **RFM Segment** | Customer segment created based on Recency, Frequency, Monetary analysis. |
-| **GDPR** | General Data Protection Regulation - European Union data protection law. |
-| **Duplicate** | Multiple records belonging to the same customer. |
-| **Merge** | The process of combining duplicate customer records into a single profile. |
-| **POS** | Point of Sale - Sales terminal. |
-| **Customer 360** | A screen presenting all customer interactions in a single view. |
-
-### Communication Permission Types
-
-| Permission Type | Description | Default |
-|-----------------|-------------|---------|
-| SMS Permission | Marketing messages via SMS | Disabled |
-| Email Permission | Marketing communications via email | Disabled |
-| Call Permission | Marketing calls via phone | Disabled |
-| Data Processing Permission | Processing of personal data (mandatory) | Required |
+| Dashboard | User | Content |
+|-----------|------|---------|
+| Store Dashboard | Store Manager | Store KPIs |
+| Regional Dashboard | Regional Manager | Regional summary |
+| Global Dashboard | CRM Headquarters | All stores |
+| Executive Dashboard | Senior Management | Summary metrics |
 
 
-## CRM System Architecture
+## Responsibilities
 
-### System Components
+### Store Manager
+
+| Task | Frequency |
+|------|-----------|
+| Daily KPI check | Every day |
+| Weekly performance review | Every Monday |
+| Low performance action plan | Immediately |
+| Share KPIs with team | Daily |
+
+### Regional Manager
+
+| Task | Frequency |
+|------|-----------|
+| Regional performance analysis | Weekly |
+| Store comparison | Weekly |
+| Best practice sharing | Continuous |
+| Reporting to headquarters | Monthly |
+
+
+#### Customer Match Rate
+
+**Definition:** Sales matched to registered CRM customers
+
+**Formula:**
+```
+Customer Match Rate % = (Matched Sales / Total Sales) × 100
+```
+
+**Target:** 75% and above
+
+
+#### New Customer Acquisition
+
+**Definition:** Number of new customers acquired during the period
+
+**Formula:**
+```
+New Customer Rate % = (New Customers / Total Customers with Sales) × 100
+```
+
+**Target:** 20-30% range (varies by sector and location)
+
+
+### 3. Customer Value KPIs
+
+#### Average Transaction Value (ATV)
+
+**Definition:** Average basket value
+
+**Formula:**
+```
+ATV = Total Sales Amount / Total Transaction Count
+```
+
+**Example Calculation:**
+- Total sales: 500,000
+- Total transactions: 1,000
+- ATV = 500,000 / 1,000 = **500**
+
+
+#### Customer Lifetime Value (CLV)
+
+**Definition:** Estimated lifetime revenue from a customer
+
+**Formula:**
+```
+CLV = Average Order Value × Annual Purchase Frequency × Customer Lifespan (years)
+```
+
+**Example Calculation:**
+- Average order: 500
+- Annual frequency: 4 times
+- Customer lifespan: 5 years
+- CLV = 500 × 4 × 5 = **10,000**
+
+
+#### Coupon Redemption Rate
+
+**Definition:** Rate of distributed coupons being used
+
+**Formula:**
+```
+Coupon Redemption % = (Coupons Used / Coupons Distributed) × 100
+```
+
+**Target:** 15-25% range
+
+
+### 5. Campaign KPIs
+
+#### Campaign Response Rate
+
+**Definition:** Campaign target audience participation rate
+
+**Formula:**
+```
+Response Rate % = (Campaign Participants / Target Audience) × 100
+```
+
+**Target:** 10-20% range
+
+
+### 6. Customer Acquisition KPIs
+
+#### Customer Acquisition Cost (CAC)
+
+**Definition:** Cost to acquire a new customer
+
+**Formula:**
+```
+CAC = Total Marketing Expense / Number of New Customers Acquired
+```
+
+**Example Calculation:**
+- Marketing expense: 50,000
+- New customers: 500
+- CAC = 50,000 / 500 = **100/customer**
+
+**Target:** Around 10-20% of CLV
+
+
+#### First Contact Resolution (FCR)
+
+**Definition:** Rate of tickets resolved on first contact
+
+**Formula:**
+```
+FCR % = (Resolved on First Contact / Total Tickets) × 100
+```
+
+**Target:** 60% and above
+
+
+## Dashboard Usage
+
+### Main Dashboard Components
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                      CRM CENTRAL SYSTEM                         │
+│                    CRM STORE DASHBOARD                           │
 ├─────────────────────────────────────────────────────────────────┤
-│  ┌───────────┐  ┌───────────┐  ┌───────────┐  ┌───────────┐    │
-│  │ Customer  │  │ Campaign  │  │ Loyalty   │  │ Ticketing │    │
-│  │ Database  │  │  Engine   │  │  Module   │  │  System   │    │
-│  └─────┬─────┘  └─────┬─────┘  └─────┬─────┘  └─────┬─────┘    │
-│        │              │              │              │           │
-│        └──────────────┴──────────────┴──────────────┘           │
-│                              │                                   │
-│                    ┌─────────┴─────────┐                        │
-│                    │   API Gateway     │                        │
-│                    └─────────┬─────────┘                        │
-└──────────────────────────────┼──────────────────────────────────┘
-                               │
-            ┌──────────────────┼──────────────────┐
-            │                  │                  │
-     ┌──────┴──────┐   ┌──────┴──────┐   ┌──────┴──────┐
-     │   POS #1    │   │   POS #2    │   │   POS #N    │
-     │   (Store)   │   │   (Store)   │   │   (Store)   │
-     └─────────────┘   └─────────────┘   └─────────────┘
+│                                                                 │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐             │
+│  │  LOYALTY    │  │   ACTIVE    │  │    ATV      │             │
+│  │  PENETR.    │  │  CUSTOMERS  │  │             │             │
+│  │    72%      │  │   12,450    │  │   485       │             │
+│  │   🟢 +2%    │  │   🟡 -1%    │  │   🟢 +5%    │             │
+│  └─────────────┘  └─────────────┘  └─────────────┘             │
+│                                                                 │
+│  ┌─────────────────────────────────────────────────────────┐   │
+│  │  Weekly Trend Graph                                     │   │
+│  │  ▄▄▄▅▅▅▆▆▇▇█                                            │   │
+│  └─────────────────────────────────────────────────────────┘   │
+│                                                                 │
+│  ┌─────────────────────────────────────────────────────────┐   │
+│  │  Open Tickets: 3    |    Pending Coupons: 45            │   │
+│  └─────────────────────────────────────────────────────────┘   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-### Integration Points
+### Dashboard Filters
 
-| System | Integration Type | Data Flow |
-|--------|------------------|-----------|
-| POS System | Bidirectional | Sales → CRM, Coupon → POS |
-| E-commerce | Bidirectional | Online sales → CRM |
-| SMS Gateway | Unidirectional | CRM → SMS |
-| Email Service | Unidirectional | CRM → Email |
-| Inventory Management | Unidirectional | Stock → CRM (product info) |
+| Filter | Options |
+|--------|---------|
+| Period | Today, This Week, This Month, This Year, Custom Date |
+| Brand | U.S. Polo Assn., Pierre Cardin, Cacharel, All |
+| Store | Single store, Region, All stores |
+| Segment | All customers, RFM segments |
 
+### Dashboard Reading Guide
 
-### Issue 2: Duplicate Customer Record
+**Card Structure:**
+- **Title:** KPI name
+- **Main Value:** Current performance
+- **Color:** Performance status
+- **Change:** Difference from previous period
 
-**Symptom:** Multiple profiles exist for the same customer.
-
-**Possible Causes:**
-- Registered with different phone numbers
-- Email registration vs phone registration
-- Manual entry errors
-
-**Solution:**
-1. Submit duplicate merge request to CRM Headquarters
-2. Note the customer's correct information
-3. Record new sales to the most recent profile
+**Trend Reading:**
+- ↑ Up arrow: Improvement
+- ↓ Down arrow: Decline
+- → Horizontal arrow: Stable
 
 
-### Issue 4: Coupon Not Working
+### Issue 2: Low Loyalty Penetration
 
-**Symptom:** Customer's coupon shows "not valid" error at POS.
+**Situation:** Penetration rate below target.
 
 **Possible Causes:**
-- Coupon has expired
-- Minimum cart value not met
-- Coupon already used
-- Product category outside coupon scope
+- Staff not matching customers
+- Insufficient new registration incentive
+- System usage difficulty
 
 **Solution:**
-1. Check coupon details in CRM
-2. Explain conditions to customer
-3. Suggest alternative campaign if available
+1. Set daily penetration target
+2. Explain importance of matching to staff
+3. Ensure customer query at every sale
+
+
+## Store Tips
+
+### Daily KPI Tracking
+
+1. **Morning:** Check dashboard, know your daily target
+2. **During day:** Monitor penetration rate
+3. **Evening:** Evaluate the day, plan for next day
+
+### KPI Improvement Tactics
+
+| KPI | Improvement Tactic |
+|-----|-------------------|
+| Penetration | Ask "Are you a member?" at every sale |
+| UPT | Suggest complementary products |
+| ATV | Suggest premium segment products |
+| Enrollment | Highlight benefits |
+| Redemption | Remind points balance |
+
+### Team Motivation
+
+- Share daily targets with team
+- Celebrate good performance
+- Provide support for low performance
+- Conduct weekly performance reviews
+
+
+*This document was prepared by Aydınlı Group.*  
+*© 2025 Aydınlı Group - All rights reserved.*
+
+
+
+
+---
+
+## SECTION 5: CRM-CUSTOMER-DATA-POLICY-EN
+
+﻿---
+layout: default
+title: "CRM Customer Data Policy (GDPR Compliant)"
+parent: CRM
+
+## Table of Contents
+
+1. [Purpose](#purpose)
+2. [Scope](#scope)
+3. [Definitions](#definitions)
+4. [Legal Basis](#legal-basis)
+5. [Responsibilities](#responsibilities)
+6. [Data Collection Principles](#data-collection-principles)
+7. [Consent Management](#consent-management)
+8. [Data Retention and Disposal](#data-retention-and-disposal)
+9. [Customer Rights](#customer-rights)
+10. [Process Steps](#process-steps)
+11. [Common Issues & Solutions](#common-issues--solutions)
+12. [Store Tips](#store-tips)
+13. [Revision History](#revision-history)
+
+
+## Scope
+
+### Who Does This Policy Cover?
+
+| Role | Responsibility |
+|------|----------------|
+| All Store Staff | Comply with data collection and processing rules |
+| Store Manager | Monitor policy compliance |
+| Regional Manager | Ensure regional compliance |
+| CRM Headquarters | Data management and security |
+| Data Protection Officer (DPO) | GDPR compliance oversight |
+
+### Covered Data
+
+| Data Category | Examples | Sensitivity |
+|---------------|----------|-------------|
+| **Identity Data** | Name, surname, national ID | High |
+| **Contact Data** | Phone, email, address | Medium |
+| **Purchase Data** | Sales history, preferences | Low |
+| **Financial Data** | Payment method (masked) | High |
+| **Demographic Data** | Date of birth, gender | Medium |
+| **Communication Preferences** | SMS/Email permissions | Low |
+
+
+## Legal Basis
+
+### Relevant Legislation
+
+| Legislation | Subject |
+|-------------|---------|
+| GDPR | General Data Protection Regulation (EU) |
+| Local Data Protection Laws | Country-specific regulations |
+| E-Commerce Regulations | Electronic communications |
+| Consumer Protection Laws | Customer rights |
+
+### Core Principles (GDPR Art. 5)
+
+1. **Lawfulness, fairness, and transparency**
+2. **Purpose limitation**
+3. **Data minimization**
+4. **Accuracy**
+5. **Storage limitation**
+6. **Integrity and confidentiality**
+7. **Accountability**
+
+
+## Data Collection Principles
+
+### Data That May Be Collected
+
+| Data | Purpose | Requirement |
+|------|---------|-------------|
+| First Name, Last Name | Customer identification | Required |
+| Mobile Phone | Communication, verification | Required |
+| Email | Communication, digital services | Recommended |
+| Date of Birth | Birthday campaigns | Optional |
+| Gender | Personalized service | Optional |
+| Address | Delivery services | Optional |
+
+### Data That Must NOT Be Collected
+
+The following data **must never be collected**:
+
+| Data Type | Description |
+|-----------|-------------|
+| Health information | Illness, medication use, etc. |
+| Religious belief | Religion, denomination |
+| Political opinion | Party membership, etc. |
+| Race/Ethnicity | Ethnic origin |
+| Biometric data | Fingerprint, facial recognition |
+| Criminal conviction | Criminal record |
+| Sexual life | Sexual preference |
+
+> ⚠️ **WARNING:** Asking for, recording, or processing this data is prohibited and subject to severe penalties.
+
+### Data Collection Rules
+
+1. **Collect only necessary data:** Don't collect data beyond purpose
+2. **Provide information:** Explain why data is collected
+3. **Obtain consent:** Document explicit consent
+4. **Verify:** Confirm accuracy of entered data
+5. **Keep secure:** Protect data from unauthorized access
+
+
+## Data Retention and Disposal
+
+### Retention Periods
+
+| Data Category | Retention Period | Basis |
+|---------------|------------------|-------|
+| Customer identity data | Customer relationship + 10 years | Commercial law |
+| Purchase history | 10 years | Tax regulations |
+| Communication consents | Consent withdrawal + 10 years | GDPR |
+| Complaint records | Resolution + 10 years | Commercial law |
+| Loyalty transactions | Last transaction + 5 years | Internal policy |
+
+### Disposal Methods
+
+| Method | Description | Application Area |
+|--------|-------------|------------------|
+| **Deletion** | Irretrievable deletion of data | Digital records |
+| **Destruction** | Physical destruction (shredding, burning) | Printed documents |
+| **Anonymization** | Making data non-identifiable | Analytics purposes |
+
+### Periodic Disposal
+
+- **Frequency:** Every 6 months
+- **Responsible:** CRM Headquarters
+- **Reporting:** Disposal report prepared
+
+
+## Process Steps
+
+### 1. Data Collection at New Customer Registration
+
+**Step 1:** Present privacy notice to customer
+
+**Step 2:** Confirm text has been read/understood
+
+**Step 3:** Obtain data processing consent (required)
+
+**Step 4:** Ask about marketing communication consents (optional)
+
+**Step 5:** Record consents in CRM
+
+**Step 6:** If physical form, have signed and archive
+
+**Step 7:** Inform the customer
+
+> ✅ **Correct:** "Dear customer, we need your consent to process your information to serve you better. This data will be protected under GDPR and used only to provide service. You can also opt-in to receive campaign updates."
+
+> ❌ **Wrong:** "Sign here" (without explanation)
+
+
+### 3. Erasure/Right to be Forgotten Request
+
+**Step 1:** Receive written application from customer
+
+**Step 2:** Open ticket (Category: GDPR Request)
+
+**Step 3:** Verify customer identity
+
+**Step 4:** Forward to CRM Headquarters
+
+**Step 5:** Check legal retention obligations
+
+**Step 6:** Delete data that can be deleted
+
+**Step 7:** Provide written response within 30 days
+
+> ⚠️ **Note:** Some data cannot be deleted due to legal obligations (e.g., invoice data must be kept for 10 years).
+
+
+### Issue 2: Customer Wants to Query Their Data
+
+**Solution:**
+1. Verify customer identity
+2. Extract customer data from CRM
+3. Deliver to customer in writing
+4. Get delivery acknowledgment
+
+
+### Issue 4: Suspected Data Breach
+
+**Solution:**
+1. Don't panic but act quickly
+2. Block unauthorized access
+3. Inform store manager
+4. Call CRM Headquarters
+5. Don't delete/change anything (evidence)
 
 
 ## Revision History
@@ -1545,154 +1141,244 @@ This document defines the overall structure, objectives, and operation of the CR
 
 ---
 
-## SECTION 8: CRM-STORE-CRM-CHECKLIST-EN
+## SECTION 6: CRM-DATA-QUALITY-EN
 
 ﻿---
 layout: default
-title: "Store CRM Checklist"
+title: "CRM Data Quality Management"
 parent: CRM
 
 ## Table of Contents
 
 1. [Purpose](#purpose)
 2. [Scope](#scope)
-3. [Daily Checklist](#daily-checklist)
-4. [Weekly Checklist](#weekly-checklist)
-5. [Monthly Checklist](#monthly-checklist)
-6. [Sales Process Checklist](#sales-process-checklist)
-7. [Customer Registration Checklist](#customer-registration-checklist)
-8. [Responsibilities](#responsibilities)
-9. [Store Tips](#store-tips)
-10. [Revision History](#revision-history)
+3. [Definitions](#definitions)
+4. [Responsibilities](#responsibilities)
+5. [Data Quality Principles](#data-quality-principles)
+6. [Data Validation Rules](#data-validation-rules)
+7. [Common Data Errors](#common-data-errors)
+8. [Correction Processes](#correction-processes)
+9. [Duplicate Management](#duplicate-management)
+10. [KPIs](#kpis)
+11. [Common Issues & Solutions](#common-issues--solutions)
+12. [Store Tips](#store-tips)
+13. [Revision History](#revision-history)
 
 
 ## Scope
 
-### Who Do These Checklists Cover?
+### Who Does This Document Cover?
 
-| Role | Usage |
-|------|-------|
-| Store Staff | Daily transaction controls |
-| Store Manager | Daily/weekly/monthly audits |
-| Regional Manager | Monthly compliance check |
+| Role | Responsibility |
+|------|----------------|
+| Store Staff | Enter data correctly |
+| Store Manager | Monitor data quality |
+| Regional Manager | Track regional data quality |
+| CRM Headquarters | Data cleansing and standardization |
+| IT Team | System validation rules |
 
+### Covered Data
 
-## Weekly Checklist
-
-### Monday - Week Start
-
-| # | Task | Responsible | Check |
-|---|------|-------------|-------|
-| 1 | Evaluate last week's performance | Store Manager | ☐ |
-| 2 | Set weekly targets | Store Manager | ☐ |
-| 3 | Hold performance meeting with team | Store Manager | ☐ |
-| 4 | Check new campaign announcements | Store Manager | ☐ |
-| 5 | Review data quality report | Store Manager | ☐ |
-
-### During the Week
-
-| # | Task | Responsible | Frequency | Check |
-|---|------|-------------|-----------|-------|
-| 1 | Check for duplicate suspicions | Store Manager | 2x/week | ☐ |
-| 2 | Audit data entry quality | Store Manager | 2x/week | ☐ |
-| 3 | Track ticket resolution status | Store Manager | Daily | ☐ |
-| 4 | Observe staff CRM usage | Store Manager | Continuous | ☐ |
-
-### Friday - Weekend
-
-| # | Task | Responsible | Check |
-|---|------|-------------|-------|
-| 1 | Evaluate weekly KPI performance | Store Manager | ☐ |
-| 2 | Escalate unresolved tickets | Store Manager | ☐ |
-| 3 | Prepare weekend campaigns | Store Manager | ☐ |
-| 4 | Send weekly report to regional manager | Store Manager | ☐ |
+| Data Field | Criticality | Validation Level |
+|------------|-------------|------------------|
+| Mobile Phone | High | Automatic + Manual |
+| Email | High | Automatic |
+| First/Last Name | High | Manual |
+| Date of Birth | Medium | Automatic |
+| Address | Low | Manual |
+| Gender | Low | Manual |
 
 
-## Sales Process Checklist
+## Responsibilities
 
-### Pre-Sale
+### Store Staff
 
-| # | Task | Check |
-|---|------|-------|
-| 1 | Is there an active session in CRM system? | ☐ |
-| 2 | Are you aware of current campaigns? | ☐ |
-| 3 | Is POS and CRM integration working? | ☐ |
+| Task | Detail | Frequency |
+|------|--------|-----------|
+| Correct entry | Enter customer information correctly | Every transaction |
+| Verification | Confirm entered data with customer | Every transaction |
+| Update | Update changed information | On request |
+| Reporting | Report incorrect data | Upon detection |
 
-### During Sale
+### Store Manager
 
-| # | Task | Check |
-|---|------|-------|
-| 1 | Was customer asked "Are you a member?" | ☐ |
-| 2 | Was customer searched by phone number? | ☐ |
-| 3 | If customer found, was matched to sale? | ☐ |
-| 4 | If customer not found, was new registration offered? | ☐ |
-| 5 | Was customer's active coupon checked? | ☐ |
-| 6 | Was points balance told to customer? | ☐ |
-| 7 | Was coupon/points usage asked? | ☐ |
-| 8 | Was applicable campaign applied? | ☐ |
+| Task | Detail | Frequency |
+|------|--------|-----------|
+| Audit | Check data entries | Weekly |
+| Training | Train staff on data quality | Continuous |
+| Correction | Correct detected errors | Immediately |
+| Reporting | Monitor data quality KPIs | Monthly |
 
-### New Customer Registration (If Needed)
+### CRM Headquarters
 
-| # | Task | Check |
-|---|------|-------|
-| 1 | Was existing customer searched first? | ☐ |
-| 2 | Were required fields entered correctly? (Name, Surname, Phone) | ☐ |
-| 3 | Is phone format correct? (5XXXXXXXXX) | ☐ |
-| 4 | Was email address verified? | ☐ |
-| 5 | Was GDPR privacy notice shown/read? | ☐ |
-| 6 | Was data processing consent obtained? | ☐ |
-| 7 | Were communication permissions asked and recorded? | ☐ |
-| 8 | Was registration completed successfully? | ☐ |
-
-### Post-Sale
-
-| # | Task | Check |
-|---|------|-------|
-| 1 | Were earned points told to customer? | ☐ |
-| 2 | Was information given about current campaigns? | ☐ |
-| 3 | If birthday is near, was it noted? | ☐ |
-| 4 | Was customer satisfaction asked? | ☐ |
+| Task | Detail | Frequency |
+|------|--------|-----------|
+| Bulk cleansing | Systematic data cleaning | Monthly |
+| Duplicate management | Merge duplicate records | Continuous |
+| Rule update | Update validation rules | As needed |
+| Analysis | Analyze data quality trends | Monthly |
 
 
-## Ticket Opening Checklist
+## Data Validation Rules
 
-| # | Task | Check |
-|---|------|-------|
-| 1 | Was customer identified in CRM? | ☐ |
-| 2 | Was correct category selected? | ☐ |
-| 3 | Was correct sub-category selected? | ☐ |
-| 4 | Was priority level set? | ☐ |
-| 5 | Is subject title descriptive? | ☐ |
-| 6 | Was description written in detail? | ☐ |
-| 7 | Was related sale/product added? | ☐ |
-| 8 | Were evidence/documents uploaded? (photo, receipt) | ☐ |
-| 9 | Was customer expectation noted? | ☐ |
-| 10 | Was ticket number given to customer? | ☐ |
+### Phone Number
+
+| Rule | Valid | Invalid |
+|------|-------|---------|
+| Format | 5XX XXX XXXX | 0532 123 4567 |
+| Length | 10 digits | 9 or 11 digits |
+| Start | Must start with 5 | Must not start with 0 |
+| Uniqueness | Must be unique | Must not be in another customer |
+
+**System Validation:**
+```
+✓ 5321234567 → Valid
+✗ 05321234567 → Invalid (11 digits)
+✗ 4321234567 → Invalid (doesn't start with 5)
+✗ 532123456 → Invalid (9 digits)
+```
+
+### Email Address
+
+| Rule | Valid | Invalid |
+|------|-------|---------|
+| Format | user@domain.com | user@domain |
+| @ symbol | Required | Cannot be missing |
+| Domain | Valid domain | test, asdf |
+| Uniqueness | Must be unique | Must not be in another customer |
+
+**Common Email Errors:**
+
+| Error | Example | Possible Correct |
+|-------|---------|------------------|
+| Special characters | john.smïth@email.com | john.smith@email.com |
+| Space | john smith@email.com | john.smith@email.com |
+| Missing domain | john@gmail | john@gmail.com |
+| Wrong domain | john@gmial.com | john@gmail.com |
+
+### First/Last Name
+
+| Rule | Correct | Wrong |
+|------|---------|-------|
+| Capitalization | John Smith | john smith |
+| Full name | John | J. |
+| No special chars | John Smith | John Smith!!! |
+| No numbers | John Smith | John123 |
+
+**Standard Format:**
+- First name: First letter uppercase, rest lowercase
+- Last name: First letter uppercase, rest lowercase
+- Multiple names: Each word's first letter uppercase
+
+### Date of Birth
+
+| Rule | Valid | Invalid |
+|------|-------|---------|
+| Format | DD/MM/YYYY | YYYY-MM-DD |
+| Age | Between 16-100 | 5 years or 120 years |
+| Future date | Not allowed | Future date |
+| Logical | Realistic | 01/01/1900 |
+
+
+## Correction Processes
+
+### 1. Store Level Correction
+
+**If customer requests:**
+
+**Step 1:** Verify customer identity
+
+**Step 2:** Find customer in CRM
+
+**Step 3:** Click "Edit" button
+
+**Step 4:** Correct the erroneous field
+
+**Step 5:** Save the change
+
+**Step 6:** Inform the customer
+
+### 2. Bulk Correction (CRM Headquarters)
+
+Bulk correction can be done for certain patterns:
+
+| Pattern | Correction |
+|---------|------------|
+| 05XXXXXXXXX | Remove leading 0 |
+| email@gmial.com | Correct to @gmail.com |
+| JOHN SMITH | Format to John Smith |
+
+### 3. Correction Request Process
+
+**If store cannot correct:**
+
+**Step 1:** Open ticket (Category: Data Correction)
+
+**Step 2:** Specify customer information
+- Customer ID
+- Incorrect field
+- Correct value
+- Evidence (if available)
+
+**Step 3:** CRM Headquarters reviews and corrects
+
+**Step 4:** Correction information sent to store
+
+
+## Common Issues & Solutions
+
+### Issue 1: Customer Changed Phone Number
+
+**Situation:** Registered with old number, searching with new number.
+
+**Solution:**
+1. Find record with old number
+2. Verify customer identity
+3. Update phone number
+4. Give customer confirmation
+
+
+### Issue 3: Suspected Duplicate Record
+
+**Situation:** Same customer coming with different numbers.
+
+**Solution:**
+1. Compare both records
+2. Get confirmation from customer
+3. Open merge request to CRM Headquarters
+4. Inform customer about the process
 
 
 ## Store Tips
 
-### Checklist Usage Tips
+### For Correct Data Entry
 
-1. **Check at the same time every day** - Create routine
-2. **Complete missing items immediately** - Don't postpone
-3. **Report issues instantly** - Don't accumulate
-4. **Share with team** - Everyone should know their responsibility
+| Do | Don't |
+|----|-------|
+| ✅ Confirm phone from customer | ❌ Don't guess |
+| ✅ Verify email letter by letter | ❌ Don't rush |
+| ✅ Search existing customer before registration | ❌ Don't directly create new record |
+| ✅ Leave empty instead of fake info | ❌ Don't accept aaa@aaa.com |
+| ✅ Report suspected duplicates | ❌ Don't ignore |
 
-### Critical Items for Success
+### Data Quality Checklist
 
-| Critical Item | Why Important |
-|---------------|---------------|
-| Customer matching | Affects Penetration KPI |
-| GDPR consent | Legal requirement |
-| Correct data entry | Affects data quality KPI |
-| Ticket tracking | Affects SLA compliance |
+**At Every Customer Registration:**
+- [ ] Is phone 10 digits and starts with 5?
+- [ ] Does email contain @ and .?
+- [ ] Is first/last name in correct format?
+- [ ] Is customer not already registered?
+- [ ] Were GDPR consents obtained?
 
-### Checklist Archiving
+### Customer Approach
 
-- Daily checklists: Keep for 1 month
-- Weekly checklists: Keep for 3 months
-- Monthly checklists: Keep for 1 year
+**To get correct information:**
+> "We'll have a special surprise for you on your birthday, so it's important for me to get your date of birth correctly."
+
+> "I need to record your email address correctly so we can inform you about campaigns. Can you spell it out?"
+
+**If they don't want to provide:**
+> "Of course, that's entirely your choice. I'll leave that field empty."
 
 
 *This document was prepared by Aydınlı Group.*  
@@ -1703,7 +1389,163 @@ parent: CRM
 
 ---
 
-## SECTION 9: CRM-STORE-USER-GUIDE-EN
+## SECTION 7: CRM-DO-AND-DONT-EN
+
+﻿---
+layout: default
+title: "CRM Do's and Don'ts"
+parent: CRM
+
+## Table of Contents
+
+1. [Purpose](#purpose)
+2. [Scope](#scope)
+3. [General Rules](#general-rules)
+4. [Customer Registration](#customer-registration)
+5. [Data Security and GDPR](#data-security-and-gdpr)
+6. [Customer Communication](#customer-communication)
+7. [Loyalty and Campaigns](#loyalty-and-campaigns)
+8. [Ticketing](#ticketing)
+9. [System Usage](#system-usage)
+10. [Responsibilities](#responsibilities)
+11. [Violation Consequences](#violation-consequences)
+12. [Revision History](#revision-history)
+
+
+## Scope
+
+### Who Does This Document Cover?
+
+| Role | Compliance Requirement |
+|------|------------------------|
+| Store Staff | Mandatory |
+| Store Manager | Mandatory + Oversight |
+| Regional Manager | Oversight |
+
+
+## Customer Registration
+
+### ✅ DO
+
+| Rule | Explanation |
+|------|-------------|
+| ✅ Search for existing customer before registration | To prevent duplicates |
+| ✅ Verify phone number | To prevent incorrect data |
+| ✅ Confirm email letter by letter | To prevent bounces |
+| ✅ Register with customer's consent | For GDPR compliance |
+| ✅ Leave blank if customer won't provide info | Instead of fake data |
+| ✅ Tell customer about welcome bonus | For satisfaction |
+
+### ❌ DON'T
+
+| Rule | Risk |
+|------|------|
+| ❌ Don't directly create new registration | Creates duplicates |
+| ❌ Don't guess phone numbers | Wrong person contacted |
+| ❌ Don't enter fake emails like aaa@aaa.com | Data quality drops |
+| ❌ Don't enter made-up birth dates | Wrong campaign sent |
+| ❌ Don't register without consent | GDPR violation |
+| ❌ Don't force customers to register | You'll lose customers |
+
+
+## Customer Communication
+
+### ✅ DO
+
+| Rule | Explanation |
+|------|-------------|
+| ✅ Ask every customer "Are you a member?" | For matching |
+| ✅ Remind points and coupons | For customer benefit |
+| ✅ Communicate campaigns correctly | For trust |
+| ✅ Listen to customer requests | For satisfaction |
+| ✅ Be professional and courteous | For brand image |
+| ✅ Take complaints seriously | For loyalty |
+
+### ❌ DON'T
+
+| Rule | Risk |
+|------|------|
+| ❌ Don't pressure customers | Customer loss |
+| ❌ Don't give wrong information | Trust loss |
+| ❌ Don't argue with customers | Reputation loss |
+| ❌ Don't give personal contact info | Professionalism |
+| ❌ Don't be condescending to customers | Complaint risk |
+| ❌ Don't blame other departments | Corporate image |
+
+
+## Ticketing
+
+### ✅ DO
+
+| Rule | Explanation |
+|------|-------------|
+| ✅ Record every complaint as a ticket | For tracking |
+| ✅ Select correct category and priority | For proper routing |
+| ✅ Write detailed description | For resolution |
+| ✅ Attach evidence/documents | For verification |
+| ✅ Give customer the ticket number | For tracking |
+| ✅ Pay attention to SLA times | For compliance |
+| ✅ Provide follow-up information | For customer satisfaction |
+
+### ❌ DON'T
+
+| Rule | Risk |
+|------|------|
+| ❌ Don't skip recording complaints | Lost tracking |
+| ❌ Don't leave tickets unanswered | SLA violation |
+| ❌ Don't select wrong category | Delays |
+| ❌ Don't open tickets with incomplete info | Solution delay |
+| ❌ Don't make unrealistic promises to customers | Trust loss |
+| ❌ Don't close tickets without resolution | Will be reopened |
+
+
+## Important Warnings
+
+### 🚨 STRICTLY PROHIBITED
+
+The following actions are **strictly prohibited** and subject to serious sanctions:
+
+| # | Action | Consequence |
+|---|--------|-------------|
+| 1 | Selling/sharing customer data | Contract termination + legal action |
+| 2 | Creating fake customer records | Discipline + financial liability |
+| 3 | Performing transactions with another's account | Disciplinary action |
+| 4 | Deleting/modifying system data | Contract termination |
+| 5 | Applying unauthorized discounts/coupons | Financial liability |
+| 6 | Hiding customer complaints | Disciplinary action |
+| 7 | GDPR violation | Legal sanction + compensation |
+
+
+## Violation Consequences
+
+### Violation Levels
+
+| Level | Example | Consequence |
+|-------|---------|-------------|
+| **Low** | Data format error | Warning + correction |
+| **Medium** | Repeated negligence | Written warning |
+| **High** | GDPR violation, data sharing | Disciplinary action |
+| **Critical** | Intentional abuse | Contract termination + legal action |
+
+### Violation Reporting
+
+When violation detected:
+1. Immediately inform store manager
+2. Preserve evidence
+3. Store manager reports to regional manager
+4. CRM Headquarters is informed
+
+
+## Revision History
+
+| Version | Date | Changes | Prepared by |
+|---------|------|---------|-------------|
+| 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Group |
+
+
+---
+
+## SECTION 8: CRM-STORE-USER-GUIDE-EN
 
 ﻿---
 layout: default
@@ -1904,6 +1746,164 @@ Standard points multiplier: Every 1 currency unit = 1 Point
 | Version | Date | Changes | Prepared by |
 |---------|------|---------|-------------|
 | 1.0 | Dec 01, 2025 | Initial version created | Aydınlı Group |
+
+
+---
+
+## SECTION 9: CRM-STORE-CRM-CHECKLIST-EN
+
+﻿---
+layout: default
+title: "Store CRM Checklist"
+parent: CRM
+
+## Table of Contents
+
+1. [Purpose](#purpose)
+2. [Scope](#scope)
+3. [Daily Checklist](#daily-checklist)
+4. [Weekly Checklist](#weekly-checklist)
+5. [Monthly Checklist](#monthly-checklist)
+6. [Sales Process Checklist](#sales-process-checklist)
+7. [Customer Registration Checklist](#customer-registration-checklist)
+8. [Responsibilities](#responsibilities)
+9. [Store Tips](#store-tips)
+10. [Revision History](#revision-history)
+
+
+## Scope
+
+### Who Do These Checklists Cover?
+
+| Role | Usage |
+|------|-------|
+| Store Staff | Daily transaction controls |
+| Store Manager | Daily/weekly/monthly audits |
+| Regional Manager | Monthly compliance check |
+
+
+## Weekly Checklist
+
+### Monday - Week Start
+
+| # | Task | Responsible | Check |
+|---|------|-------------|-------|
+| 1 | Evaluate last week's performance | Store Manager | ☐ |
+| 2 | Set weekly targets | Store Manager | ☐ |
+| 3 | Hold performance meeting with team | Store Manager | ☐ |
+| 4 | Check new campaign announcements | Store Manager | ☐ |
+| 5 | Review data quality report | Store Manager | ☐ |
+
+### During the Week
+
+| # | Task | Responsible | Frequency | Check |
+|---|------|-------------|-----------|-------|
+| 1 | Check for duplicate suspicions | Store Manager | 2x/week | ☐ |
+| 2 | Audit data entry quality | Store Manager | 2x/week | ☐ |
+| 3 | Track ticket resolution status | Store Manager | Daily | ☐ |
+| 4 | Observe staff CRM usage | Store Manager | Continuous | ☐ |
+
+### Friday - Weekend
+
+| # | Task | Responsible | Check |
+|---|------|-------------|-------|
+| 1 | Evaluate weekly KPI performance | Store Manager | ☐ |
+| 2 | Escalate unresolved tickets | Store Manager | ☐ |
+| 3 | Prepare weekend campaigns | Store Manager | ☐ |
+| 4 | Send weekly report to regional manager | Store Manager | ☐ |
+
+
+## Sales Process Checklist
+
+### Pre-Sale
+
+| # | Task | Check |
+|---|------|-------|
+| 1 | Is there an active session in CRM system? | ☐ |
+| 2 | Are you aware of current campaigns? | ☐ |
+| 3 | Is POS and CRM integration working? | ☐ |
+
+### During Sale
+
+| # | Task | Check |
+|---|------|-------|
+| 1 | Was customer asked "Are you a member?" | ☐ |
+| 2 | Was customer searched by phone number? | ☐ |
+| 3 | If customer found, was matched to sale? | ☐ |
+| 4 | If customer not found, was new registration offered? | ☐ |
+| 5 | Was customer's active coupon checked? | ☐ |
+| 6 | Was points balance told to customer? | ☐ |
+| 7 | Was coupon/points usage asked? | ☐ |
+| 8 | Was applicable campaign applied? | ☐ |
+
+### New Customer Registration (If Needed)
+
+| # | Task | Check |
+|---|------|-------|
+| 1 | Was existing customer searched first? | ☐ |
+| 2 | Were required fields entered correctly? (Name, Surname, Phone) | ☐ |
+| 3 | Is phone format correct? (5XXXXXXXXX) | ☐ |
+| 4 | Was email address verified? | ☐ |
+| 5 | Was GDPR privacy notice shown/read? | ☐ |
+| 6 | Was data processing consent obtained? | ☐ |
+| 7 | Were communication permissions asked and recorded? | ☐ |
+| 8 | Was registration completed successfully? | ☐ |
+
+### Post-Sale
+
+| # | Task | Check |
+|---|------|-------|
+| 1 | Were earned points told to customer? | ☐ |
+| 2 | Was information given about current campaigns? | ☐ |
+| 3 | If birthday is near, was it noted? | ☐ |
+| 4 | Was customer satisfaction asked? | ☐ |
+
+
+## Ticket Opening Checklist
+
+| # | Task | Check |
+|---|------|-------|
+| 1 | Was customer identified in CRM? | ☐ |
+| 2 | Was correct category selected? | ☐ |
+| 3 | Was correct sub-category selected? | ☐ |
+| 4 | Was priority level set? | ☐ |
+| 5 | Is subject title descriptive? | ☐ |
+| 6 | Was description written in detail? | ☐ |
+| 7 | Was related sale/product added? | ☐ |
+| 8 | Were evidence/documents uploaded? (photo, receipt) | ☐ |
+| 9 | Was customer expectation noted? | ☐ |
+| 10 | Was ticket number given to customer? | ☐ |
+
+
+## Store Tips
+
+### Checklist Usage Tips
+
+1. **Check at the same time every day** - Create routine
+2. **Complete missing items immediately** - Don't postpone
+3. **Report issues instantly** - Don't accumulate
+4. **Share with team** - Everyone should know their responsibility
+
+### Critical Items for Success
+
+| Critical Item | Why Important |
+|---------------|---------------|
+| Customer matching | Affects Penetration KPI |
+| GDPR consent | Legal requirement |
+| Correct data entry | Affects data quality KPI |
+| Ticket tracking | Affects SLA compliance |
+
+### Checklist Archiving
+
+- Daily checklists: Keep for 1 month
+- Weekly checklists: Keep for 3 months
+- Monthly checklists: Keep for 1 year
+
+
+*This document was prepared by Aydınlı Group.*  
+*© 2025 Aydınlı Group - All rights reserved.*
+
+
 
 
 ---
